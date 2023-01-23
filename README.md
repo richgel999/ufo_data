@@ -1,5 +1,4 @@
 JSON parse succeeded
-
 ## Event 0
 Date: 0's  
 Type: ufo sightings  
@@ -1247,6 +1246,7 @@ Description: First V-2 missile test at White Sands Pad 33, reaching 5.5km altitu
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 5.5km  
 
 ## Event 184
 Date: 4/20/1946  
@@ -1269,6 +1269,7 @@ Description: First nominal V-2 missile test at White Sands Pad 33, 112.6km altit
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 112.6km  
 
 ## Event 187
 Date: 5/13/1946  
@@ -1285,6 +1286,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 112.1km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 112.6km  
 
 ## Event 189
 Date: 6/13/1946  
@@ -1293,6 +1295,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 117.2km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 117.2km  
 
 ## Event 190
 Date: 6/28/1946  
@@ -1301,6 +1304,7 @@ Description: V-2 missile test at White Sands Pad 33, 107.8km altitude (nose sepa
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 107.8km  
 
 ## Event 191
 Date: 7/5/1946  
@@ -1317,6 +1321,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 134.4km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 134.4km  
 
 ## Event 193
 Date: 7/19/1946  
@@ -1325,6 +1330,7 @@ Description: Failed V-2 missile test at White Sands Pad 33, 4.8km altitude (oxyg
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 4.8km  
 
 ## Event 194
 Date: 7/30/1946  
@@ -1333,6 +1339,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 161.5km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 161.5km  
 
 ## Event 195
 Date: 8/15/1946  
@@ -1341,6 +1348,7 @@ Description: V-2 missile test at White Sands Pad 33, 6.4km altitude (Radio cut-o
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 6.4km  
 
 ## Event 196
 Date: 8/22/1946  
@@ -1349,6 +1357,7 @@ Description: V-2 missile test at White Sands Pad 33, 0km altitude (Control failu
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 0km  
 
 ## Event 197
 Date: 9/4/1946  
@@ -1371,6 +1380,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 173.8km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 173.8km  
 
 ## Event 200
 Date: 10/10/1946  
@@ -1379,6 +1389,7 @@ Description: First picture of Earth from space. V-2 missile test at White Sands 
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 104.6km  
 
 ## Event 201
 Date: 11/7/1946  
@@ -1387,6 +1398,7 @@ Description: V-2 missile test at White Sands Pad 33, .32km altitude (Guidance fa
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: .32km  
 
 ## Event 202
 Date: 11/21/1946  
@@ -1395,6 +1407,7 @@ Description: V-2 missile test at White Sands Pad 33, 101.4km altitude (Sub-norma
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 102.4km  
 
 ## Event 203
 Date: 12/5/1946  
@@ -1403,6 +1416,7 @@ Description: V-2 missile test at White Sands Pad 33, 152.9km altitude (Control s
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 152.9km  
 
 ## Event 204
 Date: 12/17/1946  
@@ -1411,6 +1425,7 @@ Description: V-2 missile test at White Sands Pad 33, 184.4km altitude (Rocket ex
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 184.4km  
 
 ## Event 205
 Date: 1947  
@@ -1472,6 +1487,7 @@ Description: V-2 missile test at White Sands Pad 33, 116.2km altitude (Degraded 
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 116.2km  
 
 ## Event 213
 Date: 1/23/1947  
@@ -1480,6 +1496,7 @@ Description: V-2 missile test at White Sands Pad 33, 49.9km altitude (Degraded p
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 49.9km  
 
 ## Event 214
 Date: 2/9/1947  
@@ -1495,6 +1512,7 @@ Description: V-2 missile test at White Sands Pad 33, 109.4km altitude (Blossom 1
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 109.4km  
 
 ## Event 216
 Date: 3/7/1947  
@@ -1503,6 +1521,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 165.2km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 165.2km  
 
 ## Event 217
 Date: 3/17/1947  
@@ -1517,6 +1536,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 129.2km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 129.2km  
 
 ## Event 219
 Date: 4/8/1947  
@@ -1525,6 +1545,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 102.2km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 102.2km  
 
 ## Event 220
 Date: 4/17/1947  
@@ -1533,6 +1554,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 142.4km altitude (S
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 142.4km  
 
 ## Event 221
 Date: 5/1/1947  
@@ -1549,6 +1571,7 @@ Location: White Sands Pad 33, White Sands Proving Grounds, NM
 Reference 1: [link](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf)  
 Reference 2: [link](https://www.ufoexplorations.com/of-roswell-and-rockets-v2-film)  
 Rocket Type: V-2  
+Rocket altitude: 135.2km  
 
 ## Event 223
 Date: 5/15/1947  
@@ -1578,6 +1601,7 @@ Description: V-2 missile test at White Sands Pad 33, 79.3km altitude (Hermes II 
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf)  
 Rocket Type: V-2  
+Rocket altitude: 79.3km  
 
 ## Event 227
 Date: 5/31/1947  
@@ -1765,6 +1789,7 @@ Description: V-2 missile test at White Sands Pad 33, 16.25km altitude (Early yaw
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 16.25km  
 
 ## Event 254
 Date: 7/10/1947  
@@ -1844,6 +1869,7 @@ Description: V-2 missile test at White Sands Pad 33, 160.7km altitude (Near vert
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 160.7km  
 
 ## Event 266
 Date: 8/1/1947  
@@ -1864,6 +1890,7 @@ Description: V-2 missile test from USS Midway reaches 1.5km (Operation Sandy. Ai
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 1.5km  
 
 ## Event 269
 Date: 9/18/1947  
@@ -1924,6 +1951,7 @@ Description: V-2 missile test at White Sands Pad 33, 156.1km altitude (Internal 
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 156.1km  
 
 ## Event 277
 Date: 10/18/1947  
@@ -1932,6 +1960,7 @@ Description: First Russian V-2 missile test at Kapustin Yar, 207km (Vehicle disi
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 207km  
 
 ## Event 278
 Date: 10/20/1947  
@@ -1940,6 +1969,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 231km (Deviated 181 kilom
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 231km  
 
 ## Event 279
 Date: 10/23/1947  
@@ -1948,6 +1978,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 29km (Observation of vehi
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 29km  
 
 ## Event 280
 Date: 10/28/1947  
@@ -1956,6 +1987,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 29km (Success)
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 29km  
 
 ## Event 281
 Date: 10/31/1947  
@@ -1964,6 +1996,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 2km (Started rolling afte
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 2km  
 
 ## Event 282
 Date: 11/2/1947  
@@ -1972,6 +2005,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 260km (Success)
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 260km  
 
 ## Event 283
 Date: 11/2/1947  
@@ -1980,6 +2014,7 @@ Description: Russian V-2 missile test at Kapustin Yar (2nd that day), 260km (Los
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 260km  
 
 ## Event 284
 Date: 11/4/1947  
@@ -1988,6 +2023,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 268km (Success)
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 268km  
 
 ## Event 285
 Date: 11/10/1947  
@@ -1996,6 +2032,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 24km (Control failure)
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 24km  
 
 ## Event 286
 Date: 11/13/1947  
@@ -2004,6 +2041,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 270km (Broke up upon re-e
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 270km  
 
 ## Event 287
 Date: 11/13/1947  
@@ -2012,6 +2050,7 @@ Description: Russian V-2 missile test at Kapustin Yar, 270km (Launched 5 hours a
 Location: Kapustin Yar  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket range: 270km  
 
 ## Event 288
 Date: 11/20/1947  
@@ -2020,6 +2059,7 @@ Description: V-2 missile test at White Sands Pad 33, 26.7km altitude (GE technol
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 26.7km  
 
 ## Event 289
 Date: 11/30/47  
@@ -2035,6 +2075,7 @@ Description: V-2 missile test at White Sands Pad 33, 104.6km altitude (Stable fl
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 104.6km  
 
 ## Event 291
 Date: 12/23/1947  
@@ -2094,6 +2135,7 @@ Description: V-2 missile test at White Sands Pad 33, 159.3km altitude (Payload s
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 159.3km  
 
 ## Event 299
 Date: 2/6/1948  
@@ -2102,6 +2144,7 @@ Description: V-2 missile test at White Sands Pad 33, 111km altitude (Successfull
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 111km  
 
 ## Event 300
 Date: 3/19/1948  
@@ -2110,6 +2153,7 @@ Description: V-2 missile test at White Sands Pad 33, 5.5km altitude (Low altitud
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 5.5km  
 
 ## Event 301
 Date: 3/25/1948  
@@ -2156,6 +2200,7 @@ Description: V-2 missile test at White Sands Pad 33, 144km altitude (Three previ
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 144km  
 
 ## Event 306
 Date: 4/5/1948  
@@ -2172,6 +2217,7 @@ Description: V-2 missile test at White Sands Pad 33, 56km altitude (Faulty steer
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 56km  
 
 ## Event 308
 Date: 4/30/1948  
@@ -2186,6 +2232,7 @@ Description: V-2 missile test at White Sands Pad 33, 127.3km altitude (Bumper 1 
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 127.3m  
 
 ## Event 310
 Date: 5/27/1948  
@@ -2194,6 +2241,7 @@ Description: V-2 missile test at White Sands Pad 33, 139.7km altitude (Steady fl
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 139.7  
 
 ## Event 311
 Date: 5/27/1948  
@@ -2202,6 +2250,7 @@ Description: V-2 missile test at White Sands Pad 33, 139.7km altitude (Steady fl
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 139.7  
 
 ## Event 312
 Date: 6/1948 (approximate)  
@@ -2217,6 +2266,7 @@ Description: V-2 missile test at White Sands Pad 33, 62.3km altitude (Blossom 2 
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 62.3  
 
 ## Event 314
 Date: 6/15/1948  
@@ -2278,6 +2328,7 @@ Description: V-2 missile test at White Sands Pad 33, 86.9km altitude (Turbine ov
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 86.9  
 
 ## Event 322
 Date: 8/3/1948  
@@ -2294,6 +2345,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, 165.7km altitude
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 165.7km  
 
 ## Event 324
 Date: 9/12/1948  
@@ -2309,6 +2361,7 @@ Description: V-2 missile test at White Sands Pad 33, 13.4km altitude (Bumper 2 F
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 13.4km  
 
 ## Event 326
 Date: 9/2/1948  
@@ -2317,6 +2370,7 @@ Description: V-2 missile test at White Sands Pad 33, 150.6km altitude (Vehicle b
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 150.6km  
 
 ## Event 327
 Date: 9/30/1948  
@@ -2325,6 +2379,7 @@ Description: V-2 missile test at White Sands Pad 33, 150.3km altitude (Bumper 3 
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 150.3km  
 
 ## Event 328
 Date: 10/1/1948  
@@ -2347,6 +2402,7 @@ Description: V-2 missile test at White Sands Pad 33, 4.8km altitude (Bumper 4 Ex
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 4.8km  
 
 ## Event 331
 Date: 11/18/1948  
@@ -2355,6 +2411,7 @@ Description: V-2 missile test at White Sands Pad 33, 145.3km altitude (First Her
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 145.3km  
 
 ## Event 332
 Date: 11/18/1948  
@@ -2370,6 +2427,7 @@ Description: V-2 missile test at White Sands Pad 33, 108.4km altitude (Vane fail
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 108.4km  
 
 ## Event 334
 Date: 11/23/1948  
@@ -2462,6 +2520,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 59.9km attitude (De
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 59.9km  
 
 ## Event 346
 Date: 1/31/1949  
@@ -2500,6 +2559,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, Reaches 100.6km att
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 100.6km  
 
 ## Event 351
 Date: 2/24/1949  
@@ -2508,6 +2568,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, Reaches 129km attit
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 129km  
 
 ## Event 352
 Date: 3/1949  
@@ -2523,6 +2584,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 133.5km attitude (B
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 133.5km  
 
 ## Event 354
 Date: 4/11/1949  
@@ -2531,6 +2593,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 87.2km attitude (De
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 87.2km  
 
 ## Event 355
 Date: 4/21/1949  
@@ -2539,6 +2602,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 49.9km attitude (Pr
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 49.9km  
 
 ## Event 356
 Date: 4/24/1949  
@@ -2554,6 +2618,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 8.85km attitude (Se
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 8.85km  
 
 ## Event 358
 Date: 5/11/1949  
@@ -2598,6 +2663,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 133.5km attitude (B
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 133.5km  
 
 ## Event 364
 Date: 8/29/1949  
@@ -2630,6 +2696,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 4.2km attitude (Blo
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 4.2km  
 
 ## Event 368
 Date: 9/23/1949  
@@ -2645,6 +2712,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, Reaches 150.8km att
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 150.8km  
 
 ## Event 370
 Date: 10/6/1949  
@@ -2683,6 +2751,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, Reaches 123.9km att
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 123.9km  
 
 ## Event 375
 Date: 12/8/1949  
@@ -2691,6 +2760,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, Reaches 130.3km att
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 130.3km  
 
 ## Event 376
 Date: 12/28/1949  
@@ -2805,6 +2875,7 @@ Description: Nominal V-2 missile test at White Sands Pad 33, Reaches 148.7km att
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 148.7km  
 
 ## Event 392
 Date: 3/8/1950  
@@ -2910,6 +2981,8 @@ Description: V-2 missile test at Cape Canaveral LC3, Reaches 16.1km attitude (Lo
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 16.1km  
+Rocket range: 320km  
 
 ## Event 406
 Date: 7/29/1950  
@@ -2918,6 +2991,8 @@ Description: V-2 missile test at Cape Canaveral LC3, Reaches 16.1km attitude (Lo
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 16.1km  
+Rocket range: 320km  
 
 ## Event 407
 Date: 8/1950  
@@ -2933,6 +3008,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 136.4km attitude (B
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 136.4km  
 
 ## Event 409
 Date: 8/1/1950  
@@ -2972,6 +3048,7 @@ Description: V-2 missile test at White Sands Pad 33, Reaches 8km attitude (Explo
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 8km  
 
 ## Event 414
 Date: 11/10/1950  
@@ -3043,6 +3120,7 @@ Description: V-2 missile test at White Sands Pad 33, 1.6km (Stalled on pad for 1
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 1.6km  
 
 ## Event 424
 Date: 2/10/1951  
@@ -3065,6 +3143,7 @@ Description: V-2 missile test at White Sands Pad 33, 3.1km (Blossom 8 — Three 
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 3.1km  
 
 ## Event 427
 Date: 4/27/1951  
@@ -3080,6 +3159,7 @@ Description: V-2 missile test at White Sands Pad 33, 0km (Exploded on pad at sta
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 0km  
 
 ## Event 429
 Date: 6/28/1951  
@@ -3088,6 +3168,7 @@ Description: V-2 missile test at White Sands Pad 33, 5.8km (Blossom 9 — Tail e
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 5.8km  
 
 ## Event 430
 Date: 7/9/1951  
@@ -3121,6 +3202,7 @@ Description: V-2 missile test at White Sands Pad 33, 213.4km (Army training test
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 213.4km  
 
 ## Event 434
 Date: 9/10/1951  
@@ -3178,6 +3260,7 @@ Description: V-2 missile test at White Sands Pad 33, 140.9km (Army training test
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 140.9km  
 
 ## Event 441
 Date: 1952?  
@@ -3240,6 +3323,7 @@ Description: V-2 missile test at White Sands Pad 33, 103.5km (Army training test
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 103.5km  
 
 ## Event 449
 Date: 6/4/1952  
@@ -3382,6 +3466,7 @@ Description: V-2 missile test at White Sands Pad 33, 78km (Army training test. T
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 78km  
 
 ## Event 468
 Date: 8/23/1952  
@@ -3405,6 +3490,7 @@ Description: V-2 missile test at White Sands Pad 33, 27km (Army training test. T
 Location: White Sands Pad 33, White Sands Proving Grounds, NM  
 Reference: [link](https://en.wikipedia.org/wiki/List_of_V-2_test_launches#Launches_of_captured_V-2_rockets_in_the_USA_after_1945)  
 Rocket Type: V-2  
+Rocket altitude: 27km  
 
 ## Event 471
 Date: 9/20/1952  
