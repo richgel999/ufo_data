@@ -1,4 +1,5 @@
 JSON parse succeeded
+
 ## Event 0
 Date: 0's  
 Type: ufo sightings  
@@ -79,6 +80,7 @@ End date: 4/18/1955
 Type: scientist  
 Description: Albert Einstein born  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)  
+Attribute 1: Einstein  
 
 ## Event 13
 Date: 1885  
@@ -136,6 +138,7 @@ Date: 9/6/1905
 Type: scientific advance  
 Description: Einstein’s Special Theory of Relativity paper published  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Special_relativity)  
+Attribute 1: Einstein  
 
 ## Event 22
 Date: 10/1/1908  
@@ -174,6 +177,7 @@ Date: 11/1915
 Type: scientific advance  
 Description: Einstein presents to the Prussian Academy of Science what are now known as the Einstein field equations, which form the core of Einstein’s General Theory of Relativity.  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/General_relativity)  
+Attribute 1: Einstein  
 
 ## Event 28
 Date: 11/11/1918  
@@ -322,6 +326,7 @@ Type: historical event
 Description: Einstein’s atomic bomb warning letter to President Roosevelt stating "it may be possible to set up a nuclear chain reaction in a large mass of uranium, by which vast amounts of power and large quantities of new radium-like elements would be generated. Now it appears almost certain that this could be achieved in the immediate future... This new phenomenon would also lead to the construction of bombs"  
 Location: Washington DC  
 Reference: [Wikipedia](https://www.atomicarchive.com/resources/documents/beginnings/einstein.html)  
+Attribute 1: Einstein  
 
 ## Event 49
 Date: 9/1/1939  
@@ -351,6 +356,7 @@ Date: 7/10/1940
 Type: historical event  
 Description: Einstein security clearance approved by the Office of Naval Intelligence, 16 days before the US Army G-2 turned him down.  
 Reference: [link](https://books.google.com/books?id=weECGK2rChcC&pg=PA41&lpg=PA41&dq=Einstein+cleared+by+the+Office+of+Naval+Intelligence+to+work+on+sub+warfare+and+high+explosives+projects&source=bl&ots=dOj5bHKA38&sig=ACfU3U29cLMN28JMmHEVhZ1yH_8cicl53w&hl=en&sa=X&ved=2ahUKEwjno9nW8a38AhUmF1kFHQ49BOcQ6AF6BAgFEAM#v=onepage&q=Einstein%20cleared%20by%20the%20Office%20of%20Naval%20Intelligence%20to%20work%20on%20sub%20warfare%20and%20high%20explosives%20projects&f=false)  
+Attribute 1: Einstein  
 
 ## Event 53
 Date: 1941  
@@ -465,6 +471,7 @@ Type: nuclear weapons
 Description: Einstein hired by USN to work on sub warfare/high explosives. Dr. Vannever Bush asks Einstein to consult for the OSRD, but apparently Einstein turned him down.  
 Location: Princeton, NJ  
 Reference: [link](https://books.google.com/books?id=weECGK2rChcC&pg=PA41&lpg=PA41&dq=Einstein+cleared+by+the+Office+of+Naval+Intelligence+to+work+on+sub+warfare+and+high+explosives+projects&source=bl&ots=dOj5bHKA38&sig=ACfU3U29cLMN28JMmHEVhZ1yH_8cicl53w&hl=en&sa=X&ved=2ahUKEwjno9nW8a38AhUmF1kFHQ49BOcQ6AF6BAgFEAM#v=onepage&q=Einstein%20cleared%20by%20the%20Office%20of%20Naval%20Intelligence%20to%20work%20on%20sub%20warfare%20and%20high%20explosives%20projects&f=false)  
+Attribute 1: Einstein  
 
 ## Event 69
 Date: 6/1943  
@@ -483,6 +490,7 @@ Date: 6/15/1943
 Type: scientist  
 Description: Einstein’s USN work announced in JTA Daily News Bulletin  
 Reference: [link](https://www.jta.org/archive/prof-einstein-working-on-explosives-for-u-s-navy-department)  
+Attribute 1: Einstein  
 
 ## Event 72
 Date: 7/1943  
@@ -497,6 +505,7 @@ End date: 3/31/1944
 Type: scientist  
 Description: Date range of Einstein’s USN pay stubs at National Archives.  
 Reference: [link](https://weare.guru/albert-einsteins-time-sheets/),[ link](https://longstreet.typepad.com/thesciencebookstore/2015/03/albert-einstein-part-time-civil-servant.html)  
+Attribute 1: Einstein  
 
 ## Event 74
 Date: 7/18/1943  
@@ -504,6 +513,7 @@ End date: 10/15/1944
 Type: scientist  
 Description: Einstein reports on his “explosives” work to USN  
 Reference: [link](https://books.google.com/books?id=weECGK2rChcC&pg=PA41&lpg=PA41&dq=Einstein+cleared+by+the+Office+of+Naval+Intelligence+to+work+on+sub+warfare+and+high+explosives+projects&source=bl&ots=dOj5bHKA38&sig=ACfU3U29cLMN28JMmHEVhZ1yH_8cicl53w&hl=en&sa=X&ved=2ahUKEwjno9nW8a38AhUmF1kFHQ49BOcQ6AF6BAgFEAM#v=onepage&q=Einstein%20cleared%20by%20the%20Office%20of%20Naval%20Intelligence%20to%20work%20on%20sub%20warfare%20and%20high%20explosives%20projects&f=false)  
+Attribute 1: Einstein  
 
 ## Event 75
 Date: 1944  
@@ -577,6 +587,7 @@ Type: UFO sightings
 Description: Harold Dahl sees 6 discs near Tacoma Harbor, WA. Drops metal residue.  
 Location: Maury Island, WA  
 Reference: Keziah Poster  
+Attribute 1: metals  
 
 ## Event 86
 Date: 6/24/1947  
@@ -786,6 +797,7 @@ Type: ufo sightings
 Description: UFO's detected by radar over Washington., D.C.  
 Location: Washington DC  
 Reference: Keziah Poster  
+Attribute 1: radar  
 
 ## Event 118
 Date: 7/29/1952  
@@ -818,6 +830,7 @@ Date: 8/19/1952
 Type: ce3 event  
 Description: J. D. Desvergers (scoutmaster) has contact with saucer. Is burned.  
 Reference: Keziah Poster  
+Attribute 1: injury  
 
 ## Event 123
 Date: 9/12/1952  
@@ -864,6 +877,7 @@ Type: ufo sighting
 Description: Two small boys see and take pic of UFO near Coniston, England.  
 Location: Coniston, England  
 Reference: Keziah Poster  
+Attribute 1: ufo photo  
 
 ## Event 130
 Date: 3/1954  
@@ -966,6 +980,7 @@ Type: ufo sighting
 Description: Michael Savage, Cal. takes pic of saucer.  
 Location: California  
 Reference: Keziah Poster  
+Attribute 1: ufo photo  
 
 ## Event 145
 Date: 1956  
@@ -973,6 +988,7 @@ Type: ufo sighting
 Description: E. R. Rayburn, Twin Falls, Idaho see saucer capture 400lbs steer from farm  
 Location: Twin Falls, Idaho  
 Reference: Keziah Poster  
+Attribute 1: cattle mutilation  
 
 ## Event 146
 Date: 8/29/1956  
@@ -994,6 +1010,7 @@ Type: ufo encounter
 Description: Pan American Airways Plane almost collides with UFO (NY to San Juan, P.R. run)  
 Location: New York  
 Reference: Keziah Poster  
+Attribute 1: aerospace  
 
 ## Event 149
 Date: 3/10/1957  
@@ -1001,6 +1018,7 @@ Type: ufo sighting
 Description: Pan American Airways Plane almost collides with UFO (NY to San Juan, P.R. run)  
 Location: New York  
 Reference: Keziah Poster  
+Attribute 1: aerospace  
 
 ## Event 150
 Date: 7/30/1957  
@@ -1433,6 +1451,8 @@ Type: rumor
 Description: Einstein sees "Greys" for the first time  
 Location: Roswell, NM  
 Reference: anonymous (channeled) information (R.G.)  
+Attribute 1: Einstein  
+Attribute 2: channeled  
 
 ## Event 206
 Date: 1945  
@@ -1504,6 +1524,7 @@ Type: scientist
 Description: Student and Einstein assistant Shirley J. Wright wins writing essay competition  
 Location: Coral Gables, FL  
 Reference: [link](https://github.com/richgel999/dr_shirley_wright)  
+Attribute 1: Einstein  
 
 ## Event 215
 Date: 2/20/1947  
@@ -1528,6 +1549,7 @@ Date: 3/17/1947
 Type: newspaper article  
 Description: Newspaper article stating Einstein “has helped many young students to find their directions”  
 Reference: [link](https://www.newspapers.com/clip/101810588/einstein-student/)  
+Attribute 1: Einstein  
 
 ## Event 218
 Date: 4/1/1947  
@@ -1609,18 +1631,22 @@ Type: newspaper article
 Description: Student and Einstein assistant Shirley J. Wright class photo in newspaper  
 Location: Coral Gables, FL  
 Reference: [link](https://github.com/richgel999/dr_shirley_wright/blob/main/miami_news_31_may_1947_diploma_pic.png)  
+Attribute 1: Einstein  
 
 ## Event 228
 Date: 6/1947  
 Type: majestic document  
 Description: Oppenheimer-Einstein Majestic Document on US Space Law, “Relationships with Inhabitants of Celestial Bodies”  
 Reference: [Majestic Document](https://majesticdocuments.com/pdf/oppenheimer_einstein.pdf)  
+Attribute 1: Einstein  
+Attribute 2: majestic  
 
 ## Event 229
 Date: 6/11/1947  
 Type: scientist  
 Description: Student and Einstein assistant Shirley J. Wright’s last day of high school (estimate)  
 Reference: [link](https://github.com/richgel999/dr_shirley_wright)  
+Attribute 1: Einstein  
 
 ## Event 230
 Date: 6/21/1947  
@@ -1628,6 +1654,7 @@ Type: ufo sighting
 Description: Maury Island Incident  
 Reference 1: [Medium](https://medium.com/@richgel99/so-whatever-happened-to-harold-a-dahl-of-the-1947-maury-island-incident-fb5a4cdb626e)  
 Reference 2: [link](https://medium.com/@richgel99/the-bsra-tested-fragments-from-the-maury-island-incident-cd20c2d14324)  
+Attribute 1: metals  
 
 ## Event 231
 Date: 6/24/1947  
@@ -1647,6 +1674,7 @@ Date: 7/1947
 Type: scientist  
 Description: Student and Einstein assistant Shirley J. Wright visits Princeton and studies under Einstein  
 Reference: [Bragalia](https://www.ufoexplorations.com/einsteins-secret-trip-to-view-roswell-ufo)  
+Attribute 1: Einstein  
 
 ## Event 234
 Date: 7/1/1947  
@@ -1796,6 +1824,7 @@ Date: 7/10/1947
 Type: scientist  
 Description: Estimated date student and Einstein assistant Shirley J. Wright accompanies Einstein to Roswell area. She was 17 years, 10 months, 21 days old.  
 Reference: [link](https://github.com/richgel999/dr_shirley_wright)  
+Attribute 1: Einstein  
 
 ## Event 255
 Date: 7/10/1947  
@@ -1828,6 +1857,7 @@ Type: majestic document
 Description: Alternate date for the organization of the MAJESTIC-12 group by General George C. Marshall. Established in order to study the crash debris from the Roswell-Magdalena area.  
 Reference: "Matrix 1", Valerian  
 See also: 9/24/1947  
+Attribute 1: Majestic  
 
 ## Event 260
 Date: 7/1947  
@@ -1906,6 +1936,7 @@ Description: Dr. Bronk’s team determines the recovered saucer from NM is a sho
 Reference 1: Pea Research (B1-A)  
 Reference 2: [link](https://coolinterestingstuff.com/the-facts-about-the-majestic-12-and-ufo-evidence)  
 See also: 11/30/47  
+Attribute 1: Majestic  
 
 ## Event 271
 Date: 9/23/47  
@@ -1925,18 +1956,21 @@ Reference 2: [link](https://coolinterestingstuff.com/the-facts-about-the-majesti
 See also 1: 2/15/87  
 See also 2: 9/4/87  
 See also 3: 7/47  
+Attribute 1: Majestic  
 
 ## Event 273
 Date: 9/28/47  
 Type: scientist  
 Description: Student and Einstein assistant Shirley J. Wright: Newspaper college freshman photo  
 Reference: [link](https://github.com/richgel999/dr_shirley_wright)  
+Attribute 1: Einstein  
 
 ## Event 274
 Date: 10/47  
 Type: scientist  
 Description: Article on student and Einstein assistant Shirley J. Wright receiving Barry Scholarship  
 Reference: [link](https://github.com/richgel999/dr_shirley_wright)  
+Attribute 1: Einstein  
 
 ## Event 275
 Date: 10/1/47  
@@ -2067,6 +2101,7 @@ Type: majestic document
 Description: In a Top Secret Document, Dr. Bronk’s scientific team classifies extraterrestrials as EBE’s (Extra Biological Entities).  
 Reference 1: Pea Research (B1-A)  
 Reference 2: [link](https://coolinterestingstuff.com/the-facts-about-the-majestic-12-and-ufo-evidence)  
+Attribute 1: Majestic  
 
 ## Event 290
 Date: 12/8/1947  
@@ -3337,6 +3372,7 @@ Date: 6/18/1952
 Type: majestic document  
 Description: EBE1 dies of unknown causes according to the Carter Aquarius document  
 Reference: [link](https://obscurantist.com/texts/396-2/)  
+Attribute 1: Majestic  
 
 ## Event 451
 Date: Summer 1952  
@@ -3546,6 +3582,7 @@ Description: MAJESTIC “Preliminary Briefing” document to President (elect) E
 Location: Washington DC  
 Reference 1: Pea Research (B1-A)  
 Reference 2: [link](https://cathyfox.wordpress.com/2021/03/22/mj4-majestic-dan-burisch-stargates-and-et/)  
+Attribute 1: Majestic  
 
 ## Event 478
 Date: 11/25/1952  
@@ -3594,6 +3631,7 @@ Date: 1953
 Type: majestic document  
 Description: Project xxxxxx (name censured) established by President Eisenhower and renamed Project AQUARIUS (1960, 1968)  
 Reference: Pea Research (AQUARIUS, B1-A)  
+Attribute 1: Majestic  
 
 ## Event 484
 Date: 1/20/1953  
@@ -3814,6 +3852,7 @@ Type: majestic document
 Description: Project SIGMA established as part of Project xxxx (name CENSURED). Top Secret project that looked into how to communicate with aliens. That projects existence was revealed in the PROJECT AQUARIUS Briefing Document and is said to have succeeded in 1964 when a USAF intelligence officer met two other aliens at a prearranged location in a desert in New Mexico. Became a separate project in 1976.  
 Location: US  
 Reference: Pea Research (B1-A, SIGMA)  
+Attribute 1: Majestic  
 
 ## Event 514
 Date: 1/1954  
@@ -3946,6 +3985,7 @@ Description: MJ-12 SSP briefing letter, briefing scheduled for July 16, 1954. ME
 Location: Washington DC  
 Reference 1: [link](https://cathyfox.wordpress.com/2021/03/22/mj4-majestic-dan-burisch-stargates-and-et/)  
 Reference 2: Pea Research (B1-A p84, majic)  
+Attribute 1: Majestic  
 
 ## Event 531
 Date: 7/16/1954  
@@ -4332,6 +4372,7 @@ Type: majestic document
 Description: Project SIGMA meets with success and establishes contact with Aliens.  
 Reference: Pea Research  
 See also: 4/15/64  
+Attribute 1: Majestic  
 
 ## Event 584
 Date: 1960  
@@ -4776,6 +4817,7 @@ Reference: Pea Research (B1-A)
 See also 1: 1953  
 See also 2: 12/69  
 See also 3: 1976  
+Attribute 1: Majestic  
 
 ## Event 644
 Date: 1/19/1968  
@@ -4813,6 +4855,7 @@ Date: 12/1969
 Type: majestic document  
 Description: Project xxxxxx (name censured) continues after Project BLUEBOOK is closed.  
 Reference: Pea Research (B1-A)  
+Attribute 1: Majestic  
 
 ## Event 649
 Date: 1/20/1969  
@@ -5040,6 +5083,7 @@ Description: Project SIGMA becomes an independent project from Project xxxxxxx.
 Location: US  
 Reference: Pea Research (B1-A, SIGMA)  
 See also: 1968  
+Attribute 1: Majestic  
 
 ## Event 680
 Date: 1/21/1976  
@@ -5106,6 +5150,7 @@ Type: ufo sighting
 Description: V. Alexeyev said that at some “unnamed” weapons test ranges when UFO’s appeared soldiers signaled, mostly in a physical way. The UFO’s responded by “compressing” their visual shape.  
 Location: Soviet Union  
 Reference: [link](https://www.amazon.com/RUSSIAS-ROSWELL-INCIDENT-Amazing-Former-ebook/dp/B06XD2BNXV)  
+Attribute 1: communication  
 
 ## Event 689
 Date: 9/1/1977  
@@ -5269,6 +5314,7 @@ Type: secret document
 Description: SECRET USAF OSI Document: Analysis of photo of UFO following C-5A aircraft inclusive. Photo analysis of Cylinder Shaped UFO legitimate. Photo E. showed legitimate disc shaped UFO of 37 ft. diameter with trilateral insignia on object. USAF still has an interest in all UFO sightings over installations and test ranges. Several other Government agencies, lead by NASA, actively investigate legitimate sightings through COVERT COVER. One agency that deceives the public which such covert cover is the UFO reporting center at U.S. Coast and Geodetic Survey, Rockville, MD. 20852. (The results of PROJECT AQUARIUS is still classified TOP SECRET with access limited to “MJ-12”.)  
 Location: US  
 Reference: Pea Research (B1-E p528)  
+Attributes: majestic  
 
 ## Event 712
 Date: 11/10/1980  
