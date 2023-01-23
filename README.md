@@ -6105,7 +6105,7 @@ Reference: [link](https://github.com/richgel999/uap_resources)
 
 ## Event 818
 Date: 5/13/2019  
-Type: interview  
+Type: death  
 Description: Ufologist and nuclear physicist Stanton T. Friedman dies age 84  
 Location: Toronto, Canada  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Stanton_T._Friedman)  
