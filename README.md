@@ -11,13 +11,13 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 Date: 1600's  
 Description: Significant sightings  
 Type: ufo sightings  
-Reference: Charles Fort  
+Reference: [Charles Fort](https://en.wikipedia.org/wiki/Charles_Fort)  
 
 ## Event 2
 Date: 1700's  
 Description: Significant sightings  
 Type: ufo sightings  
-Reference: Charles Fort  
+Reference: [Charles Fort](https://en.wikipedia.org/wiki/Charles_Fort)  
 
 ## Event 3
 Date: 1780's  
@@ -29,7 +29,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/History_of_Maxwell%27s_equa
 Date: 1800's  
 Description: Significant sightings  
 Type: ufo sightings  
-Reference: Charles Fort  
+Reference: [Charles Fort](https://en.wikipedia.org/wiki/Charles_Fort)  
 
 ## Event 5
 Date: 1825  
@@ -131,7 +131,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/X-ray)
 Date: 4/17/1897  
 Description: Aurora, TX: An “airship” crashed into Judge Proctor’s windmill and disgorged the mangled body of a little man.  
 Type: ufo crash  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Aurora, TX  
 
 ## Event 21
@@ -171,7 +171,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/World_War_I)
 Date: 5/24/1915  
 Description: The Allied Powers (Britain, France, and Russia) jointly issued a statement which for the first time ever explicitly charged a government, the Ottoman Empire, with committing a "crime against humanity" in reference to that regime's persecution of its Christian minorities, including Armenians, Assyrians and Greeks.  
 Type: historical event  
-Reference: [Wikipedia](https://en.wikipedia.org/wiki/Genocides_in_history_(World_War_I_through_World_War_II)#Ottoman_Empire  
+Reference: [Wikipedia](https://en.wikipedia.org/wiki/Genocides_in_history_(World_War_I_through_World_War_II)  
 
 ## Event 27
 Date: 11/1915  
@@ -209,7 +209,7 @@ Reference: [link](https://www.fcc.gov/media/radio/history-of-commercial-radio)
 Date: 1922  
 Description: County Donegal, Ireland: Irish Republic Army man, Lawrence Bradley, wrote to the editor of “Watfordand West-Hersts Post” magazine (4/30/64) that while he was fighting a scattered rear-guard, mostly in the mountains of Donegal, he came upon a cave with vegetation at the entrance that had been scorched. The only occupants in the cave were the sick and the wounded that had been unable to walk. The six able-bodied soldiers that were looking after them said they had been awakened early pre-dawn by a whirring noise outside of the cave and had fired their rifles in the direction of the noise, thinking that it was an armored car. Suddenly the object retaliated by firing jets of flame at the cave entrance. After near suffocation, the soldiers ran out to see the flame throwing UFO ascending into the sky. Clearly visible, it was circular in shape and glowing and of a shiny metal.  
 Type: UFO sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: County Donegal, Ireland  
 
 ## Event 33
@@ -363,7 +363,7 @@ Attributes: Einstein
 Date: 1941  
 Description: Charles Fort’s four famous books  
 Type: historical event  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Charles_Fort)  
 
 ## Event 54
@@ -399,7 +399,7 @@ Location: Los Angeles, CA
 Date: 2/26/1942  
 Description: Secret Memo to the President from Chief of Staff, C.G. Marshall stating: UFO's appeared over Los Angeles, CA, yesterday morning. The 37th Brigade (AA) expended 1430 rounds of ammunition against them. No bombs dropped, no casualties among our troops, no planes (UFOs) shot down, no AA or Navy planes were inaction. (AA Document, OCS 21347–86.)  
 Type: secret memo  
-Reference: Pea Research (B1-E p15,446)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p15,446)  
 Reference: [link](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)  
 Location: Washington DC  
 
@@ -515,7 +515,7 @@ Attributes: Einstein
 Date: 1944  
 Description: During WW2, E.L. (initials), serving as Carpenter Mate, 1st Class, Hqt. Co. 112th Construction Battalion, came across a landed saucer near a wooded ridge, near the beach of Kaneohe, Oahu, Hawaii. Description: 50 ft. diam.; metallic; looked like an igloo; topped with a clear glass dome about a foot high with agold colored weather vane-like device spinning inside.  
 Type: scientist  
-Reference: Pea Research (A5, B3-C)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C)  
 
 ## Event 75
 Date: 1944  
@@ -879,7 +879,7 @@ Rocket altitude: 0km
 Date: 9/4/1946  
 Description: Top Secret Memo, to Mr. Morgan, from Mr. Lyon stating: 800 UFO reports have been reported with new ones coming in daily from Sweden. Full details of these reports have been forwarded to Wash., D.C. by our Military and Naval Attaches  
 Type: top secret memo  
-Reference: Pea Research (B1-E p22,447)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p22,447)  
 Location: Sweden  
 
 ## Event 123
@@ -972,7 +972,7 @@ Attributes: channeled
 Date: 1/1947  
 Description: W.H. (initials) of Yucca Valley, Calif., while still serving in the U.S. Navy, was on leave with C.C. (initials) who was just out of the U.S. army. While they were looking for desert property to buy they came upon the Papagos Indian Reservation, north of the rugged Superstition Mtns. west of Globe, Arizona. While traveling on a dirt trail, they came upon a group of military personnel guarding a crashed saucer half buried in the sand. Description: Disc shaped with a domed top; about 30 ft. diam.; two rings on its outer edge which seemed to have windows between them. There was no evidence of an encampment or heavy equipment.  
 Type: crash retrieval  
-Reference: Pea Research (A5, B3-C, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C, RECOVERY)  
 Location: Papago Indian Reservation  
 
 ## Event 134
@@ -1143,7 +1143,7 @@ Attributes: metals
 Date: 6/24/1947  
 Description: A civilian pilot, Kenneth Arnold, reports seeing 9 flying saucers flying in formation at an altitude of 9200 feet and at almost 1700 mph. He estimated them to be 20 to 25 miles away from him and between 45 to 50feet long  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 
 ## Event 155
 Date: 6/24/1947  
@@ -1163,7 +1163,7 @@ Location: White Sands, NM
 Date: 7/1947  
 Description: Conclusion to an FBI/ARMY Intelligence Report: Based on a detailed study of the Kenneth Arnold case (6/24/47) and 15 other UFO encounters during the first month of the “flying saucer” mystery the conclusion is “this flying saucer situation is not all imaginary or seeing too much in some natural phenomenon. Something is really flying around.” (This report was declassified FOIA, 1976.)  
 Type: ufological event  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 6/24/47  
 See also: 9/23/47  
 
@@ -1195,7 +1195,7 @@ Location: Roswell, NM
 Date: 7/2/1947  
 Description: Magdalena, N.M.: Mr. Barnett sighted a shiny object out in the desert and, upon investigation, came upon a crashed disc-shaped object, 9 meters (30 ft.) across. Later a military truck arrived to supervise the investigation of the crash site. Barnett saw dead bodies strewn about the crash site. They weren’t wearing military uniforms, and in fact didn’t even look human. Seen from a distance, the bodies had on silvery suits and appeared to be about 3 ft. tall.  
 Type: ufo crash  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Magdalena, N.M.  
 
 ## Event 162
@@ -1251,7 +1251,7 @@ Location: Plains of San Agustin, NM
 Date: 7/7/1947  
 Description: Secret operation to recover a crashed saucer in NM 75 miles northwest of Roswell Army Air Base (RAAF)  
 Type: crash retrieval  
-Reference: Pea Research (crash)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (crash)  
 Location: Roswell, NM  
 
 ## Event 170
@@ -1279,14 +1279,14 @@ Location: Roswell, NM
 Date: 7/8/1947  
 Description: Intel. Officer Maj. Marcel reports Roswell Army Air Force captures a downed flying saucer near Roswell NM  
 Type: ufological event  
-Reference: Pea Research (B1-B, J2, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-B, J2, RECOVERY)  
 Location: Roswell, NM  
 
 ## Event 174
 Date: 7/8/1947  
 Description: FBI Dallas teletype to Director: flying saucer crashed and was recovered near Roswell NM  
 Type: teletype  
-Reference: Pea Research (B1-A, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A, RECOVERY)  
 Location: Dallas, TX  
 
 ## Event 175
@@ -1312,7 +1312,7 @@ Reference: [Newspapers.com](https://www.newspapers.com/clip/108417286/einstein-s
 Date: 7/8/1947  
 Description: Urgent FBI Memo from Gen. Roger Ramey concerning “flying disc information”: “Maj. Curtan, HQ 8th AF, telephonically advised this office that an object purporting to be a flying disc was recovered near Roswell, N.M., this date...Information provided this office because of national interest in case and fact that (certain media sources) attempting to break the story of location of disc today...(the recovered disc was) being transported to Wright Field by special plane for examination...Maj. Curtan advised would request Wright Field to advise (FBI) results of examination.”  
 Type: memo  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 7/2/47  
 See also: 7/7/47  
 
@@ -1336,7 +1336,7 @@ Attributes: Einstein
 Date: 7/10/1947  
 Description: FBI Memo: Gen. George F. Schulgen (Chief of the Air Intelligence Requirements Division) organizes top scientists to determine if the flying discs are indeed fact and whether or not they are a foreign body mechanically devised and controlled. He desired the assistance of the FBI in locating and questioning the individuals who first sighted the discs. Col. L. R. Forney of MID indicated that it has been established that the flying discs are not the result of any Army or Navy experiments and should be of interest to the FBI  
 Type: memo  
-Reference: Pea Research (B1-A p148)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p148)  
 Reference: [link](https://www.af.mil/About-Us/Biographies/Display/Article/2995977/george-francis-schulgen/)  
 
 ## Event 182
@@ -1349,7 +1349,7 @@ Reference: [Newspapers.com](https://www.newspapers.com/clip/106015905/einstein-s
 Date: 7/12/1947  
 Description: In a declassified statement, Kenneth Arnold points out why the unidentified discs he saw couldn’t have been mirages: “I observed these objects not only through the glass of my airplane but turned my airplane sideways where I could open my window and observe them with a completely unobstructed view (without sunglasses).”  
 Type: declassified statement  
-Reference: Pea Research (B1-G, p16)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-G, p16)  
 
 ## Event 184
 Date: 7/12/1947  
@@ -1361,14 +1361,14 @@ Reference: [Newspapers.com](https://www.newspapers.com/clip/106016511/dr-einstei
 Date: Mid 7/1947  
 Description: In a paper by U.S. Navy Physicist, Dr. Bruce Maccabee, he stated: “...the Air Force knew by the middle of July, 1947 that saucers were real Flying Saucers are REAL! and not manmade...the technology represented by the (recovered) disc...was so far beyond our own that it could not be understoodimmediately...Therefore it would be necessary to treat the disc as a military secret. This would mean containing all information about it within some small group.”  
 Type: ufological event  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 1/31/49  
 
 ## Event 186
 Date: 7/15/1947  
 Description: Memo to Mr. Ladd with a handwritten note from J. Edgar Hoover, Director of the FBI stating, ”...before agreeing (to the investigation of crashed saucers)...we must insist upon full access to discs recovered. For instance in the Soc. (Socorro, N.M.) case the Army grabbed it and would not let us have it for cursory examination.  
 Type: memo  
-Reference: Pea Research (B1-E, p541, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E, p541, RECOVERY)  
 
 ## Event 187
 Date: 7/24/1947  
@@ -1423,7 +1423,7 @@ Location: Langley, Virginia
 Date: 9/19/47  
 Description: Dr. Bronk’s team determines the recovered saucer from NM is a short range reconnaissance craft (from a mother ship)  
 Type: majestic document  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Reference: [link](https://coolinterestingstuff.com/the-facts-about-the-majestic-12-and-ufo-evidence)  
 Attributes: Majestic  
 See also: 11/30/47  
@@ -1444,7 +1444,7 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 Date: 9/23/47  
 Description: Secret Briefing Document to Brig. General George Schulgen, AC/AS-2, from Lt. Gen. Nathan F. Twining (MJ-4), Commanding Officer, AMC, stating: Flying Saucers are REAL! Concerning “Flying Discs” the phenomenon reported is something real, not fictitious. These objects approximate the shape of a disc and appear to be as large as man-made aircraft. They have operating characteristics such as extreme rate ofclimb and maneuverability. Under a Security Code Name copies of this information will be sent to Army, Navy, AEC, JRDB, SAG, NACA, RAND and NEPA Projects. (AAF Record, U-39552)  
 Type: secret briefing  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 7/47  
 See also: 9/15/50  
 See also: 8/54  
@@ -1453,7 +1453,7 @@ See also: 8/54
 Date: 9/24/47  
 Description: A covert operation, MAJESTIC-12, is established and classified Top Secret by President H.Truman. It consists of 12 persons selected to control all branches of government, both military and non-military. This ultimately led to silencing of UFO witnesses, confiscating of UFO photos, harassing and debunking of witnesses (and rumors of worse). (ref. “Black Budget”; JMP letter)  
 Type: majestic document  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Reference: [link](https://coolinterestingstuff.com/the-facts-about-the-majestic-12-and-ufo-evidence)  
 Attributes: Majestic  
 See also: 2/15/87  
@@ -1601,7 +1601,7 @@ Rocket altitude: 26.7km
 Date: 11/30/47  
 Description: In a Top Secret Document, Dr. Bronk’s scientific team classifies extraterrestrials as EBE’s (Extra Biological Entities).  
 Type: majestic document  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Reference: [link](https://coolinterestingstuff.com/the-facts-about-the-majestic-12-and-ufo-evidence)  
 Attributes: Majestic  
 
@@ -1632,7 +1632,7 @@ Date: 12/30/1947
 Description: Project SIGN formed to obtain information about saucer performance characteristics and their purpose on earth (with "2A" Security Classification at Wright-Patterson)  
 Type: ufological event  
 Reference: [Wikipedia link](https://en.wikipedia.org/wiki/Project_Sign)  
-Reference: Pea Research (B1-A, B1-G p23)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A, B1-G p23)  
 Location: Washington DC  
 
 ## Event 220
@@ -1646,7 +1646,7 @@ Location: Europe
 Date: 1948  
 Description: Capt. Virgil Armstrong Postlethwaite Captain of G-2 Air, received a Top Secret incoming TWX from 3rd Army Headquarters, Atlanta, directed to the Commanding General (with a copy sent to G-2), White Sands Proving Grounds. Message: Crash of a 100 ft. diam. saucer, 30 ft. ht.; one portal window blown; 5 Aliens suffocated; each Alien approx. 4 ft. in ht., oversized heads; hull of craft paper-thin but impenetrable by conventional tools. Private property purchased to facilitate movement of recovered disc. (Armstrong’s book confusingly indicated the craft landed inside the secure area of White Sands.)  
 Type: crash retrieval  
-Reference: Pea Research (A5, B3-C, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C, RECOVERY)  
 Reference: [Twitter](https://twitter.com/richgel999/status/1552547805369143296)  
 Location: White Sands Proving Grounds, NM  
 See also: 3/25/48  
@@ -1684,14 +1684,14 @@ Location: Godman Air Base, Kentucky
 Date: 1/7/1948  
 Description: Maysville, KN: The local Highway Patrol are notified that an UFO has been sighted high up in the sky and they notify Godman AFB of the sighting...At 1:45 pm T. Sgt. Quinton Blackwell visually scanned the skiessouth of Godman AFB and picked out a dim light in the hazy sky. By the time base commander Col. Guy Hixarrived at 2:20 pm the UFO looked like “an ice cream cone” through binoculars. About 20 minutes later 4 National Guard aircraft flew into the vicinity with Capt. Thomas Mantell in one of the F-51s.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Maysville, KN  
 
 ## Event 227
 Date: 1/7/1948  
 Description: Top Secret Report (100–203–79,p.12,sec. k.) Capt. Thomas Mantell, a Nat. Guard pilot, was killed trying to chase an UFO up to 30,000 ft. His last message to the tower was, “it appears to be metallic object....oftremendous size.directly ahead and slightly above....I am trying to close for a better look.” The F-51 exploded inmid-air and disintegrated before it struck the ground. The aircraft’s metal was hit with fragments before it collided with the ground. State Police estimated the saucer to be 250 ft. diam.  
 Type: ufological event  
-Reference: Pea Research (B1-E p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)  
 Location: Maysville, KN  
 
 ## Event 228
@@ -1723,7 +1723,7 @@ Rocket altitude: 111km
 Date: 2/13/1948  
 Description: Alternate date for Crash/Recovery at Aztec, N.M. 16 little human-like beings were found dead aboard a crashed saucer in NM.  
 Type: crash retrieval  
-Reference: Pea Research, ALIENS  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based), ALIENS  
 Location: Aztec, NM  
 See also: 3/25,1948  
 
@@ -1740,7 +1740,7 @@ Rocket altitude: 5.5km
 Date: 3/25/1948  
 Description: IPU Scout Team sights the object 12 miles NE of Aztec NM, radios back to HQ in Camp Hale, which relayed the message to General Marshall. Marshall orders head of IPU to conduct a recovery operation, Marshall contacts Dr. Vannevar Bush (director of the Research and Development Board) who organizes an impromptu scientific team. Team meets at Durango Airfield in Durano CO.  
 Type: crash retrieval  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Reference: [link](https://www.amazon.com/UFO-Crash-Aztec-Well-Secret/dp/093426905X)  
 Location: Aztec, NM  
 
@@ -1748,7 +1748,7 @@ Location: Aztec, NM
 Date: 3/25/1948  
 Description: Aztec area NM landing and retrieval incident near Hart Canyon. UFO detected by 3 strategically located radars in the southwest, including a powerful experimental radar in the Four Corners region. The Army OSI and the IPU put on Red Alert and the ADC activated the local military units when a UFO crashed in the vicinity of Aztec, NM. When the saucer got into range of a Special High-Powered radar at the Four Corners Range (Utah, Arizona, New Mexico, Colorado) it began to flutter and wobble from side-to-side and took a trajectory towards the ground. It seems that the beam from this special radar had an ill-effect on the control system of the saucer. The 100 ft. saucer crash-landed on Mr. H.D.’s (initials) property. H.D. and family were sworn to secrecy. Note: This may have been the White Sands 1948 incident mentioned by Virgil Armstrong.  
 Type: crash retrieval  
-Reference: Pea Research (B1-A p27, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p27, RECOVERY)  
 Reference: [book link](https://www.amazon.com/Aztec-UFO-Incident-Elaborate-Perplexing/dp/B01CPKBOUC)  
 Reference: [book link](https://www.amazon.com/UFO-Crash-Aztec-Well-Secret/dp/093426905X)  
 Reference: [book link](https://www.amazon.com/Behind-Flying-Saucers-Frank-Scully-ebook/dp/B00OEM62AC)  
@@ -1778,7 +1778,7 @@ Date: 4/5/1948
 Description: Top Secret Report (100–203–79, p.12,Sec. L.): 3 trained balloon observers from the Geophysics Lab, NJ spot UFO moving quickly undergoing “violent” maneuvers at high speed near Holloman AFB  
 Type: top secret report  
 Reference: [NICAP — Air Intelligence Report — ONI](http://www.nicap.org/docs/airintelrpt100-203-79.pdf)  
-Reference: Pea Research (B1-E p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)  
 Location: Holloman AFB  
 
 ## Event 238
@@ -1794,7 +1794,7 @@ Rocket altitude: 56km
 Date: 4/30/1948  
 Description: Top Secret Report (100–203–79, p.12,Sec. M.): Lt. Comdr. Marcus L. Lowe while on a flight observed a yellow or light colored sphere 25 to 40 ft. diam. moving at a speed of approx. 100 mph against wind  
 Type: top secret report  
-Reference: Pea Research (B1-E p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)  
 
 ## Event 240
 Date: 5/13/1948  
@@ -1843,7 +1843,7 @@ Rocket altitude: 62.3
 Date: 6/15/1948  
 Description: Top Secret Report (100–203–79,p.12,Sec.P-2): Mr. Booneville observed a reddish glow with a jet exhaust in the vicinity of Miles City, Montana. Made no sound, traveled at twice the speed of conventional aircraft  
 Type: ufo sighting  
-Reference: Pea Research (B1-E, p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E, p481)  
 Location: Miles City, MT  
 
 ## Event 246
@@ -1857,21 +1857,21 @@ Location: Kapustin Yar
 Date: 7/1/1948  
 Description: Top Secret Report (100–203–79, p.12,Sec. N.): Maj. Hammer, Rapid City Air Base, reported seeing 12 discs over the base. These disks were oval-shaped and about 100 ft. diam., speed in excess of 500 mph. Made 30 and 40 degree climbing turn, accelerating very rapidly out of sight  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)  
 Location: Ellsworth Air Force Base  
 
 ## Event 248
 Date: 7/17/1948  
 Description: Top Secret Report (100–203–79, p.12,Sec. O): Kirtland AFB reported 7 UFOs flying a “J” formation in the vicinity of San Acacia, N.M., at altitude of 20,000 ft. Formation varied from “J” to “L” to “O” after passing zenith. Est. speed 1500 mph  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)  
 Location: Kirtland Air Force Base  
 
 ## Event 249
 Date: 7/20/1948  
 Description: Top Secret Report (100–203–79,p.12,Sec.Q): A.D. Otter and his daughter Arnham, in the Netherlands, sight UFO similar to the UFO sighted on July 25, 1948, by two Eastern Airlines pilots  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)  
 Location: Netherlands  
 See also: 7/25/48  
 
@@ -1893,7 +1893,7 @@ Location: Montgomery, Alabama
 Date: 7/25/1948  
 Description: Top Secret Report (100–203–79,p.12,sec.Q): Two Eastern Airlines pilots reported seeing an object like a huge V-2 Rocket pass their jet. Sighted 4 times through scattered clouds and unlimited visibility, travelling at high speed and high altitude. Description: Appeared wingless, had two decks, and made a sound similar to that of a V-2.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)  
 Location: US  
 See also: 7/20/48  
 See also: 8/3/48  
@@ -1912,7 +1912,7 @@ Rocket altitude: 86.9
 Date: 8/3/1948  
 Description: Top Secret Report (100–203–79,p.12,Sec.R): UFO sighted over Moscow that is similar to the UFO sighted on July 25, 1948, by two Eastern Airlines pilots.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Moscow  
 See also: 7/25/48  
 
@@ -1947,7 +1947,7 @@ Rocket altitude: 150.6km
 Date: 9/12/1948  
 Description: Top Secret Report (100–203–79,p.12,Sec.P-1) Pilot and Co-pilot of a Pan Am aircraft en route from Midway to Honolulu, saw a blue-white light approaching, changing to twin reddish glows upon withdrawal. Est. speed: 1000 knots  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p481)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)  
 Location: Midway  
 
 ## Event 259
@@ -1970,14 +1970,14 @@ Location: Fargo, North Dakota
 Date: 10/1/1948  
 Description: Top Secret Report (100–203–79,p.12,Sec.S) 2nd Lt. George F. Gorman (North Dakota Air Nat. Guard), sighted a UFO 3000 ft. below him while he was flying his F-51 at 4500 ft. The pilot pursued the UFO which took evasive tactics. The UFO out-turned, out-speeded and out-climbed the F-51 in every attempt at intercept. The pilot lost contact with the UFO.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p481, B1-F p234, B1-G p28)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481, B1-F p234, B1-G p28)  
 Location: North Dakota  
 
 ## Event 262
 Date: 10/15/1948  
 Description: An F-61 “Black Widow” fighter tracked UFO on radar and tried to intercept it 6 times without success. It would speed up from 200 mph to 1200 mph, leaving the interceptor behind. Description: shaped like a rifle bullet and apparently 20 to 30 feet long  
 Type: ufo sighting  
-Reference: Pea Research (B1-F p235)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p235)  
 Location: Japan  
 
 ## Event 263
@@ -2009,21 +2009,21 @@ Rocket altitude: 145.3km
 Date: 11/18/1948  
 Description: Report from Project SIGN, incident ?207 in Blue Book files: at approx. 2200 hours, Lt. Henry G. Combs (AFRes) spotted an oval shaped UFO while flying in a T-6 plane. The UFO accelerated rapidly from 80mph to 500 or 600 mph. It remained under observation for some 10 minutes. The UFO displayed “evasive controlled tactics and an ability to perform tight circles, quick variation of air speed, vertical ascents and evasive movements.”  
 Type: report  
-Reference: Pea Research (B1-G p28, B1-F p236)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-G p28, B1-F p236)  
 Location: Andrews AFB  
 
 ## Event 267
 Date: 11/23/1948  
 Description: Wire Report from Germany to Project SIGN: Capt. (blank) is an experienced pilot and completely reliable. While flying an F-80 over a US Air Base in the Fursten-Feldbruck area of Germany, he had radar and visual contact with a circling red-lighted UFO at 2200 hours at 27,000 ft. Ground radar determined that it was going 900 mph and climbed quickly to 50,000 ft. in a matter of minutes and disappeared  
 Type: report  
-Reference: Pea Research (B1-F p237)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p237)  
 Location: Fürstenfeldbruck, Germany  
 
 ## Event 268
 Date: 12/1948  
 Description: Project SIGN evolves into Project GRUDGE and is conducted under the code name BLUE BOOK. The liaison between Project GRUDGE and MJ-12 is the Air Force officer in head of BLUE BOOK. (Capt. Ruppelt?)  
 Type: report  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Location: Dayton, OH  
 See also: 3/52  
 
@@ -2040,7 +2040,7 @@ Rocket altitude: 108.4km
 Date: 12/10/1948  
 Description: Top Secret Air Intelligence Report 100–203–79 issued  
 Type: top secret report  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dayton, OH  
 See also: 1/7/1948  
 See also: 11/1/1948  
@@ -2085,7 +2085,7 @@ Location: Dayton, OH
 Date: 1/6/1949  
 Description: Rocket shaped UFO sighted near Los Alamos, NM  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Los Alamos, NM  
 See also: 1/31/49  
 See also: 7/25/48  
@@ -2102,7 +2102,7 @@ Rocket type: V-2
 Date: 1/13/1949  
 Description: CONFIDENTIAL 4th Army MESSAGE: Col. Eustis L. Poland stated: “Unconventional Aircraft” have been sighted (see Report, Control No. A-1917). Possible Radiological warfare tests are being made over sensitive Bases in NM area. A foreign power may be making “sensing shots” with some super-stratosphere devise designed to be self-disintegrating.  
 Type: ufo sightings  
-Reference: Pea Research (B1-E p482)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p482)  
 Location: NM  
 
 ## Event 279
@@ -2118,7 +2118,7 @@ Rocket altitude: 59.9km
 Date: 1/31/1949  
 Description: MEMO, Director of FBI: Flying Saucers have been discussed by the OSI, FBI and the Fourth Army and is “considered TOP SECRET by Intelligence Officers of both the Army and the Air Forces.” It was thought that the first UFOs over Sweden were of Russian origin. Memo also makes reference to the Eastern Airlines sighting of July 25, 1948. Also, on 10 different days, between 12/05/48 and 01/06/49, sightings of UFOs were concentrated over the A.E.C. plant at Los Alamos, N.M. (Circulation of this Memo to: El Paso, Little Rock, Dallas, Oklahoma City)  
 Type: memo  
-Reference: Pea Research (B1-E p483, B1-G p30)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p483, B1-G p30)  
 Location: NM  
 See also: 7/25/48  
 See also: 7/47  
@@ -2128,21 +2128,21 @@ See also: 8/4/50
 Date: 1/31/1949  
 Description: Confidential Army Staff Message: Approx. 30 people sighted UFO’s on Jan. 30, 1949. Estimate at least 100 total sightings. Sightings reported from El Paso, Albuquerque, Alamogordo, Roswell, Socorro, and other locations. All sightings appear to be of the same object viewed from different angles. Will attempt to locate the impact point, if any. (Possible search teams in UFOs.)  
 Type: ufo sightings  
-Reference: Pea Research (B1-A p53, CRASH)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p53, CRASH)  
 Location: NM  
 
 ## Event 282
 Date: 2/1949  
 Description: Part of the Final Report of Project SIGN, written by Prof. George Valley, of MIT stating: “If there is an extraterrestrial civilization which can make objects as are reported, then it is most probable that its development is far in advance of ours. Such a civilization might observe that on earth we now have atomic bombs and are fast developing rockets. In view of the past history of mankind, they would be alarmed. We should, therefore, expect at this time above all to behold such visitations.”  
 Type: final report  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dayton, OH  
 
 ## Event 283
 Date: 2/4/1949  
 Description: CONFIDENTIAL Army Staff MESSAGE dated Jan. 31, 1949 read by OSI: “all out investigation of possible crashed saucer, OK’d.”  
 Type: confidential message  
-Reference: Pea Research (B1-A p53, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p53, RECOVERY)  
 
 ## Event 284
 Date: 2/11/1949  
@@ -2214,7 +2214,7 @@ Rocket altitude: 49.9km
 Date: 4/24/1949  
 Description: Arrey, NM: Aerologist Charles B. Moore, Jr., while tracking a weather balloon for General Mills Co. with a theodolite, suddenly noticed a UFO rapidly crossing the sky. He and 4 other technicians turned the 25 power theodolite to track the UFO. It was a featureless ellipse, its length about 2–1/2 times its width. After about 60 seconds the object disappeared in a sharp climb. Based on measurements with the mountain range behind it, it was calculated to be going between 18,000 mph and 25,000 mph (in the atmosphere!).  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Arrey, NM  
 
 ## Event 293
@@ -2258,14 +2258,14 @@ Location: Wright Patterson AFB, Dayton OH
 Date: 5/22/1949  
 Description: Secretary Forrestal (MJ-3) found dead after falling 16 floors from an insane asylum window, supposedly shouting, “we’re being invaded!” before he fell to his death. Some suspect he was murdered to silence him.  
 Type: historical event  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Location: Bethesda Naval Hospital, Bethesda, Maryland  
 
 ## Event 299
 Date: 6/10/1949  
 Description: White Sands, NM: Scientists tracking a test missile at 2k ft/second suddenly picked up two small circular UFOs that paced the missile. One of the UFO’s passed thru the missiles exhaust and rejoined the other UFO, and together they quickly accelerated upwards leaving the missile behind. Cmdr. McLaughlin received reports from 5 observation posts: ALL had witnessed the performance of the 2 circular UFOs.  
 Type: ufo sighting  
-Reference: Pea Research (B1-F p238)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p238)  
 Location: White Sands Proving Grounds, NM  
 
 ## Event 300
@@ -2470,7 +2470,7 @@ Reference: [Newspapers.com](https://www.newspapers.com/clip/115954706/car-dealer
 Date: 1/16/1950  
 Description: CLASSIFIED USAF Staff Message: At a radar station near New Mexico a person reported seeing 2 saucers. One was badly damaged the other almost perfectly intact. Description: Each consisted of 2 parts, a cockpit or cabin about 6 ft. diam.; a ring approx. 18 ft. across and 2 ft. thick surrounding cabin, resembling aluminum, but actual metal has defied analysis by the Dearborn Plant. Two crew members in the damaged ship were charred but in the undamaged ship the two crew members were perfectly preserved.  
 Type: classified staff message  
-Reference: Pea Research (B1-A p27, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p27, RECOVERY)  
 See also: 1/6/50  
 See also: 1/30/50  
 
@@ -2478,7 +2478,7 @@ See also: 1/30/50
 Date: 1/22/1950  
 Description: U.S. Navy patrol plane pilot, Lt. Smith, was on routine security flight when he picked up a radar track on an UFO, two times. Smith then radioed Kodiak radar station and was advised that no known traffic was in his radar area. Moored south of Kodiak was the USS Tillamook with Master Morgan standing on watch. Suddenly, at 3 a.m., “a very fast moving red glow appeared to be of exhaust nature, seemed to come from the south-east, moved clockwise in a large circle in the direction of, and around Kodiak and returned out in a generally south-east direction. The UFO was moving so fast that it was actually leaving a streak on Smith’s radarscreen. It was estimated to be moving at a speed of 1800 mph. Described as “two orange lights rotating about a common center like two jet aircraft making slow rolls in tight formation.” The UFO then made an abrupt turn and headed directly towards Smiths’ aircraft in a threatening gesture so Smith quickly turned off all of his lights turn make his plane less conspicuous in the inky colored sky. The UFO flew by him and disappeared in the south-east in a matter of minutes.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Kodiak, Alaska  
 
 ## Event 329
@@ -2493,7 +2493,7 @@ See also: 1/6/50
 Date: 1/31/1950  
 Description: Office MEMO, Director FBI, SAC, San Antonio: A UFO resembling a rocket ship without wings appeared out of a thunderhead of clouds narrowly missing an Eastern Airlines flight and disappeared into another cloud. It was traveling approx. 2700 mph and no sound or air disturbance was noted with it. During the past two months the UFO sightings appeared to be concentrated near Los Alamos, N.M. This UFO was also sighted near Los Alamos on Jan. 6, 1949.  
 Type: ufo sightings  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Los Alamos, NM  
 See also: 1/6/50  
 
@@ -2547,7 +2547,7 @@ Location: Aztec, NM
 Date: 3/22/1950  
 Description: FBI “Guy Hottel” Memo: 3 saucers recovered in NM (corroborating Frank Scully’s later book on 8/50). Description: Circular with raised centers, approx. 50 ft. diam. Each one occupied by 3 bodies, only 3 ft. tall, dressed in metallic suite, taped like high-speed flyers. It is believed that a very high powered Radar Station interfered with their control mechanisms, causing them to crash.  
 Type: memo  
-Reference: Pea Research (B1-A p116, B1-F p326, B1-E p527, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p116, B1-F p326, B1-E p527, RECOVERY)  
 Location: Washington DC  
 See also: 3/25/48  
 
@@ -2555,7 +2555,7 @@ See also: 3/25/48
 Date: 3/22/1950  
 Description: Dept. Transportation, Ottawa Canada, announces plans to build and test free energy geomagnetic engine. Also state that "Dr. Vannevar Bush heads highest secret saucer research group in the USA  
 Type: announcement  
-Reference: Pea Research (B1-A, B1-E p464)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A, B1-E p464)  
 Location: Ottawa, CA  
 
 ## Event 339
@@ -2671,14 +2671,14 @@ Location: US
 Date: 8/1/1950  
 Description: Gen. Walter B. Smith fills the vacant MJ-3 position.  
 Type: ufological event  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Location: Washington DC  
 
 ## Event 355
 Date: 8/4/1950  
 Description: CONFIDENTIAL MEMO: From Lt. Colonel Mildren (G-3) to Maj. U.G. Carlan (GSC Survey Section): Since July 30, 1950, UFO’s have been sighted over the Hanford AEC Plant. Air Force jets fails to intercept them. FBI, anti-aircraft battalion, radar units and fighter squadrons alerted for further observation. Atomic Energy Commission still investigating.  
 Type: ufo sightings  
-Reference: Pea Research (B1-E p485)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p485)  
 Location: Hanford, WA  
 
 ## Event 356
@@ -2694,7 +2694,7 @@ Rocket altitude: 136.4km
 Date: 9/15/1950  
 Description: In a conference between Canadian Wilbert Smith and Dr. Sarbacher (a consultant to the US Research and Development Board), scientist reveals Frank Scully’s 1950 "Behind the Flying Saucers" book is true and substantially correct, Flying Saucers exist, we haven’t been able to duplicate their performance, it’s pretty certain they didn’t originate on the earth, the subject is classified more highly than the H-bomb.  
 Type: conference  
-Reference: Pea Research (B1-E p519)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p519)  
 Location: Washington DC  
 See also: 9/23/47  
 See also: 1/26/53  
@@ -2703,7 +2703,7 @@ See also: 1/26/53
 Date: 10/6/1950  
 Description: Confidential Memo: Headquarters, 5th Army Division: John de Reneaux photographed the saucer which crashed near Aztec, N.M. He said that “army officials” had attempted to take the photographs away from him but that he had given them another roll of film. In a further interview with the 5th Headquarters, de Reneaux denied any knowledge of the Aztec crash.  
 Type: confidental memo  
-Reference: Pea Research (B1-A p117, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p117, RECOVERY)  
 Location: Fort Sam Houston, TX  
 See also: 3/25/1948  
 
@@ -2756,7 +2756,7 @@ Location: Richmond, Virginia
 Date: 12/6/1950  
 Description: A second flying saucer crashes in El Indio-Guerrero area. The saucer is recovered and taken to the AEC facility at Sandia, NM.  
 Type: crash retrieval  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Reference: [link](https://go.gale.com/ps/i.do?p=AONE&u=googlescholar&id=GALE|A16595647&v=2.1&it=r&sid=AONE&asid=c4b5e022)  
 Location: Guerrero, Mexico  
 
@@ -2806,7 +2806,7 @@ Rocket altitude: 1.6km
 Date: 2/10/1951  
 Description: Confidential Memo to Air Transport Squadron One: Lt. Graham E. Bethune, U.S. Naval Reserve reported seeing a circular, reddish-orange UFO flying at a speed in excess of 1000 mph, approx. 300 ft. diam. approaching and reversing direction within 5 miles of his plane (Flight 125 from Keflavik, Iceland.)  
 Type: ufo sighting  
-Reference: Pea Research (B1-E, p486)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E, p486)  
 Location: Keflavik, Iceland  
 
 ## Event 373
@@ -2861,7 +2861,7 @@ Rocket altitude: 5.8km
 Date: 7/9/1951  
 Description: Pilot Lt. Kinmon sees and reports an UFO.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Reference: [NICAP](http://www.nicap.org/chronos/1951fullrep.htm)  
 Location: Columbus, GA  
 See also: 7/10/1951  
@@ -2870,7 +2870,7 @@ See also: 7/10/1951
 Date: 7/10/1951  
 Description: Classified OSI Message from Robins AFB, Macon: UFO sighted by Lt. George H. Kinmon Jr. on July 9, 1951. Description: Flat on top and bottom and appeared from front view to have rounded edges, slightly beveled. Color was white. When it dived from its position it appeared circular with a clockwise spinning motion. Appeared to have a fractured surface. No exhaust fumes or visible means of propulsion. At an approx. distance from his plane the UFO appeared to be 10 to 15 feet in diam. UFO caused air disturbance as it barrel-rolled under his plane. His nose camera malfunctioned.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Reference: [NICAP](http://www.nicap.org/chronos/1951fullrep.htm)  
 Location: Macon, GA  
 
@@ -2895,7 +2895,7 @@ Rocket altitude: 213.4km
 Date: 9/10/1951  
 Description: CONFIDENTIAL Air Intel REPORT: Maj. Ballard and Lt. Rogers while flying at 20,000 ft. in a T-33 spotted a disc-shaped UFO the size of an F-86 flying below them at 8000 ft. It was travelling much faster than they were (900+ mph). It was steady in flight, with no visible means of propulsion and shiny silver in color. The radar station at Ft. Monmouth plotted the same UFO on radar at 1110 EDT flying above 700 mph. (p127 of Ruppelt’s book)  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p487)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p487)  
 Reference: [NICAP](http://www.nicap.org/chronos/1951fullrep.htm)  
 Location: Asbury, NJ  
 
@@ -2919,7 +2919,7 @@ Atomic KT: 38.3
 Date: 10/1951  
 Description: Project Grudge is on hold, Intelligence Officer Capt. Edward J. Ruppelt has been assigned to reshape the study and field mounting concern for the Pentagon.  
 Type: historical event  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dayton, OH  
 See also: 12/48  
 See also: 3/52  
@@ -2937,7 +2937,7 @@ Atomic KT: 41.2
 Date: 10/21/1951  
 Description: Air Intelligence Report: Mr. (name withheld), a civilian pilot of 14 years experience sighted a disk-like, highly polished UFO which closed head on with his Navy aircraft at an extremely high rate of speed near Battle Creek, MI.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Battle Creek, MI  
 
 ## Event 389
@@ -2953,7 +2953,7 @@ Rocket altitude: 140.9km
 Date: 1952?  
 Description: SECRET SECURITY INFORMATION: CIA, (not dated): Walter B. Smith, (MJ-3 replacement), Director of CIA notifies the Psychological Strategy Board that “Flying Saucers” have implications for psychological warfare as well as for intelligence and operations. Suggests discussion on the possible offensive or defensive utilization of these phenomena for psychological warfare purposes.  
 Type: secret information  
-Reference: Pea Research (B1-E p511)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p511)  
 Location: Langley, Virginia  
 See also: 10/2/52  
 
@@ -2968,7 +2968,7 @@ Location: Soviet Union
 Date: 3/1952  
 Description: Capt. Edward J. Ruppelt recommends a new name for Project Grudge, “Project Blue Book”.  
 Type: ufological event  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dayton, OH  
 See also: 12/48  
 See also: 10/51  
@@ -2985,14 +2985,14 @@ See also: 10/51
 Date: 4/25/1952  
 Description: UFO sighted flying over San Jose, CA, near Mt. Hamilton by two scientists, Dr. W (biochemist; name withheld) and Dr. Y (bacteriologist, name also withheld). Description of hovering disk: at about 50 ft. it appeared to be 4 to 5 ft. in diam. The wobble of the disk allowed them to estimate it’s thickness to be approx. 1.5ft. No sound or means of propulsion observed. Later they observed a higher flying silvery disc approx. 100 ft. in diam. Next to it more UFOs appeared and bobbed around like boats in a stream. The objects disappeared around 11:15 a.m. The two scientists decided not to report the incident to Moffett Field for fear of ridicule.  
 Type: ufo sighting  
-Reference: Pea Research (B1-F p241)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p241)  
 Location: San Jose, CA  
 
 ## Event 395
 Date: 5/10/1952  
 Description: RESTRICTED USAF Intelligence Report signed by Col. William L. Travis, Chief USAF Intelligence Division. stating: at 2030 hours, in the city of Paphos, S.W. Cypress, a group of persons including a noted British Scientist sighted an UFO which appeared to rise sharply from the level of the sea and disappeared into the sky. It was of a circular shape and emitted a luminous light. It appeared to waver back and forth before fading out of sight directly overhead.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p540)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p540)  
 Location: Paphos, Cypress  
 
 ## Event 396
@@ -3036,14 +3036,14 @@ Location: US
 Date: 6/4/1952  
 Description: RESTRICTED USAF Intelligence Report.  
 Type: intelligence report  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 5/10/1952  
 
 ## Event 402
 Date: 6/15/1952  
 Description: An intercept operation took place in Richmond, VA. An Air Force T-33 jet tried to intercept a “shiny sphere” south of Gordonsville. It was a “round, shiny object with a golden glow” above 35000 feet altitude. At 20:05 the jet lost sight of the UFO.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Gordonsville, VA  
 
 ## Event 403
@@ -3057,7 +3057,7 @@ Attributes: Majestic
 Date: Summer 1952  
 Description: While Operation INTERCEPT was in effect, two North American F-86 Operation INTERCEPT Sabre fighters were vectored onto a target UFO. The pilots had a broad daylight view of the UFO and fired tracer bullets at it before it accelerated out of range. The officer who fired the bullets was debriefed by his Colonel (name withheld) and the base commander told Capt. Ruppelt to destroy the report (according to Ruppelt himself).  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 7/52  
 
 ## Event 405
@@ -3090,7 +3090,7 @@ Location: Germany
 Date: 7/19/1952  
 Description: Washington, D.C.: Long range “overfly” RADAR picked up a formation of seven blips that were 15 miles south and not far from Andrews AFB. Radar operator, Ed Nugent, thought that they were military traffic until two of the targets suddenly accelerated at fantastic speeds and disappeared off the radar scope. These strange UFOs were monitored by Harry Barnes, Senior Controller, and controllers Howard Cocklin and Joe Zacko. Also, Andrews AFB had also been tracking the UFOs as they intruded over the White House which was Washington Air Space restricted air space. The UFOs were traveling at speeds of up to 7000 mph before stopping abruptly and then cruising about in unconventional patterns.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Washington DC  
 See also: 7/26/52  
 
@@ -3107,7 +3107,7 @@ Attributes: radar
 Date: 7/20/1952  
 Description: Classified Spot Intelligence Report (dated 7/23/52): 3 UFO spotted by 5 base personnel at Andrews AFB at 0030 hours EST. UFOs reddish orange in color, moving erratically at an undetermined altitude. Approach Control picked up another UFO at 0415 EST which was on the radar scope for 30 seconds before fading. Lt. Hyatt, Operations Officer during this period, said that he had been receiving “flying saucer” reports that evening and the objects had been picked up by radar.  
 Type: ufo sightings  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Andrews AFB  
 
 ## Event 412
@@ -3121,7 +3121,7 @@ Date: 7/23/1952
 Description: In an Air Mail reply from Dr. Einstein to Mr. Louis A. Gardner in LA, he said in regards to UFO's “Those people have seen something. What they saw I do not know, and I am not curious to know”.  
 Type: letter  
 Reference: [link](https://www.amazon.com/UFO-Crash-Aztec-Well-Secret/dp/093426905X)  
-Reference: Pea Research (B1-A p128)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p128)  
 Location: Los Angeles, CA  
 
 ## Event 414
@@ -3135,7 +3135,7 @@ Location: San Diego, CA
 Date: 7/26/1952  
 Description: Washington, DC: Long range “overfly” RADAR picks more blips, just one week after the previous invasion of restricted air space over Washington, D.C. Capt. Ruppelt told Maj. Dewey Fournet to get over to the airport in Washington. Fournet was a radar specialist with Project HOLCOMBE and arrived at the airport with Al Chop, AF Press Officer, just in time to see the UFO blips on the radar sets and to hear ground-to-air conversations of the pilots of two F-94s vectored towards the UFOs.  
 Type: letter  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Washington DC  
 
 ## Event 416
@@ -3155,7 +3155,7 @@ Location: Washington DC
 Date: 7/28/1952  
 Description: Personal Minute from Prime Minister W.S. Churchill to Secretary of xxxxxxx Air Ministry stating: What does all this stuff about Flying Saucers amount to? What can it mean? What is the truth? Let me have a report at your convenience.  
 Type: secret memo  
-Reference: Pea Research (B1-E p505, Churchhill)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p505, Churchhill)  
 Location: Britain  
 See also: 8/9/52  
 
@@ -3163,7 +3163,7 @@ See also: 8/9/52
 Date: End of 7/1952  
 Description: SECRET MEMO to Director, CIA, from H. Marshall Chadwell, Office of Scientific Intelligence stating: ATIC has set up a worldwide reporting network for Flying Saucers and major Air Force bases have been ordered to make INTERCEPTIONS of UFO’s. Battello Memorial Institute is to handle machine indexing of all official reported sightings. From 1947 to date, there have been 1500 official sightings with 250 of them in 1952 alone. Of the 1500, 28% remain UNEXPLAINED. UFO’s are of such importance that the matter should be brought before the National Security Council.  
 Type: secret memo  
-Reference: Pea Research (B1-E p31,506, war escalation)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p31,506, war escalation)  
 Location: Dayton OH  
 See also: 9/19/76  
 See also: 5/10/80  
@@ -3174,7 +3174,7 @@ See also: 9/4/87
 Date: 7/29/1952  
 Description: SECRET, EYES ONLY MEMO to Deputy Director/Intelligence from Ralph L. Clark, Acting Assistant Director of Scientific Intelligence stating: In the past several weeks numerous UFOs have been sighted visually and on RADAR. This office (CIA) has maintained a continuing review of reputed sightings for the past three years and a special group has been formed to review the sightings to date. O/CI and O/SI will participate in this study and prepare a report on UFOs by August 15, 1952.  
 Type: secret memo  
-Reference: Pea Research (B1-E p505)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p505)  
 Location: Britain  
 
 ## Event 421
@@ -3195,14 +3195,14 @@ Location: Michigan
 Date: End of 8/1/1952  
 Description: CIA Memo from acting Chief of Weapons and Equipment Division: “It is strongly urged, however, that no indication of CIA interest or concern reach the press or public.”  
 Type: secret memo  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Langley, Virginia  
 
 ## Event 424
 Date: 8/9/1952  
 Description: Reply from Air Ministry, Whitehall, S.W. to W.S. Churchill stating: All UFO sightings are either astronomical phenomena, mistaken sightings of balloons, birds, etc., optical illusions or hoaxes. The Americans have reached a similar conclusion.  
 Type: secret memo  
-Reference: Pea Research (B1-E p449)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p449)  
 Location: Britain  
 See also: 7/28/52  
 
@@ -3210,7 +3210,7 @@ See also: 7/28/52
 Date: 8/16/1952  
 Description: CIA analysis report of a Vienna news article of a UFO report from the Belgian Congo: Commander Pierre of Elisabethville Airfield was sent out to intercept two Flying Saucers. They had a diam. of 12 to 15 meters with a stationary central hub with visible portholes and an extremely fast rotating outer disk that glowed as if on fire. Color similar to aluminum. They emitted a loud whistling sound which could be heard over his own engines. He estimated their speed at over 1500 kilometers/hour.  
 Type: report  
-Reference: Pea Research (B1-E p512)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p512)  
 Location: Langley, Virginia  
 
 ## Event 426
@@ -3224,7 +3224,7 @@ Attributes: injury
 Date: 8/20/1952  
 Description: Memorandom for Director CIA: the DCI, after a briefing by OSI on the subject of UFOs, directed the preparation of an NSCID for submission to the Council stating the need for investigation and directing agencies concerned to cooperate in such investigations. It was decided that Dr. Whitman, chairman of P&DB, would investigate undertaking R&D studies through Air Force agencies. Signed: H. Marshall Chadwell. (See continuation of this briefing.)  
 Type: memorandom  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Langley, Virginia  
 See also: 11/25/52  
 
@@ -3241,7 +3241,7 @@ Rocket altitude: 78km
 Date: 8/23/1952  
 Description: CIA analysis report of an Athens news article of an UFO landing in Communist Berlin, Germany: Former Mayor of Gleimershausen, Oscar Linke and his 11 year old daughter, Gabriella, spotted a landed Flying Saucer near the town of Hasselbach. The huge “frying pan” was approx. 13 to 15 meters in diameter and had two rows of holes on its periphery, about 30 centimeters in circumference. The space between the two rows was about 0.45 meters. On top was a black conical object about 3 meters high. Two men dressed in shiny metallic clothing were standing outside the craft. Upon hearing my daughters voice the two men retreated into the UFO which then began to rotate. As the UFO began to spin the conical tower slid down into the UFO and the UFO began to rise and rotate like a top. It seemed to be supported by the conical tower that was now underneath it. (More details were included in report, see 02/23/55, See also the movie “Earth vs. the Flying Saucers”)  
 Type: report  
-Reference: Pea Research (B1-E p513)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p513)  
 Location: Langley, Virginia  
 See also: 2/23/1955  
 
@@ -3256,7 +3256,7 @@ Location: Sutton, West Virgina
 Date: 9/14/1952  
 Description: Iceland, North Atlantic, between Ireland and Iceland. Witnesses: military persons from several countries aboard ships in the NATO “Operation Mainbrace” exercise. Among the sightings: one blue-green triangle was observed flying 1,500 mph; three objects in a triangular formation gave off white light exhaust at 1,500 mph  
 Type: report  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: North Atlantic  
 
 ## Event 432
@@ -3272,7 +3272,7 @@ Rocket altitude: 27km
 Date: 9/20/1952  
 Description: An UFO similar to the Topcliffe one (see 9/19/52) is sighted over a U.S. Carrier ship out with the fleet between England and Scandinavia. An American photographer doing a story of the fleet exercise took pictures of the UFO which was ascertained not to have been a balloon. The Navy never released the photos of the UFO.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Between England and Scandinavia  
 See also: 9/19/52  
 
@@ -3280,7 +3280,7 @@ See also: 9/19/52
 Date: 9/20/1952  
 Description: Air Ministry, London: A number of airmen and officers of the R.A.F., Topcliffe, observed an UFO. As it descended it was swinging in a pendular motion like a falling leaf. Pendulous motion ceased and object began rotary motion about its own axis. Suddenly accelerated at an incredible speed. (9/19/52, cont’d) It was not identifiable with any known aircraft and acceleration was in excess of that of a shooting star! Craft was silver in color and circular. (Operation Mainbrace)  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p31,450, B1-G p43)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p31,450, B1-G p43)  
 Location: North Yorkshire, England  
 See also: 9/20/1952  
 
@@ -3288,7 +3288,7 @@ See also: 9/20/1952
 Date: 9/21/1952  
 Description: Six RAF jets on maneuvers over the North Sea saw a “sphere” heading towards them, coming from the direction of the English fleet. It was tracked on radar then disappeared and reappeared behind them. One Meteor pilot attempted an intercept but was completely outrun by the UFO. Capt. Ruppelt was later told by RAF Intelligence that the incidents of the past three days caused the RAF to officially recognize the UFO situation.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: North Sea  
 See also: 7/52  
 See also: 6/24/53  
@@ -3297,7 +3297,7 @@ See also: 6/24/53
 Date: 10/2/1952  
 Description: SECRET MEMO to Director CIA from H. Marshall Chadwell, Assistant Director of Scientific Intelligence: ATIC is the only group devoting appreciable effort to the study of UFOs. Flying Saucers pose two elements of danger to the United States. The first involves mass psychological considerations and the second concerns vulnerability of the U.S. to air attack. Recommend that the DCI discuss this subject with the Psychological Strategy Board.  
 Type: secret memo  
-Reference: Pea Research (B1-E p509)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p509)  
 Location: Langley, VA  
 See also: 11/25/1952  
 
@@ -3305,7 +3305,7 @@ See also: 11/25/1952
 Date: 10/27/1952  
 Description: Air Intelligence Memo: “Some military officials are seriously considering the possibility of (UFOs being) interplanetary ships.”  
 Type: secret memo  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dayton, OH  
 
 ## Event 438
@@ -3319,7 +3319,7 @@ Location: Fort Meade, Maryland
 Date: 11/18/1952  
 Description: MAJESTIC “Preliminary Briefing” document to President (elect) Eisenhower from Admiral Roscoe H. Hillenkoetter (MJ-1)  
 Type: majestic document  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Reference: [link](https://cathyfox.wordpress.com/2021/03/22/mj4-majestic-dan-burisch-stargates-and-et/)  
 Location: Washington DC  
 Attributes: Majestic  
@@ -3345,7 +3345,7 @@ See also: 11/25/52
 Date: 12/2/1952  
 Description: Statement by H. Marshall Chadwell, Assistant Director of Scientific Intelligence, CIA: “The reports of (UFO) incidents convince us that there is something going on that must have immediate attention.”  
 Type: statement  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Langley, VA  
 See also: 10/2/52  
 See also: 11/25/52  
@@ -3354,7 +3354,7 @@ See also: 11/25/52
 Date: 1953?  
 Description: Pilot (name withheld) stated, “a saucer crashed in a desert area”. He was sure that it was just inside the Arizona border. He also saw the bodies first-hand at Wright-Patterson AFB. The crates arrived at night by DC-7. Description of bodies: approx. 4 ft. high. Resting un-shrouded on a special blanket on dry ice. Heads were hairless, narrow, disproportionately large for their bodies. Skin had brown tint. Open eyes, small mouth, indistinct nose, hands and feet. Wore tight fitting, dark colored suites. One Alien appeared to be female. One Alien had been alive at the crash site but attempts to save its’ life with oxygen failed.  
 Type: crash retrieval  
-Reference: Pea Research (B3-B Case A-1 p2,3, RECOVERY, BODIES)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B3-B Case A-1 p2,3, RECOVERY, BODIES)  
 Location: Arizona  
 Location: Wright-Patterson AFB  
 
@@ -3362,7 +3362,7 @@ Location: Wright-Patterson AFB
 Date: 1953  
 Description: Director of Project Blue Book, Capt. Ruppelt stated: “Two RAF Intelligence Officers who were in the US on a classified mission brought six single-spaced typed pages of questions they and their friends wanted answered regarding UFOs.”  
 Type: classified mission  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dayton, OH  
 See also: 9/21/52  
 
@@ -3370,7 +3370,7 @@ See also: 9/21/52
 Date: 1953  
 Description: Project xxxxxx (name censured) established by President Eisenhower and renamed Project AQUARIUS (1960, 1968)  
 Type: majestic document  
-Reference: Pea Research (AQUARIUS, B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (AQUARIUS, B1-A)  
 Attributes: Majestic  
 
 ## Event 446
@@ -3384,7 +3384,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower)
 Date: 1/26/1953  
 Description: The Dept. of Defense, Washington, D.C. states in a letter to the Henry Holt & Co. that Maj. Donald Keyhoes’ book on “flying saucers” is accurate and that if the reported controlled maneuvers of the saucers are accurate then the saucers may be from another planet. Signed, Albert M. Chop, Air Force Press Desk.  
 Type: letter  
-Reference: Pea Research (A10, B1-E p542)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A10, B1-E p542)  
 Location: Washington DC  
 See also: 9/15/50  
 
@@ -3392,7 +3392,7 @@ See also: 9/15/50
 Date: 1/26/1953  
 Description: The ROBERTSON PANEL convenes, headed by Prof. H.P. Robertson. He was chosen because of being renowned as a nuclear physicist. Some of the persons involved with this panel were Capt. Ruppelt, Dr. Allen Hynek, Prof. S. GOUDSMIT, L. ALVAREZ, Sam Goudsmit, Prof. Luis Alvarez, Dr. Lloyd Berkner and Prof. Thornton Page.  
 Type: historical event  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 
 ## Event 449
 Date: 2/1953  
@@ -3412,7 +3412,7 @@ Location: Glendale, CA
 Date: 5/20/1953  
 Description: Dr. Ed Doll orders Fritz Werner to report for special duty the next day. (Indian Springs AFB.)  
 Type: crash retrieval  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Kingman, AZ  
 See also: 5/21/53  
 
@@ -3420,7 +3420,7 @@ See also: 5/21/53
 Date: 5/21/1953  
 Description: Fritz Werner (pseudonym), engineer at Wright-Patterson AFB, assisted in the investigation of a crashed UFO. It was constructed of an unfamiliar metal, similar to aluminum [magnesium?]. It had impacted 20 inches into the sand without any signs of structural damage. It was oval and 30 ft. in diam. An opened hatchway was 3 1/2 ft. long and 1 1/2 ft. wide. Inside the craft were 2 swivel seats, oval cabin and lots of instrumentation and displays. A tent pitched nearby contained the corpse of the pilot. It was approx. 4 ft. tall and had a brown complexion, two eyes, a small round mouth, two nostrils [no nose?], and two ears. It wore a silvery metallic-like suite and a skull cap of the same material.  
 Type: crash retrieval  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Kingman, AZ  
 See also: 5/20/53  
 
@@ -3435,14 +3435,14 @@ Location: California Coast
 Date: Summer 1953  
 Description: Saucer crash lands near Camp Polk, Louisiana. US Army Pvt. H.J. (initials) under Sgt. R.S. (initials) in Company B ordered to stay by the saucer until the ambulance and superior officers arrive. Three Aliens walked away from the crash. One Alien was carried on a stretcher. All aliens eventually died, taken to storage facility near Washington D.C. Alien description: Large helmeted heads, tight fitting suits, legs stiff when they walked, 3.5 to 4.0 feet tall, used Alien language.  
 Type: crash retrieval  
-Reference: Pea Research (B3-C, RECOVERY, ALIENS)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B3-C, RECOVERY, ALIENS)  
 Location: Camp Polk, Louisiana  
 
 ## Event 455
 Date: 6/24/1953  
 Description: USAF EMERGENCY Intelligence Report: Two jets out of Quonset Point have had mid-air collision at 2130E with UFO. American and Eastern Airlines pilots reported UFO. Jets fell in flames 15 miles West of Quonset Point.  
 Type: ufo collision  
-Reference: Pea Research (B1-E p488)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p488)  
 Location: Quonset Point, Rhode Island  
 See also: 6/26/1953  
 
@@ -3450,7 +3450,7 @@ See also: 6/26/1953
 Date: 6/26/1953  
 Description: USAF Intelligence Report, EMERGENCY JEDUP JEDEN JEDFF JEPHQ JEPRS 555. Distribution: OOP, OOP-CP, OAC, ARMY, NAVY, JCS, CIA, NSA, Tech Intelligence Center Wright Patterson AFB. (see 06/24/53 for details of report)  
 Type: ufo collision  
-Reference: Pea Research (B1-E p488)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p488)  
 Location: Dayton, OH  
 See also: 6/24/53  
 
@@ -3458,7 +3458,7 @@ See also: 6/24/53
 Date: 7/19/1953  
 Description: Confidential Message to the Adjutant General, Wash. 25 D.C.: An F-86 aircraft was observed in flight over the Oak Ridge residential area by a writer and his wife. While observing the F-86 through 6 power field glasses an UFO, black in color, moved out of a high white cloud directly over the area where the F-86 had been circling. The UFO began circling at a tremendous speed for at least 5 minutes. It appeared at times to be cigar shaped and at other times to be round in shape. No sound or visible means of propulsion was observed from the UFO. It flew away at tremendous speed for 3 miles where it was joined by 2 other UFOs into a ‘V’ formation and sped away.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Oak Ridge, TN  
 See also: 7/27/53  
 
@@ -3473,14 +3473,14 @@ Location: California Coast
 Date: 7/26/1953  
 Description: Emergency Message to Air Defence Command: CIRVIS 3346N 9632W sighted 7 UFOs hovering at altitude of 5 to 8 thousand feet near Perrin Tower, TX. Visually observed by citizens of Denison and Sherman, TX. The UFOs were grouped in a Z (Zebra) formation, then circled to higher altitudes and faded from sight. Each UFO had one bright red light on it.  
 Type: ufo sighting  
-Reference: Pea Research (B1-F p359)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p359)  
 Location: Perrin Tower, TX  
 
 ## Event 460
 Date: 7/27/1953  
 Description: Security Information, Confidential Message to Adjutant General, Wash. 25 D.C.  
 Type: Confidential Message  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Washington DC  
 See also: 7/19/53  
 
@@ -3520,7 +3520,7 @@ Atomic KT: 28
 Date: 8/26/1953  
 Description: Regulation AFR 200–2 issued to Air Force personnel for reporting UFOs.  
 Type: regulation  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 8/12/54  
 
 ## Event 466
@@ -3556,7 +3556,7 @@ Location: Miami, FL
 Date: 11/2/1953  
 Description: Changes updated for UFO reporting. New Regulation AFR 200–2A.  
 Type: regulation  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 
 ## Event 471
 Date: 11/10/1953  
@@ -3589,14 +3589,14 @@ Location: CA
 Date: 12/8/1953  
 Description: CIA Evaluation of the UFO situation: It was pleased to note that the number of sightings had decreased dramatically, due, it believed, to the success of its’ implemented policies. Some sightings still would have “possible scientific intelligence value”. The CIA concluded that the panel’s (name?) recommendations might have been interpreted by saucer believers as “debunking”.  
 Type: report  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Langley, VA  
 
 ## Event 476
 Date: Winter 1953  
 Description: Salisbury Plain, England: Flight Lt. C.G. Townsend- Withers was flying an experimental Canberra aircraft at 55,000 ft. when he picked up on the new experimental radar an UFO following his plane. The science officer went up to the turret for a visual and spotted a circular craft five miles behind them. They tried to outpace the UFO by accelerating to 225 knots but it kept up with their plane. Townsend-Withers initiated a wide sweeping turn and lost radar contact with the UFO but came into direct visual on a collision course with the UFO. Then the UFO flipped vertically in the air and climbed from 50 to 70 thousand feet, as quickly as you could say it. Description: Round, thin disc with two tail fins at the rear, appearing metallic and enormous. Leaving no vapor trail, wake or detectable sound, it vanished within a couple of seconds up into the blue sky.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Salisbury Plain, England  
 
 ## Event 477
@@ -3610,7 +3610,7 @@ Location: US
 Date: 1954  
 Description: Project SIGMA established as part of Project xxxx (name CENSURED). Top Secret project that looked into how to communicate with aliens. That projects existence was revealed in the PROJECT AQUARIUS Briefing Document and is said to have succeeded in 1964 when a USAF intelligence officer met two other aliens at a prearranged location in a desert in New Mexico. Became a separate project in 1976.  
 Type: majestic document  
-Reference: Pea Research (B1-A, SIGMA)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A, SIGMA)  
 Location: US  
 Attributes: Majestic  
 
@@ -3640,7 +3640,7 @@ See also: 12/53
 Date: 2/6/1954  
 Description: CONFIDENTIAL Air Force Staff Message: (DTG 061800Z) From Commander 19, A-Division, Carswell AFB, TX: UFO sighted over base. Had long fuselage, elliptical wings, stabilizer and no visible means of propulsion. It was larger than a B-36, had no tail, left no trail of exhaust and emitted no sound. Passed directly over tower at an Alt. of 3000 to 4000 ft. and was visible to all persons on duty. The UFO, when viewed on 10 mile scope gave a return of 1 inch. Copy of this report sent to: CSAF, WASH DC; COMDR ADC, ENT AFB, COLO; COMDR ATINTEL, CRT WPAFB, OHIO; COMDR 8TH AF, CARSWELL AFB, TEX.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p495)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p495)  
 Location: Carswell AFB, TX  
 
 ## Event 483
@@ -3707,7 +3707,7 @@ See also: 12/1994
 Date: 4/12/1954  
 Description: Between 6:30 and 7:15 PM a saucer crashed in the desert, NM. K.A. (initials) and Rescue Team 4 were sent from Roswell AFB to investigate the crashed disc. The saucer was 40–50 ft. in diameter. There were 4 dead Aliens scattered about the desert by the saucer. Alien description (seen from helicopter at 30 ft. alt.): Height was between 4.0 to 4.5 ft. Large proportioned heads, no helmets. Tight fitting dark blue suite. Faces, under ‘copter spotlight, were light green with a luminous tint. The saucer was stored in Hanger-18, Top Security. Hanger-18 was later expanded to 9 stories high and 11 stories deep with heavy refrigeration equipment, radar equip., and sophisticated computer equip.  
 Type: crash retrieval  
-Reference: Pea Research (B3-C, A5, RECOVERY, desert - NM)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B3-C, A5, RECOVERY, desert - NM)  
 Location: NM  
 See also: 2/10/54  
 See also: 4/24/54  
@@ -3733,7 +3733,7 @@ See also: 4/13/1954
 Date: 4/24/1954  
 Description: A saucer crashed at Bandelier, NM, as reported by K.A. (initials) of the Roswell, N.M. Rescue Team 4.  
 Type: crash retrieval  
-Reference: Pea Research (RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (RECOVERY)  
 Location: Edwards AFB  
 See also: 4/12/54  
 
@@ -3776,7 +3776,7 @@ Location: Edwards AFB
 Date: 6/29/1954  
 Description: A BOAC Strato Cruiser (British Airways) on a trans Atlantic flight with Capt. James Howard in command was traveling at 260 knots at 19,000 ft. when the crew saw a large CIGAR shaped UFO with six smaller UFOs flying close to it. Among the others to witness these events were First Officer Lee Boyd and Navigator Capt. H. McDonnell. After 15 minutes of observing the UFOs, Capt. Howard radioed Goose Bay, Canada, for backup escort, upon which the smaller UFOs entered the bigger Cigar shaped one which then shot away. Upon landing, Howard and Boyd were debriefed by intelligence officers and their flight logs were confiscated by USAF personnel.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Atlantic Ocean  
 
 ## Event 501
@@ -3784,7 +3784,7 @@ Date: 7/14/1954
 Description: MJ-12 SSP briefing letter, briefing scheduled for July 16, 1954. MEMO to General Nathan F. Twining (MJ-4) requesting his presence at an MAJESTIC-12 meeting with President Eisenhower on July 16. Note by Stanton Friedman: Letter was discovered in the National Archives by Wm. Moore and Jamie Shandera on 1985 in the 126th box of USAF files. Carbon of the original form.  
 Type: majestic document  
 Reference: [link](https://cathyfox.wordpress.com/2021/03/22/mj4-majestic-dan-burisch-stargates-and-et/)  
-Reference: Pea Research (B1-A p84, majic)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p84, majic)  
 Location: Washington DC  
 Attributes: Majestic  
 
@@ -3792,7 +3792,7 @@ Attributes: Majestic
 Date: 7/16/1954  
 Description: Secret Meeting between Gen. Nathan Twining (MJ-4) and President Eisenhower.  
 Type: secret meeting  
-Reference: Pea Research (MJ-4)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (MJ-4)  
 Location: Washington DC  
 
 ## Event 503
@@ -3805,7 +3805,7 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 Date: 8/1954  
 Description: Statement by Air Chief Marshall Lord Dowding, head of the RAF during WWII: “Of course the flying saucers are real! And, they are inter planetary!”  
 Type: public statement  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 9/23/47  
 See also: 10/9/55  
 
@@ -3813,14 +3813,14 @@ See also: 10/9/55
 Date: 8/12/1954  
 Description: EMERGENCY CIA MESSAGE: Sighted Saucer hovering at 2000 ft. above Maxwell AFB, Alabama. Dispatched local helicopter NBR ARMY267 to investigate. Definitely NOT a star. Helicopters fuel low, returned to base. In coming helicopter ARMY294 proceeded toward UFO which then completely disappeared. Pilot of ARMY294 lost sight of it, would be glad to be called upon to verify saucer light. Pilots of Army helicopters were: R.T. Wade, 506th helicopter Co., U.S. Tarma, also of the 506th, Ft. Genning, GA.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p493)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p493)  
 Location: Maxwell AFB  
 
 ## Event 506
 Date: 8/12/1954  
 Description: New updated reporting of UFOs. Regulation AFR 200–2, (see Aug. 26, 1953), by order of N.F. Twining (MJ-4), Chief of Staff, USAF.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p489)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p489)  
 Location: Washington DC  
 See also: 8/26/1953  
 
@@ -3856,7 +3856,7 @@ Location: Canada
 Date: 10/14/1954  
 Description: Flight Lt. Jimmy Salandin took off in his Meteor jet at 4:15pm and climbed up to 16,000 ft. When he was over Southend, England, two circular UFOs shot past him at 9o’clock high. One UFO was silvery and the other gold in color. A third UFO appeared ahead of him on a collision course. It had a bun-shaped top, a flange like two saucers in the center and a bun shaped dome underneath and was silvery in color. It flew close enough to his jet to overlap his windshield.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: North Weald Airfield, Essex, England: Flight Lt. Jimmy Salandin took off in his Meteor jet at 4:15pm and climbed up to 16,000 ft. When he was over Southend, England, two circular UFOs shot past him at 9o’clock high. One UFO was silvery and the other gold in color. A third UFO appeared ahead of him on a collision course. It had a bun-shaped top, a flange like two saucers in the center and a bun shaped dome underneath and was silvery in color. It flew close enough to his jet to overlap his windshield.  
 
 ## Event 512
@@ -3910,7 +3910,7 @@ Location: Soviet Union
 Date: 2/23/1955  
 Description: Broadlands Archives Record: Sworn statement by Lord Mountbatten and Frederick Briggs describing a Saucer that landed on Lord Mountbattens property. It was shaped like a child’s humming top, between 10 to 30 ft. diameter. Looked like kitchen saucepan. Had cylindrical column about the size of a man descending from the center. Had portholes all around the middle, like a steamer boat. I noticed a man standing on the end of the central column. He was dressed in a dark suit of overalls, and wearing a close fitting hat or helmet. As the Saucer powered up a bright blue light came from one of the portholes (like a mercury-vapor lamp). A force knocked me over. The Flying Saucer proceeded to rise and retract the central column. (See movie ”Earth vs. the F.S.”)  
 Type: ce2 event  
-Reference: Pea Research (B1-E p451-453, ALIEN)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p451-453, ALIEN)  
 Location: Britain  
 See also: 8/23/52  
 
@@ -3918,7 +3918,7 @@ See also: 8/23/52
 Date: 3/7/1955  
 Description: K.A. (initials) from Rescue Team 4, Roswell AFB, N.M. given a general discharge from the USAF because he told his Sergeant about the Top Secret recovery of a UFO on April 12, 1954.  
 Type: personnel discharged  
-Reference: Pea Research (A5, B3-C)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C)  
 Location: Roswell, NM  
 See also: 4/12/54  
 
@@ -3954,7 +3954,7 @@ Location: US
 Date: 7/12/1955  
 Description: Unusual UFOB report from Pepperrel AFB, Newfoundland. UFO sighted by a tanker aircraft (KC97) pilot and ground radar. “Unusual” in that the pilot of the Archie 29 called direction changes of the UFO to ground radar which correlated exactly with those painted by the radar scope. This observation went on for 49 minutes. Signed: Todos M. Odarenko.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Pepperrel AFB, Newfoundland  
 
 ## Event 526
@@ -4097,21 +4097,21 @@ Location: Moneymore, Ireland
 Date: 10/2/1956  
 Description: Harry Sturdevant, a night watchman of some 20 years, said, “a red light in the sky shot at him. This UFO had no wings, fins or propulsion sounds, except for the sound of “escaping steam”. It was about 60 to 100 ft. in diam. and cigar shaped. The UFO gave him “the greatest shock of my life”. There was a nauseating smell like sulfur and brimstone. He lost the sense of taste and smell and couldn’t swallow properly. He collapsed on the ground and was unable to move for half an hour, after which he managed to drive to his home and call for aid. Six weeks later, a New Jersey workmen’s compensation referee decided that Sturdevant should be paid for medical expenses incurred for the injury done by the UFO.  
 Type: ufo sighting with injury  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Trenton, NJ  
 
 ## Event 545
 Date: Late 1956  
 Description: Castle AFB, California: A.A. and J.R. (names withheld) were flying F-86’s near Modesto, CA, on alert duty due to civilian UFO reports in a nearby town. Base instructed them to return because their was an UFO near the control tower. With afterburners on they closed rapidly on a luminous elliptical UFO that moved above and below cloud cover at 10 to 12 thousand feet as if to elude them. The two pilots played cat-and-mouse with the UFO until they ran low of fuel and returned to base. Local citizens that witnessed these events were told by the Air Force that the pilots had been chasing ducks or geese.  
 Type: movie  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Castle AFB, CA  
 
 ## Event 546
 Date: 10/24/1956  
 Description: NICAP established. One of its board of directors was Admiral Roscoe H. Hillenkoetter, former CIA director and rumored MJ-12 member. From this position Hillenkoetter and others could steeer NICAP from the inside in any direction they wanted.  
 Type: historical event  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Washington DC  
 
 ## Event 547
@@ -4188,7 +4188,7 @@ Location: Galt, Ontario
 Date: 8/31/1957  
 Description: In a letter about UFOs to a constituent, Senator Barry Goldwater said, “I, frankly, feel there is a great deal to this.”  
 Type: letter  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 
 ## Event 558
 Date: 10/4/1957  
@@ -4216,7 +4216,7 @@ Location: Levelland, TX
 Date: 11/2/1957  
 Description: Multiple landings on roadways, E-M (electro-magnetic) effects, etc. Sheriff Weir Clem was sent out to search the roads as a result of earlier UFO reports and saw a reddish oval crossing the road and illuminating the pavement. Ronald Martin saw an UFO land in front of his truck and turn from red to bluish-green at which time the truck’s electrical system failed. It then turned reddish again and took off. Within the next few hours an Army Jeep Patrol at White Sands, N.M., reported an egg-shaped UFO that descended to about 50 yards above a bunker used during the first A-bomb explosion. This wave of sightings continued for 2–3 weeks. After retirement in 1975, Sheriff W. Clem gave a more graphic description of the UFO he saw: “The object was shaped like a huge football and had bright white lights. No living human could believe how fast it traveled. The thing was as bright as day. It lit up the whole area.” In an interview in 1977, Sheriff Clem said, “After the publicity of UFOs over the next few days, the number of witnesses to them rose to about a hundred people.”  
 Type: ce2 event  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Loveland, TX  
 See also: 11/5/57  
 
@@ -4231,7 +4231,7 @@ Location: Kearney, NE
 Date: 11/5/57  
 Description: A single investigator from Project Blue Book headquarters arrived at Loveland, TX. He interviewed only two persons who had stalled cars and reported that all the UFO activity in Texas between Nov. 2–4 was the result of a “rather heavy electrical storm…All witnesses saw the same streak of lightning…which stimulated the populace into a high level of excitement….and resulted in an inflation of stories by some witnesses.”  
 Type: investigation  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Loveland, TX  
 
 ## Event 564
@@ -4244,7 +4244,7 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 Date: 11/12/57  
 Description: FBI STATUS REPORT: “Ever since the Russians release ‘Sputnik’ there has been a great increase in the number of flying saucers and other UFOs reportedly seen by people all over the U.S.” [Angle: Artificial satellite spurs Alien interest in mankind. Other Angle: Artificial satellite causes populace to go sky crazy.]  
 Type: status report  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Washington, DC  
 
 ## Event 566
@@ -4265,7 +4265,7 @@ Location: Japan
 Date: Late 1950's  
 Description: The Interplanetary Phenomenon Unit (IPU) was disestablished and all records were transferred to the Air Force.  
 Type: historical event  
-Reference: Pea Research (B1-A p55)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p55)  
 See also: 5/16/84  
 
 ## Event 569
@@ -4327,7 +4327,7 @@ Location: New York City, New York
 Date: 5/1958  
 Description: Maelstrom AFB, Montana: Just after midnight an UFO approached the alert hanger where one guard was standing on duty. At about 1000 ft. altitude. The UFO appeared as a round metallic looking object (called a “Flying Saucer” by the guard). The base radar and FAA radar picked up the UFO as it was apparently hovering over the alert hanger and the atomic bomb storage nearby. The saucer then moved slowly down the length of runway and then proceeded across town to the Muni Airport at Great Falls and hovered over the National Guard parking ramp for the F-89’s and then flew off.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Maelstrom AFB, Montana  
 
 ## Event 578
@@ -4341,14 +4341,14 @@ Location: medium earth orbit
 Date: 12/20/1958  
 Description: Patrolmen Le Roy A. Arboreen and B. Talada while on patrol suddenly spotted a glowing red object which came directly toward them at a phenomenal rate of speed from the West, Increasing rapidly in size, then coming to an abrupt stop, it was ellipsoid in shape and solid bright red while giving off a pulsating glow. After hovering a few seconds it went straight up like a shot and faded beyond the stars. Visibility: unlimited.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dunellen, NJ  
 
 ## Event 580
 Date: 1959  
 Description: Project SIGMA meets with success and establishes contact with Aliens.  
 Type: majestic document  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Attributes: Majestic  
 See also: 4/15/64  
 
@@ -4370,7 +4370,7 @@ Location: Redstone Arsenal
 Date: 4/1/1959  
 Description: An Air Force C-118 transport plane with four passengers suddenly radioed in ”MAYDAY, we’ve been hit!” Col. R.E. Booth told reporters that a mid-air collision had taken place at 8:19 p.m. APRG (Aerial Phenomena Research Group) investigators determined that from 7:00 p.m. on through the early evening several mysterious aerial explosions had shaken the Seattle, WA, area. Several residents had reported seeing mysterious UFOs from 20 miles north of the crash scene to about 8 miles southeast of it. These sightings were confirmed by the Orting Chief of Police and by Public Information Officer at Mc Chord AFB. Several persons told APRG investigator, R. Gribble, that as the C-118 passed over their area it was followed by 2 parachute-shaped objects and that the C-118 was missing its tail assembly. Mr. and Mrs. Bill Jones reported 3 or 4 parachute-shaped UFOs following the C-118 as it passed over their home. Chief of Police, Fred Emard, told R. Gribble that he would be glad to furnish information on the UFOs to APRG, but changed his mind the next day after an interview with an Air Force Colonel. “The Chief and other officials of Orting had been silenced,” Gribble reported.  
 Type: ufo midair collision  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Orting, WA  
 See also: 9/29/59  
 See also: 5/61  
@@ -4379,7 +4379,7 @@ See also: 5/61
 Date: 9/29/1959  
 Description: Maj. R.O. Braswell, while flying an C-47 at 6500 ft. alt., spotted an UFO. “It was colored like a large red fire and looked like an atomic cloud”, he stated. At about 5 degrees above my plane it appeared massive and was at about 13000 ft. alt. The UFO appeared to be about 1000 ft. thick (top to bottom). Billie Guyton of Centerville, TX, also observed the UFO and said that he observed a smaller UFO emerge from it. Another ground observer, Jackie J. Cox, schoolteacher, saw a “bright light in the sky that spread to cover the entire sky.” W.S. Webb of Buffalo, N.Y., glanced out his bedroom window and saw a ball of fire shooting through the sky, after which he heard a noise, as if something was falling from the sky. The next day Braniff Airways Flight 542, carrying 28 passengers and 6 crew members, was found shredded in a thousand pieces. Subsequent inquiry found that there had been no fire or explosion aboard the jet before or after the crash and that scorch marks found on the exterior windows, fuselage and parted tail section showed signs of having been exposed to tremendous exterior heat. Also the force causing the plane to come down did not come from within the plane. Radar Operator, E.H. Tindale, later told investigators that he had plotted an UFO twice on the night Flight 542 crashed. Both plots of the UFO were in the area where the wreckage of the airliner was found. The UFO was stationary both times it was tracked.  
 Type: ufo midair collision  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Buffalo, Texas  
 See also: 4/1/59  
 See also: 5/61  
@@ -4419,7 +4419,7 @@ Reference: [link](https://medium.com/@richgel99/interesting-1961-letter-from-man
 Date: 8/13/1960  
 Description: Red Bluff, CA: CHP Officers Charles A. Carson and Stanley Scott were on patrol when they sighted what they thought was an airliner about to crash. When the UFO had descended to about 100 or 200 feet altitude it suddenly reversed direction and climbed to 500 ft. Description: round or oblong surrounded by a glow (color not mentioned) and having definite red lights at each end. They continued to watch the UFO as it performed ”unbelievable” aerial feats. The local RADAR operator confirmed the UFO at this time but denied it the next day. Other Tehema County Sheriffs’ officers also saw this UFO and another similar one that same night. (NICAP, 1964)  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Red Bluff, CA  
 
 ## Event 591
@@ -4435,14 +4435,14 @@ Date: 1961
 End date: 1963  
 Description: Near Nellis AFB, NE: “Mat”, a radio maintenance engineer at Nevada’s AEC between 1961–1963 provided evidence to the MUFON Journal that Project REDLIGHT was secretly being conducted at nearby “Area 51”, a 50-mile-square quadrant of land east of Nellis AFB. This Project “involved flight-testing of an UFO which had been shipped there from Edwards AFB.” The craft flew silently, was about 20 to 30 ft. in diam., and had no wings or tail.  
 Type: ufo testing  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Area 51  
 
 ## Event 593
 Date: 1961  
 Description: Russia: Vladimir Azhazha found an elliptical area where he claimed that an alien craft had plummeted to Earth in 1961. A local resident, Zoya Shubenkina, corroborated Azhazha’s story about the 1961 crash, claiming she had witnessed it for herself. She said a big, fiery, red sphere flew over her house and crashed in the valley by the river.  
 Type: ufo crash  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Russia  
 
 ## Event 594
@@ -4464,7 +4464,7 @@ Location: Vietnam
 Date: 4/28/1961  
 Description: Traces of a crashed UFO were found in this area.  
 Type: ufo crash  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Korb Lake, Leningrad, Russia  
 
 ## Event 597
@@ -4513,14 +4513,14 @@ Location: US
 Date: 4/1962  
 Description: Flight Commander P.J. (initials), attached to TAC Fighter Wing was deployed at Wright-Patterson AFB and mistakenly entered into an air hanger where he thought the gym was located. Upon entering the hanger he was approached by an air police sentry with a sub-machine gun. Behind the sentry was a saucer approx. 12–15 ft. diam. suspended off the ground by two engine test stands. There were no markings or insignia on the saucer. It had no rivet markings. The saucer was roped-off and 8 guards stood at parade rest around it. P.J. and his friend were encouraged to leave the hanger. P.J. returned to Myrtle Beach AFB, SC  
 Type: witness statement  
-Reference: Pea Research (A5, B3-C, RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C, RECOVERY)  
 Location: Wright Patterson AFB  
 
 ## Event 603
 Date: 4/18/1962  
 Description: Object was first spotted over Oneida, New York and was heading in a westerly direction. Object reported over Kansas, Colorado and Eureka, Utah. The object was reported by over a thousand people. The object appeared to land and then take off again from Eureka, CA. The town of Eureka experienced a blackout when it landed.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Oneida, NY  
 Location: Kansas  
 Location: Colorado  
@@ -4537,7 +4537,7 @@ Location: West Point Academy
 Date: 7/17/1963  
 Description: A passenger of a Convair-880 related to UFO investigator, James Moseley, that the 4 engine jet airliner she had been flying in was pursued by an UFO. The jet, traveling at 600 mph, made a sharp turn to avoid the UFO, now rapidly closing in on the plane. Just as they were about to collide, the UFO swerved away at fantastic speed and disappeared in the night sky. When the (unnamed) woman confronted the pilot about the incident, he said, “I wouldn’t dare risk telling the airline of the incident. If I could tell you of some of the experiences my buddies have had, you’d never fly again!”  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: US  
 
 ## Event 606
@@ -4563,7 +4563,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/Lyndon_B._Johnson)
 Date: 4/15/1964  
 Description: USAF Intelligence officer meets with 2 Aliens at prearranged location in the desert of New Mexico near Holloman AFB. Project SIGMA operates at AFB, New Mexico.  
 Type: alien meeting  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Location: Holloman AFB  
 
 ## Event 610
@@ -4591,14 +4591,14 @@ Location: Vietnam
 Date: 10/1964  
 Description: Air Force and Army radar stations tracked an UFO as it hovered over and flew along the demilitarized zone between North and South Korea. The UFO was visible for over an hour.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Korea  
 
 ## Event 614
 Date: 12/10/1964  
 Description: Recovery of Saucer by A.K. (initials).  
 Type: crash retrieval  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Fort Riley, KA  
 See also: 11/65  
 
@@ -4606,7 +4606,7 @@ See also: 11/65
 Date: 12/19/1964  
 Description: Memo to Chief, Contact Division: NICAP case #(censured): Subject: UFOs over Patuxent Navel Air Station between 1500 and 1530 hours. Two UFOs approached Air Base at 3800 mph. Another UFO approached at 6000 mph. Radar operator, Chief Pinkerton had visual on Radar. US Coast Guard had “visual” on the UFOs. Official statement to press: the (single) blip was caused by faulty radar equipment!  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Patuxent Navel Air Station  
 See also: 1/25/65  
 
@@ -4614,7 +4614,7 @@ See also: 1/25/65
 Date: 1965  
 Description: While visiting the Air Force Museum in Fairborn, Ohio, R.M. (initials), a government employee of 23 yrs., went through a double- door marked “Off Limits” and suddenly came face to face with an Alien in a self contained space suite. Description: About 4.5 ft. tall with a translucent dome over its’ large head; wasn’t human; large eyes under a heavy brow; no noticeable nose; a slit for a mouth; bluish skin. When the creature walked it didn’t bend its’ knees. R.M. later found out from a retired Air Force Colonel from Wight-Patterson AFB, that 2 live Aliens were held in captivity in an artificial environment. The Colonel also said that a 2-man sized craft crashed near Whitewater Lake, Indiana, as a result of an electrical disturbance in the atmosphere. (The Alien would have to lock his knees in a high-gravity environment to avoid falling down.)  
 Type: alien sighting  
-Reference: Pea Research (A5, B3-C, WHITEWATER RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C, WHITEWATER RECOVERY)  
 Location: Fairborn, Ohio  
 
 ## Event 617
@@ -4630,42 +4630,42 @@ Atomic KT: 140
 Date: 1/25/1965  
 Description: Memo to Chief, Contact Division: NICAP Case #(censured).  
 Type: memo  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 See also: 12/19/64  
 
 ## Event 619
 Date: 2/11/1965  
 Description: Personal Interview report by Capt. D.M. (initials): Aerial encounter of three UFOs with radar and visual sightings. Air Force flight F-169 en route from Anchorage, AL, to Japan. Capt. R.W. (initials) and Capt. W.(initial) observed 3 UFOs on radar 5 miles off the wing. The UFOs paced the Flying Tiger freighter aircraft for 30 minutes then climbed away at a steep angle at about 1200 knots ground speed. Estimated size (thumb and finger method) approx. 200 to 1000 ft. diam., glowing red and oval shaped. The pilot remarked, “we often see UFOs on the Alaskan run!”  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Pacific Ocean  
 
 ## Event 620
 Date: 5/28/1965  
 Description: Police statement (interview); Bougainville Reef, Australia: An Ansett-A.N.A. DC-6B airliner (VH-INH) en route to Port Moresby, New Guinea, was buzzed by a UFO at about 3:25 a.m. The pilot radioed the Townsville Ground Control Tower and talked to Mr. O. (initial). Description: slightly spherical and oblate, flattened on top and bottom; appeared to have exhaust gasses coming from it. Photos of the UFO were taken by the pilot but were later confiscated at Canberra as was the taped conversation to Mr. O., the Tower operator. Mr. O. was threatened with dismissal if he talked about the incident.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Bougainville Reef, Australia  
 
 ## Event 621
 Date: 7/3/1965  
 Description: Newspaper reports, Antartica: Argentine, British and Chilean military and scientific personnel observed an UFO moving at a frightening speed doing incredible maneuvers. It was something solid, glowing blue-green and causing E/M interference with our equipment. Lenticular shaped “flying saucer”. Tracked by theodolite, binoculars and magnetograph tapes. Also, 10 color photographs were taken of the UFO.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Antartica  
 
 ## Event 622
 Date: 9/3/1965  
 Description: Project Blue Book File #(?): Damon/Angleton, TX. Deputy Sheriffs Billy E. McCoy and Robert W. Goode were investigating an UFO in the back-woods roads when the purplish UFO shot instantly towards them to within 150 feet and hovered at 100 feet off the ground. The bright glow illuminated the interior of the car and the surrounding fields (11:30 p.m.). “Every blade of grass stood out clearly” in the field. Officer Goode, who was driving with his arm out the window, felt heat on his arm and later reported that a cut that was on his arm healed more rapidly than normal [U/V effects].  
 Type: ufo encounter  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Angleton, TX  
 
 ## Event 623
 Date: 9/16/1965  
 Description: NICAP Report #(?): Pretoria, S. Africa: Constables John Lockem and Koos de Klerk while on patrol (after midnight) suddenly had a domed, disc shaped object come into their van headlights. It was sitting on the road. The UFO was copper colored and about 30 ft. in diam. Immediately the UFO lifted off, emitting tongues of flame from two tubes or channels on the underside. The flames deflected about three feet off the macadam road surface and were still visible after loosing sight of the craft. Road damage: part of the road was caved-in, and in a 6 foot area the gravel was separated from the tar. Samples of the road surface were taken for analysis, report was never released. Lt. Col. J.B. Brits, District Commandant of Pretoria North said the incident was “highly secret”, and inquiry is being conducted in top circles.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Pretoria, South Africa  
 
 ## Event 624
@@ -4679,7 +4679,7 @@ Location: Baikonur Cosmodrome, Soviet Kazakhstan
 Date: 11/1965  
 Description: Fort Riley, KA: “AK” (Aaron Kaback) was on guard duty at 2 a.m. when the duty officer drove up and ordered him to hop into the jeep. He and 3 other officers were driven out to a remote area where a large oval object was resting. An army chopper was hovering above the object and shining a bright light on it. The object was approx. 35–48 ft. in diam., had a fin on the end and an exhaust port or some kind of hole below the fin. It had rows of squares around the rim and remained completely dead for the 2 1/2 hours they guarded it. (Kaback seems to be confused as to the actual date this incident occurred.)  
 Type: crash retrieval  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Fort Riley, KA  
 See also: 12/10/64  
 
@@ -4687,7 +4687,7 @@ See also: 12/10/64
 Date: 12/9/1965  
 Description: A UFO crash-landed in the Kecksburgh, PA woods. It had appeared as a fireball flying across several U.S. states and Canada. Dozens of witnesses described military personnel cordoning off the landing area. The object was transported away by military truck. In Feb. 1969, the key witness (John Murphy ) to this incident was struck and killed by a car on a highway near Ventura. Researcher, Stan Gordon kept the research of this incident alive. The Blue Book report changed the name of Kecksburg to “Acme” PA. After 20 yrs. Bill Bulebush came forward with a description of the downed UFO.  
 Type: crash retrieval  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Kecksburgh, PA  
 
 ## Event 627
@@ -4731,7 +4731,7 @@ See also: 4/1/66
 Date: 3/20/1966  
 Description: La Porte, IN: Patrolman Michael Spevak was on duty when 2 youths pulled over and pointed out an UFO that they said had been following them from Michigan City to La Porte. According to the young men, the object frequently burst into such a bright glare that it blinded them, forcing them off the highway. It had been following them at an altitude of about 60 ft. Both the young men and the patrolman noticed a cross-shaped appendage protruding from the lower portion of the UFO.  
 Type: ufo sighting  
-Reference: Pea Research (B1-F, p257)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F, p257)  
 Location: La Porte, IN  
 
 ## Event 633
@@ -4746,7 +4746,7 @@ Location: Miami, FL
 Date: 3/21/1966  
 Description: Law enforcement officer F.B. (initials) at Dexter, Michigan, and officer “C” (initial) on patrol sighted a landed saucer in a swamp. Description: Large craft, like a pot; no windows; had a dull glow and steam was coming up from the water. Sounded like a turbine, a low whine or hum. He notified Selfridge AFB which immediately sent out MP’s, well armed. All law officers were ordered back and their film was confiscated. Later his report and other reports disappeared from police headquarters. Then, everyone in the force, including he and “C”, were transferred to other parts of the county. The UFO wasn’t disabled. F.B. saw it take-off and climb straight up.  
 Type: ufo sighting  
-Reference: Pea Research (A5, B3-C)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C)  
 Location: Dexter, MI  
 See also: 3/1/67  
 
@@ -4754,7 +4754,7 @@ See also: 3/1/67
 Date: 4/1/1966  
 Description: From LIFE magazine: In a hastily called press conference, the USAF spokesman J. Allen Hynek suggested that the Dextor, MI, UFO and others seen in the swamps near Hillsdale may have been marsh (or swamp) gas that had spontaneously ignited.  
 Type: magazine article  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dextor, MI  
 See also: 3/20/66  
 See also: 3/21/66  
@@ -4763,14 +4763,14 @@ See also: 3/21/66
 Date: 4/5/1966  
 Description: Congressman, Gerald Ford announces to Congress the need to extensively examine UFOs. Brief Hearing, C. Sagan.  
 Type: announcement  
-Reference: Pea Research (B1-G p64)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-G p64)  
 Location: Washington DC  
 
 ## Event 637
 Date: 4/17/1966  
 Description: Ravenna, OH, to Conway, Penn.: Deputy Sheriffs Dale Spaur and Wilbur Neff of Portage Countywere on patrol when an UFO stopped above them, illuminating them and the surroundings (it was just about dawn). As the UFO moved away from them at about 300–500 ft. above the road, it would alternately start and stop ahead of them playing cat and mouse. At E. Palestine, OH, officer Wayne Huston joined in the pursuit. At speeds of 100 mph in unfamiliar territory, they were soon low on gas and had to give up the game with the UFO. Through local police dispatch the officers alerted the Air Force, who sent out fighter planes to investigate the UFO. As the officers saw the AF planes approaching the UFO shot straight up and out of sight.  
 Type: ufo sighting  
-Reference: Pea Research (B1-F p259)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p259)  
 Location: Ravenna, OH  
 See also: 6/24/66  
 
@@ -4778,14 +4778,14 @@ See also: 6/24/66
 Date: Summer 1966  
 Description: Results of an Iowa Poll, Iowa: 45% Iowans queried believe UFOs to be real objects. Of the 45%, 21% were of the opinion that the UFOs were of extraterrestrial origin.  
 Type: poll  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Iowa  
 
 ## Event 639
 Date: Summer 1966  
 Description: Nha Trang, Vietnam: At this active Army Base at about 9:45 p.m., what was thought to be a flare lit up the north sky. The bright UFO approached the base alternately moving at low to high speeds. Upon descending toward the soldiers it hovered at an altitude of 300–500 ft. All of a sudden the 6 generators failed along with the engines of the idling Skyraiders, bulldozers and trucks. The entire valley and surrounding mountains were illuminated by the hovering UFO for about 4 min. after which it went straight up and disappeared in about 3 sec. After the incident a plane load of officials from Washington arrived to investigate.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Nha Trang, Vietnam  
 See also: 3/4/69  
 
@@ -4793,7 +4793,7 @@ See also: 3/4/69
 Date: 6/24/1966  
 Description: Officer William L. Stevens, Jr., observed a dirigible-shaped UFO at 3:30 in the morning near the fairgrounds. It was about 100 ft. long and 30 ft. thick with greenish-yellow lights on its perimeter. Stevens attempted to chase the UFO but it maintained an even distance from him even though he sped up and slowed down. “The object seemed to be playing cat & mouse with me,” he later said. After 10–15 min. the UFO accelerated and sped away.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Richmond, VA  
 See also: 4/17/66  
 
@@ -4808,7 +4808,7 @@ Location: Lake Karachay, Russia
 Date: 3/1/1967  
 Description: Lt. Gen. Hewitt T. Wheless, USAF, sends notice to all branches of the military warning of persons imitating military officers and harassing private citizens and confiscating UFO photos.  
 Type: notice  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dayton, OH  
 See also: 3/21/66  
 
@@ -4816,7 +4816,7 @@ See also: 3/21/66
 Date: 7/3/1967  
 Description: R. T. (initials), with ALPHA RED TOP SECRET CRYPTO Clearance, rank PFC, assigned to Canine Corps at Camp Pendleton, San Diego, CA., states that he and his dogs were air transported 2.5 hrs. to a sight in a desert (unknown location) UFO crash-sight. Saucer: Metallic, 30 ft. diameter, domed top, no windows. He also observed: Large walk-in refrigerator, empty body bags, men at work with technical instruments.  
 Type: crash retrieval  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Camp Pendleton, San Diego, CA  
 
 ## Event 644
@@ -4830,7 +4830,7 @@ Location: Nebraska
 Date: 1968  
 Description: Project xxxxxxxx (name censured) established to evaluate all UFO information pertinent to space technology.  
 Type: majestic document  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Attributes: Majestic  
 See also: 1953  
 See also: 12/69  
@@ -4840,7 +4840,7 @@ See also: 1976
 Date: 1/19/1968  
 Description: DIA Intelligence Report from Liaison in Moscow, Russia mentioning an attempt by the British Government in 1967 to collaborate with the Soviets in UFO research.  
 Type: intelligence report (B1-E p543)  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Moscow, Russia  
 See also: 2/22/68  
 
@@ -4848,7 +4848,7 @@ See also: 2/22/68
 Date: 2/22/1968  
 Description: UNCLASSIFIED AIR GRAM, U.S. Dept. of the State regarding UFOs in the Soviet Union: Feb. 1968, Soviet Life published three pages pertinent to UFOs, by Felix Zigel. He also published a UFO article in 1966. Until recently no study of UFOs had been made in the Soviet Union.  
 Type: unclassified air gram  
-Reference: Pea Research (B1-E p473)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p473)  
 Location: Soviet Union  
 See also: 1/19/68  
 
@@ -4863,7 +4863,7 @@ Location: US
 Date: 1969?  
 Description: A retired Colonel from Wright-Patterson AFB with Top Secret Clearance states that a 2-man saucer crashed near Whitewater Lake, Indiana as a result of an electrical disturbance in the atmosphere.  
 Type: crash retrieval  
-Reference: Pea Research (A5, B3-C, WHITEWATER RECOVERY)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C, WHITEWATER RECOVERY)  
 Location: Whitewater Lake, Indiana  
 See also: 1968  
 
@@ -4885,7 +4885,7 @@ Location: Baikonur Cosmodrome
 Date: 3/4/1969  
 Description: Near Atlanta, Missouri: The City Marshall and Mail Carrier in Elmer, Missouri, William R. Overstreet observed an UFO at early dawn over the road ahead of him. It was about 100 ft. in diam. apparently rotating clockwise and emitting a strong white beam of light down to the road which seemed to magnify the size of theroad it was shining on. He felt intense heat from the direction of the UFO and his CB radio was dead. As heneared the light beam from the UFO his truck motor and radio quit. As the beam moved away from his truck he was able to start the engine again. He followed the UFO for about 4 mi. staying away from the beam. The UFO followed the contour of the land it was flying over. After 7–8 min. the UFO veered away and went out of sight. “I had never believed in them too much until I saw this,” he said. “Now I know that there is something to these UFOs!”  
 Type: ufo sighting  
-Reference: Pea Research (B1-F p265)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p265)  
 See also: 8/13/75  
 See also: 6/66  
 
@@ -4906,14 +4906,14 @@ Location: Baikonur Cosmodrome
 Date: 10/1969  
 Description: Jimmy Carter sees and reports a UFO.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p516)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p516)  
 Location: Leary, Georgia  
 
 ## Event 656
 Date: 12/1969  
 Description: Project xxxxxx (name censured) continues after Project BLUEBOOK is closed.  
 Type: majestic document  
-Reference: Pea Research (B1-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
 Attributes: Majestic  
 
 ## Event 657
@@ -4941,14 +4941,14 @@ Location: Baikonur Cosmodrome
 Date: 1972  
 Description: Project SNOWBIRD established to test fly a captured flying saucer. This was an alleged ongoing 1972 Top Secret project that researched, developed and implemented alien spacecraft technology and test flown recovered UFOs. It is possible that the UFO involved in the CASH/LANDRUM CASE was built by the Americans as part of this project, however another “Project Snowbird” has been found described as a “Joint Army/Air Force peacetime military exercise in the sub-arctic region in 1955” in the 1963 Gale Research’s Code Names Dictionary. Project SNOWBIRD is another project that was revealed in the Project AQUARIUS Briefing Document.  
 Type: majestic document  
-Reference: Pea Research (B1-A, SNOWBIRD)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A, SNOWBIRD)  
 Reference: [archive.org](https://web.archive.org/web/20010224011519/http://ourworld.compuserve.com/homepages/AndyPage/SNOWBIRD.htm)  
 
 ## Event 661
 Date: 10/2/1972  
 Description: A letter from the Dept. of National Defense, Canada, Brig. Gen. L.A. Bourgeois states: All UFOs reported to CFHQ are investigated by the Director of Operations. It isn’t a practice to allow the public to study these files. Since the beginning of 1968 these UFO reports have been passed along to the NRC. Evidence suggests that UFOs present no threat to the world. They exhibit a unique scientifically advanced technology.  
 Type: letter  
-Reference: Pea Research (B1-E p467)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p467)  
 See also: 9/19/26  
 
 ## Event 662
@@ -4969,21 +4969,21 @@ Location: Vietnam
 Date: 9/1973  
 Description: At Great Lakes Naval Base, Instructor R. K., Gunnery School Grade E-4, while delivering a sealed envelope to the Commandant in the quonset hut, was surprised to see a saucer 30 ft. diam. and 10 ft. ht. resting on a wooden platform. Description: Silvery blue and shimmering, it tapered like a teardrop with a flange running along its topside from one end to the other and there were no windows. R.K. believed this saucer to be the one shot down on its third pass over a Navy vessel by a missile. The saucer crashed in 350 ft. water between Hawaii and the mainland. It was retrieved by a Glomar Explorer, shipped to Hawaii then stateside to Chicago.  
 Type: crash retrieval  
-Reference: Pea Research (A5, B3-C, RECOVERY, HAWAII)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C, RECOVERY, HAWAII)  
 Location: Hawaii  
 
 ## Event 665
 Date: 10/18/1973  
 Description: Capt. Lawrence Coyne, while flying an Army helicopter with three other crewmen were 45 minutes out over Mansfield when Staff Sgt. Robert Yanacsek spotted a red glowing UFO headed toward their helicopter at an estimated 600 mph. It stopped abruptly 500 ft. above them. It had a big, gray, metallic looking hull about 60 ft. long, shaped like an airfoil or streamlined cigar with a red light in front and a green light in the rear, the lead edge glowed red a short distance from the nose. There was a center dome. The ‘copter radio wouldn’t function and the copter was set for a 20 degree dive but gained altitude from 1700 ft. to 3500 ft. with no power applied. After a slight “bounce” the UFO took off to the N.E.  
 Type: ufo sighting  
-Reference: Pea Research (B1-F p319, 271)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p319, 271)  
 Location: Mansfield, OH  
 
 ## Event 666
 Date: 10/25/1973  
 Description: Director of FBI, Clarence M. Kelley, states: UFOs are not and never has been a matter that is within the investigative jurisdiction of the FBI.  
 Type: statement  
-Reference: Pea Research (B1-E p475)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p475)  
 Location: Washington DC  
 
 ## Event 667
@@ -5033,14 +5033,14 @@ Location: Loring AFB
 Date: 1/8/1975  
 Description: Confidential Spanish Report, Spanish Air Force: UFO spotted by military personnel at Las Bardenas Reales, near Zaragoza Air Base  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p459)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p459)  
 Location: Las Bardenas Reales, Spain  
 
 ## Event 674
 Date: 3/28/1975  
 Description: Letter from Senator Barry Goldwater stating: Ten or twelve years ago I tried to get access to the building at Wright-Patterson (HANGER-18) where UFO artifacts were stored and I was understandably denied access. It is still classified above TOP SECRET. I’ve heard they plan to release some of the information in the near future and hope not to have to wait too much longer.  
 Type: letter  
-Reference: Pea Research (B1-E p2)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p2)  
 Reference: See Barry Goldwater’s “Blue Room” letters and released FOIA Material 1975–1984, Burbank CA, asked General Curtis LeMay to see Blue Room  
 Location: Washington DC  
 
@@ -5048,7 +5048,7 @@ Location: Washington DC
 Date: 8/13/1975  
 Description: Near Haderslev, Denmark: Police Officer Evald Hansen Maarup was driving home at 10:50 p.m. when all of a sudden his car was engulfed by a bright blue light while at the same time his car lost all power. The temperature in his car rose to that of a warm summer day and his radio was dead so he couldn’t call for help. The bright beam from the UFO was conical in shape with a bottom diam. of 4–5 meters and a top diam. at the UFO of 10 meters. Two dome-like protrusions were visible on the underside of the UFO that was hovering at about 20 meters altitude. He activated a special camera on the patrol car which automatically took 3 pictures of the UFO. As the UFO sped away he regained power to his car. The developed film which was later turned over to the Danish AF showed the light source of the UFO on it. No report or analysis has been available from the AF to date.  
 Type: ufo sighting  
-Reference: Pea Research (B1-F p281)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p281)  
 Location: Haderslev, Denmark  
 See also: 3/4/69  
 
@@ -5056,7 +5056,7 @@ See also: 3/4/69
 Date: 8/13/1975  
 Description: Staff Sgt. Charles L. Moody, USAF, drove out to the outskirts of town late one night to watch for meteors. As a disc-shaped UFO descended toward him, he tried to start his car to get away but it wouldn’t start. He heard a high pitched whining sound from the UFO and saw shadowy figures in it and felt numbness, after which the UFO departed. After driving home he found he couldn’t account for 1.5 hours. The next day his back was inflamed and he discovered a small puncture wound over his spine and a few days later he developed a body rash. As months passed he regained memory of the missing 1.5 hours. He remembered that he had been in the UFO and in telepathic communication with small 4'8" humanoids. They had whitish gray skin, large heads, large eyes, small slit-like mouths and mask-like features. He had been in a drug-like state on a table and they had poked a rod like device into his back. After this they escorted him about the ship and later dropped him off at his car.  
 Type: ce4 event  
-Reference: Pea Research (B1-F p282)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p282)  
 Location: Alamogordo, NM  
 See also: 3/4/69  
 
@@ -5080,7 +5080,7 @@ Location: Loring AFB
 Date: 10/28/1975  
 Description: Confidential CINC/NORAD Report: UFOs, suspicious objects seen by ground personnel. Sounded like jet aircraft. Intermittent radar contact made with object. Jets scrambled to intercept but objects lights went out, interceptors passed and then came on again. Then the object increased in speed and raised to a high altitude and could not be discerned from the stars. Description: Through binoculars, looked like 100 ft. sphere and appeared to have craters around the outside. To date, AF and SAC helicopters have failed to provide a positive I.D. of the UFO.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p468)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p468)  
 Location: Loring AFB  
 See also: 11/11/75  
 See also: 7/52  
@@ -5089,14 +5089,14 @@ See also: 7/52
 Date: 10/29/1975  
 Description: NMCC Joint Staff Memo: Subject: AFB penetration. At 290200 EST, AFOC informed NMCC that an unidentified helicopter (UFO), possibly two, had been sighted flying low over Loring AFB, Maine, in proximity to a weapons storage area. Army Nat. Guard helos called in to assist in locating UFO. NORAD informed of the incident by SAC. Received authority to proceed into Canadian airspace, if necessary, to locate UFO. A similar incident was reported the evening before.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p468)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p468)  
 Location: Loring AFB  
 
 ## Event 681
 Date: 11/11/1975  
 Description: Confidential CINC/NORAD Report  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p468)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p468)  
 Location: US  
 See also: 10/28/75  
 
@@ -5104,7 +5104,7 @@ See also: 10/28/75
 Date: 1976  
 Description: Project SIGMA becomes an independent project from Project xxxxxxx.  
 Type: ufo sighting  
-Reference: Pea Research (B1-A, SIGMA)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A, SIGMA)  
 Location: US  
 Attributes: Majestic  
 See also: 1968  
@@ -5113,28 +5113,28 @@ See also: 1968
 Date: 1/21/1976  
 Description: MEMO from NMCC by Rear Adm. J. B. Morin stating: Two UFOs reported near the flight line at Cannon AFB, N.M. Security Police report the UFOs to be 25 yards (75 ft.) in diameter, gold/silver in color with blue light on top, hole in the middle and red light on the bottom.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p524, B1-F p342)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p524, B1-F p342)  
 Location: Cannon AFB, NM  
 
 ## Event 684
 Date: 4/9/1976  
 Description: CONFIDENTIAL CIA Message: Source (name Censored) seeks guidance from CIA UFO experts as to material in his report that should remain classified.  
 Type: confidential message  
-Reference: Pea Research (B1-E p508)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p508)  
 Location: Langley, VA  
 
 ## Event 685
 Date: 7/30/1976  
 Description: NMCC Joint Staff Memo: Subject: Reports of UFOs. At approx. 0345, EDT, the ANMCC received several reports of UFOs near Fort Ritchie. At 0130, civilians reported an UFO to the NAB. At 0255, two separate patrols sighted three UFOs; oblong with a reddish tint. At 0300, the Desk Sgt. (name with held) sighted an UFO over the ammo storage area at 100–200 yds. altitude. At 0345, an Army Police Sgt. sighted an UFO in the vicinity of sight R. ANMCC was requested to have each individual write a statement on the sightings. One person said the UFO was the size of a 2.5 ton truck.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Fort Ritchie, Cascade, Maryland  
 
 ## Event 686
 Date: 9/19/1976  
 Description: Tehran, Iran: Civilians reported an UFO to the AFB. The Iranian AF scrambled an American F-4 for intercept. As the F-4 was vectored towards the brilliant UFO, all communications and instrumentation were suddenly lost. As the pilot broke off pursuit, all aircraft functions returned to normal. A second F-4 that was scrambled began closing in on the UFO at greater than Mach 1 and was closing on the UFO at 150 nautical mph., but the UFO accelerated and stayed ahead of the F-4 (confirmed by Radar). Multi-colored flashing lights were visible on the UFO. The moment the F-4 pilot tried to lock an AIM-9 missile at the UFO he lost all weapons panel and communication control. The UFO launched two smaller UFOs, one of which began to follow the F-4. After evasive action by the F-4, the smaller UFO returned and united with the larger UFO. The other smaller UFO seemed to have landed on the ground so the pilot flew down to investigate it. The landed UFO appeared to be 12feet in diameter. As the pilot descended the light from the landed UFO went out and he lost sight of it. The DIA termed this sighting as “an outstanding report. This case is a classic which meets all the criteria necessary for a study of a UFO phenomenon.” And, “an inordinate amount of maneuverability was displayed by the UFOs.”  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p497, TEHRAN, B1-F p288, B1-G p72)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p497, TEHRAN, B1-F p288, B1-G p72)  
 Location: Tehran, Iran  
 See also: 10/2/72  
 See also: 9/20/76  
@@ -5173,7 +5173,7 @@ Location: Washington DC
 Date: 9/1/1977  
 Description: Air Force Letter from Col. Charles H. Senn, Wash., D.C., to Gen. Duward L. Crow (Ret.), NASA, Wash., D.C. stating: Enclosed are the UFO Fact Sheet and standard response to UFO public inquiries you requested. I sincerely hope you are successful in preventing a reopening of UFO investigations.  
 Type: letter  
-Reference: Pea Research (B1-E p581)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p581)  
 Location: Washington DC  
 
 ## Event 692
@@ -5201,14 +5201,14 @@ Location: Ft. Dix, NJ
 Date: 2/1/1978  
 Description: NASA Information Sheet claims NASA is not involved in a research program involving UFOs, nor is any other government agency. The U.S. Air Force no longer investigates UFOs. (see NASA arrest laws re. private citizens)  
 Type: information sheet  
-Reference: Pea Research (B1-E p515)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p515)  
 Location: Washington DC  
 
 ## Event 696
 Date: 7/18/1978  
 Description: DoD Staff Message: UFO spotted over North Tehran, Iran  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p501)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p501)  
 Location: Tehran, Iran  
 
 ## Event 697
@@ -5222,7 +5222,7 @@ Location: Dayton, OH
 Date: 10/21/1978  
 Description: Aircraft Accident Investigation Summary Report: Fredrick Valentich vanished while reporting a UFO playing cat and mouse with his airplane which was a Cessna 182L. It’s hovering above me… it’s got a greenlight and sort of metallic (like) it’s all shiny (on) the outside… it’s hovering and it’s Airplane not an aircraft… (end of transmission…pilot presumed dead).  
 Type: ufo encounter  
-Reference: Pea Research (B1-E p461-463, B1-F p298)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p461-463, B1-F p298)  
 
 ## Event 699
 Date: 11/9/1978  
@@ -5270,7 +5270,7 @@ Location: Area 51
 Date: 5/10/1980  
 Description: DoD Report: The FAP (Peruvian Air Force) spotted a UFO twice and tried to intercept and destroy the UFO without success.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p503)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p503)  
 Location: Area 51  
 See also: 7/1952  
 
@@ -5336,7 +5336,7 @@ Location: Manzano Test Range
 Date: 11/17/1980  
 Description: SECRET USAF OSI Document: Analysis of photo of UFO following C-5A aircraft inclusive. Photo analysis of Cylinder Shaped UFO legitimate. Photo E. showed legitimate disc shaped UFO of 37 ft. diameter with trilateral insignia on object. USAF still has an interest in all UFO sightings over installations and test ranges. Several other Government agencies, lead by NASA, actively investigate legitimate sightings through COVERT COVER. One agency that deceives the public which such covert cover is the UFO reporting center at U.S. Coast and Geodetic Survey, Rockville, MD. 20852. (The results of PROJECT AQUARIUS is still classified TOP SECRET with access limited to “MJ-12”.)  
 Type: secret document  
-Reference: Pea Research (B1-E p528)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p528)  
 Location: US  
 Attributes: majestic  
 
@@ -5352,7 +5352,7 @@ See also: 3/3/1985
 Date: 12/27/1980  
 Description: USAF UFO report signed by Lt. Col. Charles I. Halt, Deputy Base Commander, RAF Woodbridge stating: Two USAF security police patrolmen saw a UFO either hovering or on legs outside the backgate, Woodbridge. Being early morning, it illuminated the entire forest with a white light. Description: Metallic in appearance and triangular in shape, pulsing red light on top and banks of blue lights underneath. Approx. 2–3 meters across and 2 meters high. It maneuvered through the trees and disappeared.  
 Type: ufo sighting  
-Reference: Pea Research (B1-E p456)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p456)  
 Location: RAF Woodbridge  
 See also: 12/29/1980  
 
@@ -5360,7 +5360,7 @@ See also: 12/29/1980
 Date: 12/29/1980  
 Description: Lt. Col. C. I. Halt, sees a UFO that separates into 5 UFOs and later sees 3 other UFOs.  
 Type: ufo sightings  
-Reference: Pea Research (B1-E p456)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p456)  
 Location: RAF Woodbridge  
 See also: 12/27/1980  
 
@@ -5368,7 +5368,7 @@ See also: 12/27/1980
 Date: 12/29/1980  
 Description: A low flying UFO was escorted by a large number of helicopters (23) including some Chinooks and possibly Hueys, near Dayton, Texas. It was probably escorted to the Top Secret underground installation within Fort Hood, Texas. The secret air force base is NOT listed in the Air Force Officer’s Guide or the Air Force Almanac (it is an Army AFB). The name of the Secret base is Gray AAF, Texas. The special group piloting the helicopters escort for UFO are known as the “BLUE BOYS”. The Texas Department of Public Safety works closely with Gray AAF on UFO cases.  
 Type: ufo sightings  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Dayton, TX  
 See also: 6/6/88  
 
@@ -5390,7 +5390,7 @@ Location: China
 Date: 1/13/1981  
 Description: Bentwaters AFB Air Force Memo from Lt. Col. Charles I. Halt, Deputy Base Commander.  
 Type: memo  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Bentwaters AFB  
 See also: 12/27/80  
 See also: 12/29/80  
@@ -5409,7 +5409,7 @@ See also: 12/29/80
 Date: 10/19/1981  
 Description: Barry Goldwater, Senator, Arizona, in a letter to Lee Graham, Aerojet Electric Systems, Azusa, CA, states that he has given up trying to get into the BLUE ROOM at Wright-Patterson AFB where UFO artifacts are stored by the Air Force.  
 Type: letter  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Washington DC  
 
 ## Event 724
@@ -5467,7 +5467,7 @@ Location: Phoenix, AZ
 Date: 11/27/1982  
 Description: Police Commander Michael McDonald was on patrol at 5:00 a.m. when the area around his car was lighted, as if by a phosphorous flare. Looking up he saw a large white UFO with tinges of red at an altitude of 900–1000 ft. Two other officers, alerted by radio, also observed the UFO. The other two cars gave pursuit to the UFO at speeds of between 60–65 mph but the UFO outdistanced them. A few minutes later another UFO was noted by the commander and then the other two officers. It was a diffuse “domed disc” which was seen to emit a beam of light towards the ground. The UFO then disappeared behind the tree line of a forest preserve. The police report includes a tape recording of the radio communications during the sighting.  
 Type: ufo sighting  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Palatine, IL  
 
 ## Event 732
@@ -5481,7 +5481,7 @@ Location: Gorki, Mahilyow Voblast, Belarus
 Date: 6/24/1983  
 Description: Larry W. Bryant, Director of CAUS, filed a Civil Action, Case #83–1932 (Judge Oliver Gasch) petitioning for a Writ of Habeas Corpus Extraterrestrial, in the United States District Court for the Dist. of Columbia, seeking to obtain the release from custody of “one or more occupants of apparent extraterrestrial origin.” Mr. Bryant contends that the Government action in maintaining secret custody, detention, and prosecution of such extraterrestrials is unlawful and a violation of their basic rights and is seeking to restore their civil rights.  
 Type: lawsuit  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Washington DC  
 See also: 11/3/81  
 
@@ -5496,14 +5496,14 @@ Location: Beirut, Lebanon
 Date: 11/29/1983  
 Description: Dr. Robert I Sarbacher, consultant US Research and Development Board and President and Chairman of the Board, Washington Institute of Technology, in a letter to Dr. William I. Steinman states that Frank Scully’s book (“Behind the Flying Saucers”) story is true and persons definitely involved in operations of recovered saucers were John von Neuman and Dr. Vannever Bush. Also, Dr. Sarbacher thought that Robert Oppenheimer was also involved. Dr. Sarbacher had been invited by President Eisenhower to attend several discussions associated with the reported recoveries, but was unable to attend them. He did receive Special Reports on the recoveries at the Pentagon but was instructed NOT to remove them from his office.  
 Type: letter  
-Reference: Pea Research (A2, B1-E p525, B1-G p49)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A2, B1-E p525, B1-G p49)  
 Location: US  
 
 ## Event 736
 Date: 1984  
 Description: From the Air Traffic Controllers Manual: Controllers MUST report UFOs immediately to AIS (Military), LATCC. A completed report MUST be sent to MOD (AFOR). A list of phone numbers and locations is shown in the directory at Appendix H.  
 Type: manual  
-Reference: Pea Research (B1-E p458)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p458)  
 Location: US  
 
 ## Event 737
@@ -5538,14 +5538,14 @@ Location: US
 Date: 5/16/1984  
 Description: Dept. of the Army letter to W. S. Steinman stating that the IPU was disestablished in the late 1950s and all records were transferred to the Air Force. Therefore the Army isn’t aware of what their function was even though it was a Secret unit of the Army. (FOIA requests to USAF)  
 Type: letter  
-Reference: Pea Research (B1-A p55)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p55)  
 Location: US  
 
 ## Event 742
 Date: 1985  
 Description: Scientific UFO Conference in Darlian, China. China Daily reported that 20,000 people involved in UFO research. Professor Renglin of Guangzhou Jinan University said more than 600 reports in China in prev. 5 years.  
 Type: conference  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: China  
 
 ## Event 743
@@ -5560,21 +5560,21 @@ See also: 12/1980
 Date: 4/19/1985  
 Description: In a letter from Ministry of Defense, Lord Trefgarne states, “There is no organization in the MOD appointed solely for the purpose of studying UFOs, and no staff are employed on the subject full time… the staff in the Department… examine the reports as part of their normal duties… and we cannot inform observers of the probable identity of the objects seen.”  
 Type: letter  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: London, England  
 
 ## Event 745
 Date: 6/28/1985  
 Description: USAF ACCESS RESTRICTED NOTICE: Report TR-DE-3A, Oct. 15, 1955, from Air Tech. Intel. Ctr., file no. TS5–2862, has been WITHDRAWN from the National Archives and is classified a TOP SECRET UFO Report.  
 Type: report  
-Reference: Pea Research (B1-E p529)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p529)  
 Location: National Archives, Washington DC  
 
 ## Event 746
 Date: 8/27/1985  
 Description: Darlian, China, the “China Daily” reports: 20,000 people are involved in UFO research. The first recognized photo of a UFO in China was taken in 1945.  
 Type: newspaper article  
-Reference: Pea Research (B1-E p472)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p472)  
 Location: Darlian, China  
 
 ## Event 747
@@ -5589,14 +5589,14 @@ See also: 11/79
 Date: 5/11/1986  
 Description: Minister Robert H. Henderson and his wife, Nann, of Phoenix, AR, were flying at an altitude of 8500 ft. at 4 p.m. when a very bright UFO was seen approaching head-on to them. As he prepared to take evasive action the UFO passed quickly to the left and below of his plane. The UFO was seen to be wingless and resembling a “modified half-sphere, with the flat side down.” The closure rate was estimated at about 1200 mph.  
 Type: aerial ufo encounter  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: near Sedona, AR  
 
 ## Event 749
 Date: 5/19/1986  
 Description: Near Sao Paulo and Rio de Janeiro, Brazil: Between 9:00 to 12 midnight the Brazilian Air Defense and the Civil Air System were swamped with Radar and pilot UFO sightings. As Ospires Silva, President of Petrobras Oil Company were preparing to land, the control tower informed him of UFO targets on their radar. He and his companion, Alcir Pereira da Silva, saw bright red-orange UFOs, not at all like stars or planes. They attempted to pursue the UFOs for 30 min. but gave up as the UFOs seemed to be jumping from place to place. At this time three F-5E fighter jets were scrambled from Santa Cruz AFB. Capt. Marcio Jordao was able to approach within 12 miles of an UFO, visible to him as a bright light changing from white to green. Lt. Kleber Caldas Marinho chased another UFO which was a very intense light, changing from white to green then red again. Both pilots broke off chase as they were running low on fuel. Ground Radar picked up 10–13 more UFOs that surrounded another plane with Capt. Armindo Souza Viriato de Marinho, K.C. Freitas piloting it. Capt. Freitas tracked the UFOs on his radar, but only de Freitas, A.S.V. saw them visually once as they climbed vertically past him. Brig. Gen. Octavio Moreira Lima made these events public at a press conference and allowed the pilots and radar operators to be questioned by the media.  
 Type: ufo sightings  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Sao Paulo, Brazil  
 Location: Rio de Janeiro, Brazil  
 See also: 7/52  
@@ -5605,21 +5605,21 @@ See also: 7/52
 Date: 11/17/1986  
 Description: Japan Airlines flight #1628, a Boeing 747 freighter, was cruising at 35000 ft. altitude and at 5:11 p.m. the pilots noticed bright lights 30 degrees to the left and below them. The UFOs moved up directly in front of the 747 and, said Capt. Kenju Terauchi, “most unexpectedly, two spaceships stopped in front of our face, shooting off lights (like numerous exhaust pipes). The inside cockpit shined brightly and I felt warm in the face.” The UFOs appeared as two rectangular clusters or arrays of light, one above the other. As the larger UFOs moved away from the 747 Airlines Flight 1628 there remained two smaller flat white UFOs. At about 5:30 p.m. Capt. Terauchi checked the pale white light behind their craft visually. He saw a gigantic “walnut-shaped” UFO (Saturn-shaped) following them. As an evasive action the Capt. ordered the 747 to turn away from the giant UFO that was following them, at which time the UFO “spaceship” disappeared.  
 Type: ufo sightings  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: Fort Yukon, Alaska  
 
 ## Event 751
 Date: 2/15/1987  
 Description: The San Jose Mercury states that the Pentagon has a “Black Budget” which has become a “Black Hole” for secret projects spending. It is far bigger than the federal budget for education, transportation, agriculture or the environment. These Projects are classified above TOP SECRET, therefore very few federal investigators have the security clearances necessary to audit black programs.  
 Type: newspaper article  
-Reference: Pea Research (J4-B)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (J4-B)  
 Location: San Jose, CA  
 
 ## Event 752
 Date: 3/12/1987  
 Description: US Army Intelligence letter: The IPU (Interplanetary Phenomenon Unit) of the Scientific and Technical Branch, Counter intelligence Directorate, Department of the Army was disestablished during the 1950’s and never reactivated. All of its records were turned over to the USAF (which can’t seem to locate them). This letter was sent to Timothy Good.  
 Type: letter  
-Reference: Pea Research (B1-E p484)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p484)  
 Location: US  
 See also: 5/16/84  
 
@@ -5627,7 +5627,7 @@ See also: 5/16/84
 Date: 9/4/1987  
 Description: JMP (Justice for Military Personnel) letter sent to President Ronald Reagan. This letter, verified by: Astronaut L. Gordon Cooper, Maj. Donald E. Keyhoe (USMC, Ret.) (now deceased), MUFON (Sequin, TX), APRO (Tucson, AZ) and Just Cause (Coventry, CT) states that: “WE (military personnel) have been ordered by the CIA to shoot at UFOs, silence pilots who have seen UFOs, intimidate, harass, jail, confine to institutions, and destroy military careers of witnesses to UFO sightings. We VIOLATED the Freedom of Information Act by hiding Government documents.” Maj. Keyhoe sent this letter to PEA Research in 1987.  
 Type: letter  
-Reference: Pea Research (JMP)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (JMP)  
 Location: Washington DC  
 See also: 7/52  
 See also: 9/24/47  
@@ -5657,7 +5657,7 @@ Location: Nevada
 Date: 12/21/1987  
 Description: CIA letter to former assistant director of NICAP Mr. Richard H. Hall stating the CIA’s reasons for denying certain FOIA requests about himself on the basis of national defense reasons and must be kept secret. Mr. Hall is an UFO investigator and book author.  
 Type: letter  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Richard_H._Hall)  
 Location: Langley, VA  
 
@@ -5679,14 +5679,14 @@ Location: Las Vegas, NV
 Date: 5/5/1988  
 Description: For the third time, publicly, President Ronald Reagan states that the nations of the earth would unite if we were threatened by an Alien race from a hostile planet.  
 Type: statement  
-Reference: Pea Research (J4-A)  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (J4-A)  
 Location: Washington DC  
 
 ## Event 761
 Date: 6/6/1988  
 Description: Letter received from ufologist Paul F. Bennewitz describing Project Beta: Alien base located in New Mexico consisting of type "Grey" Aliens. NASA CIR film has aided in locating this base and revealing US Military involvement with the "Greys". Aliens helped US Military to build a working saucer, Atomic Powered. Two women and a boy exposed to radiation burns by this saucer. Government is not picking up the medical bills. "Grey" base is currently abandoned. Another group called "Orange" is based on the west slope of Mt. Archeleta near "the Diamond". Goal of Project Beta: to locate, inventory and propose ways of destroying Alien bases.  
 Type: letter  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Location: New Mexico  
 See also: 12/29/80  
 
@@ -5815,7 +5815,7 @@ Location: Las Vegas, NV
 Date: 9/28/1989  
 Description: UFO landing and Government attempt at intercept: Six helicopters circle around an UFO, between 574–1000 ft. in diam. while it was close to a downed UFO on the beach. The UFOs apparently got away. The eyewitness took 48 photos of the event. This even occurred in Suffolk County.  
 Type: ufo retrieval attempt  
-Reference: Pea Research  
+Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
 Reference: [Archive.org](https://web.archive.org/web/20070126112739/ttp://www.20kweb.com/weird_stuff/ufo_landing_government_intercept.html)  
 Location: Smith's Point Beach, Shirley, NY  
 
