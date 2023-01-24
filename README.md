@@ -349,9 +349,9 @@ Magnolia ID: 26
 
 ## Event 48
 Date: 4/23/1897  
-Description: Judge Lawrence A. Byrne of Texarkana, Arkansas, was surveying a tract of land when he saw a peculiar object anchored on the ground. "It was manned by three men who spoke a foreign language, but judging from their looks one would take them to be Japs." (Farish, in Allende Letters  
+Description: Judge Lawrence A. Byrne of Texarkana, Arkansas, was surveying a tract of land when he saw a peculiar object anchored on the ground. "It was manned by three men who spoke a foreign language, but judging from their looks one would take them to be Japanese."  
 Type: ufo sighting  
-Reference: Award Special, 1968) ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
+Reference: Farish, in Allende Letters - Award Special, 1968 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
 Location: McKinney Bayou, Arkansas  
 Magnolia ID: 28  
 
@@ -630,17 +630,17 @@ Location: Antartica
 
 ## Event 86
 Date: 1/30/1933  
-Description: Hitler is made Chancellor of Germany  
+Description: Hitler is made Chancellor of Germany.  
 Type: historical event  
-Reference: [Wikipedia](https://en.wikipedia.org/wiki/Adolf_Hitler's_rise_to_power  
+Reference: [Wikipedia](https://en.wikipedia.org/wiki/Adolf_Hitler's_rise_to_power)  
 Location: Germany  
 
 ## Event 87
 Date: 3/4/1933  
 End date: 4/12/1945  
-Description: President Franklin D. Roosevelt in office  
+Description: President Franklin D. Roosevelt in office.  
 Type: historical event  
-Reference: [Wikipedia](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt  
+Reference: [Wikipedia](https://en.wikipedia.org/wiki/Franklin_D._Roosevelt)  
 Location: Washington DC  
 
 ## Event 88
@@ -653,9 +653,9 @@ Magnolia ID: 48
 
 ## Event 89
 Date: 7/4/1933  
-Description: The Nazis become the only political party left in Germany, after all other parties are banned or split up  
+Description: The Nazis become the only political party left in Germany, after all other parties are banned or split up.  
 Type: historical event  
-Reference: [Wikipedia](https://en.wikipedia.org/wiki/Adolf_Hitler's_rise_to_power  
+Reference: [Wikipedia](https://en.wikipedia.org/wiki/Adolf_Hitler's_rise_to_power)  
 Location: Germany  
 
 ## Event 90
@@ -830,7 +830,7 @@ Location: Germany
 
 ## Event 113
 Date: 12/1942  
-Description: THEY FOLLOW THE LEADER - Mrs. A.M. Strickler, while out walking between 9 and 10pm, sighted in the sky over the Susquehanna Bridge, on Route 30, a string of highly illuminated objects which, she says she can best describe as being similar to a train of passenger coaches, seeming to weave in and out in a highly specialized follow-the-leader pattern. Illumination seemed to emanate from an endless string of portholes which were arranged on a straight line or plane and were yellowish like an incandescent bulb. The objects were cigar-shaped, but could have been one side of a flat, saucer-shaped form. Each "coach" was identical in size and shape except the first, which was larger, brighter and seemed to have a proboscis-shaped appendage in front like a figure head. The objects traveled extremely fast, emitting no noise, jet exhaust, or flame  
+Description: THEY FOLLOW THE LEADER - Mrs. A.M. Strickler, while out walking between 9 and 10pm, sighted in the sky over the Susquehanna Bridge, on Route 30, a string of highly illuminated objects which, she says she can best describe as being similar to a train of passenger coaches, seeming to weave in and out in a highly specialized follow-the-leader pattern. Illumination seemed to emanate from an endless string of portholes which were arranged on a straight line or plane and were yellowish like an incandescent bulb. The objects were cigar-shaped, but could have been one side of a flat, saucer-shaped form. Each "coach" was identical in size and shape except the first, which was larger, brighter and seemed to have a proboscis-shaped appendage in front like a figure head. The objects traveled extremely fast, emitting no noise, jet exhaust, or flame.  
 Type: ufo sighting  
 Reference: Fortean Society Sightings (Scully box 3 ff5)  
 Location: Columbia, PA  
@@ -957,7 +957,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/Messerschmitt_Me_262)
 
 ## Event 131
 Date: 8/1944  
-Description: Twelve dismantled V-2 rockets were shipped to Japan. These left Bordeaux in August 1944 on the transport U-boats U-219 and U-195, which reached Jakarta in December 1944. A civilian V-2 expert was a passenger on U-234, bound for Japan in May 1945 when the war ended in Europe. The fate of these V-2 rockets is unknown  
+Description: Twelve dismantled V-2 rockets were shipped to Japan. These left Bordeaux in August 1944 on the transport U-boats U-219 and U-195, which reached Jakarta in December 1944. A civilian V-2 expert was a passenger on U-234, bound for Japan in May 1945 when the war ended in Europe. The fate of these V-2 rockets is unknown.  
 Type: aerospace  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/V-2_rocket#Operational_history)  
 
@@ -1002,7 +1002,7 @@ See also: 1947
 
 ## Event 137
 Date: 1945  
-Description: Radar signals secretly bounced off the Moon “during WW2” according to a public statement by Dr. Oliver J. Lee  
+Description: (Approximate date.) Radar signals secretly bounced off the Moon during WW2 according to a public statement by Dr. Oliver J. Lee.  
 Type: scientific advance  
 Reference: [link](https://medium.com/@richgel99/we-secretly-bounced-radar-signals-off-the-moon-during-ww2-f4699297038f)  
 Location: New Jersey  
