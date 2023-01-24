@@ -5,7 +5,7 @@ Load success
 Date: 0's  
 Description: Greek and Roman records of UFO's  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 1
 Date: 1600's  
@@ -216,7 +216,7 @@ Location: County Donegal, Ireland
 Date: 1926  
 Description: UFO’s seen around Altai Himalaya  
 Type: UFO sighting  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Himalaya Mountains  
 
 ## Event 34
@@ -288,7 +288,7 @@ Date: 1935
 End date: 1937  
 Description: UFO activity around Second Italo-Ethiopian War  
 Type: UFO activity  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Ethiopia  
 
 ## Event 44
@@ -521,7 +521,7 @@ Reference: Pea Research (A5, B3-C)
 Date: 1944  
 Description: Richard Shaver's stories re. UFO  
 Type: paranormal phenomenon  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 76
 Date: 4/1944  
@@ -553,7 +553,7 @@ Location: Germany
 Date: 1945  
 Description: Green Fireballs seen in Southwestern US  
 Type: anomalous phenomenon  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Los Alamos, NM  
 
 ## Event 81
@@ -694,7 +694,7 @@ Location: New York City, New York
 Date: 1946  
 Description: Ghost Rockets seen in Scandinavia  
 Type: UFO sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Scandinavia  
 
 ## Event 100
@@ -1127,7 +1127,7 @@ Attributes: Einstein
 Date: 6/21/1947  
 Description: Harold Dahl sees 6 discs near Tacoma Harbor, WA. Drops metal residue.  
 Type: UFO sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Maury Island, WA  
 Attributes: metals  
 
@@ -1149,7 +1149,7 @@ Reference: Pea Research
 Date: 6/24/1947  
 Description: Kenneth Arnold sights 9 discs near Mt. Rainer, Washington  
 Type: UFO sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Mt. Rainer, WA  
 
 ## Event 156
@@ -1432,13 +1432,13 @@ See also: 11/30/47
 Date: 9/23/1947  
 Description: Confirmation sighting of Arnold's discs by Fred Johnson  
 Type: UFO sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 196
 Date: 9/23/1947  
 Description: USAF project "SIGN" started  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 197
 Date: 9/23/47  
@@ -1625,7 +1625,7 @@ Location: Muray Hill, NJ
 Date: 12/30/1947  
 Description: USAF project "Saucer" started  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 219
 Date: 12/30/1947  
@@ -1639,7 +1639,7 @@ Location: Washington DC
 Date: 1948  
 Description: More Ghost Rockets seen in Europe  
 Type: UFO sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Europe  
 
 ## Event 221
@@ -1670,14 +1670,14 @@ Reference: [link](https://ia904604.us.archive.org/17/items/fate-1948-1_202110/FA
 Date: 1/7/1948  
 Description: Capt. Mantell of USAF is killed while pursuing UFO  
 Type: UFO encounter  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Godman Air Base, Kentucky  
 
 ## Event 225
 Date: 1/7/1948  
 Description: Capt. Mantell of USAF is killed while pursuing UFO  
 Type: UFO encounter  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Godman Air Base, Kentucky  
 
 ## Event 226
@@ -1879,7 +1879,7 @@ See also: 7/25/48
 Date: 7/24/1948  
 Description: Eastern Airlines pilots Chiles and Whitted see UFO  
 Type: UFO sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Montgomery, Alabama  
 
 ## Event 251
@@ -1963,7 +1963,7 @@ Rocket altitude: 150.3km
 Date: 10/1/1948  
 Description: Lt. G. Gorman air duels with UFO for 25 minutes  
 Type: UFO sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Fargo, North Dakota  
 
 ## Event 261
@@ -1984,7 +1984,7 @@ Location: Japan
 Date: 11/1948  
 Description: Green fireballs prominent in New Mexico  
 Type: anomalous phenomenon  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Los Alamos, NM  
 
 ## Event 264
@@ -2148,7 +2148,7 @@ Reference: Pea Research (B1-A p53, RECOVERY)
 Date: 2/11/1949  
 Description: USAF Project "GRUDGE" started  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Wright Patterson Air Force Base, Dayton, OH  
 
 ## Event 285
@@ -2189,7 +2189,7 @@ Rocket altitude: 133.5km
 Date: 4/1949  
 Description: 2 UFO's tracked by theodolite at White Sands, New Mexico.  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: White Sands Proving Grounds, New Mexico  
 
 ## Event 290
@@ -2221,7 +2221,7 @@ Location: Arrey, NM
 Date: 4/27/1949  
 Description: USAF press release admits that saucers may exist  
 Type: historical event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 294
 Date: 5/5/1949  
@@ -2281,13 +2281,13 @@ Rocket altitude: 133.5km
 Date: Summer 1949  
 Description: USAF Project "Twinkle" started  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 302
 Date: 8/19/1949  
 Description: Fitzgerald and Gamey see little men in desert.  
 Type: ce3 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 303
 Date: 8/29/1949  
@@ -2397,7 +2397,7 @@ Rocket altitude: 130.3km
 Date: 12/27/1949  
 Description: USAF Project "Saucer" closed  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 317
 Date: 12/28/1949  
@@ -2451,7 +2451,7 @@ Reference: [Medium](https://medium.com/@richgel99/a-list-of-forgotten-pre-roswel
 Date: 1/1950  
 Description: TRUE magazine publishes first article on Flying Saucers  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 325
 Date: 1/1/1950  
@@ -2510,7 +2510,7 @@ Rocket altitude: 148.7km
 Date: 2/22/1950  
 Description: USAF denies existance of flying saucers  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 333
 Date: 3/8/1950  
@@ -2524,7 +2524,7 @@ Location: University of Denver
 Date: 3/8/1950  
 Description: Mysterious "Silas Newton" speaks at University of Denver  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 335
 Date: 3/16/1950  
@@ -2591,7 +2591,7 @@ Location: Glens Falls, NY
 Date: 4/27/1950  
 Description: TWA flight 117 sights UFO  
 Type: ufo sighting  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 344
 Date: 5/11/1950  
@@ -2612,7 +2612,7 @@ See also: 4/7/1950
 Date: 6/1950  
 Description: Many sightings  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 347
 Date: 6/25/1950  
@@ -2631,13 +2631,13 @@ Reference: [link](https://digitalcollections.uwyo.edu/ahcpublic/UFO/1950_Flying%
 Date: 7/4/1950  
 Description: Daniel Fry makes UFO contact and is taken to NYC and back in 30 minutes  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 350
 Date: 7/4/1950  
 Description: Daniel Fry makes UFO contact and is taken to NYC and back in 30 minutes  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: White Sands Proving Grounds, NM  
 
 ## Event 351
@@ -2742,7 +2742,7 @@ Location: Canada
 Date: 12/1950  
 Description: Project "Magnet" authorized in Canada  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Canada  
 
 ## Event 364
@@ -2845,7 +2845,7 @@ Rocket altitude: 0km
 Date: Summer 1951  
 Description: USAF project "Bluebook" is started  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: US  
 
 ## Event 378
@@ -3016,20 +3016,20 @@ Rocket altitude: 103.5km
 Date: 6/1952  
 Description: Truman Bethurum meets Aura Rhanes and visits saucer many times  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 399
 Date: 6/1952  
 Description: Big month for sightings  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: US  
 
 ## Event 400
 Date: 6/1952  
 Description: Reports of UFO's in Korean War  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: US  
 
 ## Event 401
@@ -3064,20 +3064,20 @@ See also: 7/52
 Date: 7/1952  
 Description: Pilots Nash and Fortenberry see 6 discs.  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 406
 Date: 7/1952  
 Description: Ohio Northern University sets up Project "A" to investigate the UFO's.  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Ohio Northern University  
 
 ## Event 407
 Date: 7/14/1952  
 Description: Pan American pilots see formation of UFO's.  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 408
 Date: 7/16/1952  
@@ -3099,7 +3099,7 @@ Date: 7/19/1952
 End date: 7/26/1952  
 Description: UFO's detected by radar over Washington., D.C.  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Washington DC  
 Attributes: radar  
 
@@ -3114,7 +3114,7 @@ Location: Andrews AFB
 Date: 7/23/1952  
 Description: Orfeo Angelucci takes ride in saucer  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 413
 Date: 7/23/1952  
@@ -3142,7 +3142,7 @@ Location: Washington DC
 Date: 7/27/1952  
 Description: Truman Bethurum visits spaceship and meets crew. Many other visits.  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 417
 Date: 7/28/1952  
@@ -3181,14 +3181,14 @@ Location: Britain
 Date: 7/29/1952  
 Description: USAF Gen. Samford holds UFO press conference  
 Type: historical event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Washington DC  
 
 ## Event 422
 Date: 7/29/1952  
 Description: USAF pilot pursues UFO over Michigan  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Michigan  
 
 ## Event 423
@@ -3217,7 +3217,7 @@ Location: Langley, Virginia
 Date: 8/19/1952  
 Description: J. D. Desvergers (scoutmaster) has contact with saucer. Is burned.  
 Type: ce3 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Attributes: injury  
 
 ## Event 427
@@ -3249,7 +3249,7 @@ See also: 2/23/1955
 Date: 9/12/1952  
 Description: Space "monster" appears from saucer near Sutton, West VA  
 Type: ce3 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Sutton, West Virgina  
 
 ## Event 431
@@ -3328,7 +3328,7 @@ Attributes: Majestic
 Date: 11/20/1952  
 Description: George Adamski contacts man from Venus.  
 Type: ce3 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: CA  
 
 ## Event 441
@@ -3398,7 +3398,7 @@ Reference: Pea Research
 Date: 2/1953  
 Description: Two strange men from another planet hired in San Francisco - mysterious, then disappear.  
 Type: anomalous event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: San Francisco, CA  
 
 ## Event 450
@@ -3562,7 +3562,7 @@ Reference: Pea Research
 Date: 11/10/1953  
 Description: A. K. Bender UFO researcher silenced.  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 472
 Date: 11/13/1953  
@@ -3625,7 +3625,7 @@ Location: California
 Date: 1/1954  
 Description: Giant UFO Over Baltimore and Washington.  
 Type: ufo sighting  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 481
 Date: 1/24/1954  
@@ -3647,7 +3647,7 @@ Location: Carswell AFB, TX
 Date: 2/15/1954  
 Description: Two small boys see and take pic of UFO near Coniston, England.  
 Type: ufo sighting  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Coniston, England  
 Attributes: ufo photo  
 
@@ -3655,7 +3655,7 @@ Attributes: ufo photo
 Date: 2/18/1954  
 Description: Cedric Allingham meets and takes a picture of a man from Mars and saucer.  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 485
 Date: 2/20/1954  
@@ -3676,7 +3676,7 @@ Location: Miami, FL
 Date: 3/1954  
 Description: Sec. of Air Force Talbott's aircraft paced by UFO over Fresno, CA  
 Type: ufo encounter  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Fresno, CA  
 
 ## Event 488
@@ -3741,7 +3741,7 @@ See also: 4/12/54
 Date: 4/24/1954  
 Description: Buck Nelson takes a trip to Venus, Moon, Mars in saucer.  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Mt. View, MO  
 
 ## Event 496
@@ -3799,7 +3799,7 @@ Location: Washington DC
 Date: 8/1954  
 Description: Frank Edwards, pro-saucer newscaster fired.  
 Type: historical event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 504
 Date: 8/1954  
@@ -3828,28 +3828,28 @@ See also: 8/26/1953
 Date: 8/21/1954  
 Description: Cecil Sutton and family have run in with spacemen.  
 Type: ce3 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Hopkinsville, Kentucky  
 
 ## Event 508
 Date: 8/25/1954  
 Description: Two girls in Norway meet spaceman.  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Norway  
 
 ## Event 509
 Date: 8/28/1954  
 Description: Two boys in Quebec, Canada see spaceship land. Two or three men get out.  
 Type: ce3 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Quebec, Canada  
 
 ## Event 510
 Date: 10/1954  
 Description: Project "Magnet" discontinued  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Canada  
 
 ## Event 511
@@ -3863,7 +3863,7 @@ Location: North Weald Airfield, Essex, England: Flight Lt. Jimmy Salandin took o
 Date: 11/6/1954  
 Description: Ray Stanford contacts spacecraft with many witnesses  
 Type: ce3 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Padre Island, TX  
 
 ## Event 513
@@ -3877,20 +3877,20 @@ Location: Northwest Miami, FL
 Date: 11/30/1954  
 Description: Meteorite or something hurls thru roof of Mrs. H. Hodges in Alabama.  
 Type: anomalous event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Alabama  
 
 ## Event 515
 Date: 12/22/1954  
 Description: World catastrophe predicted by Prof. Loughead via Dorothy Martin.  
 Type: channelling  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 516
 Date: 12/22/1954  
 Description: World catastrophe predicted by Prof. Loughead via Dorothy Martin.  
 Type: channelling  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 517
 Date: 1955  
@@ -3994,21 +3994,21 @@ Atomic MT: 1.6
 Date: 1956  
 Description: Much UFO activity and interest in Mexico.  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Mexico  
 
 ## Event 531
 Date: 1956  
 Description: Much UFO activity in South America  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: South America  
 
 ## Event 532
 Date: 1956  
 Description: E. R. Rayburn, Twin Falls, Idaho see saucer capture 400lbs steer from farm  
 Type: ufo sighting  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Twin Falls, Idaho  
 Attributes: cattle mutilation  
 
@@ -4061,7 +4061,7 @@ Location: US
 Date: 4/7/1956  
 Description: Elizabeth Klarer, South Africa takes ride in saucer, talks to Venusians.  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: South Africa  
 
 ## Event 540
@@ -4075,7 +4075,7 @@ Location: US
 Date: 7/19/1956  
 Description: Michael Savage, Cal. takes pic of saucer.  
 Type: ufo sighting  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: California  
 Attributes: ufo photo  
 
@@ -4083,14 +4083,14 @@ Attributes: ufo photo
 Date: 8/29/1956  
 Description: National Investigations Committee on Aerial Phenomena organized in Washington DC  
 Type: historical event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Washington DC  
 
 ## Event 543
 Date: 9/7/1956  
 Description: Hutchinson of Moneymore, Ireland wrestles with UFO. Disc escapes.  
 Type: ufo encounter  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Moneymore, Ireland  
 
 ## Event 544
@@ -4118,7 +4118,7 @@ Location: Washington DC
 Date: 1957  
 Description: Cynthia Appleton, Birmingham, England is visited by spacemen  
 Type: ce3 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Birmingham, England  
 
 ## Event 548
@@ -4138,7 +4138,7 @@ Reference: [link](https://en.wikipedia.org/wiki/Soviet_atomic_bomb_project)
 Date: 3/10/1957  
 Description: Pan American Airways Plane almost collides with UFO (NY to San Juan, P.R. run)  
 Type: ufo encounter  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: New York  
 Attributes: aerospace  
 
@@ -4146,7 +4146,7 @@ Attributes: aerospace
 Date: 3/10/1957  
 Description: Pan American Airways Plane almost collides with UFO (NY to San Juan, P.R. run)  
 Type: ufo sighting  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: New York  
 Attributes: aerospace  
 
@@ -4181,7 +4181,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/International_Geophysical_Y
 Date: 7/30/1957  
 Description: Jack Stephens, Galt, Ontario sees spaceship on ground for 45 minutes  
 Type: ce2 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Galt, Ontario  
 
 ## Event 557
@@ -4209,7 +4209,7 @@ Date: 11/2/1957
 End date: 11/3/1957  
 Description: Levelland, TX: many sightings, with numerous cars stalled  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Levelland, TX  
 
 ## Event 561
@@ -4224,7 +4224,7 @@ See also: 11/5/57
 Date: 11/5/1957  
 Description: Reinhold Schmidt, Kearney, Nebr., goes aboard saucer, talks to spacepeople  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Kearney, NE  
 
 ## Event 563
@@ -4238,7 +4238,7 @@ Location: Loveland, TX
 Date: 11/6/1957  
 Description: Richard Kehoe & others see landed saucer, stalled cars, talk to spacepeople  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 565
 Date: 11/12/57  
@@ -4287,13 +4287,13 @@ Location: Washington, DC
 Date: 1/22/1958  
 Description: Major D. Keyhoe cut off TV show dealing with UFO discussion  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 572
 Date: 2/1958  
 Description: Brazilian Navy releases authentic picture of UFO  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 
 ## Event 573
 Date: 2/1/1958  
@@ -4306,21 +4306,21 @@ Location: Cape Canaveral Launch Complex 26
 Date: 2/5/1958  
 Description: Reinhold Schmidt's 2nd contact with saucers & spacepeople, takes ride.  
 Type: ce4 event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Kearney, NE  
 
 ## Event 575
 Date: 3/1958  
 Description: Big "flap" in Arizona. Much activity.  
 Type: ufo sightings  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: Arizona  
 
 ## Event 576
 Date: 4/1958  
 Description: All UN members queried as to status of UFO activity in respective countries  
 Type: ufological event  
-Reference: Keziah Poster  
+Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)  
 Location: New York City, New York  
 
 ## Event 577
