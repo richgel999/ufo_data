@@ -1,4 +1,3 @@
-Load success
 ## Event 0
 Date: 0's  
 Description: Greek and Roman records of UFO's  
@@ -5843,7 +5842,7 @@ Date: 10/14/1954
 Description: Flight Lt. Jimmy Salandin took off in his Meteor jet at 4:15pm and climbed up to 16,000 ft. When he was over Southend, England, two circular UFOs shot past him at 9o’clock high. One UFO was silvery and the other gold in color. A third UFO appeared ahead of him on a collision course. It had a bun-shaped top, a flange like two saucers in the center and a bun shaped dome underneath and was silvery in color. It flew close enough to his jet to overlap his windshield.  
 Type: ufo sighting  
 Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)  
-Location: North Weald Airfield, Essex, England: Flight Lt. Jimmy Salandin took off in his Meteor jet at 4:15pm and climbed up to 16,000 ft. When he was over Southend, England, two circular UFOs shot past him at 9o’clock high. One UFO was silvery and the other gold in color. A third UFO appeared ahead of him on a collision course. It had a bun-shaped top, a flange like two saucers in the center and a bun shaped dome underneath and was silvery in color. It flew close enough to his jet to overlap his windshield.  
+Location: North Weald Airfield, Essex, England  
 
 ## Event 760
 Date: 10/14/1954  
