@@ -1,4 +1,5 @@
 JSON parse succeeded
+Load success
 
 ## Event 0
 Date: 0's  
@@ -2220,7 +2221,7 @@ Location: Arrey, NM
 Date: 4/27/1949  
 Description: USAF press release admits that saucers may exist  
 Type: historical event  
-Reference: ufological Poster  
+Reference: Keziah Poster  
 
 ## Event 294
 Date: 5/5/1949  
