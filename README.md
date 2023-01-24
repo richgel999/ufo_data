@@ -85,7 +85,7 @@ Attributes: Einstein
 
 ## Event 13
 Date: 1885  
-Description: The Benz Patent-Motorwagen by the German Carl Benz is widely regarded as the world’s first practical modern automobile and was the first car put into series production  
+Description: The Benz Patent-Motorwagen by the German Carl Benz is widely regarded as the world’s first practical modern automobile and was the first car put into series production.  
 Type: industrial advance  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen)  
 
@@ -98,7 +98,7 @@ Reference: [link](https://en.wikipedia.org/wiki/Heinrich_Hertz)
 ## Event 15
 Date: 4/20/1889  
 End date: 4/30/1945  
-Description: German dictator Adolf Hitler, who initiated World War 2 and was closely involved in military operations throughout the war, and was central to the perpetration of the Holocaust, is born in Austria-Hungary  
+Description: German dictator Adolf Hitler, who initiated World War 2 and was closely involved in military operations throughout the war, and was central to the perpetration of the Holocaust, is born in Austria-Hungary.  
 Type: historical figure  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Adolf_Hitler)  
 
@@ -159,6 +159,7 @@ Date: 1/1/1914
 Description: The world’s first scheduled passenger airline service took off from St. Petersburg, FL and landed at its destination in Tampa, FL, about 17 miles (27 kilometers) away. The St. Petersburg-Tampa Airboat Line was a short-lived endeavor — only four months — but it paved the way for today’s daily transcontinental flights.  
 Type: aerospace  
 Reference: [link](https://www.space.com/16657-worlds-first-commercial-airline-the-greatest-moments-in-flight.html)  
+Location: St. Petersburg, FL  
 
 ## Event 25
 Date: 7/28/1914  
@@ -235,7 +236,7 @@ Location: New York City, New York
 
 ## Event 36
 Date: 11/29/1929  
-Description: Richard E. Byrd and his companions would become the first to fly over the South Pole. The flight took 19hrs to fly from Little America to the Pole and return.  
+Description: Richard E. Byrd and his companions would become the first to fly over the South Pole. The flight took 19 hours to fly from Little America to the Pole and return.  
 Type: historical event  
 Reference: [link](https://captainantarctica.com.au/exploration/admiral-byrd/)  
 Location: Antartica  
@@ -278,7 +279,7 @@ Location: Washington DC
 
 ## Event 42
 Date: 7/29/1934  
-Description: Ufologist and nuclear physicist Stanton T. Friedman is born in Elizabeth, NJ  
+Description: Ufologist and nuclear physicist Stanton T. Friedman is born in Elizabeth, NJ.  
 Type: historical event  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Stanton_T._Friedman)  
 Location: Elizabeth, NJ  
@@ -731,7 +732,7 @@ Location: Launch Complex 33, White Sands Proving Grounds, NM
 Date: 1/10/1946  
 Description: Public announcements of radar signals bounced off Moon  
 Type: scientific advance  
-Reference: [Medium Article](https://medium.com/@richgel99/some-recovered-post-trinity-pre-1947-history-4d653bbff4c3)  
+Reference: [Medium](https://medium.com/@richgel99/some-recovered-post-trinity-pre-1947-history-4d653bbff4c3)  
 Location: New Jersey  
 
 ## Event 105
@@ -1380,7 +1381,7 @@ Reference: [Newspapers.com](https://www.newspapers.com/clip/106016511/dr-einstei
 Date: 7/29/1947  
 Description: Kenneth Arnold interviews Dahl in Tacoma WA, near Maury Island. Retrieved metals sent to Ray Palmer and sent to a lab for analysis. Metals confiscated by the military from Ray Palmer. Dahl leaves in terror and is tracked down in public archives to the southern Oregon area.  
 Type: ufological event  
-Reference: [Medium Article](https://medium.com/@richgel99/so-whatever-happened-to-harold-a-dahl-of-the-1947-maury-island-incident-fb5a4cdb626e)  
+Reference: [Medium](https://medium.com/@richgel99/so-whatever-happened-to-harold-a-dahl-of-the-1947-maury-island-incident-fb5a4cdb626e)  
 
 ## Event 189
 Date: 7/29/1947  
