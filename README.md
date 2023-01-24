@@ -3227,7 +3227,8 @@ Magnolia ID: 79
 Date: 5/11/1950  
 Description: McMinnville UFO photographs, also known as the Trent UFO photos, were taken by a farming couple, Paul and Evelyn Trent near McMinnville, Oregon.  
 Type: ufo photo  
-Reference: [Newspapers.com](https://www.newspapers.com/clip/115865814/behind-the-flying-saucers-book/)  
+Reference: [link](https://kval.com/news/local/fight-over-ufo-photos-pits-family-versus-newspaper)  
+Reference: [link](https://saucerco.com/blogs/saucer-encounters/mcminnville-ufo-photos)  
 Location: McMinnville, OR  
 
 ## Event 424
