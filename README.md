@@ -1,3 +1,4 @@
+Load success
 ## Event 0
 Date: 0's  
 Description: Greek and Roman records of UFO's  
@@ -2923,7 +2924,7 @@ Location: Hollywood, CA
 Date: 11/1949  
 Description: Photographer Nicholas Van Poppen, an aerospace photography expert, tells Dr. George C. Tyler on 11/49 he flew from Hollywood with Dr. Wang to the Los Alamos complex and sees and makes detailed photographs of a large disc-like object.  
 Type: witness statement  
-Reference: [book "The UFO Crash at Aztec" by Steinman and Stevens]([link](https://www.amazon.com/UFO-Crash-Aztec-Well-Secret/dp/093426905X)  
+Reference: [book "The UFO Crash at Aztec" by Steinman and Stevens](https://www.amazon.com/UFO-Crash-Aztec-Well-Secret/dp/093426905X)  
 See also: 3/25/48  
 See also: 4/48  
 
