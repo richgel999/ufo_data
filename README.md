@@ -1,3 +1,4 @@
+Load success
 ## Event 0
 Date: 0's  
 Description: Greek and Roman records of UFO's  
@@ -76,6 +77,7 @@ Magnolia ID: 1
 
 ## Event 12
 Date: 12/7/1872  
+Time: 0100 hours  
 Description: At King's Sutton an object resembling a haystack flew on an irregular course. Sometimes high, sometimes very low it was accompanied by fire and dense smoke. It produced the same effect as a tornado, felling trees and walls. It suddenly vanished.  
 Type: ufo sighting  
 Reference: Fort 189 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -98,6 +100,7 @@ Attributes: Einstein
 
 ## Event 15
 Date: 5/15/1879  
+Time: 2140  
 Description: Two very large "wheels" were seen spinning in the air and slowly coming to the surface of the sea. Estimated diameter: 40 m. Distance between the objects: 150 m. Speed: 80 km/h/ Duration: 35 min. Witnesses aboard the ship "Vultur"  
 Type: ufo sighting  
 Reference: Round up 17; Anatomy 12 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -122,6 +125,7 @@ Magnolia ID: 3
 
 ## Event 18
 Date: 3/26/1880  
+Time: evening  
 Description: Four men walking near Galisteo Junction were surprised as they heard voices coming from a "strange balloon," which flew over them. It was shaped like a fish and seemed to be guided by a large fanlike device. There were eight to ten figures aboard. Their language was not understood. The object flew low over Galisteo Junction and rose rapidly toward the east.  
 Type: ufo sighting  
 Reference: FSR 65, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -130,6 +134,7 @@ Magnolia ID: 6
 
 ## Event 19
 Date: 6/11/1881  
+Time: 0400  
 Description: The two sons of the Prince of Wales, one of them the future king of England, were cruising aboard "La Bacchante" when an object resembling a fully lighted ship was seen ("a phantom vessel all aglow").  
 Type: ufo sighting  
 Reference: Fort 637; Anatomy 12 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -144,6 +149,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen)
 
 ## Event 21
 Date: 11/2/1885  
+Time: dawn  
 Description: A luminous object circled the harbor. Altitude: 5-6 m. Illuminated the whole town. Duration: 1 1/2 min, as a bluish-green flame. Then plunged into the sea. Made several circles above the ferry-boat pier.  
 Type: ufo sighting  
 Reference: LDLN 48; Anatomy 14 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -158,6 +164,7 @@ Reference: [link](https://en.wikipedia.org/wiki/Heinrich_Hertz)
 
 ## Event 23
 Date: 11/12/1887  
+Time: 2400  
 Description: A huge sphere of fire was observed rising out of the ocean by witnesses aboard the "Siberian." It rose to an altitude of 16 m, flew against the wind, and came close to the ship, then "dashed oft" toward the southeast. Duration: 5 min.  
 Type: ufo sighting  
 Reference: LDLN 48; Anatomy 14 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -206,6 +213,7 @@ Magnolia ID: 10
 
 ## Event 30
 Date: 3/26/1897  
+Time: night  
 Description: Approximate date. Robert Hibbard was caught by an anchor dropped from an unknown flying machine 22 km north of the town. He was dragged over 10 m and fell as his clothes were torn.  
 Type: ufo sighting  
 Reference: FSR 66, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -214,6 +222,7 @@ Magnolia ID: 11
 
 ## Event 31
 Date: 3/28/1897  
+Time: 2230  
 Description: The majority of the population observed an object arriving from the southeast. It looked like a huge light, flew northwestward slowly, came to low altitude. A crowd gathered at a street corner to watch it.  
 Type: ufo sighting  
 Reference: 185 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -222,6 +231,7 @@ Magnolia ID: 12
 
 ## Event 32
 Date: 4/1/1897  
+Time: 2100  
 Description: The whole town saw an object fly under the cloud ceiling. It came down slowly, then flew away very fast to the southeast. When directly over the town it swept the ground with its powerful light. It was seen to rise up at fantastic speed until barely discernible, then to come down again and sweep low over the witnesses. At one point it remained stationary for 5 min at the edge of a low cloud, which it illuminated. All could clearly see the silhouette of the craft.  
 Type: ufo sighting  
 Reference: FSR 66, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -230,6 +240,7 @@ Magnolia ID: 13
 
 ## Event 33
 Date: 4/12/1897  
+Time: 1430  
 Description: On the property of Z. Thacker, 19 km north of Carlinville, an unknown object landed. Before the three witnesses could reach it, the craft, which was shaped like a cigar with a dome, rose slowly and left majestically toward the north. Witnesses: Edward Teeples, William Street and Franklin Metcalf.  
 Type: ufo sighting  
 Reference: 186; Anatomy 12 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -238,6 +249,7 @@ Magnolia ID: 14
 
 ## Event 34
 Date: 4/12/1897  
+Time: 1800  
 Description: A large crowd of miners saw an unknown object land 3 km north of Green Ridge and 4 km south of Girard. The night operator of the Chicago-and-Alton Railroad, Paul McCramer, stated that he came sufficiently close to the craft to see a man emerge from it to repair the machinery. Traces were found over a large area. The object itself was elongated like a ship with a roof and a double canopy. It left toward the north.  
 Type: ufo sighting  
 Reference: 186,187 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -246,6 +258,7 @@ Magnolia ID: 15
 
 ## Event 35
 Date: 4/14/1897  
+Time: 1500  
 Description: An object landed 2 km south of Gas City on the property of John Roush, terrifying the farmers and causing the horses and cattle to stampede. Six occupants of the ship came out and seemed to make some repairs. Before the crowd could approach the object, it rose rapidly and flew toward the east.  
 Type: ufo sighting  
 Reference: 188 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -262,6 +275,7 @@ Magnolia ID: 17
 
 ## Event 37
 Date: 4/15/1897  
+Time: morning  
 Description: A large object was seen to fly slowly toward the north. It seemed ready to land and five men (F. G. Ellis, James Evans, David Evans, Joe Croaskey, Benjamin Buland) drove toward it. About 7 km north of Linn Grove, they found the craft on the ground, came within 700 m of it but it "spread its four giant wings and rose towards the North." Two strange figures aboard the craft made efforts to conceal themselves. Witnesses were surprised at the length of their hair. Most residents of Linn Grove saw the craft in flight.  
 Type: ufo sighting  
 Reference: 190 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -270,6 +284,7 @@ Magnolia ID: 18
 
 ## Event 38
 Date: 4/15/1897  
+Time: nightfall  
 Description: A flying object coming closer and closer to the ground followed a train, as reported by the engineer, Joe Wright  
 Type: ufo sighting  
 Reference: FSR 66,4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -278,6 +293,7 @@ Magnolia ID: 19
 
 ## Event 39
 Date: 4/15/1897  
+Time: 2100  
 Description: A passenger train on the Wabash line, going toward Quincy, was followed by a low-flying object for 15 min between Perry Springs and Hersman. All the passengers saw the craft, which had a red and white light. After Hersman it flew ahead of the train and disappeared rapidly, although the train was then running at 65 km/h.  
 Type: ufo sighting  
 Reference: 190 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -309,6 +325,7 @@ Location: Aurora, TX
 
 ## Event 43
 Date: 4/17/1897  
+Time: morning  
 Description: At least a dozen farmers saw an object maneuver in the sky for an hour before it landed. A strange man near 3 m tall, almost naked and suffering from the heat, was the pilot of the craft. "His talk, while musical, seemed to be a repetition of bellowings." One farmer went near him and received a blow that broke his hip.  
 Type: ufo sighting  
 Reference: 196 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -317,6 +334,7 @@ Magnolia ID: 23
 
 ## Event 44
 Date: 4/19/1897  
+Time: 2230  
 Description: Alexander Hamilton was awakened by a noise among the cattle and went out with his son and his tenant. They saw an elongated cigarshaped object, about 100 m long with a transparent cabin underneath showing narrow reddish bands, hovering 10 m above ground. They approached within 50 m of it. It was illuminated and equipped with a searchlight. Inside it were "six of the strangest beings" the witness had seen, also described as "hideous." They spoke a language no witness could understand. A cow was dragged away by the object with the help of a strong red cable; it was found butchered in a field the next day.  
 Type: ufo sighting  
 Reference: Anatomy 16; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -325,6 +343,7 @@ Magnolia ID: 24
 
 ## Event 45
 Date: 4/20/1897  
+Time: 1800  
 Description: Capt. James Hooton was hunting in the vicinity of Homan when he heard the noise of a steam engine and found an object in a clearing. It looked like a cylinder with pointed ends, lateral wheels, and horizontal blade over it. Hooton spoke with a man who wore dark glasses and walked behind the craft. There were three or four occupants. The witness was told this was indeed "The Airship" and that it used compressed air for propulsion. Hooton saw the wheels spin as the craft rose and flew away.  
 Type: ufo sighting  
 Reference: FSR 66, 4; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -333,6 +352,7 @@ Magnolia ID: 25
 
 ## Event 46
 Date: 4/22/1897  
+Time: 2400  
 Description: Frank Nichols, who lived 3 km east of Josserand and was one of its most respected citizens, was awakened by a machine noise. Looking outside, he saw a heavy, lighted object land in his wheat field. He walked toward it, was stopped by two men who asked permission to draw water from his well. He then had a discussion with a half-dozen men, the crew of the strange machine. He was told how it worked but could not follow the explanation.  
 Type: ufo sighting  
 Reference: 193; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -357,6 +377,7 @@ Magnolia ID: 28
 
 ## Event 49
 Date: 4/25/1897  
+Time: evening  
 Description: People returning from church observed a heavy object being dragged along the ground by a rope attached to a flying craft. The rope got caught in a railroad track. The craft was too high for its structure to be visible but protrusions and a light could be distinguished. After about 10 min a man came down along the rope cut the end free, and went back aboard the craft, which flew away toward the northeast. The man was small and dressed in a lightblue uniform.  
 Type: ufo sighting  
 Reference: 194; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -381,6 +402,7 @@ Magnolia ID: 31
 
 ## Event 52
 Date: 10/28/1902  
+Time: 0305  
 Description: Three persons aboard the "Fort Salisbury," including Second Officer A. H. Raymer, saw a huge, dark object bearing lights in the sea ahead. It was observed sinking slowly. Estimated length: 200 m.  
 Type: ufo sighting  
 Reference: Fort 641; Anatomy 20 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -427,6 +449,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/Ford_Model_T)
 
 ## Event 58
 Date: 5/18/1909  
+Time: 2300  
 Description: Mr. Lethbridge was walking along a road near the mountains when he saw on the grass a large tubelike machine. Aboard were two men wearing furs and talking excitedly in a language the witness could not understand. The grass was found depressed at the site after the object had flown off.  
 Type: ufo sighting  
 Reference: 198; Anatomy 21 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -435,6 +458,7 @@ Magnolia ID: 36
 
 ## Event 59
 Date: 6/16/1909  
+Time: 0410  
 Description: An elongated object following a west to east trajectory flew over the town. It gave off a strong light and was seen by two fishermen to plunge into the sea 6 km away from the coast, after a steady flight of about 9 min.  
 Type: ufo sighting  
 Reference: Anatomy 21 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -443,6 +467,7 @@ Magnolia ID: 37
 
 ## Event 60
 Date: 1/1910  
+Time: 2300  
 Description: Several witnesses among them the vicar, the Mayor, and a policeman -saw a cigar-shaped object hovering at 30 m altitude. A man appeared at a lateral door and was heard shouting some words in an unknown language. The opening closed, and the object accelerated and was lost to sight.  
 Type: ufo sighting  
 Reference: Stuart 24 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -464,6 +489,7 @@ Location: St. Petersburg, FL
 
 ## Event 63
 Date: 6/1914  
+Time: 0400  
 Description: Gustav Herwagen opened the door of his house and saw in a field a shining cigarshaped object with illuminated windows. Near it were four or five dwarfs 1.20 m tall, clad in light clothing. He approached them, but they went aboard the object as soon as they appeared to be aware of his presence. A door closed, and the craft took off silently, climbing vertically.  
 Type: ufo sighting  
 Reference: Nachrichten April, 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -556,6 +582,7 @@ Location: County Donegal, Ireland
 
 ## Event 76
 Date: 2/22/1922  
+Time: 0500  
 Description: William C. Lamb was following strange tracks when he heard a high-pitched sound and saw a circular object intercepting starlight. It became brilliantly lighted and landed in a hollow. Soon afterword, a creature over 2.4 m tall was seen flying from the direction where the object had landed. It left tracks in the snow, which Lamb followed without results.  
 Type: ufo sighting  
 Reference: Anatomy 22 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -593,6 +620,7 @@ Location: Bainbridge Island, WA
 
 ## Event 81
 Date: 6/12/1929  
+Time: 2300  
 Description: Levis Brosseau, 2O was returning home when he saw a dark object with a yellow light and his horse became very nervous. Within 6 m of the object four or five dwarfish figures were running back and forth. He heard their pointed, childlike voices, then saw the dark object take off with a machinelike sound and a rush of air. Estimated size of object: 15 m diameter, 5 m high.  
 Type: ufo sighting  
 Reference: GEPA Dec., 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -645,6 +673,7 @@ Location: Washington DC
 
 ## Event 88
 Date: summer 1933  
+Time: Morning  
 Description: A man observed a faint violet light in a field between this town and Morrestown. Walking to it, he found an ovoid object 3 m in diameter and 2 m thick with a circular opening similar to a vault door. Pushing it, he found the room full of violet light and observed many instruments, no occupant. Smell of ammonia.  
 Type: ufo sighting  
 Reference: APRO Jul., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -830,6 +859,7 @@ Location: Germany
 
 ## Event 113
 Date: 12/1942  
+Alternate date: 1/1943  
 Description: THEY FOLLOW THE LEADER - Mrs. A.M. Strickler, while out walking between 9 and 10pm, sighted in the sky over the Susquehanna Bridge, on Route 30, a string of highly illuminated objects which, she says she can best describe as being similar to a train of passenger coaches, seeming to weave in and out in a highly specialized follow-the-leader pattern. Illumination seemed to emanate from an endless string of portholes which were arranged on a straight line or plane and were yellowish like an incandescent bulb. The objects were cigar-shaped, but could have been one side of a flat, saucer-shaped form. Each "coach" was identical in size and shape except the first, which was larger, brighter and seemed to have a proboscis-shaped appendage in front like a figure head. The objects traveled extremely fast, emitting no noise, jet exhaust, or flame.  
 Type: ufo sighting  
 Reference: Fortean Society Sightings (Scully box 3 ff5)  
@@ -931,6 +961,7 @@ Attributes: Einstein
 
 ## Event 127
 Date: 9/1943  
+Time: 0400  
 Description: Navarro Ocampo, driving between Rosario and Cordoba, saw a large, saucer-shaped object on the ground 500 m to the left of the road. It glowed with a bluish-green light, made a whistling sound, rose to 100 m altitude, then left at fantastic speed. A strange metal block is said to have been found at the spot.  
 Type: ufo sighting  
 Reference: GEPA Dec., 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -1583,6 +1614,7 @@ Attributes: majestic
 
 ## Event 210
 Date: 6/10/1947  
+Time: 2300  
 Description: Coral Lorenzen saw a light rise from the ground in Mexican territory. It took a definite spherical shape and vanished in less than ten seconds among the stars.  
 Type: ufo sighting  
 Reference: Lor. I 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -1598,6 +1630,7 @@ Attributes: Einstein
 
 ## Event 212
 Date: 6/17/1947  
+Time: 1030  
 Description: John A. Petsche, electrical worker and another witness independently saw a disk-shaped object, which seemed to land near Tintown.  
 Type: ufo sighting  
 Reference: Lor. I 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -1622,6 +1655,7 @@ Magnolia ID: 56
 
 ## Event 215
 Date: 6/21/1947  
+Time: 1150  
 Description: Eight disk-shaped objects the size of a house, were seen flying at 1000 km/h. A civilian woman stated that the objects fell with a deadleaf motion and landed before ten witnesses on the shore of the Saint Joe River, in Idaho.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -1658,6 +1692,7 @@ Location: White Sands, NM
 
 ## Event 220
 Date: 6/30/1947  
+Time: 0910  
 Description: A Navy lieutenant was flying at 9000 m toward the south when he saw two circular objects diving at "unconceivable" speed. They were gray, about 3 m in diameter, and appeared to land 40 km south of the Grand Canyon.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -1825,6 +1860,7 @@ See also: 7/7/47
 
 ## Event 243
 Date: 7/8/1947  
+Time: 1200  
 Description: An Air Force major observed a metallic object, reflecting sunlight oscillate, go down to ground level, and rise again. Simultaneously it was observed by a captain in Rodgers Dry Lake.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -1947,6 +1983,7 @@ Reference: [Medium](https://medium.com/@richgel99/the-bsra-tested-fragments-from
 
 ## Event 261
 Date: 8/13/1947  
+Time: 1300  
 Description: Two boys and their father saw a sky-blue object 100 m away and 25 m above ground. Treetops under it were spinning wildly, although the object itself did not spin. It made a swishing sound. Shape: inverted plate, 7 m diameter and 3.5 m thick. There was a red flame on one side of the top.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -1955,6 +1992,7 @@ Magnolia ID: 62
 
 ## Event 262
 Date: 8/14/1947  
+Time: 0900  
 Description: R. L. Johannis saw a disk on the ground and two dwarfs less than 1 m tall, wearing dark blue coveralls with red collars and belts. They had oversized heads, greenish faces, huge, salient dark eyes without eyelashes or eyebrows, but surrounded by a ringlike muscle. They wore something similar to crash helmets. The center of their belts projected a "vapor," and the witness suffocated, feeling a strong electrical discharge. The creature had greenish hands with eight talonlike fingers.  
 Type: ufo sighting  
 Reference: Humanoids 2; Magonia; FRS 67, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -2494,6 +2532,7 @@ Rocket altitude: 165.7km
 
 ## Event 328
 Date: 8/11/1948  
+Time: 1200  
 Description: Two boys were playing outside when a round dull gray object 70 cm in diameter, 30 cm thick, landed near them like a balloon with a metallic noise. It spun, went up, hovered, maneuvered to avoid Phone lines and trees, and flew away to the northeast. An FBI man from St. Paul found an area 70 cm in diameter where the ground showed signs of extreme pressure.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -2511,6 +2550,7 @@ Rocket altitude: 13.4km
 
 ## Event 330
 Date: 8/29/1948  
+Time: 0503  
 Description: A farmer observed a silvery sphere of large dimension rise from a wooded area and hover above his farm, dropping a silvery substance that disintegrated before touching the ground.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -2723,6 +2763,7 @@ Location: Dayton, OH
 
 ## Event 357
 Date: 2/1949  
+Time: 1630  
 Description: C. A. V. an oil company employee, 30, was driving to Lima when he saw a shiny disk at ground level. He walked toward it for 10 min. Three figures came out as he was 20 m away. They looked like mummies, had joined legs and one large foot. They "slid" along the ground. They were covered with a strange "towely" skin, asked the witness where they were, had a lengthy discussion with him, and took him for a trip in their craft.  
 Type: ufo sighting  
 Reference: Lor. III 122 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -2753,6 +2794,7 @@ Rocket altitude: 100.6km
 
 ## Event 361
 Date: 2/17/1949  
+Time: night  
 Description: Alain Berard saw a large, bright object land near his farm with a green lightning flash. It became dark. As he approached the craft, the witness saw three figures with stocky short legs, apparently without heads. Frightened, he fired at them three times. A moment later the object took off vertically.  
 Type: ufo sighting  
 Reference: Oltre il Cielo, Vol. I ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3168,6 +3210,7 @@ Location: Aztec, NM
 
 ## Event 416
 Date: 3/18/1950  
+Time: 1830  
 Description: A rancher, Wilfredo H. Arevalo, saw two objects, one of which landed. He walked within 150 m of the aluminum-looking craft which gave off a greenish-blue vapor and "an intense smell of burning benzine." A large, flat section on top was revolving above a glass cabin in which could be seen four tall men, dressed in something like cellophane, working at various instruments. They saw him and shone a light in his direction while a blue light illuminated the craft; the vapor increased and flames (alternately reddish and greenish) shot out of the base while the object rose with a faint hum. Both craft flew away toward Chile, leaving bluish trails.  
 Type: ufo sighting  
 Reference: Humanoids 32 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3221,6 +3264,7 @@ See also: 5/16/1950
 
 ## Event 423
 Date: 4/8/1950  
+Time: 0200  
 Description: A metal worker was awakened by his dog and observed an object 60 m away at low altitude. It was a gray metal disk, 5 m in diameter, shaped like a top with a kind of turret. It was oscillating, spinning slowly, and had three portholes shining with a blue-white light. It hovered for about 2 min, left toward the north, very fast.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3229,6 +3273,7 @@ Magnolia ID: 75
 
 ## Event 424
 Date: 4/8/1950  
+Time: afternoon  
 Description: David, 12, and Charles, 9, Lightfoot saw a disk land behind a hill and touched it. It was the size of a car tire, about 30 cm high, with a rounded top that rotated and a pivot between the base and the top. It took off very fast. The faces and arms of the boys later became red.  
 Type: ufo sighting  
 Reference: 200 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3244,6 +3289,7 @@ Location: Glens Falls, NY
 
 ## Event 426
 Date: 4/20/1950  
+Time: night  
 Description: Jack Robertson was driviug about 13 km west of town when he saw a round object about 3 m in diameter hovering about 7 m above him with a dull red glow. It took off with a "swooshing roar" as sparks flew from a slot under it. Minutes later the witness feIt a burning sensation on his face.  
 Type: ufo sighting  
 Reference: FS Jul., 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3252,6 +3298,7 @@ Magnolia ID: 77
 
 ## Event 427
 Date: 4/24/1950  
+Time: 2200  
 Description: Bruno Facchini heard and saw sparks coming from a dark, hovering object, near which a man dressed in tight-fitting clothes and wearing a helmet seemed to be making repairs. Three other men were seen near the craft. When the work was finished, a trap through which light had been shining was closed and the thing took off. The witness had the time to note many details of the machine and its occupants.  
 Type: ufo sighting  
 Reference: FSR 63, 2; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3266,6 +3313,7 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 
 ## Event 429
 Date: 5/7/1950  
+Time: 1845  
 Description: A couple and their grandson were returning from a picnic when, about 14 km south of Ely, they saw a silvery-white object at treetop level. It hovered for 10 min, then oscillated "as if attempting to rise" and suddenly flew out of sight at high speed.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3533,6 +3581,7 @@ Rocket altitude: 0km
 
 ## Event 464
 Date: 6/19/1951  
+Time: 1200  
 Description: Joseph Matiszewski, a mechanic, heard a whistling sound and saw an object land in a meadow. Approaching within 50 m, he found himself paralyzed and observed that birds had stopped singing and cows seemed to be similarly unable to move. From the object emerged four handsome men who had brown skin and wore black shiny suits and translucent helmets. Eight objects also emerged from the craft and hovered above it. Other men inside the craft and on its deck appeared to be making repairs, then the objects flew to about 100 m altitude and climbed rapidly out of sight. Only then did the paralysis subside.  
 Type: ufo sighting  
 Reference: Nachrichten May., 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3648,6 +3697,7 @@ Location: Battle Creek, MI
 
 ## Event 478
 Date: 10/26/1951  
+Time: 0400  
 Description: The driver of a transcontinental train on the east-west line saw an object that illuminated the countryside like the full moon. It flew very fast, came close to the train, appeared ready to land in the desert, then took off and disappeared.  
 Type: ufo sighting  
 Reference: Wilkins A 249 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3665,6 +3715,7 @@ Rocket altitude: 140.9km
 
 ## Event 480
 Date: 11/2/1951  
+Time: 2300  
 Description: Two forest observers were in a canyon 50 km north of the Mojave when they saw a disk-shaped flying object in the southwest; 10 m estimated diameter, 3 m thick, blue-green, well-defined, surrounded with a glow of same color. Stopping their jeep, they signaled to the object, which approached within a few meters, flew away, seemed to play with them. Eventually it vanished "like a magician's trick."  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3673,6 +3724,7 @@ Magnolia ID: 85
 
 ## Event 481
 Date: 12/1951  
+Time: 0300  
 Description: A man from Lincoln was driving to Indiana when he saw a blue light in the northwest sky. It vanished to the southeast. The witness missed a turn, had to go back toward Auburn, and had reached a point northwest of Peru when he saw an orange glow in the sky. Coming near, he observed the glow came from a cauldron-shaped object on the ground, about 12 m from the road. He stopped to examine the object, which measured about 10 m diameter and seemed to be made of cast iron. Thirty cm from the top was a row of windows, 25 cm in diameter, from which the orange light was coming. On the other side was a blue flamelike glow. There was no noise, no sign of life or activity, and no antenna or protrusion. The witness drove away.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3704,6 +3756,7 @@ See also: 10/2/52
 
 ## Event 485
 Date: early 1952  
+Time: 2242  
 Description: A fiery, spherical object made a right-angle turn during an observation by a C-54 crew flying from Westover to Goose Bay. It was also seen from the ground by the control tower and by two men who plunged to the earth when the object made a low pass at them. It went away at 2247.  
 Type: ufo sighting  
 Reference: Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3712,6 +3765,7 @@ Magnolia ID: 89
 
 ## Event 486
 Date: 1/1952  
+Time: 2230  
 Description: A 38-year-old rancher saw a "shooting star" that suddenly stopped in mid-air between him and a mountain. It was seen spinning in a clockwise direction. It had one red window periodially facing the observer. It went down toward the Little Powder River and came up again. The witness turned his car to send light signals, to which the object seemed to respond by stopping its red window facing the witness's location. Spinning resumed, the object rose and came down. A similar craft arrived and both went into the deep valley, out of sight.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3832,6 +3886,7 @@ See also: 7/52
 
 ## Event 502
 Date: summer 1952  
+Time: 0300  
 Description: A woman was awakened by a thunderclap and a strong bluish light. As she got out, she saw a large number of hovering disk-shaped machines resembling "inverted soup plates" 200 m away at an altitude of about 1 m. She observed them for 30 min, saw two figures standing on one of the craft and looking at the sky. They went back inside, and shortly thereafter the "fleet" took off, one object at a time.  
 Type: ufo sighting  
 Reference: FSR 68,1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3898,6 +3953,7 @@ Location: Andrews AFB
 
 ## Event 511
 Date: 7/20/1952  
+Time: 0030  
 Description: Approximate date. R. Petijean saw a luminous object, 20 m diameter, on the ground. It gave off bluish flashes as it took off, leaving a smell of burning sulphur.  
 Type: ufo sighting  
 Reference: Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -3920,6 +3976,7 @@ Location: Los Angeles, CA
 
 ## Event 514
 Date: 7/24/1952  
+Time: night  
 Description: A man who was fishing in the Serchio River saw a disk hovering for 10 min. From it hung a hose that plunged into the water. The object was 20 m in diameter, with five propellers in the rear and a dome with something like blades on top. An orange glow could be seen through slits along the deck. A man wearing a diving helmet looked at the witness through a window, and he received a kind of electric shock as a "green ray" hit him. He looked up with difficulty, in time to see the object fly away toward the east. Six days later a stranger with a foreign accent contacted the witness and intimidated him.  
 Type: ufo sighting  
 Reference: FSR 69,1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4025,6 +4082,7 @@ Location: Langley, Virginia
 
 ## Event 528
 Date: 8/19/1952  
+Time: evening  
 Description: Ronny Desvergers saw a large, round, dark object above him in a clearing. It had a turret on top. Red balls of light were emitted by the object and burned him. He also observed a "hideous" creature aboard the craft. Grass roots were scorched at the site.  
 Type: ufo sighting  
 Reference: Ruppelt 222; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4065,6 +4123,7 @@ See also: 2/23/1955
 
 ## Event 533
 Date: 8/24/1952  
+Time: 0600  
 Description: A man driving through a wood encountred a strange object and stopped to observe it. It looked like two turtle shells glued together, about 25 m long, with a humanoid creature in what appeared to be a control cabin in front. Windows lighted by an intense blue light and a throbbing sound were also reported. The object was oscillating and suddenly flew straight up with a strong humming noise. The middle section supported what looked like propellers. The object hovered 3 m above ground.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4096,6 +4155,7 @@ Location: Sutton, West Virgina
 
 ## Event 537
 Date: 9/12/1952  
+Time: sunset  
 Description: A group of young people saw a "meteor" land on top of a hill and went to the site with Kathleen Hill and three men. They observed a globe as large as a house making a throbbing or hissing sound and a huge figure with glowing orange eyes nearby. About 4 m tall, the figure had a red face and "floated" toward the witnesses, who fled in terror. A lingering smell and skid marks were found.  
 Type: ufo sighting  
 Reference: Humanoids 52 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4161,6 +4221,7 @@ See also: 11/25/1952
 
 ## Event 545
 Date: 10/15/1952  
+Time: 1910  
 Description: Approximate date. Figures with helmets and masks were seen through lighted windows inside a bright yellow, cigar-shaped object on the ground. Length 30 m, diameter 6 m. Forward section was rounded, and a sort of fog was noted at both ends of object.  
 Type: ufo sighting  
 Reference: Quincy; Anatomy 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4176,6 +4237,7 @@ Location: Dayton, OH
 
 ## Event 547
 Date: 10/27/1952  
+Time: 0203  
 Description: Customs officer Gabriel Gachignard observed a cigar-shaped object land briefly on the airfield 100 m away, producing a dull sound. The object was dark with four lighted windows. It took off with a "swish" and a shower of sparks when the witness ran toward it.  
 Type: ufo sighting  
 Reference: Challenge 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4324,6 +4386,7 @@ See also: 5/21/53
 
 ## Event 566
 Date: 5/20/1953  
+Time: 1830  
 Description: Two miners, John Q. Black, 48, and John Van Allen, reported that an object, silvery, 2.5 m in diameter, 2 m thick, with a tripod landing gear, landed on a sand bar 50 m away from  them. An  occupant described  as  a broadshouldered dwarf wearing clothing that covered the head and the trunk was also seen. His arms and legs were covered with  tweedlike cloth fastened at the wrists and ankle. He filled a shiny pail with water and handed it to someone inside the craft. He then appeared to notice Black and jumped into the craft, which made a hissing sound and departed.  
 Type: ufo sighting  
 Reference: Humanoids 53 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4340,6 +4403,7 @@ See also: 5/20/53
 
 ## Event 568
 Date: 6/18/1953  
+Time: 0230  
 Description: Howard Phillips, Hilda Walker and Judy Meyers saw in a garden at 118 East Third Street a strange "shadow" on the lawn which resembled a "flying man," and they watched it take off.  
 Type: ufo sighting  
 Reference: Wilkins A 261 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4348,6 +4412,7 @@ Magnolia ID: 110
 
 ## Event 569
 Date: 6/20/1953  
+Time: 1830  
 Description: John Q. Black, witness of the May. 20 incident, observed an exact repetition of the scene, including the "little man." Van Allen saw only the landing marks, about 30 cm wide and re sembling elephant tracks.  
 Type: ufo sighting  
 Reference: Humanoids 53 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4370,6 +4435,7 @@ Location: Camp Polk, Louisiana
 
 ## Event 572
 Date: 6/24/1953  
+Time: 0018  
 Description: A civilian woman saw something like "a large aircraft" flying very slowly and low. It had a lighted red band around the middle and was coming straight toward her house with an oscillating motion. She still thought it was an aircraft of some new design when it stopped near her, 25 m above ground. Then it flew backward over the water and hovered, making the same noise as a swarm of bees. The top section supported a series of red lights and a cabin with four portholes through which a control panel was visible. No occupant was seen. The cabin rose above the object, rotated, then glided back. The object tilted toward the west and rose toward the southeast, disappearing within 3 sec at an 80 degree angle of climb after the 3-min sighting. Diameter: 30 m. Two days later a yellowish moss was observed at the site.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4394,6 +4460,7 @@ See also: 6/24/53
 
 ## Event 575
 Date: 7/2/1953  
+Time: 1300  
 Description: Approximate date. An illiterate boy cowherd, Maximo Munos Olivares, 14, saw a "big balloon" on the ground behind him when a faint whistling attracted his attention. Shaped like a water jug, it was metallic. Through an opening came three dwarfs 60 cm tall, with yellow faces, narrow eyes, and oriental features. They spoke in a language he could not understand. They were dressed in blue, had a sort of flat hat with a visor in front and a metal sheet on their arms. One of them smacked the boy's face, then they reentered the machine, which glowed very brightly, made a soft whistling sound and went off "like a rocket." Footprints and four holes 5 cm deep forming a perfect square 36 cm in side were found by police.  
 Type: ufo sighting  
 Reference: Humanoids 29 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4432,6 +4499,7 @@ See also: 7/19/53
 
 ## Event 580
 Date: 7/31/1953  
+Time: 1900  
 Description: A metallic object 30 m in diameter was observed by five Polish and two German workers as it landed in a field close to a railway. It was shaped like a sphere with a flat disk around it, showing numerous openings at the periphery.  
 Type: ufo sighting  
 Reference: Intelligence Digest Nov., 53 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4456,6 +4524,7 @@ Location: US
 
 ## Event 583
 Date: 8/16/1953  
+Time: 2030  
 Description: Claude Pasquier saw two disks flying very low, quite slowly, along a straight course, with a "hard" sound.  
 Type: ufo sighting  
 Reference: Anatomy 65, 141 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4471,6 +4540,7 @@ Location: Miami, FL
 
 ## Event 585
 Date: 8/18/1953  
+Time: evening  
 Description: Approximate date. Cab driver Salvador Villanueva, 40, observed two creatures 1.2 m tall wearing coveralls with wide, shiny, perforated belts, metal collars, and small, black, shiny boxes on their backs. They had helmets under their arms. The witness thought they were pilots of Indian race. One of them spoke to him in Spanish, "stringing the words together" in a strange accent. Trivial matters were discussed until dawn, when they returned to their craft, 13 m in diameter, through a staircase under the lower disk. The witness ran away when invited to follow them. The object rose with a pendulum motion and shot up vertically.  
 Type: ufo sighting  
 Reference: Humanoids 32; FSR 56, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4502,6 +4572,7 @@ Location: California
 
 ## Event 589
 Date: 9/4/1953  
+Time: 2130  
 Description: A woman saw two objects on the ground and three 1.5-m-tall men running toward the craft. They had oversized heads and wore helmets and boots. One entered the elongated object, 5 m long, 1.5 m wide, which spread "wings" that made it look like a butterfly. It then took a vertical position, resting on a tripod, and took off with the spherical object into which the other two creatures had gone. Traces were found at the spot.  
 Type: ufo sighting  
 Reference: GEPA 68, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4540,6 +4611,7 @@ Location: Miami, FL
 
 ## Event 594
 Date: 10/25/1953  
+Time: 2130  
 Description: Jim Milligan, 16, was driving through a park when he saw something fall in front of his car and stopped as the object landed in some bushes. He walked toward it, found a craft that looked like two ship hulls, about 3 m long, 2 m wide glued together. When he tried to touch it, the object flew away.  
 Type: ufo sighting  
 Reference: Wilkins A 223 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4647,6 +4719,7 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 
 ## Event 609
 Date: 1/4/1954  
+Time: 2100  
 Description: Mr. Chesneau, fireman, saw a round luminous object slowly coming down and called the control tower to report it. When he came out again, the object had disappeared.  
 Type: ufo sighting  
 Reference: Guieu ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4716,6 +4789,7 @@ Location: Miami, FL
 
 ## Event 618
 Date: 3/1954  
+Time: 1700  
 Description: Rubem Hellwig was driving when he saw a football-shaped machine, the size of a Volkswagen, on the ground. He walked toward it and met two men of slim build, normal height, their faces brownish, wearing no helmets. One was inside the object while the other collected grass samples. They spoke to Hellwig in a strange language, and yet he said he understood they were asking for ammonia. He directed them to a nearby town. The craft vanished silently and instantly with blue and yellow flames.  
 Type: ufo sighting  
 Reference: 1; Humanoids 33 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4724,6 +4798,7 @@ Magnolia ID: 126
 
 ## Event 619
 Date: 3/1954  
+Time: early  
 Description: Rubem Hellwig again saw a strange machine the next day. He observed a tall, faircomplexioned man and two women, who had light brown skin, long black hair, dark, slanted eyes. All three wore one-piece garments of a fabric resembling suede, with zippers. They told Hellwig that they were scientists, spoke of the natural riches of Brazil, and expressed surprise that he did not run away.  
 Type: ufo sighting  
 Reference: 1; Humanoids 33 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4789,6 +4864,7 @@ See also: 4/13/1954
 
 ## Event 627
 Date: 4/22/1954  
+Time: 1400  
 Description: American military personnel saw a cigar-shaped object of a gray color coming to the ground. Smoke was seen to rise where it landed, but a search yielded no results.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4826,6 +4902,7 @@ Location: Amarillo, TX
 
 ## Event 632
 Date: 5/18/1954  
+Time: 1900  
 Description: Two persons witnessed the landing of a lens-shaped object the size of a house. It came to the ground near the railroad tracks, kicking up a small sand storm in the desert. One witness first decided to approach it, then ran away in fear.  
 Type: ufo sighting  
 Reference: Binder ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4841,6 +4918,7 @@ Location: California
 
 ## Event 634
 Date: 5/20/1954  
+Time: 0200  
 Description: Nigel Frapple was cycling home from a dance in Wincanton. At Redlynch crossroads, he saw an orange glow in a field and observed it from a hedge. It came from a huge object 35 m away, less than 7 m above the ground, which made a throbbing sound. After 1 min, it moved toward the northwest, accelerating and climbing.  
 Type: ufo sighting  
 Reference: 2; Humanoids 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4856,6 +4934,7 @@ Location: Edwards AFB
 
 ## Event 636
 Date: 6/9/1954  
+Time: 1820  
 Description: Janet Brown, 16, and a 13-year-old friend heard a loud noise and saw a large, dark object that "burst into light" hovering 20 m away at the height of a factory gate. It was cylindrical, 10 m long, 5 m high, with a canopy on top. It flew away and was lost to sight behind some trees.  
 Type: ufo sighting  
 Reference: Wilkins U 216 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4925,6 +5004,7 @@ See also: 10/9/55
 
 ## Event 645
 Date: 8/10/1954  
+Time: 2130  
 Description: The Coupal childrm said that a brightly lighted object followed them to the farm. Mr. Coupal and his oldest son went to the field where the children had been playing and saw an orange object rise and speed off to the west. Grass was flattened over 15 m, with two tracks about 5 m long.  
 Type: ufo sighting  
 Reference: Wilkins U 237 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -4978,6 +5058,7 @@ Location: Norway
 
 ## Event 652
 Date: 8/27/1954  
+Time: 2030  
 Description: A wingless flying object was seen by Bill Supa, an employee of the Caswell Construction Co. It landed about 2 km way from the witness, who approached within 300 m before it took off and flew away. Grass was flattened where it had landed.  
 Type: ufo sighting  
 Reference: Wilkins U 227 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5001,6 +5082,7 @@ Magnolia ID: 139
 
 ## Event 655
 Date: 8/30/1954  
+Time: 0525  
 Description: Sgt. Durdle saw a brilliant, circular object flying across Lake Nipissing toward the Royal Canadian Air Force base. An oblong canister was hanging down from a central section, which supported a long cone with a spinning globe on top. When it tilted, the witness was able to observe regulatorlike devices inside the machine through a vertical lighted slit. Six brilliant appendages, which looked like necklaces, were hanging from the craft. Durdle woke up four Air Force men, who observed the object spiraling away.  
 Type: ufo sighting  
 Reference: Wilkins U 227 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5017,6 +5099,7 @@ Magnolia ID: 141
 
 ## Event 657
 Date: 9/7/1954  
+Time: 0715  
 Description: Between Harponville and Contay, two bricklayers, Emile Renard, 27, and Yves Degillerboz, 23 saw an object floating in mid-air over a field: "It looked like an unfinished haystack, with a plate turned upside down on top of it." When they approached, it took off. Diameter 10 m, height 3 m. A kind of door was noticed. The observation lasted over 3 min. The object released smoke when it departed.  
 Type: ufo sighting  
 Reference: 6; M 35 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5025,6 +5108,7 @@ Magnolia ID: 142
 
 ## Event 658
 Date: 9/10/1954  
+Time: 2230  
 Description: A metal worker, Marius Dewilde, 34, came out of his house as a dog was barking and saw a dark object on the railroad tracks, then observed two dwarfs walking toward it. When he tried to stop them, he found himself paralyzed as a strong orange light was projected at him.The creatures were under 1 m tall, bulky, and wore dark diving suits. No face or arms were visible. Traces made by an object of estimated weight 30 tons were noted by French Air Force and police on the ballast.  
 Type: ufo sighting  
 Reference: 8; M 44; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5033,6 +5117,7 @@ Magnolia ID: 144
 
 ## Event 659
 Date: 9/10/1954  
+Time: 2030  
 Description: A farmer, Mr. Mazaud was walking home when he was suddenly confronted with a helmeted being of average height who made friendly gestures, then went back into the brush, entered a cigar-shaped object about 4 m long, which took off toward Limoges. A few minutes later witnesses in Limoges reported a disk-shaped, red object leaving a bluish trail.  
 Type: ufo sighting  
 Reference: 7; M 40 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5041,6 +5126,7 @@ Magnolia ID: 143
 
 ## Event 660
 Date: 9/14/1954  
+Time: 2200  
 Description: John J. Swain, 12, was driving a tractor back from the fields when he saw a small man no bigger than a 5-year-old child a few meters away from him. He had a long nose and long ears and seemed to "fly" when he moved toward a saucershaped craft hovering less than 2 m above ground. It "opened up" and the creature "popped inside." The craft became luminous and went out of sight. Strange traces were found by police. The creature was dressed in shiny clothes, and his shoes seemed to have "fins." He carried two cylinders on his back and had long, pointed ears.  
 Type: ufo sighting  
 Reference: 9; Humanoids 53; Wilkins U 239 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5049,6 +5135,7 @@ Magnolia ID: 145
 
 ## Event 661
 Date: 9/15/1954  
+Time: 2320  
 Description: A white light suddenly swept the road in front of Roland M., 19, who observed that it came from a large, dark object 10 m above ground. It flew away with the noise of a wet firework, throwing magnesiumlike sparks.  
 Type: ufo sighting  
 Reference: 10; M 49 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5057,6 +5144,7 @@ Magnolia ID: 146
 
 ## Event 662
 Date: 9/17/1954  
+Time: 2230  
 Description: Between Cenon and Vouneuil, Yves David, 28, met a being in a diving suit who made friendly gestures. He was very small and had a voice "inhuman and incomprehensible." The witness could not move throughout the encounter. He saw the creature enter an object on the road, about 3 m by 1 m in size; it took off "like lightning," throwing a greenish light.  
 Type: ufo sighting  
 Reference: 11; M 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5065,6 +5153,7 @@ Magnolia ID: 147
 
 ## Event 663
 Date: 9/18/1954  
+Time: 2015  
 Description: A small gray disk flew over a car at very high speed, followed by cold air currents. This was reported by Mr. Guitta of Casablana.  
 Type: ufo sighting  
 Reference: Ouranos ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5073,6 +5162,7 @@ Magnolia ID: 148
 
 ## Event 664
 Date: 9/19/1954  
+Time: 2115  
 Description: A bright light was seen in the east, came to the ground, lost its brightness, remained on the spot about 40 sec. It was the size of a small bus, and there was a figure in front of it. It rose and took on the appearance of a red ball.  
 Type: ufo sighting  
 Reference: 12; M 63 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5081,6 +5171,7 @@ Magnolia ID: 149
 
 ## Event 665
 Date: 9/20/1954  
+Time: 2300  
 Description: A guard saw a craft, 3.5 m in diameter and 1.5 m thick, land on the airfield. The witness, Vitorino Lourenco Monteiro, said a figure emerged from the craft and said something he could not understand, before taking off again. There were antennalike protrusions on top of the object.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5089,6 +5180,7 @@ Magnolia ID: 150
 
 ## Event 666
 Date: 9/23/1954  
+Time: 2100  
 Description: Mrs. Vignolles saw a luminous object come down rapidly, without noise, and land in a field near the church. It took off very fast a few seconds later.  
 Type: ufo sighting  
 Reference: 15; M 77 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5097,6 +5189,7 @@ Magnolia ID: 152
 
 ## Event 667
 Date: 9/23/1954  
+Time: 2100  
 Description: The Patient family witnessed the landing of a bright object giving off a magnesiumlike light, a red glow, and a narrow beam of light. It took off again a moment later and followed their car until they reached Fontland. Policemen in Plombieres and several independent witnesses observed the object as it flew erratically over the area for 60 min.  
 Type: ufo sighting  
 Reference: 13; M 69 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5105,6 +5198,7 @@ Magnolia ID: 151
 
 ## Event 668
 Date: 9/24/1954  
+Time: 2300  
 Description: Mr. Cisterne, who was coming back with his tractor, saw a luminous object fly very low over him. Two other witnesses.  
 Type: ufo sighting  
 Reference: 16;M 76 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5113,6 +5207,7 @@ Magnolia ID: 155
 
 ## Event 669
 Date: 9/24/1954  
+Time: 1000  
 Description: Cesar Cardoso and three others saw two individuals, 2.5 m tall, dressed in shiny clothes, emerge from a landed craft and gather flowers, shrubs, and twigs in a shiny box, then take off. They seemed to be inviting the witnesses aboard, but their language was not understood.  
 Type: ufo sighting  
 Reference: Wilkins U 55, 245; 24 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5121,6 +5216,7 @@ Magnolia ID: 154
 
 ## Event 670
 Date: 9/24/1954  
+Time: 0900  
 Description: Two women (Widow Geoffroy and Miss Gisele Fin) made independent reports of a dark gray disk, 6 m in diameter, 1 m high, seen in a clearing. A man of normal height was standing close to it. He wore dark clothes and a kind of cap. Miss Fin came within 30 m of the craft and stated the man was repairing it. Traces were found on the grass.  
 Type: ufo sighting  
 Reference: 14; Carrouges 98 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5129,6 +5225,7 @@ Magnolia ID: 153
 
 ## Event 671
 Date: 9/26/1954  
+Time: 1430  
 Description: Mrs. Leboeuf was suddenly confronted with a creature resembling "a child in a plastic bag, with eyes larger than human eyes." This creature entered a flat, circular machine, which took off toward the northeast with a soft whistling. Traces. Witnesses in state of shock.  
 Type: ufo sighting  
 Reference: 17; Carrouges 116; Anatomy 70; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5137,6 +5234,7 @@ Magnolia ID: 156
 
 ## Event 672
 Date: 9/27/1954  
+Time: 0230  
 Description: At "Revety," people in a bus saw a reddish light coming down. Later Mr. and Mrs. Roche noticed an object on the ground, softly glowing, a short distance from their home, but were afraid to approach it. It remained there for several hours. It was described as "a sort of glowing tomato, with antennae on top."  
 Type: ufo sighting  
 Reference: 18; M 84; Anatomy 71 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5145,6 +5243,7 @@ Magnolia ID: 157
 
 ## Event 673
 Date: 9/27/1954  
+Time: 0840  
 Description: Children saw "a box" and "an unknown man" standing nearby. The object took off.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5153,6 +5252,7 @@ Magnolia ID: 158
 
 ## Event 674
 Date: 9/27/1954  
+Time: afternoon  
 Description: A college student saw a circular object on the ground. Two beings came out of it, then reentered the craft and left. Witness in a state of shock.  
 Type: ufo sighting  
 Reference: 19;M 88 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5161,6 +5261,7 @@ Magnolia ID: 159
 
 ## Event 675
 Date: 9/27/1954  
+Time: 2030  
 Description: Four children came out of their home as dog barked furiously. They found a large object on the ground and a small being they thought was a "ghost" in the yard. Raymond Romand, 12, threw stones at the intruder.  
 Type: ufo sighting  
 Reference: 20; Challenge 170 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5169,6 +5270,7 @@ Magnolia ID: 160
 
 ## Event 676
 Date: 9/28/1954  
+Time: 2130  
 Description: Mr. and Mrs. Alexis Lartillot and Georgette Mongot observed a large, bright object oscillate, then land. It changed color and was lost to sight behind some trees.  
 Type: ufo sighting  
 Reference: 21; M 94 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5177,6 +5279,7 @@ Magnolia ID: 161
 
 ## Event 677
 Date: 9/28/1954  
+Time: 2230  
 Description: At "Le Grand Tertre" Mr. Mercier observed that someone had stolen grapes from his vineyard. He decided to stay late and catch the "robbers." He was amazed when he saw a luminous mass fall from the sky about 50 m away, and found himself "paralyzed" as three figures emerged from the light and moved about. He lost consciousness. When he came to his senses, everything had vanished.  
 Type: ufo sighting  
 Reference: 22; M 97 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5185,6 +5288,7 @@ Magnolia ID: 162
 
 ## Event 678
 Date: 9/28/1954  
+Time: 2310  
 Description: At "La Butte Rouge" two railroad engineers, Bernard and Potraux, who were bringing a locomotive from Nantes to Auray, saw a dark object take off with a purple glow and follow them for 15 sec before veering off. Potraux had to see a doctor.  
 Type: ufo sighting  
 Reference: 23; M 95; Anatomy 70 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5193,6 +5297,7 @@ Magnolia ID: 163
 
 ## Event 679
 Date: 9/30/1954  
+Time: 0445  
 Description: While driving to work, Lawrence Cardenas, 41, a laundry employee, saw 15 strange men wearing dark green uniforms to his right. They had cylinders on their shoulders, tight-fitting skull caps with pointed peaks in front, and heavy goggles. They were of medium height, and a taller man seemed to be giving them instructions. About 80 m away was a craft 4 m high with colored lights flickering on and off. The witness did not wait.  
 Type: ufo sighting  
 Reference: Wilkins U 230 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5201,6 +5306,7 @@ Magnolia ID: 164
 
 ## Event 680
 Date: 9/30/1954  
+Time: 1630  
 Description: Georges Gatay and seven construction workers saw a disk at ground level, with a humanoid standing close by. Both vanished in a very strange manner. Physiological effects in all witnesses.  
 Type: ufo sighting  
 Reference: 25; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5209,6 +5315,7 @@ Magnolia ID: 165
 
 ## Event 681
 Date: 9/30/1954  
+Time: dusk  
 Description: At sea between Brest and Roven, the crew of the tanker "Port Lyautey" observed an object touch the surface of the sea, then take off vertically and give off a red flame before being lost to view.  
 Type: ufo sighting  
 Reference: 26 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5217,6 +5324,7 @@ Magnolia ID: 166
 
 ## Event 682
 Date: 9/30/1954  
+Time: 2200  
 Description: Jean Andrieux, ferry operator, saw a large white sphere, with a smaller green sphere below, hang motionless above the Seine for 20 min. Two witnesses. It eventually flew away to the southwest.  
 Type: ufo sighting  
 Reference: 27 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5225,6 +5333,7 @@ Magnolia ID: 167
 
 ## Event 683
 Date: 9/30/1954  
+Time: 2200  
 Description: As he was returning home near La Flotte-en-Re, Celeste Simonutti saw a bright light and, fearing a fire, rushed to the scene. There he observed a luminous sphere 12 m in diameter hovering at 1 m altitude, turning red, blue, and taking off. Two other witnesses.  
 Type: ufo sighting  
 Reference: 28 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5240,6 +5349,7 @@ Location: Canada
 
 ## Event 685
 Date: 10/1/1954  
+Time: 1300  
 Description: Two bricklayers, Sebastiani and Buratto, approached a cigar-shaped object 3 m long, 80 cm wide, which took off from the ground with a whistling sound. The pointed section of the object was yellow, the rest brown. From the fore part, two appendages extended to the ground.  
 Type: ufo sighting  
 Reference: 30 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5248,6 +5358,7 @@ Magnolia ID: 170
 
 ## Event 686
 Date: 10/1/1954  
+Time: 1600  
 Description: A man and his dog were "paralyzed" as a luminous white object dived toward them and climbed again.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5264,6 +5375,7 @@ Magnolia ID: 169
 
 ## Event 688
 Date: 10/1/1954  
+Time: 2200  
 Description: Returning home, fireman Jean Dufix, 26, saw an oval light in the sky and thought it was a shooting star. Later he was alarmed when his yard seemed to be ablaze. Rushing out again, he saw a disk rise from the ground with a whistling sound. It flew off, became luminous again, and took off at fantastic speed. A neighbor, Jean Labonne, 61, saw the disk, 3 m in diameter, resting on three legs in the yard.  
 Type: ufo sighting  
 Reference: 31 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5272,6 +5384,7 @@ Magnolia ID: 176
 
 ## Event 689
 Date: 10/1/1954  
+Time: 2200  
 Description: Coming home at night, Gilbert Prudent saw a lighted object on the side of the road. It had a flat section and a sort of "mushroom" on top. As he approached it, the object became dark and took off vertically with a soft whistling sound.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5280,6 +5393,7 @@ Magnolia ID: 175
 
 ## Event 690
 Date: 10/1/1954  
+Time: 2000  
 Description: Near Saint Jan d'Angely, two businessmen, Messrs. Estier and Phelippeau, who were driving back from Royan, saw a little man cross ing the road in front of their car. Having stopped, they saw the figure disappear into the woods.  
 Type: ufo sighting  
 Reference: 28 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5288,6 +5402,7 @@ Magnolia ID: 174
 
 ## Event 691
 Date: 10/1/1954  
+Time: 1900  
 Description: Two young men saw a luminous white disk moving in the sky. It dived to the ground and two men, described as being very tall and dressed in white, emerged from it and made gestures. The witnesses ran away in fear.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5296,6 +5411,7 @@ Magnolia ID: 173
 
 ## Event 692
 Date: 10/1/1954  
+Time: 1815  
 Description: Approximate date. A farmer saw a white craft in a field. Flattened grass was later found at the site.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5320,6 +5436,7 @@ Magnolia ID: 178
 
 ## Event 695
 Date: 10/2/1954  
+Time: 2345  
 Description: A disk emitting a weak green glow landed in a field. Witnesses: Messrs. Domant and Gilcher.  
 Type: ufo sighting  
 Reference: M 105 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5328,6 +5445,7 @@ Magnolia ID: 181
 
 ## Event 696
 Date: 10/2/1954  
+Time: 2000  
 Description: A mechanic, Ernest Delattre, 19, was riding home on his motor scooter when an egg-shaped object, brilliantly illuminated, landed on the left side of the road 15 m away. He saw short, dark shapes "like potato bags" moving about the object. He sped up, saw the object, the size of a small bus, taking off while its color changed from orange to blue and then to grayish-blue. The witness fainted while telling his story. Two persons in neighboring villages independently reported observing the object.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5336,6 +5454,7 @@ Magnolia ID: 180
 
 ## Event 697
 Date: 10/2/1954  
+Time: 0230  
 Description: In the immediate vicinity of case 175, Mr. Nicolas saw a craft with a dome on top, on the ground between the road and the railroad tracks. Through some openings a strong yellow light shone.  
 Type: ufo sighting  
 Reference: 33;M 109 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5344,6 +5463,7 @@ Magnolia ID: 179
 
 ## Event 698
 Date: 10/3/1954  
+Time: 1845  
 Description: Between Rue and Quend on Road D27, Rene Coudette and B. Devoisin were riding bicycles with a third witness when they saw an orange object, shaped like a honeycomb, on the road ahead of them. A strange "man" wearing a diving suit was standing close to it. When they got within 70 m of it, the object took off very fast.  
 Type: ufo sighting  
 Reference: 3Z; M 118 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5352,6 +5472,7 @@ Magnolia ID: 183
 
 ## Event 699
 Date: 10/3/1954  
+Time: dawn  
 Description: Angelo Girardo, 55, a stockyard employee, was going to work when he saw a circular craft 3 m diameter and a small figure wearing a diving suit, standing close by. The object took off at a fantastic speed.  
 Type: ufo sighting  
 Reference: 32; M 130 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5360,6 +5481,7 @@ Magnolia ID: 182
 
 ## Event 700
 Date: 10/3/1954  
+Time: 1300  
 Description: Near La Rochelle. Mr. and Mrs. Guillemoteau saw an object, 2.5 m high, 5 m diameter, hover for several minutes 1 m above ground, then rise vertically. Oily marks were found at the spot.  
 Type: ufo sighting  
 Reference: 34; M 131 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5368,6 +5490,7 @@ Magnolia ID: 187
 
 ## Event 701
 Date: 10/3/1954  
+Time: 1245  
 Description: A circular craft was seen by Jean Allary between Montmoreau and Villebois-Lavalette. It seemed to be gliding on the ground. It showed luminous spots and became completely illuminated when it took off. It was about 1.20 m high. Grass was found flattened and scorched over an area 7 m across.  
 Type: ufo sighting  
 Reference: 36; M 130 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5376,6 +5499,7 @@ Magnolia ID: 186
 
 ## Event 702
 Date: 10/3/1954  
+Time: 2110  
 Description: Less than 3 hrs after case 183, an orange object chased a car for 8 km, then flew away toward the sea. Witness: Georges Galant, a butcher.  
 Type: ufo sighting  
 Reference: 35; M 116 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5384,6 +5508,7 @@ Magnolia ID: 185
 
 ## Event 703
 Date: 10/3/1954  
+Time: 1920  
 Description: The crowd at a fair saw a luminous object arrive very fast in the sky, stop in flight, emit sparks, and come down to ground level. As witnesses rushed to the spot, it took off again.  
 Type: ufo sighting  
 Reference: M 113 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5392,6 +5517,7 @@ Magnolia ID: 184
 
 ## Event 704
 Date: 10/4/1954  
+Time: 2000  
 Description: Mrs. Fourneret, a housewife, ran away as an orange, circular object 3 m in diameter swung in mid-air and landed near her farm. When Messrs. Girardot and Vincent arrived with rifles, they found that the earth had been "sucked up" over a quadrilateral area. Francois Bouiller confirmed he had seen a luminous object in flight. Extensive investigation by French Air Force and police.  
 Type: ufo sighting  
 Reference: 37; M 134; Anatomy 71 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5400,6 +5526,7 @@ Magnolia ID: 194
 
 ## Event 705
 Date: 10/4/1954  
+Time: 1830  
 Description: At Les Chavannes, about 20 people, among them Remy Gaudicourt of Sanvignes, saw a circular, luminous object rise from the vicinity of the railroad tracks. It took off vertically.  
 Type: ufo sighting  
 Reference: M 138 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5408,6 +5535,7 @@ Magnolia ID: 192
 
 ## Event 706
 Date: 10/4/1954  
+Time: evening  
 Description: Several people noticed an object hovering near a hilltop. They drove to the site, but it flew away. What seems to be the same object was seen at Megrit, 25 km to the southwest, hovering over a farm. It was described as metallic, flat, emitting light  
 Type: ufo sighting  
 Reference: 38;M 139 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5440,6 +5568,7 @@ Magnolia ID: 188
 
 ## Event 710
 Date: 10/4/1954  
+Time: 1840  
 Description: Ten-year-old Bertiaux saw an object "like a tent" and an unknown man near it.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5448,6 +5577,7 @@ Magnolia ID: 193
 
 ## Event 711
 Date: 10/5/1954  
+Time: 1545  
 Description: Ten km from here, several persons saw an object coming toward them and getting brighter. When it was about 150 m away, they felt "a strange sensation" and found themselves unable to move. The object left a smell compared to that of nitrobenzine.  
 Type: ufo sighting  
 Reference: 34; Challenge 53 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5456,6 +5586,7 @@ Magnolia ID: 199
 
 ## Event 712
 Date: 10/5/1954  
+Time: 0715  
 Description: A roadmender, Mr. Narcy, saw an object near the road between Voillecomte and La Neuville. In a report to police, he stated he saw a hairy dwarf wearing an orange tight-fitting jacket climb aboard the craft, which consisted of a cigarshaped section under a flat disk. Between the two sections was a kind of porthole through which the entity entered the object. Traces were found at the spot.  
 Type: ufo sighting  
 Reference: 38, 39 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5464,6 +5595,7 @@ Magnolia ID: 198
 
 ## Event 713
 Date: 10/5/1954  
+Time: 0630  
 Description: East of Le Mans on Route N23, Renault employees were going to work when they saw near the road a luminous object on the ground and felt "pricklings and a sort of paralysis." The object emitted a burst of green light and flew away very low over the fields.  
 Type: ufo sighting  
 Reference: 42; Vuillequez; M 143 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5472,6 +5604,7 @@ Magnolia ID: 197
 
 ## Event 714
 Date: 10/5/1954  
+Time: 0400  
 Description: A baker, P. Lucas, was draining water from a well when he noticed an object some distance away. It was circular, about 3 m diameter. From it emerged a dwarf with an oval face covered with hair and eyes "as large as raven eggs" who touched him on the shoulder and spoke to him in an unknown language. The dwarf went away, and the object took off.  
 Type: ufo sighting  
 Reference: 34 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5488,6 +5621,7 @@ Magnolia ID: 195
 
 ## Event 716
 Date: 10/6/1954  
+Time: 2230  
 Description: Two women (Mrs. Salabrino and her daughter) saw a whitish light in the western sky. It seemed slowly to come toward the ground, and was later seen between the railroad station and the bridge 100 m away from their house. When it moved, a very bright light was visible under its dark mass. It gave off a flow of sparks and rose, hovered for a moment and flew away rapidly.  
 Type: ufo sighting  
 Reference: M 138 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5496,6 +5630,7 @@ Magnolia ID: 202
 
 ## Event 717
 Date: 10/6/1954  
+Time: 2130  
 Description: Near the military barracks, soldiers saw a strange object on the ground 300 m away. As one of them approached the torpedo-shaped object, which was about 80 cm high, he found himself paralyzed.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5512,6 +5647,7 @@ Magnolia ID: 200
 
 ## Event 719
 Date: 10/7/1954  
+Time: dawn  
 Description: A railroad employee, Rene Ott, saw a mushroom-shaped object 3 m in diameter, in a field 3 m away from Route N16 and 1 m above ground. A luminous rectangle, like a door, was seen on the side. It took off and flew about 5 m above the witness, following him to the next village.  
 Type: ufo sighting  
 Reference: 41; M 143 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5528,6 +5664,7 @@ Magnolia ID: 207
 
 ## Event 721
 Date: 10/7/1954  
+Time: 1930  
 Description: Etienne-sous-Barbuise (France). Marcel Guyot was coming from work near this village, and his son Jacques followed the same road 10 min later. Both saw, at a railroad crossing, three objects on the ground that gave a bright white light. One was circular, the others cigar-shaped.  
 Type: ufo sighting  
 Reference: 42; M 146 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5544,6 +5681,7 @@ Magnolia ID: 203
 
 ## Event 723
 Date: 10/7/1954  
+Time: 1430  
 Description: R. Margaillan saw an object that had landed in a field. It was hemispherical, about 2.5 m in diameter. The witness gasped for air and felt "paralyzed."  
 Type: ufo sighting  
 Reference: M 145; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5552,6 +5690,7 @@ Magnolia ID: 208
 
 ## Event 724
 Date: 10/7/1954  
+Time: 2400  
 Description: Mr. Sebelli saw an object land in the village. He called his neighbors, and they observed the departure of the craft.  
 Type: ufo sighting  
 Reference: 43; M 146 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5560,6 +5699,7 @@ Magnolia ID: 210
 
 ## Event 725
 Date: 10/7/1954  
+Time: 0400  
 Description: A farmer, Mr. Thebault, saw a luminous object, 2 or 3 m in diameter, emitting a beam of light which swept the countryside.  
 Type: ufo sighting  
 Reference: 41; M 142 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5568,6 +5708,7 @@ Magnolia ID: 205
 
 ## Event 726
 Date: 10/7/1954  
+Time: early  
 Description: The crew of several fishing boats saw a luminous, orange-colored object over the coast, apparently surrounded by dense smoke. Villagers saw the same object and stated independently that it came within 10 m of the ground, then flew away to the southeast.  
 Type: ufo sighting  
 Reference: 41; M 140 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5576,6 +5717,7 @@ Magnolia ID: 204
 
 ## Event 727
 Date: 10/8/1954  
+Time: 2115  
 Description: On the road to Boulogne a bluish object, clearly seen with a dome on top, dived toward the ground, became white and went away.  
 Type: ufo sighting  
 Reference: 44, 45;M 154 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5584,6 +5726,7 @@ Magnolia ID: 212
 
 ## Event 728
 Date: 10/8/1954  
+Time: 0230  
 Description: Ghaseme Fili, of Amireah Street, was on the second floor of his house when he saw a luminous, white flying object stop in mid-air 2O m away. lights were shining from the rear and the sides of the craft, inside which could be seen a small man dressed in black, wearing a mask with a trunk like an elephant. "I was standing with both hands on the bar of my balcony, looking with astonishment at this strange object, when I suddenly felt as though I were being drawn up toward the object by a magnet." Mr. Fili cried out in terror and woke up his neighbors. The object shot straight up, emitting sparks, and it was lost to sight almost immediately.  
 Type: ufo sighting  
 Reference: 52, 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5592,6 +5735,7 @@ Magnolia ID: 211
 
 ## Event 729
 Date: 10/9/1954  
+Time: evening  
 Description: Willi Hoge, a projectionist, saw four occupants of an object that had come to ground level 70 m from the road. He was returning home when he observed a blue light and thought an airplane had made an emergency landing. The object was cigar-shaped, and four men wearing rubber coveralls were working under it. They were about 1.2 m tall and had very large chests and oversized heads; their legs were short and thin.  
 Type: ufo sighting  
 Reference: 47 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5600,6 +5744,7 @@ Magnolia ID: 217
 
 ## Event 730
 Date: 10/9/1954  
+Time: evening  
 Description: Near the Landeforet pool, Christain Carette saw for 10 sec a fiery sphere flying at treetop level. Diameter: 4 m. Protuberance on top.  
 Type: ufo sighting  
 Reference: 48;M 152 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5632,6 +5777,7 @@ Magnolia ID: 213
 
 ## Event 734
 Date: 10/9/1954  
+Time: 1600  
 Description: As he was driving near Carcassonne, Jean Bertrand saw a bright, metallic sphere on the road ahead. The top half seemed to be made of transparent plastic, and two humanlike figures were standing inside. It took off rapidly, flying east.  
 Type: ufo sighting  
 Reference: 48; M 145 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5648,6 +5794,7 @@ Magnolia ID: 214
 
 ## Event 736
 Date: 10/9/1954  
+Time: 1830  
 Description: Four children-Gilbert Calda, 12; Daniel Hirsch, 9; J. P. Hirsch, 5; and Robed Maguin 16-were roller-skating when they saw a luminous object near the cemetery. It was round, about 2.5 m in diameter, standing on three legs. A dwarf, about 1.2 m tall, dressed in black, having a face covered with hair and large eyes, came out and shone a blinding light at them, and said something in an unknown language. The children ran away, but looked back in time to see the object flying away high in the sky.  
 Type: ufo sighting  
 Reference: 49; M 154; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5656,6 +5803,7 @@ Magnolia ID: 220
 
 ## Event 737
 Date: 10/9/1954  
+Time: 1900  
 Description: Mr. Barrault was riding his bicycle when he suddenly saw a figure in a diving suit aiming a double beam of light at him. The individual had boots without heels and very bright eyes, walked on the road for one minute and went into the forest. The witness was "paralyzed" throughout the incident. The entity had a hairy chest and two lights, one above the other, in front of him.  
 Type: ufo sighting  
 Reference: 45, 48; M 153; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5664,6 +5812,7 @@ Magnolia ID: 221
 
 ## Event 738
 Date: 10/9/1954  
+Time: 2030  
 Description: On Route N631 at "La Caiffe," a technician, J. P. Mitto, was coming back from Toulouse with two other persons when they saw two small figures, the height of 11-year-old children, cross the road about 5 m in front of the car and jump into a pasture. Stopping immediately, the witnesess saw a large convex disk take off vertically. It was about 6 m in diameter, orange in color and was literally "sucked up" into the sky. Brown oily spots were found at the site.  
 Type: ufo sighting  
 Reference: 43, 50 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5672,6 +5821,7 @@ Magnolia ID: 222
 
 ## Event 739
 Date: 10/9/1954  
+Time: 2215  
 Description: The local representative of a German firm, Max Favell, saw an object give off a white light and land. It took off vertically, with a spinning motion, and was lost to sight.  
 Type: ufo sighting  
 Reference: 51 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5680,6 +5830,7 @@ Magnolia ID: 223
 
 ## Event 740
 Date: 10/10/1954  
+Time: 1400  
 Description: A math professor, Mr. Bon, observed a silvery disk about 7 m in diameter rise silently from a point about 250 m to the side of the road. Spinning, it dived to the ground from an altitude of about 800 m, then flew off horizontally at a dizzying speed.  
 Type: ufo sighting  
 Reference: 55, 57 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5688,6 +5839,7 @@ Magnolia ID: 228
 
 ## Event 741
 Date: 10/10/1954  
+Time: 0630  
 Description: Roger Thiriet, jailer in Ecouvres detention center, was riding his motorcycle when he suddenly saw an aluminum colored object shaped like a plate, with a dome and two portholes. It was about 2 m in diameter and 1 m high. It took off immediately.  
 Type: ufo sighting  
 Reference: 54 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5720,6 +5872,7 @@ Magnolia ID: 224
 
 ## Event 745
 Date: 10/10/1954  
+Time: nightfall  
 Description: Roger Gayout and family saw a very bright object come very close to the ground.  
 Type: ufo sighting  
 Reference: 56; M 162 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5728,6 +5881,7 @@ Magnolia ID: 229
 
 ## Event 746
 Date: 10/11/1954  
+Time: 2200  
 Description: A round craft, 4 m diameter, landed in a pasture. It gave off a powerful red light, took off with a formidable acceleration when witnesses (garage owner Mr. Carriere and son; Mr. Gardelle, farmer; Mr. Ginestre, shoemaker; and two others) came close to it. Mr. Gardelle felt "an electric shock."  
 Type: ufo sighting  
 Reference: 60, 61; M 162 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5736,6 +5890,7 @@ Magnolia ID: 240
 
 ## Event 747
 Date: 10/11/1954  
+Time: 0130  
 Description: Farmers awakened by a whistling sound saw a flat object land near the woods. It soon rose very fast, vertically, and flew away. The ground was found calcined. Samples were taken by police officials for analysis.  
 Type: ufo sighting  
 Reference: 56 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5744,6 +5899,7 @@ Magnolia ID: 230
 
 ## Event 748
 Date: 10/11/1954  
+Time: 0300  
 Description: Two men riding motorcycles saw a bell-shaped craft about 2.5 m high, hovered 1 m above the Evreux-Louviers railroad line. The lower part was ringlike, and the object gave off reddish and greenish sparks. A burst of orange light was seen as it jumped about 10 m high, then it remained motionless for about 1 hr, during which time a third witness joined the first two. It ultimately turned brighter and flew away toward the east.  
 Type: ufo sighting  
 Reference: 55; M 162 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5752,6 +5908,7 @@ Magnolia ID: 231
 
 ## Event 749
 Date: 10/11/1954  
+Time: 0415  
 Description: Baptiste Jourdy, who was making the daily collection of milk, was suddenly stopped as the engine and headlights of his truck died. He got out and saw a light above him. After it crossed the road, the headlights came on again and he was able to restart his truck.  
 Type: ufo sighting  
 Reference: 57 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5760,6 +5917,7 @@ Magnolia ID: 232
 
 ## Event 750
 Date: 10/11/1954  
+Time: 0420  
 Description: Mr. Labonde was driving at the intersection of D14 and D104 when he was followed by a sort of luminous globe surrounded with a reddish glow, about 2 m in size. It stayed within 25 m of the car.  
 Type: ufo sighting  
 Reference: 58; M 158 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5768,6 +5926,7 @@ Magnolia ID: 233
 
 ## Event 751
 Date: 10/11/1954  
+Time: 0430  
 Description: Messrs. Gallois and Vigneron who were driving from Clamecy to Corbigny felt an "electric shock" as the car headlights died. They then saw a craft in a pasture 50 m away. It was cylindrical, fairly thick, and three dwarfs were standing close by. No light was seen, except a small, reddish point. Both witnesses were "paralyzed" until the craft left. A third witness, Mr. Chaumeau, had seen a lighted object fly over the woods at La Carie.  
 Type: ufo sighting  
 Reference: 57; M 158 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5776,6 +5935,7 @@ Magnolia ID: 234
 
 ## Event 752
 Date: 10/11/1954  
+Time: dawn  
 Description: Anny Pracht, her sister Roselyne, and two other persons saw a luminous object on the ground. It became fiery red in color and flew away when they came near.  
 Type: ufo sighting  
 Reference: 56; M 162 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5784,6 +5944,7 @@ Magnolia ID: 235
 
 ## Event 753
 Date: 10/11/1954  
+Time: dawn  
 Description: A large red object was seen flying very fast at treetop level while cattle panicked. Three witnesses.  
 Type: ufo sighting  
 Reference: Quincy; M 162 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5792,6 +5953,7 @@ Magnolia ID: 236
 
 ## Event 754
 Date: 10/11/1954  
+Time: 0500  
 Description: A large disk flying very low over a road scared two truck drivers, Messrs. Gaston Breau and Amoura, who stopped their gasoline truck and ran away into the fields while the object flew on toward Medea in silence.  
 Type: ufo sighting  
 Reference: 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5800,6 +5962,7 @@ Magnolia ID: 237
 
 ## Event 755
 Date: 10/11/1954  
+Time: 1930  
 Description: Three men driving near Taupignac got out of their car to observe an intense red sphere in the sky. Then they discovered a round machine with a dome, 6 m diameter, giving off a yellowred light, 200 m away at 10 m altitude. It was motionless and silent. It suddenly moved horizontally for a short distance and landed behind a woods. Two witnesses went closer and saw four dwarfs, 1 m tall, who seemed busy with the machine. The creatures rushed inside when the witnesses arrived within 15 m. The witnesses wae blinded by a sudden burst of light, blue, then orange, then red, and the object took off vertically at fantastic speed.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5808,6 +5971,7 @@ Magnolia ID: 238
 
 ## Event 756
 Date: 10/11/1954  
+Time: 2150  
 Description: Four persons, among them Julia Juste, Maria Barbeau, and Marion Le Tanneur, of Jarnac, saw two luminous spheres flying in the same direction. Having stopped and maneuvered in midair, the larger one took on a deep red color, turned to an intense white light with a red aura, and both landed. Witnesses did not wait.  
 Type: ufo sighting  
 Reference: Quincy; M 160 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5816,6 +5980,7 @@ Magnolia ID: 239
 
 ## Event 757
 Date: 10/12/1954  
+Time: afternoon  
 Description: A French engineer driving to Port Lyautey saw a dwarf about 1.2 m in height enter an object which soon took off. The little man was wearing silver coveralls.  
 Type: ufo sighting  
 Reference: 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5824,6 +5989,7 @@ Magnolia ID: 241
 
 ## Event 758
 Date: 10/12/1954  
+Time: 2100  
 Description: A farmer, Mr. Beuc, saw a small pilot enter an object. It glided over the road for 30 m, then rose rapidly.  
 Type: ufo sighting  
 Reference: M 167; Carrouges 98 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5832,6 +5998,7 @@ Magnolia ID: 242
 
 ## Event 759
 Date: 10/12/1954  
+Time: evening  
 Description: A railroad employee,  Mr. Laugere, saw a torpedo-shaped, metallic craft on the ground near a gas-oil tank. An individual covered with hair was standing nearby, emitting sounds that were not understood. The witness went to get his friends, but the thing disappeared in the meantime.  
 Type: ufo sighting  
 Reference: 63; M 167 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5840,6 +6007,7 @@ Magnolia ID: 243
 
 ## Event 760
 Date: 10/12/1954  
+Time: 2230  
 Description: Jan Marty, 42, mechanic, was in his shop when he saw a luminous disk about 6.5 m diameter and 2.5 m thick, land. He tried to approach it, but the craft rose vertically and silently at an amazing speed.  
 Type: ufo sighting  
 Reference: 62, 63 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5848,6 +6016,7 @@ Magnolia ID: 244
 
 ## Event 761
 Date: 10/12/1954  
+Time: 2230  
 Description: Gilbert Lelay, 13, saw a phosphorescent cigar in a pasture and a man near it, wearing a gray suit, boots, and a gray hat. He held a flashing sphere and told Gilbert in French not to touch it. He went back inside the craft, which flew in loops and vanished.  
 Type: ufo sighting  
 Reference: Carrouges 103; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5864,6 +6033,7 @@ Magnolia ID: 246
 
 ## Event 763
 Date: 10/12/1954  
+Time: 2330  
 Description: Roger Ramond, a nightwatchman saw a great light and noticed an oval object which landed 300 m away. It looked like a fieryorange ball, illuminated the vinyard for nearly 3 hrs, then assumed a vertical position, rose slowly, hovered 30 m above ground for a few seconds, and took off at fantastic speed.  
 Type: ufo sighting  
 Reference: 64; M 168 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5872,6 +6042,7 @@ Magnolia ID: 247
 
 ## Event 764
 Date: 10/13/1954  
+Time: 1930  
 Description: At Donjon de Montlaur, five persons, among them J. Dubois, saw a round craft maneuver, give off a blinding light. It had some openings or portholes, and seemed to land far from them.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5880,6 +6051,7 @@ Magnolia ID: 248
 
 ## Event 765
 Date: 10/13/1954  
+Time: 1935  
 Description: Messrs. Olivier and Perano and a third man saw a reddish disk about 4 m diameter with a small being close by, about 1.2 rn tall, wearing a diving suit: "His head was large with respect to the rest of the body and he had two enormous eyes. The suit was bright and shiny like glass." The craft was surrounded by a sort of misty glow. One of the men came within 2O m of it and found himself paralyzed. The craft took off, throwing him to the ground, and rose very fast.  
 Type: ufo sighting  
 Reference: 62, 63 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5888,6 +6060,7 @@ Magnolia ID: 249
 
 ## Event 766
 Date: 10/14/1954  
+Time: 1530  
 Description: In Erchin Wood, Casimir Starovski, a miner, met a strange being of small height and bulky figure with large slanted eyes. Its body was covered with fur.  
 Type: ufo sighting  
 Reference: Anatomy 143; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5896,6 +6069,7 @@ Magnolia ID: 252
 
 ## Event 767
 Date: 10/14/1954  
+Time: 1815  
 Description: A municipal employee, Jose Casella, was riding home when he suddenly found in front of him on the road an oval-shaped aluminum object about 5.5 m in diameter, 1 m high. As he applied the brakes, the object took off at very high speed. Several persons confirmed the sighting. The disk was gray, supported a dome, and emitted a soft whistle. It took off when Casella was only 6 m away.  
 Type: ufo sighting  
 Reference: 65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5904,6 +6078,7 @@ Magnolia ID: 253
 
 ## Event 768
 Date: 10/14/1954  
+Time: nightfall  
 Description: A farmer saw a bright object, which came almost to the ground. When he tried to approach it the object produced an intense "screen of light" and vanished without a noise. Several persons in Angles observed the scene.  
 Type: ufo sighting  
 Reference: 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5919,6 +6094,7 @@ Location: North Weald Airfield, Essex, England
 
 ## Event 770
 Date: 10/14/1954  
+Time: nightfall  
 Description: A farmer observed an orange sphere land and went near it. He found it was shaped like a flattened dome, 5.5 m in diameter, and gave off a blinding light, which illuminated the countryside for about 200 m. It was transparent, and a dark figure could be seen inside. After remaining at ground level for 10 min it flew north, while a bright cloud slowly fell to the ground at the site. When the witness arrived home he found his clothes covered with a white film of adhesive substance, not unlike paraffin wax.  
 Type: ufo sighting  
 Reference: 62; M 174 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5927,6 +6103,7 @@ Magnolia ID: 255
 
 ## Event 771
 Date: 10/14/1954  
+Time: nightfall  
 Description: Mr. Lonjarret observed a luminous orange object on the ground near a corn field.  
 Type: ufo sighting  
 Reference: Quincy; M 175 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5935,6 +6112,7 @@ Magnolia ID: 256
 
 ## Event 772
 Date: 10/14/1954  
+Time: nightfall  
 Description: Andre Cognard, coming from Gueugnon, was blinded by a light as a diskshaped object flew low over his car.  
 Type: ufo sighting  
 Reference: Anatomy 130 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5943,6 +6121,7 @@ Magnolia ID: 258
 
 ## Event 773
 Date: 10/14/1954  
+Time: nightfall  
 Description: Mr. B. saw a circular craft shaped like an upside-down plate. At the same time, the engine on his motorcycle stalled. In the same area an engineer saw a luminous object coming down rapidly.  
 Type: ufo sighting  
 Reference: Anatomy 130 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5951,6 +6130,7 @@ Magnolia ID: 259
 
 ## Event 774
 Date: 10/14/1954  
+Time: 2010  
 Description: On the road between Thieulloy-la-Ville and Beauvais, Mr. Covemacker saw an object fly over his car as the headlights died. It went on toward the north, seemingly following a train.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5959,6 +6139,7 @@ Magnolia ID: 260
 
 ## Event 775
 Date: 10/14/1954  
+Time: 1930  
 Description: South of Gueugnon, Messrs. Jeannet and Garnier saw a reddish fireball fly low over their car as their engine and headlights died.  
 Type: ufo sighting  
 Reference: M 175) Anatomy 130 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5975,6 +6156,7 @@ Magnolia ID: 250
 
 ## Event 777
 Date: 10/14/1954  
+Time: 0630  
 Description: A man coming out of his house saw a luminous object resembling a bright star. Coming near, he observed it was an object 5 m long, near which a "short young man" was standing on a circular piece of metal, laughing at the witness's terrified expression. The witness was 20 m away when the craft took off at unbelievable speed.  
 Type: ufo sighting  
 Reference: 52 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5983,6 +6165,7 @@ Magnolia ID: 251
 
 ## Event 778
 Date: 10/15/1954  
+Time: night  
 Description: A steelworker observed a luminous sphere land in the countryside; it then emitted lights of various colors.  
 Type: ufo sighting  
 Reference: 54, 68; M 181 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5991,6 +6174,7 @@ Magnolia ID: 268
 
 ## Event 779
 Date: 10/15/1954  
+Time: night  
 Description: Pat Hennessey ran away when she saw an object land on the road near Chalkwell Park. It had vanished silently when she looked back.  
 Type: ufo sighting  
 Reference: M 182; Humanoids 4; FSR 62, 12 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -5999,6 +6183,7 @@ Magnolia ID: 267
 
 ## Event 780
 Date: 10/15/1954  
+Time: 1950  
 Description: A yellow, cigarshaped object with brilliant portholes, 30 m long, 6 m diameter, was seen on the ground. Figures with helmets covering the head could be seen inside. A sort of haze was observed at both ends of the craft.  
 Type: ufo sighting  
 Reference: Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6007,6 +6192,7 @@ Magnolia ID: 266
 
 ## Event 781
 Date: 10/15/1954  
+Time: afternoon  
 Description: Farmers saw a disk-shaped object land, then take off vertically. At the site was found a deep crater about 6 m in diameter. Poplar trees were partially burned. Official investigation.  
 Type: ufo sighting  
 Reference: 65; M 181 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6015,6 +6201,7 @@ Magnolia ID: 265
 
 ## Event 782
 Date: 10/15/1954  
+Time: 1300  
 Description: An ovoid object made a pass over a range of trees; two caught fire.  
 Type: ufo sighting  
 Reference: 83 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6023,6 +6210,7 @@ Magnolia ID: 264
 
 ## Event 783
 Date: 10/15/1954  
+Time: 0340  
 Description: A baker saw a brilliant yellow craft descend rapidly and land on the railroad tracks. It was shaped like a mushroom, about 4 m diameter, 2 m high.  
 Type: ufo sighting  
 Reference: 62; M 180 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6039,6 +6227,7 @@ Magnolia ID: 262
 
 ## Event 785
 Date: 10/15/1954  
+Time: night  
 Description: Truck driver Rene Le Viol saw a flat craft, shaped like an inverted plate, fly very low toward the sea. A second disk followed shortly afterward. Both emitted a red glow.  
 Type: ufo sighting  
 Reference: 69; M 182 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6063,6 +6252,7 @@ Magnolia ID: 272
 
 ## Event 788
 Date: 10/16/1954  
+Time: 1730  
 Description: Mr. Bachelard was driving a light truck on road D52-E between Chanat and Couhay when suddenly the engine seemed to slow down and he felt "paralyzed." He then saw in a field near the road a brown object about 10 m long, 2.5 m high. Silent, it gave off no light and showed no opening.  
 Type: ufo sighting  
 Reference: 70;M 198 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6087,6 +6277,7 @@ Magnolia ID: 270
 
 ## Event 791
 Date: 10/16/1954  
+Time: 2400  
 Description: Several people saw a landed object in a meadow. It appeared phosphorescent and of large size. It took off very suddenly.  
 Type: ufo sighting  
 Reference: 83 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6095,6 +6286,7 @@ Magnolia ID: 276
 
 ## Event 792
 Date: 10/16/1954  
+Time: nightfall  
 Description: Dr. Robert, while driving through this village, saw four objects, at about 300 m altitude, flying slowly in echelon formation. Suddenly one of them dropped to the ground with a dead-leaf motion, 100 m away. The witness felt an electric shock as engine and headlights died, and the car stopped when the object touched the ground. Incapable of moving, Dr. Robert saw a figure about 1.2 m tall moving in the light of the object, then all went dark. Some time later the headlights resumed operation by themselves, and Dr. Robert saw the craft take off toward the north.  
 Type: ufo sighting  
 Reference: 71; M 185 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6103,6 +6295,7 @@ Magnolia ID: 274
 
 ## Event 793
 Date: 10/16/1954  
+Time: 2145  
 Description: Messrs. Deschamp and Laclotre saw a craft, about 20 m diameter, 2 m high, come within 4 m of the ground for 3 or 4 min. It gave off a yellowish light and a glow extended for 4 m around.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6111,6 +6304,7 @@ Magnolia ID: 275
 
 ## Event 794
 Date: 10/17/1954  
+Time: night  
 Description: On Capri, an artist Raffael Castelle, saw a disk 5 m in diameter land on the property of Curzio Malaparte. Upon approaching it, he discovered it was not a helicopter and saw four dwarfs wearing coveralIs emerge from it. After 30 min the craft made a soft whirring sound and rose vertically, leaving blue sparks.  
 Type: ufo sighting  
 Reference: 72 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6135,6 +6329,7 @@ Magnolia ID: 277
 
 ## Event 797
 Date: 10/17/1954  
+Time: 2030  
 Description: Several witnesses, among them Mr. Beuclair a policeman, saw a bright red domeshaped object descend to ground level 20 m away. The underside showed red and white lights.  
 Type: ufo sighting  
 Reference: M 188 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6143,6 +6338,7 @@ Magnolia ID: 280
 
 ## Event 798
 Date: 10/17/1954  
+Time: 2030  
 Description: A 65-year-old man was hunting with his dog, near the junction of the Brillance Canal and the Durance River, when he saw a gray object, about 4 m long and 1 m high on the ground and 40 m away. It showed a dome from which two helmeted figures emerged. The witness fled, but his dog started toward the object. The dog soon retreated, walking awkwardly as if partialIy paralyzed.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6167,6 +6363,7 @@ Magnolia ID: 282
 
 ## Event 801
 Date: 10/18/1954  
+Time: 2040  
 Description: Mr. and Mrs. Lherminier saw a cigar-shaped red object dive toward them with a reddish trail and land near the road. Upon reaching the top of the hill, they were confronted with a bulky human figure, about 1 m tall. The creature wore a helmet and his eyes were glowing with an orange light. One witness fainted on the spot. Four others saw the object in flight from separate locations. The countryside was illuminated over 2 or 3 km.  
 Type: ufo sighting  
 Reference: Personal; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6175,6 +6372,7 @@ Magnolia ID: 284
 
 ## Event 802
 Date: 10/18/1954  
+Time: 2100  
 Description: Mr. and Mrs. Labassiere and other witnesses saw two disks in the sky, one orange and the other red, with a sort of luminous "bridge" between them. They landed, and one dwarf came out of each craft and went into the other without any sign. After this exchange of pilots both objects flew away with a tremendous flash.  
 Type: ufo sighting  
 Reference: 74 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6183,6 +6381,7 @@ Magnolia ID: 285
 
 ## Event 803
 Date: 10/18/1954  
+Time: 2245  
 Description: Miss Bourriot saw a bright red light on Route N437 near the old factory. Near it were three beings: two, dwarfs, crossed the road ahead of her; the third was a man of medium size. The craft took off, flying over the lake at high speed.  
 Type: ufo sighting  
 Reference: Quincy; M 197; LDLN 97; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6199,6 +6398,7 @@ Magnolia ID: 287
 
 ## Event 805
 Date: 10/19/1954  
+Time: 2230  
 Description: Two men saw a disk-shaped object, 6 m diameter, hovering and emitting small violet flashes. On top of it was a very high antenna. Two small robotlike beings, 1.2 m tall, descended from it on a long ladder. Their eyes were "sharp" and dark red. They said something that sounded like "Dbano da skigyay o dbano," went back aboard their craft, and flew away.  
 Type: ufo sighting  
 Reference: 87 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6207,6 +6407,7 @@ Magnolia ID: 289
 
 ## Event 806
 Date: 10/19/1954  
+Time: 1920  
 Description: Filippo Corridoni saw a half-empty balloon at ground level near the Isonzo River. Near it, a disk 10 m in diameter was resting on a strange frame. The upper part was white with a black domelike turret, around which was a series of portholes, some illuminated with a very bright, bluish-white light, which suddenly went out as the object took off spinning and rising vertically, pulling the balloon with it.  
 Type: ufo sighting  
 Reference: 86 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6223,6 +6424,7 @@ Magnolia ID: 290
 
 ## Event 808
 Date: 10/20/1954  
+Time: 0230  
 Description: Forty-year-old Lazlo Ujvari was suddenly confronted by a man wearing a jacket, boots, and cloth headgear (like a pilot's) who pointed a gun at him and said something he could not understand. When Ujvari spoke to him in Russian, the man answered in the same language, asked whether he was in Spain or Italy, and how far he was from Germany. When he asked the time, Ujvari said: "2:30." The man took his watch and said "You lie; it's 4:00." Then he wanted to know how far and in what direction Marseilles was. He made Ujvari walk on the road with him, and they came close to a gray craft with an antenna on top. When he was about 200 m away, he heard a soft whistling sound and saw it fly straight up, then take an oblique trajectory.  
 Type: ufo sighting  
 Reference: Carrouges 99; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6247,6 +6449,7 @@ Magnolia ID: 293
 
 ## Event 811
 Date: 10/20/1954  
+Time: 1830  
 Description: Mr. Schoubrenner, 25, a truck driver, saw a bright light in the distance and soon found his road blocked by a strange object. The engine died, and he felt paralyzed: "My hands were as though glued to the wheel." The craft looked like an inverted cone, the lower part phosphorescent, the middle dull, the top luminous with a yellow or orange point.  
 Type: ufo sighting  
 Reference: 76; M 204 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6255,6 +6458,7 @@ Magnolia ID: 294
 
 ## Event 812
 Date: 10/20/1954  
+Time: night  
 Description: Renzo Pugina, 37, bad just put his car in the garage when he saw a strange being covered with a "scaly" luminous suit, about 1.3 m tall, standing near a tree. The creature aimed the beam from a sort of flashlight at him, and he felt paralyzed, until a motion he made when clenching his fist on the garage keys seemed to free him. He attacked the intruder, who rose and fled with a soft whirring sound. An oily spot was found at the site.  
 Type: ufo sighting  
 Reference: 77;Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6263,6 +6467,7 @@ Magnolia ID: 295
 
 ## Event 813
 Date: 10/21/1954  
+Time: 2130  
 Description: Between Serifere and Paille, a man from Cherbonnieres suddenly felt painful pricklings similar to electric shocks and his 4-year-old child started crying. They felt increasing pain as the car went on, and suddenly the engine died and the lights went off. They were blinded by a strong red light, which turned orange. It came from an object hovering above the road, and everything returned to normal when it went away.  
 Type: ufo sighting  
 Reference: 80; M 341 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6271,6 +6476,7 @@ Magnolia ID: 300
 
 ## Event 814
 Date: 10/21/1954  
+Time: 2000  
 Description: The car driven by a bricklayer, Mr. Fillonnau, stoped as a large ball of fire flew near it. A violent air displacement was felt. "The battery was dead and the headlights were burned out." Thorough police investigation failed to identify the cause of the phenomenon.  
 Type: ufo sighting  
 Reference: 79 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6279,6 +6485,7 @@ Magnolia ID: 299
 
 ## Event 815
 Date: 10/21/1954  
+Time: 1645  
 Description: Near Shrewsbury, Jennie Roestenberg and her two children observed a diskshaped, aluminum object hovering above the house. Through two transparent panels they saw two men with white skin, long hair to their shoulders, and very high foreheads. They wore transparent helmets and turquoise-blue clothing, resembling ski suits. The object hovered at a tilted angle while the two occupants looked at the scene "sternly, not in an unkind fashion, but almost sadly, compassionately."  
 Type: ufo sighting  
 Reference: Humanoids 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6311,6 +6518,7 @@ Magnolia ID: 301
 
 ## Event 819
 Date: 10/23/1954  
+Time: 0100  
 Description: Two persons in a car saw an object resting by fhe side of the road. They stopped and walked toward the craft, 2 m diameter, which suddenly changed its clear light into a red glow and took off.  
 Type: ufo sighting  
 Reference: 89 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6319,6 +6527,7 @@ Magnolia ID: 302
 
 ## Event 820
 Date: 10/23/1954  
+Time: 0300  
 Description: A farmer saw a flying craft descend to ground level about 50 m away, with a sound like that of a compressor. It was an egg-shaped machine with six wheels and complex machinery. The top half was transparent, flooded with bright white light. Aboard were six men in yellowish coveralls, having human faces and masks. When he touched part of the craft, the witness felt a strong electric shock. One of the occupants motioned for him to stay away. For the next 2O min, the witness was able to observe the six men, apparently busy with instruments. Reliable investigations were made.  
 Type: ufo sighting  
 Reference: Personal; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6327,6 +6536,7 @@ Magnolia ID: 303
 
 ## Event 821
 Date: 10/24/1954  
+Time: 1730  
 Description: Near Sainte Catherine, a child saw a man emerge from a strange craft. He was "dressed in red, his clothes looked like iron. He walked with his legs stiff, had long hair and a hairy face. His eyes were large, like those of the cows."  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6343,6 +6553,7 @@ Magnolia ID: 304
 
 ## Event 823
 Date: 10/24/1954  
+Time: 2100  
 Description: Between Biozat and Effiat, on the road from Clermont to Vichy, the engine of a motor scooter died as an egg-shaped object took off from the side of the road and rose without noise, leaving a bright trail behind.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6351,6 +6562,7 @@ Magnolia ID: 306
 
 ## Event 824
 Date: 10/25/1954  
+Time: 0600  
 Description: Ulderico Cardinali saw a disk-shaped craft among the reeds of a swamp. It was 2 m in diameter, and near it was a small being, 1.40 m tall, clad in yellowish-brown coveralls. This creature went inside the machine, which took off at very high speed, touching the tops of the reeds.  
 Type: ufo sighting  
 Reference: 90 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6359,6 +6571,7 @@ Magnolia ID: 308
 
 ## Event 825
 Date: 10/25/1954  
+Time: 1830  
 Description: G. Mahou, municipal muncilor, 30, saw a phosphorescent craft shaped like a brooder, about 2 m in diameter, 1 m high, rise vertically from the road, leaving a luminous trail.  
 Type: ufo sighting  
 Reference: 91 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6383,6 +6596,7 @@ Magnolia ID: 310
 
 ## Event 828
 Date: 10/26/1954  
+Time: evening  
 Description: Aime Boussard, 47, a farmer, was suddenly confronted with an individual of normal height (1.60 m) wearing a sort of diving suit with a pale-green light on either side of the helmet. The individual aimed at the witness the beam of two blue lights, and he was thrown backward. No craft was observed.  
 Type: ufo sighting  
 Reference: 92 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6391,6 +6605,7 @@ Magnolia ID: 311
 
 ## Event 829
 Date: 10/26/1954  
+Time: 2030  
 Description: Approximate date. At this place situated near Saint Quirin, Mrs. Louis and her sons Marc and Yvon observed an orange craft, 6 m diameter and 3 m high, fly over them as their tractor engine died. The lights also went out, and the battery was found dead after the sighting.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6399,6 +6614,7 @@ Magnolia ID: 312
 
 ## Event 830
 Date: 10/26/1954  
+Time: 2130  
 Description: Mrs. Spinner and another witness saw a flying object come from the west and land 1 km away.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6423,6 +6639,7 @@ Magnolia ID: 315
 
 ## Event 833
 Date: 10/27/1954  
+Time: 1400  
 Description: A young man named Fabrizio Bruni heard a strange hissing sound and saw an object in a field. It was stationary, 1 m above the ground, seemed transparent and emitted a blinding glare. The witness fell on the ground "because of his strong emotions" at the sight. The object took off vertically and suddenly, leaving a trail. Very white, glistening threads were found on the ground.  
 Type: ufo sighting  
 Reference: 93 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6431,6 +6648,7 @@ Magnolia ID: 316
 
 ## Event 834
 Date: 10/27/1954  
+Time: 1930  
 Description: A farmer, Gilbert Hee, was gathering pears when he suddenly saw an elongated object with a light at both ends resting in the pasture. He dared not investigate, but he saw cows gathering around the object. A minute later, the lights went out, and the witness lost interest and went home. Two hours later, an 18-year-old man named Cheradame fell from his motorcycle as it suddenly failed at the same spot, and alerted neighbors saw the object again. It had moved only slightly and two occupants were seen. They were about 1 m tall, walked in stiff fashion, and had clothes resembling bright armor. They vanished suddenly, and the craft took off without noise.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6439,6 +6657,7 @@ Magnolia ID: 317
 
 ## Event 835
 Date: 10/27/1954  
+Time: 2030  
 Description: An object was seen on the ground by a schoolboy and his school director. Triangular traces were reported.  
 Type: ufo sighting  
 Reference: 53 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6447,6 +6666,7 @@ Magnolia ID: 318
 
 ## Event 836
 Date: 10/27/1954  
+Time: 2315  
 Description: On Route N40, the Mayor's secretary saw for 15 min a bright, cigar-shaped object, flying very low and following the turns of the road at 20 m altitude. Suddenly it tumed at a right angle from the road and flew away.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6455,6 +6675,7 @@ Magnolia ID: 319
 
 ## Event 837
 Date: 10/27/1954  
+Time: 2330  
 Description: Near Grosseto, Ermellina Lanzillo, who was looking for her cat, saw from her window a strange entity standing in the garden. The being appeared fat and had narrow shoulders, apelike eyes, and a head like a diving helmet. Paralyzed with terror, she regained self-control when called by her niece and withdrew from the window.  
 Type: ufo sighting  
 Reference: 94 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6463,6 +6684,7 @@ Magnolia ID: 320
 
 ## Event 838
 Date: 10/29/1954  
+Time: 0745  
 Description: A 14-year-old child sought asylum in the farmhouse owned by Mrs. Gentil, crying that he had been chased by a saucer. A disk three times as large as the sun, red and purple, spinning rapidly, was seen descending swiftly toward the ground and then it vanished. Investigation by local police.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6471,6 +6693,7 @@ Magnolia ID: 321
 
 ## Event 839
 Date: 10/30/1954  
+Time: 0930  
 Description: Two objects were seen by hunters. One touched the ground 50 m away. It was rhomboidic, and from the bottom a cylinder was hanging. A peculiar sound could be heard. The object shifted its position and the cylinder hit trees, bouncing three times. Then the craft gained altitude and flew away, leaving a bluish trail.  
 Type: ufo sighting  
 Reference: 82 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6487,6 +6710,7 @@ Magnolia ID: 323
 
 ## Event 841
 Date: 11/1/1954  
+Time: 0730  
 Description: A 40-year-old lady going to a cemetery suddenly observed an object, shaped like two cones with a common base, resting on a grassy space. Two small seats were visible inside the lower cone. From behind the object appared two dwarfs, 1 m tall, wearing gray coveralls and reddish helmets. Speaking words she could not understand, and with smiles that showed fine white teeth, they took a pot of flowers from the witness and flew away.  
 Type: ufo sighting  
 Reference: Personal; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6495,6 +6719,7 @@ Magnolia ID: 324
 
 ## Event 842
 Date: 11/2/1954  
+Time: 1800  
 Description: Two students, Pietro Alberini and Pericle Sacchi, who were hunting, saw a dwarf 1 m tall with a "rubber" head and a flexible tube connecting his face to a cylindrial container on his back. When they came close to it, the being wrapped itself in a bluish cloud. The witnesses ran away.  
 Type: ufo sighting  
 Reference: 90 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6503,6 +6728,7 @@ Magnolia ID: 325
 
 ## Event 843
 Date: 11/3/1954  
+Time: 0700  
 Description: Maroc-Presse reported that one of its employees, Mr. E., driver of a delivery truck, "a man of sane judgment and excellent eyesight," observed an object flying over the Beth River. "I am positive it was not an aircraft or any known machine but a circular, flat craft which had the appearance of copper. It flew normally for some time, then it suddenly flipped over. Therefore, I was able to see the whole disk and was amazed when it came down into a field where it landed on edge, very gently. Almost immediately it rose into the sky at great speed, resumed its horizontal position and was soon lost to sight."  
 Type: ufo sighting  
 Reference: 95 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6511,6 +6737,7 @@ Magnolia ID: 326
 
 ## Event 844
 Date: 11/4/1954  
+Time: night  
 Description: Jose Alves was fishing in the Pardo River when he suddenly saw a craft approach with a wobbling motion and landing near him. Shaped like two washbowls placed together, it was about 4.5 m in diameter. Too terrified to move, the witness saw three little men, dressed in white, wearing tight-fitting skull caps, with dark skin, come out of the craft, gather vegetables and water and fly away.  
 Type: ufo sighting  
 Reference: Humanoids 33; Lor. I 44 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6519,6 +6746,7 @@ Magnolia ID: 327
 
 ## Event 845
 Date: 11/5/1954  
+Time: 1010  
 Description: Raymond R. saw a craft, which made a noise like a large transformer and gave off an orange light, land in a pasture. Three men in dark coveralls were standing nearby. One was holding a sort of box, "which emitted a beam of light three meters long." The other two were holding objects that looked like weapons. Another witness fled and felt pricklings on his face as he ran. Four photographs of the scene were taken. Traces: a whitish substance and a circle 3 m in diameter where the ground had an ashlike appearance.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6542,6 +6770,7 @@ Location: Padre Island, TX
 
 ## Event 848
 Date: 11/7/1954  
+Time: 1515  
 Description: A motorcyclist saw a disk-shaped machine land near the road. He tried to turn too sharply and fell 50 m away. A taxi driver stopped to observe the object, which gave off a soft whirring sound and soon took off. Farmers on the other side of the mountain saw it fly away. The disk, about 15 m in diameter, was made of a silvery, rough metal. It supported a dome and showed several portholes.  
 Type: ufo sighting  
 Reference: 97; Wilkins U 237 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6550,6 +6779,7 @@ Magnolia ID: 330
 
 ## Event 849
 Date: 11/8/1954  
+Time: dusk  
 Description: Andre Chaillou felt pricklings in his hands, "in spite of his gloves," when a blue disk came close to his motorcycle and his electrical system failed. He was unable to move or articulate a word for several minutes. As soon as the blue light was turned off, he started again and went near the light when it reappeared 200 m away. He saw the object, a cone 5.5 m in size, rise vertically with a soft whistling, then fly horizonally to the north.  
 Type: ufo sighting  
 Reference: 98 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6558,6 +6788,7 @@ Magnolia ID: 333
 
 ## Event 850
 Date: 11/8/1954  
+Time: 1800  
 Description: In the Vacheresse Forest, reliable persons reported seeing a luminous sphere land at the edge of the forest and become dark. The next morning, investigation disclosed that an area 4 or 5 m in diameter had no leaves, while the ground elsewhere was covered with them. The earth seemed to have been dug up.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6566,6 +6797,7 @@ Magnolia ID: 332
 
 ## Event 851
 Date: 11/8/1954  
+Time: 1030  
 Description: A crowd of about 150 people, destroying barriers to come closer, gathered to observe a luminous craft landed in a stadium. The object rested on three legs and had a dome emitting a blinding white light and supporting an antenna. Two small figures dressed in white and gray, wearing transparent helmets, were seen. They spoke with guttural sounds. One of them had a black face with sort of trunk. When a man sicced a boxer dog onto the dwarfs, the animal turned around and bit him. The object rose with a shrill sound and vanished rapidly.  
 Type: ufo sighting  
 Reference: Wilkins U 238 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6590,6 +6822,7 @@ Magnolia ID: 335
 
 ## Event 854
 Date: 11/13/1954  
+Time: 0330  
 Description: Near the local airport, Mr. Davril saw a craft like a round hut 300 m away. It took off without noise.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6606,6 +6839,7 @@ Magnolia ID: 337
 
 ## Event 856
 Date: 11/13/1954  
+Time: 0330  
 Description: A lens-shaped object was seen on the railroad tracks. Near it, three dwarfs wearing tight-fitting suits were looking at the tracks with a light. When the witness approached, the machine took off very fast.  
 Type: ufo sighting  
 Reference: 99; Humanoids 33 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6614,6 +6848,7 @@ Magnolia ID: 338
 
 ## Event 857
 Date: 11/14/1954  
+Time: night  
 Description: Approximate date. Marcel Pipers a gardener saw a craft resting near the road give off a very bright light. His clothing was partially burned when he went close to it.  
 Type: ufo sighting  
 Reference: Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6622,6 +6857,7 @@ Magnolia ID: 340
 
 ## Event 858
 Date: 11/14/1954  
+Time: night  
 Description: A shange beam of red light, apparently from some flying source, was reported sweeping the countryside. As it illuminated two tractors, one of them stalled, but the other, a diesel, continued. The beam was seen for about one hour by a large number of persons.  
 Type: ufo sighting  
 Reference: M 211 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6630,6 +6866,7 @@ Magnolia ID: 341
 
 ## Event 859
 Date: 11/14/1954  
+Time: afternoon  
 Description: Amerigo Lorenzini, a farmer, saw a bright, cigar-shaped craft land near him and took cover. Out of it came three dwarfs dressed in metallic diving suits. They centered their attention on rabbits in a cage while speaking among themselves in an unknown language. Thinking they were going to steal the animals, the farmer aimed a rifle at the intruders, but it failed to fire and the witness suddenly felt so weak that he had to drop the gun. The dwarfs took the rabbits, and their craft departed, leaving a bright trail.  
 Type: ufo sighting  
 Reference: 100 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6638,6 +6875,7 @@ Magnolia ID: 339
 
 ## Event 860
 Date: 11/22/1954  
+Time: 2145  
 Description: A radio operator at the local air base saw a huge, dark object about 30 m in diameter hovering at treetop height. With four other persons he saw it for several hours, sometimes softly glowing, sometimes coming down almost to the ground.  
 Type: ufo sighting  
 Reference: Lor. I 4511 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6653,6 +6891,7 @@ Location: Northwest Miami, FL
 
 ## Event 862
 Date: 11/25/1954  
+Time: 1700  
 Description: Two 12-year-old boys, G. Marziano and P. Santucci, suddenly saw three figures who, as soon as they were discovered, entered a small spherical craft concealed 10 m away behind some bushes. The beings were small, about 35 cm tall, had very large heads and lead-gray skin. The craft had two sharppointed propellers in front, which started spinning. The craft took off suddenly with a hissing sound.  
 Type: ufo sighting  
 Reference: 90 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6661,6 +6900,7 @@ Magnolia ID: 343
 
 ## Event 863
 Date: 11/28/1954  
+Time: 0200  
 Description: G. Gonzales and Jose Ponce, truck drivers, found their road blocked by a luminous sphere over 3 m diameter, hovering 2 m above ground. A small creature with claws and glowing eyes came toward them. Gonzales grabbed it, found it strangely light (less than 2O kg), and observed its body was very hard and covered with fur. But the creature pushed him back, while two other dwarfs emerged from the bushes and leaped into the sphere, carrying stones and other samples. Gonzales was blinded by a light from the craft and the strange beings flew away.  
 Type: ufo sighting  
 Reference: Lor I 52 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6684,6 +6924,7 @@ Magnolia ID: 345
 
 ## Event 866
 Date: 12/1/1954  
+Time: 0430  
 Description: A 39-year-old civilian saw an oval light, very bright, illuminating the countryside. After some maneuvers and oscillations in mid-air, it landed for a couple of minutes less than 3 km away, then flew off to the east.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6700,6 +6941,7 @@ Magnolia ID: 347
 
 ## Event 868
 Date: 12/4/1954  
+Time: night  
 Description: For several minutes a waiter saw a circular object stationary in a pasture 50 m away. It was blue with symmetrical openings, from which a bright red light was emitted. The witness got a rifle and fired twice at the very tall figure who came out of the turret on the craft. Immediately a very strong wind was felt, and the craft took off amidst a reddish glow.  
 Type: ufo sighting  
 Reference: 101 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6708,6 +6950,7 @@ Magnolia ID: 348
 
 ## Event 869
 Date: 12/9/1954  
+Time: evening  
 Description: A farmer, O. da Costa e Rosa, observed a stranger standing near a machine shaped like "a tropical helmet," cream-colored, surrounded with haze, making the same noise as a sewing machine. Another man was looking at a fence, and the head and arms of a third one were visible inside the craft. As the witness dropped his hoe, the man smiled, picked it up, and gave it back to him, after which they motioned him to stay away and took off. They were of average height, had broad shoulders, long hair, very white skin, and slanted eyes. They wore brown coveralls ending with shoes without heels.  
 Type: ufo sighting  
 Reference: Lor. I 46; Humanoids  4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6716,6 +6959,7 @@ Magnolia ID: 349
 
 ## Event 870
 Date: 12/9/1954  
+Time: 1930  
 Description: Ernst Jung and his wife saw an intense red, luminous object descending toward them at great speed. It hovered 5 m above ground when they stopped their motorcycle. It was cigarshaped, 5 m long, 2 m wide. They saw it turn off its lights and fly toward the forest. Other people in a bus saw the same thing.  
 Type: ufo sighting  
 Reference: Nachrichten Oct., 56 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6724,6 +6968,7 @@ Magnolia ID: 350
 
 ## Event 871
 Date: 12/10/1954  
+Time: 1830  
 Description: A doctor from Caracas who was driving with his father near this town stopped his car as two little men were running into the bushes. Soon thereafter, a luminous disk rose from the side of the road with a sizzling sound and flew away.  
 Type: ufo sighting  
 Reference: Lor. I 43 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6732,6 +6977,7 @@ Magnolia ID: 351
 
 ## Event 872
 Date: 12/10/1954  
+Time: evening  
 Description: Having seen a bright object land near the Trans-Andean Highway, two young men approached it, found it was shaped like two bowls g]ued together, about 3 m diameter. The underside was a source of fiery light. Four small beings emerged and attacked them, in an apparent kidnapping attempt. The dwarfs were extremely strong, their bodies covered with hair. They fled into the machine, and it took off.  
 Type: ufo sighting  
 Reference: Lor. I 51 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6740,6 +6986,7 @@ Magnolia ID: 352
 
 ## Event 873
 Date: 12/11/1954  
+Time: 1700  
 Description: Near the site of Case 349, Pedro Morais saw two human beings dressed in "yellow bags" take a tobacco plant and a chicken, then go away. Their craft "had a bottom like an enormous polished brass kettle," hovered with an oscillating motion, and made a noise like a sewing machine. Its upper part resembled a jeep hood.  
 Type: ufo sighting  
 Reference: Lor. I 46; Humanoids 34 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6756,6 +7003,7 @@ Magnolia ID: 354
 
 ## Event 875
 Date: 12/17/1954  
+Time: 1700  
 Description: A woodsman from Poligny saw a very bright light on the road, first thought it was an American car with its headlights on, but soon observed it came from a dark craft about 80 m away. The light turned brighter; the witness felt an intense heat wave and thought he was going to die. Finally, the light went away.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6764,6 +7012,7 @@ Magnolia ID: 355
 
 ## Event 876
 Date: 12/19/1954  
+Time: 2300  
 Description: Jose Parra, an 18-year-old jockey, saw six small creatures loading stones into a disk-shaped machine hovering about 3 m above ground. He tried to run away but was paralyzed by a violet beam aimed at him by one of the creatures. All the creatures entered the craft, and it took off.  
 Type: ufo sighting  
 Reference: Lor. I 52 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6772,6 +7021,7 @@ Magnolia ID: 356
 
 ## Event 877
 Date: 12/20/1954  
+Time: 0000  
 Description: An employee of the Barbula sanatorium saw an object on the ground but did not report it. Three hours later, another employee saw the craft. It was luminous and took off soon afterward.  
 Type: ufo sighting  
 Reference: Lor. I 52 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6792,6 +7042,7 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 
 ## Event 880
 Date: 12/29/1954  
+Time: 2100  
 Description: Near Gardonne, Mr. Gamba saw an oval red object 50 m away. When he tried to approach it, he found he was unable to move. As soon as this "paralysis" subsided, he ran to get his brothers and came back to the craft, which turned white, then red. It rose and flew away toward the east. It had been on the ground for at least 15 min. Strange traces were found, as if the ground had been dug up. Small trees near the river were found damaged, as if they had been cut with a knife.  
 Type: ufo sighting  
 Reference: 103 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6814,6 +7065,7 @@ Location: Soviet Union
 
 ## Event 883
 Date: 1/3/1955  
+Time: 0725  
 Description: Two persons in a car saw a flying object come within 70 m of them after their vehicle was stopped.  
 Type: ufo sighting  
 Reference: Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6838,6 +7090,7 @@ See also: 8/23/52
 
 ## Event 886
 Date: 3/1955  
+Time: 0400  
 Description: Robert Hunnicutt, a businessman, saw three men kneeling on the side of the road. They were about 1 m tall, had gray skin, and wore tight-fitting gray clothes. They had froglike face, long slender arms, normal eyes, but no eyebrows. One of them held a dark object (emitting blue flashes) between his raised arms. Hunnicutt tried to go near but "must have lost consciousness," because he found himself driving to the police station without remembering what took place in the meantime.  
 Type: ufo sighting  
 Reference: Stringfield; FS May., 61; Sanderson 147 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6846,6 +7099,7 @@ Magnolia ID: 361
 
 ## Event 887
 Date: 3/2/1955  
+Time: 1700  
 Description: A car was followed for 10 min by three elongated "balloons," each showing eight red lights and about 7 m long.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6883,6 +7137,7 @@ Location: Groom Lake
 
 ## Event 892
 Date: 5/29/1955  
+Time: 1920  
 Description: Approximate date. Three farmers, among them Thomas Robinson, saw a light growing in size for 2 min and flying between them and Mt. Williams. Looking like a "light airplane on fire," it changed course, losing altitude and trailing flames. It touched the ground, lighting up the whole area, rose again, and began to "feel its way along the crooked edge of the cane field and the swamp toward our house." It returned to earth four times. The dogs ran out barking as it landed within 100 m of the witnesses before taking off again.  
 Type: ufo sighting  
 Reference: UFO Bulletin Mar., 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6891,6 +7146,7 @@ Magnolia ID: 363
 
 ## Event 893
 Date: 5/31/1955  
+Time: 1110  
 Description: A farmer, 74-year-old J. B. Collange, was watching his cows on a clear, calm morning when he suddenly observed, in an easterly direction, a vertical circular object about 3 m away, the bottom edge about 30 cm from the ground. It measured about 1.10 m in diameter, was very luminous, white, but not blinding. Many filaments of various colors were radiating from the disk. Their length varied between 0.5 and 2 m. The object rose over a hedge and was lost to sight behind some woods.  
 Type: ufo sighting  
 Reference: Ouranos 14, 15, 22 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6921,6 +7177,7 @@ Location: Pepperrel AFB, Newfoundland
 
 ## Event 897
 Date: 7/18/1955  
+Time: 0300  
 Description: Mr. Maupin and five other witnesses on the airfield were blinded by a light from a disk-shaped object 150 m away. It left orange glows in its trail. Silent, flying slowly, it hovered near the Metro station, close to the ground, but did not actually land. It left toward the northwest. A woodsman from Mareul-Caubert, Mr. Rolle, saw the object half-an-hour earlier. It came from the direction of Amiens.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6929,6 +7186,7 @@ Magnolia ID: 366
 
 ## Event 898
 Date: 8/1/1955  
+Time: night  
 Description: Two persons in a car saw a lighted object dive toward them and hover about 30 m above the road. A disk, 12 m in diameter, it flew around the car and went away without noise. The witnesses were tourists, who went straight to the Arles police.  
 Type: ufo sighting  
 Reference: 105 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6937,6 +7195,7 @@ Magnolia ID: 367
 
 ## Event 899
 Date: 8/1/1955  
+Time: 2100  
 Description: Mr. Sheneman, who was coming from Willoughby, came out of his car and saw a circular object with a red light on it that came down fast, hovered, and emitted two beams of light. The witness fled toward his house, and the object appeared to chase him at less than 70 m altitude. It measured about 30 m in diameter and supported a dome. Mr. Sheneman, his wife, and their two children saw it fly away.  
 Type: ufo sighting  
 Reference: Evidence 114 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6945,6 +7204,7 @@ Magnolia ID: 368
 
 ## Event 900
 Date: 8/5/1955  
+Time: 1430  
 Description: Messrs. Coisin and Mahieu saw five brown, disk-shaped machines coming down and up again at great speed. One of them flew under the others, then two disks appeared to land 300 m away near the German cemetery. The others flew away toward the south at tremendous speed.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6953,6 +7213,7 @@ Magnolia ID: 369
 
 ## Event 901
 Date: 8/16/1955  
+Time: 0400  
 Description: Mr. Ernest Suddard, 35, and his 13-year-old son were in a lorry on Roundhill Street when they saw what seemed to be a human being about 1.20 m tall, dressed in skin-tight black clothes. It held its arms close to its sides, its feet close together, and walked by a series of jumps. On its chest was a silver disk perforated with holes. It turned off suddenly into a passageway and was lost to sight. The witnesses were too amazed to follow it.  
 Type: ufo sighting  
 Reference: Constance 222 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6961,6 +7222,7 @@ Magnolia ID: 370
 
 ## Event 902
 Date: 8/19/1955  
+Time: 2330  
 Description: About 700 m away from Roundhill street, Mr. Wood, a warehouseman, saw a bright, bullet-shaped, silvery object behind a hillock. It measured about 4 m in height, 1.5 m in diameter, had a surface similar to chromium and made a highpitched buzzing sound.  
 Type: ufo sighting  
 Reference: Constance 222 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6969,6 +7231,7 @@ Magnolia ID: 371
 
 ## Event 903
 Date: 8/21/1955  
+Time: 2030  
 Description: The Sutton family saw a light landing near their farmhouse, then several nightmarish entities about 1 m tall, with glowing silver clothing, an oversized round head, huge eyes and ears, and a slit-like mouth harassed them for several hours, in spite of heavy gunfire. At one point, one of the entities was knocked down from the roof by a bullet: it "floated down." Running out of ammunition, the Suttons got the police, who observed a lighted object in the sky, flying very fast.  
 Type: ufo sighting  
 Reference: Atic, Anatomy 173; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6977,6 +7240,7 @@ Magnolia ID: 372
 
 ## Event 904
 Date: 8/22/1955  
+Time: 1400  
 Description: A group of children was playing in the garden of Mr. and Mrs. Douglas when they observed a hovering object which disappared and reappeared as a spinning disk with curved lines radiating from it. Other objects, silvery and semi-transparent, soon appeared and were seen by all children. They made musical sounds as they vanished and reappeared. One of them landed, and a creature the size of a 4-year-old child, transparent, wearing a belt with a bright disk, was seen nearby. Another creature appeared and spoke to one of the boys. All the children experienced visions of the object and the creatures, as well as "arms" which appeared to beckon to them.  
 Type: ufo sighting  
 Reference: TSR 67, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -6993,6 +7257,7 @@ Magnolia ID: 374
 
 ## Event 906
 Date: 9/16/1955  
+Time: 1800  
 Description: A young shepherd heard a whistling sound as a dark mass appeared to fall from the sky and a rush of air swept him from his feet. The object looked like a machine with an opening where a stairway became visible. Two occupants were seen. One was observed to have a reddish face, a bald head and very fine teeth. The craft was round, about 3.5 m diameter, 2 m high, lighted with neon-like light. The occupants gathered some plants and flew away to the northwest.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7001,6 +7266,7 @@ Magnolia ID: 375
 
 ## Event 907
 Date: 9/17/1955  
+Time: night  
 Description: Mr. and Mrs. Bordes, of New York City, were fishing when they heard a loud splash and a "gurgling sound," saw a pink, iridescent, mushroom-shaped object rise about 70 cm above the water, and sink into the reservoir. Later, they saw the object again, about 5 m long and surrounded with turbulence. It reversed direction several times without turning around and finally flew away very fast.  
 Type: ufo sighting  
 Reference: Constance 226; FSR 55,5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7140,6 +7406,7 @@ Location: South Africa
 
 ## Event 925
 Date: 4/8/1956  
+Time: 2345  
 Description: Near Exauroux, two brothers, 18 and 20, saw a red ball to their left coming down and hovering at tree height. It then left at fantastic speed. Three additional witnesses reported it independently. The object was a disk about 7.5 m in diameter, with a red dome, and rotating fins under it. It emitted a yellow-orange glow.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7148,6 +7415,7 @@ Magnolia ID: 380
 
 ## Event 926
 Date: 4/16/1956  
+Time: 0500  
 Description: On Route 1, just before dawn, two government employees saw for a few seconds a large, top-shaped object passing over their car. It was as large as the road and made no sound.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7156,6 +7424,7 @@ Magnolia ID: 381
 
 ## Event 927
 Date: 5/9/1956  
+Time: 2300  
 Description: Two girls, Joan Frost and Gertie Wynn, while waiting for a bus, saw two pulsating lights flying horizontally and disappearing. 15 min later the lights were seen again, stopping at the zenith, merging, and diving to 50 m altitude. As the bus arrived, it seemed that the objects had separated and were about to abduct the witnesses, and they ran to the vehicle in terror.  
 Type: ufo sighting  
 Reference: APRO Mar., 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7164,6 +7433,7 @@ Magnolia ID: 382
 
 ## Event 928
 Date: 6/6/1956  
+Time: 0430  
 Description: An object hovered about 30 m above and 100 m away from the witness's car. Showing something like a dome on top, it crossed the road slowly, turned, and crossed the road again behind the car, then vanished suddenly.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7202,6 +7472,7 @@ Location: Washington DC
 
 ## Event 933
 Date: 9/1956  
+Time: 2030  
 Description: O. Guarichi was walking on the beach with his dogs when he saw an object come from the sea and land. Two men, 1.80 m tall, wearing metallic-looking uniforms, emerged. One of them picked up objects from the beach. There was an exchange of gestures with the witness. One of the dogs turned away when the witness approached the craft, which was 20 m wide 3 m high and showed flashing lights as it left.  
 Type: ufo sighting  
 Reference: Nachrichten Mar., 61 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7258,6 +7529,7 @@ Reference: [link](https://en.wikipedia.org/wiki/Soviet_atomic_bomb_project)
 
 ## Event 941
 Date: 1/15/1957  
+Time: early  
 Description: William West and Wallace Liddell saw an object similar to a shooting star coming close to them appearing then as an oval, fluorescent craft, about 40 m in diameter, which almost touched the grass. They rushed to catch it, but it jumped away, turning into a bluish-white sphere with a dark red center. Each time they tried to reach it, the craft jumped farther away. It cleared a high fence and slowly vanished. The Invercargill Weather Bureau had no explanation.  
 Type: ufo sighting  
 Reference: 107 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7266,6 +7538,7 @@ Magnolia ID: 386
 
 ## Event 942
 Date: 2/9/1957  
+Time: 2200  
 Description: Approximate date. Ina Salter was driving on Route 53 in a desolate area when she encountered a cigar-shaped objert about 5 m long, showing several portholes, which was hovering close to the ground to the left of the road. The portholes, about 50 cm in diameter, were illuminated with a yellowish light, and there were shadows moving behind. As she passed the object, it took off straight up, hovered for a few seconds, then rose out of sight  
 Type: ufo sighting  
 Reference: APRO Mar., 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7274,6 +7547,7 @@ Magnolia ID: 387
 
 ## Event 943
 Date: 3/8/1957  
+Time: night  
 Description: A pilot saw a circular object flying against the wind. It was luminous, about 5.5 m in diameter, and flew so low that it appeared to suck up the snow.  
 Type: ufo sighting  
 Reference: Keyhoe S ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7298,6 +7572,7 @@ Attributes: aerospace
 
 ## Event 946
 Date: 4/14/1957  
+Time: 1500  
 Description: At an intersection, two women, Mrs. Garcin and Mrs. Rami, suddenly heard a noise and saw behind them a top-shaped object, 1 m high and 1 m wide, nearly touching the ground. It made a sudden jump and landed again: There were a number of antennalike projections on top of it. The noise did not come from the object, but from a metallic road sign vibrating in its vicinity.  
 Type: ufo sighting  
 Reference: M 207; Challenge 14 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7306,6 +7581,7 @@ Magnolia ID: 389
 
 ## Event 947
 Date: 4/19/1957  
+Time: 1152  
 Description: Japanese fishermen aboard the "Kitsukawara Maru" saw two metal disks come into the sky. This was followed by violent turbulence.  
 Type: ufo sighting  
 Reference: Round-up 147 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7314,6 +7590,7 @@ Magnolia ID: 390
 
 ## Event 948
 Date: 4/22/1957  
+Time: 1300  
 Description: Mr. and Mrs. Firmin Bason heard an unusual noise and saw a whirlwind of flames 10 or 15 m above ground, coming down toward the vineyard. It was red and blue, spinning wildly, flying slowly. It hovered for 5 min over plants which moved violently, then it flew south with a deafening roar, hovered again and departed to the southwest. Diameter at the top: about 5 m.  
 Type: ufo sighting  
 Reference: Ouranos 21 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7337,6 +7614,7 @@ Magnolia ID: 392
 
 ## Event 951
 Date: 5/1/1957  
+Time: 0700  
 Description: When his motorcycle suddenly failed, the driver observed a disk, 2O m in diameter and 5 m thick, hovering about 15 m above ground. He hid in a ditch and saw the craft come down, making a sound similar to air escaping from a valve. A sort of lift descended from its base almost to the ground. In it was a man of average height, who made friendly gestures to the witness. He was dressed in a plastic diving suit. The witness entered the machine and saw inside several people seated before instrument panels, lighted by an extraordinary light. He was then escorted out, and the disk rose to the northwest. During the next hour, six sightings were made along the same course by independent witnesses.  
 Type: ufo sighting  
 Reference: Humanoids 35; FSR 65, 1; FSR 65, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7352,6 +7630,7 @@ Location: Edwards AFB
 
 ## Event 953
 Date: 5/10/1957  
+Time: 2250  
 Description: A Hungarian refugee, Michel Fekete, was riding his bicycle when he saw an object hovering 30 cm above ground and four little men nearby. The police found lavalike fragments at the site. Six other witnesses vouch for the sighting including Messrs. Iklef and Lepot and their wives. The craft was luminous, pulsating between red and white (remaining red longer). When white, it was more blinding than a powerful searchlight. It was 50 m away from the group of witnesses. Occupants were about 1.30 m tall with a beige-gray body, an abnormally large black head, and a waddling gait. The object flew away when a car came into view.  
 Type: ufo sighting  
 Reference: 109; M 211 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7388,6 +7667,7 @@ Reference: [Wikipedia](https://en.wikipedia.org/wiki/International_Geophysical_Y
 
 ## Event 958
 Date: 7/25/1957  
+Time: 1910  
 Description: Mr. Joao Guimaraes, who is a professor at the Catholic Faculty of Law in Santos, was sitting near the shore when he saw a hat-shaped, luminous craft approach from the sea and land near him. From it came a metallic stairway. Two normal men with long, fair hair hanging to their shoulders, a youthful appearance and wearing one-piece suits, came down, gave no verbal answers to his questions, but invited him "telepathically" to come aboard the craft. Inside the illuminated compartment, he sat on a circular seat with the crew. The machine rose for a short flight. On his return, Guimaraes found that his watch no longer worked. (Humanoids 36; FSR 57, 6  
 Type: ufo sighting  
 Reference:  ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7419,6 +7699,7 @@ Magnolia ID: 398
 
 ## Event 962
 Date: 8/22/1957  
+Time: 1540  
 Description: A black, bellshaped object bearing two bright, white lights at the top and maeasuring 15 m in diameter was chased by a civilian in a car until the engine stalled. The object was then hovering 3 m away. The underside of the machine resembled a disk with fins. When a jet aircraft took off from the airfield, the object went out of sight almost instantaneously. The car battery was found completely dead. There was no helicopter in the area, although the two witnesses compared the noise made by the object to that of a helicopter.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7449,6 +7730,7 @@ Magnolia ID: 401
 
 ## Event 966
 Date: 9/16/1957  
+Time: 930  
 Description: Les McDonald, 17, and Gladys Smith, 14, saw a red light changing to green, spreading around them like a mist and covering an area about 100 m diameter. They became nearly paralyzed and "felt a warm glow." They had no fear, but were "merely cognizant of things as they were without being able to react." This sensation lasted two min.  
 Type: ufo sighting  
 Reference: UFO Bulletin Dec., 57 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7457,6 +7739,7 @@ Magnolia ID: 402
 
 ## Event 967
 Date: 9/19/1957  
+Time: 1840  
 Description: A boomerang-shaped object bigger than a house was reported to have landed. Grass flattened.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7465,6 +7748,7 @@ Magnolia ID: 403
 
 ## Event 968
 Date: 9/26/1957  
+Time: sunset  
 Description: Three hundred people were said to have seen three elongated objects with a series of portholes, maneuvering at ground level in an area with many empty oil wells. One of these objects, said to be 150 m long and 20 m high, pearl-colored, glistening under the setting sun and showing a series of circles painted on its surface, landed for 20 min. An occupant emerged, observed the abandoned derricks and took off again. Observed through binoculars, he appeared as a "monster," 1 m tall, moving with strange jumps. He picked up something from the ground.  
 Type: ufo sighting  
 Reference: Perego ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7473,6 +7757,7 @@ Magnolia ID: 404
 
 ## Event 969
 Date: 9/29/1957  
+Time: 0500  
 Description: Undocumented report of a landing observed by missile men.  
 Type: ufo sighting  
 Reference: Keyhoe S ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7496,6 +7781,7 @@ See also: 11/12/57
 
 ## Event 972
 Date: 10/5/1957  
+Time: 2300  
 Description: Antonio Villas-Boas who could not sleep because of the heat, opened the shutters of his house and saw a silvery glow in the yard, but no flying object. The light moved and was seen going over the house.  
 Type: ufo sighting  
 Reference: FSR 66, 4; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7504,6 +7790,7 @@ Magnolia ID: 407
 
 ## Event 973
 Date: 10/8/1957  
+Time: 1500  
 Description: Two couples going from Nabouwalu to Nawaca in a motor boat saw a white object come down from the sky, thought it was a plane in trouble and went closer. They found the object hovering 7 m above the water, and a figure on board the craft aimed at them a beam so bright they "felt weak." The figure disappeared suddenly, and the object took off vertically at high speed.  
 Type: ufo sighting  
 Reference: Round-up 202; Challenge 18 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7520,6 +7807,7 @@ Magnolia ID: 409
 
 ## Event 975
 Date: 10/10/1957  
+Time: night  
 Description: Naval officer Miguel Espanhol and another man, traveling to Ceres, saw a bright object that illuminated the countryside and came down to ground level as the truck stalled. It was oval or saucer-shaped, over 150 m in diameter and 40 m deep, with a dome supporting a long "aerial" with a red light on top. The bright light went off and the witnesses saw seven childlike beings, with long hair and luminous suits, who looked down at them for about 3 min. The craft flew south and released a smaller disk, which flew north.  
 Type: ufo sighting  
 Reference: Humanoids 36 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7528,6 +7816,7 @@ Magnolia ID: 410
 
 ## Event 976
 Date: 10/11/1957  
+Time: 2000  
 Description: Two witnesses in a car saw something they described as "a dark, transparent ball" about 50 cm in diameter rising from the side of the road. It had appendages trailing behind.  
 Type: ufo sighting  
 Reference: 111 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7536,6 +7825,7 @@ Magnolia ID: 411
 
 ## Event 977
 Date: 10/14/1957  
+Time: 2145  
 Description: Second observation by A. Villas-Boas. He was plowing a field with his brother when they saw a red light at the edge of the field. He went toward it, but it shifted its position every time he went close. It vanished on the spot.  
 Type: ufo sighting  
 Reference: FSR 66, 4; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7544,6 +7834,7 @@ Magnolia ID: 412
 
 ## Event 978
 Date: 10/15/1957  
+Time: daylight  
 Description: Mr. Moudy, a farmer, observed a silvery disk which hovered above his tractor; the engine failed when the object rose.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7559,6 +7850,7 @@ Location: Brazil
 
 ## Event 980
 Date: 10/16/1957  
+Time: 0100  
 Description: Third observation by A. Villas-Boas. Alone in the fields on a clear night, he saw a big, red star which took the appearance of a luminous, egg-shaped object and stopped 50 m above his tractor. Its light was brighter than that of the headlights as it landed 15 m away. The top part was spinning. It became green as it slowed down, was then seen as a flattened dome. Three legs emerged from the machine as it settled down. The tractor engine stalled, and the witness was seized by unknown individuals and carried aboard the craft, where he was medically examined, then left with a woman of short stature with whom he had sexual intercourse. Villas-Boas reported that crew members wore tight, white clothes with a light on the belt, heelless white shoes, big gloves, and opaque helmets with a slit at the level of the eyes. Their language was shrill, and he could establish no verbal communication with them.  
 Type: ufo sighting  
 Reference: FSR 66, 4 et seq. ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7575,6 +7867,7 @@ Magnolia ID: 415
 
 ## Event 982
 Date: 10/31/1957  
+Time: 0000  
 Description: A businessman and his wife saw a large, lighted object with openings, which hovered, came to ground level, and took off with a great increase in brightness at very high speed, but without noise.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7583,6 +7876,7 @@ Magnolia ID: 416
 
 ## Event 983
 Date: 11/1957  
+Time: 2300  
 Description: Haskell Raper, Jr., was driving home on a rainy night when he saw a large, lighted object on the road ahead, which he thought was a truck. Suddenly the object flashed a beam of light directly at the car, apparently exerting a strong pressure and slowing it to a stop 5 m away. The object was then described as oval, 5 m long, 3 m high, army green in color. It bore lettering beginning with the letters UN, followed by some numbers. A sort of heat wave filled the car, and the witness ran out in panic as the vehicle caught fire. The object rose with the sound of a diesel engine. Raper ran to the town, less than 2 km away; and reported the incident. The car, a 1956 Ford, was completely destroyed.  
 Type: ufo sighting  
 Reference: FS Oct., 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7591,6 +7885,7 @@ Magnolia ID: 417
 
 ## Event 984
 Date: 11/2/1957  
+Time: 2250  
 Description: A large number of reports from the Levelland area described a low-flying object, over 60 m long, equipped with a bright light, and which interfered with car ignition.  
 Type: ufo sighting  
 Reference: Anatomy 136; map ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7607,6 +7902,7 @@ Location: Levelland, TX
 
 ## Event 986
 Date: 11/2/1957  
+Time: 0330  
 Description: 5 km west of this town, military and civilian witnesses reported a submarine-shaped object, red and white, two or three times as long as a car and about 3 m high, at ground level. A figure was seen near this object, also something compared to a white flag. When a car stopped in the vicinity, a flash of light from the object coincided with the sudden failure of the headlights.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7623,6 +7919,7 @@ See also: 11/5/57
 
 ## Event 988
 Date: 11/3/1957  
+Time: 0300  
 Description: At Stallion Site, an army patrol in a jeep saw an orange, "apparently controlled," luminous object on the ground near the site of the first A-bomb explosion. It was first seen as a sunlike source 50 m above ground, descending to ground level after 3 min, and landing several km away at the northern end of the testing grounds. Two witnesses.  
 Type: ufo sighting  
 Reference: M 238 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7631,6 +7928,7 @@ Magnolia ID: 420
 
 ## Event 989
 Date: 11/4/1957  
+Time: 0315  
 Description: Two policemen, Joseph Lukasek and Clifford Schau, and a third man named Daniel De Giovanni, while looking for the cause of a headlight failure, observed a fluorescent object 50 to 100 m away from them, coming down. The car hadlights functioned properly again and they drove toward the object but had to stop at a cemetery wall. They turned off all lights and watched the object for two min. It played "hide and seek" with them as they tried to reach its location.  
 Type: ufo sighting  
 Reference: M 240; 113 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7653,6 +7951,7 @@ Location: Loveland, TX
 
 ## Event 992
 Date: 11/5/1957  
+Time: 1730  
 Description: A man heard a noise similar to that of a helicopter and perceived a "burning" odor. He saw a balloon-like, elongated object that came to ground level, did not touch the ground, but rose again and disappeared. The witness was "paralyzed" during the observation. The object appeared to have generated thick smoke.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7669,6 +7968,7 @@ Magnolia ID: 422
 
 ## Event 994
 Date: 11/5/1957  
+Time: 0430  
 Description: In Van Cortland Park, Frank C. was talking with a bus driver when they saw in the park, about 400 m away, a metallic object shaped like a disk, spinning with a soft whirring. On top was a fixed dome with portholes. The object was hovering at tree-height. A yellow light from the craft suddenly illuminated the area, and it flew off "like a shooting star."  
 Type: ufo sighting  
 Reference: M 241 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7683,6 +7983,7 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 
 ## Event 996
 Date: 11/6/1957  
+Time: morning  
 Description: North of Seoul a barrel-shaped object, bluish-white and luminous, was seen close to the ground, reflected in a pool of water. It rose and vanished "like a light switched off."  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7691,6 +7992,7 @@ Magnolia ID: 426
 
 ## Event 997
 Date: 11/6/1957  
+Time: evening  
 Description: John Trasco saw a brilliant, egg-shaped object hovering in front of a barn and was confronted with a being 1 m tall with a putty-colored face and frog-like eyes. He thought the dwarf said in broken English: "We are peaceful people; we only want your dog." The little man, who was dressed in a green suit with shiny buttons, a green tam-o-shanter-like cap, and gloves with a shiny object at the tip of each finger, fled when the witness denied his request.  
 Type: ufo sighting  
 Reference: Humanoids 56; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7699,6 +8001,7 @@ Magnolia ID: 430
 
 ## Event 998
 Date: 11/6/1957  
+Time: 2100  
 Description: 180 km north of Ottawa Jacques Jacobson and three of his friends saw a bright, yellowish-white sphere hovering over a hilltop about 4 km away. From top and bottom issued light cones that illuminated the countryside and the clouds. Radio reception was blocked throughout the observation, except for a very powerful signal at one wavelength, modulated, but not in Morse code. The object rose slowly toward the south.  
 Type: ufo sighting  
 Reference: M 249 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7707,6 +8010,7 @@ Magnolia ID: 432
 
 ## Event 999
 Date: 11/6/1957  
+Time: 0630  
 Description: A civilian source reported an object so bright that his eyes could not sustain it. It appeared to land on a ridge, then took off again. It was round and much larger than a plane, had an "odd color," left no trail and made no noise.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7715,6 +8019,7 @@ Magnolia ID: 428
 
 ## Event 1000
 Date: 11/6/1957  
+Time: 0540  
 Description: Richard Kehoe was driving near the beach when his engine stopped, and so did three other cars. The man got out and observed an egg-shaped object wrapped in "a blue haze" on the beach. Two men, below average height got out of the craft and asked them questions about their identity, what time it was, etc. They looked normal wore black leather pants, white belts, light-colored jerseys, and seemed to have yellowish-green skin. They went back inside the craft, which left rapidly, and the cars could then be started.  
 Type: ufo sighting  
 Reference: Humanoids 57 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7723,6 +8028,7 @@ Magnolia ID: 427
 
 ## Event 1001
 Date: 11/6/1957  
+Time: 0010  
 Description: J. Martinez and A. Gallegos saw an egg-shaped object coming toward them at low altitude. It moved slowly, illuminating their car and producing a humming sound. The car engine, the clock and a wristwatch stopped. The object shot away toward the southwest.  
 Type: ufo sighting  
 Reference: M 246 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7731,6 +8037,7 @@ Magnolia ID: 425
 
 ## Event 1002
 Date: 11/6/1957  
+Time: 1800  
 Description: A civilian source reported an oval object, about 5 m long, bright orange, similar to glowing coals, hovering 4 m above ground. The witness went to call his family; the object had vanished when he returned. Unidentified.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7739,6 +8046,7 @@ Magnolia ID: 431
 
 ## Event 1003
 Date: 11/6/1957  
+Time: 2330  
 Description: Olden Moore, 28, a plasterer was driving home when he suddenly saw an object looking like a bright meteor split into two pieces, one of which went straight up. The other got larger while its color changed from bright white to blue-green. It hovered 60 m above a field and came to the ground with a soft whirring sound, 150 m away. After observing it for 15 min, Moore then walked to the object, which he found to be shaped like "a covered dish" 15 m in diameter, 5 m high, with a cone on top about 3 m high, surrounded by haze or fog, pulsating slowly. Holes, footprints and radioactivity were found at the site by Civil Defense Director Kenneth Locke.  
 Type: ufo sighting  
 Reference: M 252 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7747,6 +8055,7 @@ Magnolia ID: 433
 
 ## Event 1004
 Date: 11/6/1957  
+Time: 0630  
 Description: 12-year-old Everett Clark saw a strange object on the ground and four occupants, two men and two women who spoke a language he thought was similar to German. They went back to the craft in a manner the witness could not understand, for he saw no door.  
 Type: ufo sighting  
 Reference: M 271;114; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7755,6 +8064,7 @@ Magnolia ID: 429
 
 ## Event 1005
 Date: 11/7/1957  
+Time: 0725  
 Description: Truck driver Malvin Stevens, 48, was driving to Memphis when, about 23 km northwest of Meridian, he saw an object which appeared to have two propellers at either end and a third one on top. Getting out of his truck, he saw three little men about 1.30 m tall, in gray clothes, with "pasty white faces" that seemed friendly and willing to talk, but he was unable to understand their "chattering." "I stood there for what seemed like an eternity." They got back into the machine and it took off straight up. There was no ignition interference. An 8-year-old girl from Honse independently reported a round object crossing the sky toward the south.  
 Type: ufo sighting  
 Reference: M 273; 115 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7771,6 +8081,7 @@ Magnolia ID: 435
 
 ## Event 1007
 Date: 11/8/1957  
+Time: 0200  
 Description: A cigar-shaped object 70 m long was observed less than 7 m above ground.  
 Type: ufo sighting  
 Reference: M 264; 117 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7779,6 +8090,7 @@ Magnolia ID: 436
 
 ## Event 1008
 Date: 11/8/1957  
+Time: 1430  
 Description: Hank Mollohan and eight other persons saw an elongated object, 12 m long, with several portholes from which fire and smoke appeared to be coming. It swung at low altitude and dropped to the ground. People seemed to be moving around it, but the witnesses were driven away by a hard rain.  
 Type: ufo sighting  
 Reference: M 265 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7787,6 +8099,7 @@ Magnolia ID: 437
 
 ## Event 1009
 Date: 11/8/1957  
+Time: night  
 Description: Paul Rutledge saw an object 16 m long flying over his garage. The top part was bright, and there were two figures visible inside.  
 Type: ufo sighting  
 Reference: M 266 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7795,6 +8108,7 @@ Magnolia ID: 438
 
 ## Event 1010
 Date: 11/9/1957  
+Time: 0100  
 Description: A civilian driving his car home from work observed a hovering object 16 m long. His car engine died as he neared the object's position, and it started again only after the object's departure.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7803,6 +8117,7 @@ Magnolia ID: 439
 
 ## Event 1011
 Date: 11/10/1957  
+Time: 0125  
 Description: Mrs. Leita Kuhn observed a very large, lighted object 20 m above ground. It was so brilliant that she had to close her eyes. It was over 10 m wide, 3 to 4 m thick, with a dome on top. The witness had to consult a physician several days later because of serious eye and skin irritation.  
 Type: ufo sighting  
 Reference: M 267; 118 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7818,6 +8133,7 @@ Location: Washington, DC
 
 ## Event 1013
 Date: 11/16/1957  
+Time: 2230  
 Description: A blinding object, red and yellow, twice landed-first near the Jockey Club, then near the Rural Exhibition.  
 Type: ufo sighting  
 Reference: Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7826,6 +8142,7 @@ Magnolia ID: 441
 
 ## Event 1014
 Date: 11/18/1957  
+Time: 1500  
 Description: Mrs. Cynthia Appleton, 27, mother of two, saw the figure of a man appear near her fireplace while a whistling sound was audible. He was tall and fair, wore a tight-fitting plastic garment, and seemed to communicate with her through telepathy, indicating he was looking for titanium and was coming from a world of peace and harmony. Suddenly he disappeared. Mrs. Appleton had subsequent contacts with similar entities.  
 Type: ufo sighting  
 Reference: Humanoids 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7834,6 +8151,7 @@ Magnolia ID: 443
 
 ## Event 1015
 Date: 11/18/1957  
+Time: 1030  
 Description: Farmers Joao Ernani and Pedro Zilli heard a strange humming sound, then saw two aluminum-colored disks 200 m away. Near them were six mm of average height, slim build, dressed in "dark gray suits glued to their bodies." The disks were about 3.5 m wide, hovering 1 m above ground. They rose with a sharp whistling sound, while coconut trees below them bent double. Three more disks rose from behind the trees, and all five flew toward the Atlantic.  
 Type: ufo sighting  
 Reference: Humanoids 36 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7850,6 +8168,7 @@ Magnolia ID: 444
 
 ## Event 1017
 Date: 11/23/1957  
+Time: 0630  
 Description: Four disk-shaped objects on the ground were observed for 20 min from a distance of 15 m. When the witness tried to come closer, they took off with an unbearable humming sound.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7858,6 +8177,7 @@ Magnolia ID: 445
 
 ## Event 1018
 Date: 11/25/1957  
+Time: 1430  
 Description: Two engineers were driving about 200 m from the railroad crossing in Faverges when they saw a nearly spherical object at ground level, performing zig-zags on the road. They stopped and were amazed as the object simply vanished, leaving no trace.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7866,6 +8186,7 @@ Magnolia ID: 446
 
 ## Event 1019
 Date: 12/1957  
+Time: night  
 Description: Edmund Rucker was awakened by a roaring noise and saw a strange object land near his house. "Its windows were lighted, and I saw strange-looking heads there." An opening became visible and four creatures emerged. They had large heads, dome-like foreheads, and bulging eyeballs. They delivered a message to the witness in English, stating that they had philanthropic and scientific purposes.  
 Type: ufo sighting  
 Reference: FS Jul., 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7881,6 +8202,7 @@ Location: Washington, DC
 
 ## Event 1021
 Date: 12/8/1957  
+Time: 1750  
 Description: Between Woodward and Seiling, 12 km from the latter, an unknown flying object allegedly took complete control of a car with three passengers. The driver, an employee of an aircraft company, had turned the heater, windshield wiper, and radio on. He was nearing a hill in this wooded area when a bright light appeared ahead. It reminded the witness of the light from a mercury lamp. As a crash seemed imminent, the car slowed down by itself and stopped, as if the entire electrical circuit had failed. Over the vehicle was a disk 16 m in diameter with portholes around the periphery, emitting a current of hot air and a high-pitched sound. It had a dome on top and bottom. It rose as the car started by itself. The car was a 1954 Dodge Coronet without automatic transmission. The witness spent four hours with two Kirtland AFB officers who told him of similar observations. The case was never reported to Blue Book.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7889,6 +8211,7 @@ Magnolia ID: 448
 
 ## Event 1022
 Date: 12/11/1957  
+Time: 1600  
 Description: Many cars stopped to observe a silent, reddish, glowing disk, about 15 m in diameter, which flew 6 m above the ground at about 80 km/h. A small, windowless cabin was visible on the underside of the object.  
 Type: ufo sighting  
 Reference: FS Jul., 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7905,6 +8228,7 @@ Magnolia ID: 449
 
 ## Event 1024
 Date: 12/18/1957  
+Time: night  
 Description: Mary Stan was awakened by a brilliant light and saw through her east window the fuselage of a craft that hovered in midair. Aboard were two men, each with his right hand raised, wearing yellowish jackets. A third man joined the first two, then all lights went off inside the craft while it glowed like brass. A spinning antennalike device was noted. A few minutes later it flew off.  
 Type: ufo sighting  
 Reference: FSR 60,3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7913,6 +8237,7 @@ Magnolia ID: 451
 
 ## Event 1025
 Date: 12/21/1957  
+Time: 1830  
 Description: Mrs. Mendonca and five other persons saw a light in the south, which later appeared as two spherical objects coming closer to the witnesses on an oscillating course. One of them hovered close to the car while the other circled. They were shaped like a sphere surrounded by a flat ring, and chased the car for two hours over the deserted road. Estimated diameter: 5 m.  
 Type: ufo sighting  
 Reference: APRO Mar., 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7928,6 +8253,7 @@ Location: Japan
 
 ## Event 1027
 Date: 12/30/1957  
+Time: night  
 Description: George Chowanski, an auto mechanic was alerted by the barking of his dog and heard a whirring sound similar to that of an electric shaver. A lighted object was observed by Chowanski and his wife as it came within 60 cm of the ground. Two figures came out of the bottom of the object, walked around a clearing, and one picked up something before returning to the craft, which then took off. Total duration: 2 min.  
 Type: ufo sighting  
 Reference: FS Oct., 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7951,6 +8277,7 @@ Location: Washington, DC
 
 ## Event 1030
 Date: 1/1958  
+Time: 0130  
 Description: A lady who was driving on the New York State Thruway during a snow storm saw a large shape with a tall, luminous pole on the side of the road. Her car stalled, and the lights went off. Two figures, looking like animals or huge insects were observed near the pole. They soon disappared, and the object took off spinning. The witness was then able to start her car. She noted that the snow at the site had been melted and the grass was warm.  
 Type: ufo sighting  
 Reference: Binder; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7982,6 +8309,7 @@ Magnolia ID: 456
 
 ## Event 1034
 Date: 1/13/1958  
+Time: 2345  
 Description: Brian Crittendon, 21, was chased by a dome-shaped object that emitted a narrow light beam toward the ground. He was so frightened that he drove home on a half-flat tire, followed for 5 km by the object, which was about 50 m away and 10 m above ground. It overtook his car at a speed exceeding 100 km/h. Radio interference was noted, but no noise.  
 Type: ufo sighting  
 Reference: UFO Bulletin Mar., 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -7996,6 +8324,7 @@ Reference: [Keziah Poster](https://github.com/richgel999/uap_resources/blob/main
 
 ## Event 1036
 Date: 1/26/1958  
+Time: 1600  
 Description: A very bright object landed before numerous chemical workers; they reported beings falling from the sky without parachutes. They wore strange suits and spoke an unknown language.  
 Type: ufo sighting  
 Reference: FSR 58, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8017,6 +8346,7 @@ Location: Cape Canaveral Launch Complex 26
 
 ## Event 1039
 Date: 2/2/1958  
+Time: 1530  
 Description: Farmer Yasukichi Nakaguchi and his son, and Kametaro Takuma, saw an egg-shaped object that landed silently.  
 Type: ufo sighting  
 Reference: FSR 58, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8032,6 +8362,7 @@ Location: Kearney, NE
 
 ## Event 1041
 Date: 2/24/1958  
+Time: 0305  
 Description: Three witnesses, among them Dr. C. da Costa, decided to sleep in their car when the engine stalled and could not be started again. Then a very large, blue silvery object appeared and came to ground level with a swinging motion. was shaped like a sphere surrounded by a flat ring. When they tried to approach it, the object maneuvered in a strange "aerial dance."  
 Type: ufo sighting  
 Reference: Lor. I 143 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8047,6 +8378,7 @@ Location: Arizona
 
 ## Event 1043
 Date: 3/2/1958  
+Time: 1945  
 Description: A civilian source was said to have observed a balloon-shaped object land on the airfield then take off slowly and hover at 250 m altitude before disappearing. It showed a bright light source.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8055,6 +8387,7 @@ Magnolia ID: 461
 
 ## Event 1044
 Date: 3/14/1958  
+Time: 0845  
 Description: Two persons, in their backyard, saw a round object 1 m in diameter come from the west and land 15 m away. It took off toward the east, turned south, and was lost to sight.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8071,6 +8404,7 @@ Magnolia ID: 463
 
 ## Event 1046
 Date: 4/1958  
+Time: 0600  
 Description: Near Paripueira, jeweler Wilson Lustosa and numerous fishermen saw an object hovering 15 m above the sea, 40 m away. It was lens-shaped, about 12 m thick, and showed portholes with a glowing red light. Below the object the water seemed to be "boiling" or attracted upward, while a soft, whirring sound was heard. For one hour the object kept going up and down.  
 Type: ufo sighting  
 Reference: SBEDV ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8094,6 +8428,7 @@ Magnolia ID: 465
 
 ## Event 1049
 Date: 4/17/1958  
+Time: 1925  
 Description: All night long, three hovering disks were seen by several witnesses in this area. A railroad employee, Mr. Cavalheiro, and the station chief, J. Machado, wired the Tupancireta police, and all saw the objects coming to ground level about 1 km away. At times they appeared to exchange signals. One of the disks flew over the station itself, leaving a luminous trail and considerable heat.  
 Type: ufo sighting  
 Reference: LDLN ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8124,6 +8459,7 @@ Location: medium earth orbit
 
 ## Event 1053
 Date: 5/27/1958  
+Time: late  
 Description: Remo dell'Armellina was driving a truck toward Santa Fe when he saw a figure, 3 m tall, blocking the road. He went toward it with an iron bar but could not approach because of the stench and the blinding phosphorescent light emanating from it. It had very long arms, a scaly body, and wore a flight coverall. The witness fainted; nothing was left to be seen when he regained consciousness.  
 Type: ufo sighting  
 Reference: Perego; Bulgarini ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8132,6 +8468,7 @@ Magnolia ID: 468
 
 ## Event 1054
 Date: 8/16/1958  
+Time: 1700  
 Description: A dozen people out on the lake in perfect weather saw a bright light coming down. They stopped their boat as it came to hover about 15 m above them. It was saucer-shaped, 10 m in diameter, with a cabin showing several windows on top. The outer disk below the cabin was spinning. As it came down toward the water, a noticeable current was created. No noise or occupants were noticed. After several leaps in mid-air, the craft flew off at "unbelievable" speed.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8140,6 +8477,7 @@ Magnolia ID: 469
 
 ## Event 1055
 Date: 9/1/1958  
+Time: 2130  
 Description: About 11 km before Laval, a businessman coming from Paris suddenly saw a motionless object, 10 m above ground, to the left of the road, 150 m away. It was shaped like two cones with a common base and showed two rows of about ten openings in the middle section. It seemed about 20 m wide, metallic, with a light similar to that of a red traffic light shining through the windows. The witness had time to stop and maneuvered to get the object in his headlight beams. Throughout the observation a whistling sound such as that of a jet aircraft was heard. The object rose very slowly, flew off faster climbing out of sight.  
 Type: ufo sighting  
 Reference: 119 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8148,6 +8486,7 @@ Magnolia ID: 470
 
 ## Event 1056
 Date: 9/21/1958  
+Time: 0300  
 Description: A circular, flat object, 7 m in diameter, 2 m thick, hovering 1.5 m above ground, and making a jetlike sound was seen from a house by a civilian woman. Its color was that of aluminum; it had a wobbling motion and emitted gray smoke before rising again and taking off.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8164,6 +8503,7 @@ Magnolia ID: 472
 
 ## Event 1058
 Date: 10/31/1958  
+Time: 1550  
 Description: A civilian reported an eliptical, aluminum-colored object at 2 km altitude, coming down to 4 m, flying up and down by sudden jumps, stopping at ground level less than 200 m away for five min. A red light appeared at one end of the object, which gradually took a fiery color, then exploded. The witness ran away.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8172,6 +8512,7 @@ Magnolia ID: 473
 
 ## Event 1059
 Date: 11/1958  
+Time: 0500  
 Description: Two soldiers of the Territorial Army on an exercise near Ballater heard a "gurgling noise" and saw two figures, over 2 m tall, dressed in peculiar suits. As they fled, they heard a "swishing" noise and saw a large disk flying at ground level, which then swooped over their heads and away, pulsating and leaving a sparkling trail. Witnesses were in a state of shock.  
 Type: ufo sighting  
 Reference: Humanoids 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8180,6 +8521,7 @@ Magnolia ID: 474
 
 ## Event 1060
 Date: 11/17/1958  
+Time: 2203  
 Description: A luminous object, with an apparent diameter greater than that of the full moon, was seen coming down from a high altitude, hovering at tree height, then landing. It was observed for two min.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8188,6 +8530,7 @@ Magnolia ID: 475
 
 ## Event 1061
 Date: 11/23/1958  
+Time: 2335  
 Description: An engineer, Julio M. Ladaleto, stopped when his car hit a can rolling on the road, then observed an object about 35 m away. It was shaped like a lamp shade with an upper transparent sphere emitting a bluish, pulsating light, 12 m diameter, 7 m high, resting on three half-spheres. An occupant 2.5 m tall was photographed by the witness as he crossed the road and appeared to inspect the craft. He wore a blue coverall and luminescent heelless boots, and had a bald head. The observation lasted 10 min, after which the object took off with a whining sound, sparks and smoke. The following day, before he had revaled anything about the case, Ladeleto was contacted by strange "newsmen" who appeared to know all the details of it.  
 Type: ufo sighting  
 Reference: Settimana Incom. Sep. 16, 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8196,6 +8539,7 @@ Magnolia ID: 476
 
 ## Event 1062
 Date: 12/20/1958  
+Time: 0255  
 Description: Near Domsten, Hans Gustavsson, 35, and Stig Rydberg, 30, saw something in the woods and stopped their car to observe it. They found a disk about 5 m wide set on a tripod. All of a sudden they were attacked by four gray-colored creatures described as "fluid," but one witness reached the car and blew the horn for help. The beings fled and the craft took off, emitting "paralyzing vibrations."  
 Type: ufo sighting  
 Reference: Lor. II 56 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8204,6 +8548,7 @@ Magnolia ID: 477
 
 ## Event 1063
 Date: 12/20/1958  
+Time: 1600  
 Description: Approximate date. A disk of 20 m diameter was observed and caused damage on the ground.  
 Type: ufo sighting  
 Reference: Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8219,6 +8564,7 @@ Location: Dunellen, NJ
 
 ## Event 1065
 Date: 12/28/1958  
+Time: afternoon  
 Description: A black flying object, 2 m wide, cut a tree in two, 3 m above ground, and did not stop. The tree in question is 70 cm wide and 13 m tall. This event was observed by a farmer named Bennett.  
 Type: ufo sighting  
 Reference: FSR 59, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8235,6 +8581,7 @@ See also: 4/15/64
 
 ## Event 1067
 Date: 1/1959  
+Time: 1715  
 Description: Leonard Hewins, of Tredington, saw a fiery, round object come down from the east and land 100 m away. While a blue haze formed, three figures emerged from the object and seemed to sit down with clumsy movements. The witness was unable to move until the craft and its occupants took off swiftly, leaving a trail of stars.  
 Type: ufo sighting  
 Reference: FSR 67, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8274,6 +8621,7 @@ Magnolia ID: 483
 
 ## Event 1072
 Date: 3/13/1959  
+Time: 1410  
 Description: Near Claypans, 150 km northeast of Adelaide, Carl Towill, postmaster, and Percy Briggs, mail carrier, saw a dome-shaped object take off from a field 400 m away. It resembled a huge, brilliant circus tent, studded with lights that kept changing from red to blue. They approached within 200 m, then saw it rise, hover, and shoot off at immense speed toward the south. They had observed it for 10 min. Mr. Briggs was questioned by investigators from Woomera Rocket range.  
 Type: ufo sighting  
 Reference: FSR 59,5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8282,6 +8630,7 @@ Magnolia ID: 484
 
 ## Event 1073
 Date: 3/20/1959  
+Alternate date: 6/8/1959  
 Description: A group at the Army Ballistic Missile Agency (ABMA) produced for the Army a classified study report titled Project Horizon, A U.S. Army Study for the Establishment of a Lunar Military Outpost by 1965.  
 Type: aerospace  
 Reference: [Wikipedia](https://en.wikipedia.org/wiki/Project_Horizon)  
@@ -8289,6 +8638,7 @@ Location: Redstone Arsenal
 
 ## Event 1074
 Date: 3/31/1959  
+Time: 1330  
 Description: Barry Neale was driving home to Goolwa when he saw on the ground a glowing, reddish-orange object with a row of portholes. It illuminated the trees, was about 5 m wide. He got within 300 m of it, and drove around the wooded area in time to see it take off. No radioactivity was found at the spot.  
 Type: ufo sighting  
 Reference: FSR 59,5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8306,6 +8656,7 @@ See also: 5/61
 
 ## Event 1076
 Date: 4/15/1959  
+Time: evening  
 Description: Between Svendborg and Nyborg, Ove Christensen, coming home after work on his bicycle, was stopped on the road by a disk-shaped object spinning at ground level. After five minutes it began chasing him, flying 6 m above him for 5 m. The object was luminous and seemed made of glass.  
 Type: ufo sighting  
 Reference: FSR 59, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8314,6 +8665,7 @@ Magnolia ID: 486
 
 ## Event 1077
 Date: 4/29/1959  
+Time: 2230  
 Description: Alex Gillis and Jerry Monkman saw from a hilltop an egg-shaped object in the middle of the road. It was about 5 m long, the top part emitting a bright light. The object went away silently. Fearing ridicule, the witnesses reported the incident one month later.  
 Type: ufo sighting  
 Reference: FSR 59, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8322,6 +8674,7 @@ Magnolia ID: 487
 
 ## Event 1078
 Date: 5/20/1959  
+Time: 1730  
 Description: Two hunters saw a diskshaped object resting on the ground 150 m away. It looked like an aluminum craft about 2.5 m high, with a dome on top. Grass flattened.  
 Type: ufo sighting  
 Reference: Challenge 53 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8330,6 +8683,7 @@ Magnolia ID: 488
 
 ## Event 1079
 Date: 6/21/1959  
+Time: 2000  
 Description: A civilian woman observed a saucer-shaped object hovering 5 m above ground. It was bathed in an orange glow, similar to that of a dying fire. It flew away horizontally and was lost to sight behind a hill.  
 Type: ufo sighting  
 Reference: FSR 59, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8338,6 +8692,7 @@ Magnolia ID: 489
 
 ## Event 1080
 Date: 6/26/1959  
+Time: 1845  
 Description: Many witnesses, among them Fr. W. B. Gill, head of a local mission, saw an orange object that hovered in mid-air. Four engines were visible on its "deck" and a beam of blue light was emitted upward from it. The object did not come to ground level, but its position above the ocean was almost on a level with the observers standing on the hill.  
 Type: ufo sighting  
 Reference: 123; Anatomy 145 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8346,6 +8701,7 @@ Magnolia ID: 490
 
 ## Event 1081
 Date: 7/13/1959  
+Time: 0530  
 Description: Mrs. Moreland saw a diskshaped object as she was milking cows. It was about 10 m diameter, had two intense, green lights and two rows of jets around the rim, emitting orange flames. Inside a glass dome on top were two men dressed in aluminumlike suits. The craft did not land, but took off at great speed with a high-pitched sound. Heat sensation.  
 Type: ufo sighting  
 Reference: 124; Challenge 24 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8362,6 +8718,7 @@ Magnolia ID: 492
 
 ## Event 1083
 Date: 8/9/1959  
+Time: 1954  
 Description: Mr. Uribe, a petroleum engineer, and two other witnesses had to stop when they ran out of fuel; they observed a light swinging like a pendulum, coming close to the ground. It appared as a large, vertical, egg-shaped object which made a "whooshing" sound. Closest approach was 120 m. Estimated height: 2 m; width, 1.5 m. When Uribe aimed a rifle at the object, it went out of sight within seconds.  
 Type: ufo sighting  
 Reference: Lor. IlI 14 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8378,6 +8735,7 @@ Magnolia ID: 494
 
 ## Event 1085
 Date: 8/13/1959  
+Time: 2130  
 Description: A bright, flying object passed low over a car, whose engine stalled, and landed in a wooded area. Six witnesses in two separate groups observed the object, and the police were called. The dense underbrush prevented investigation of the site.  
 Type: ufo sighting  
 Reference: APRO Sep., 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8386,6 +8744,7 @@ Magnolia ID: 495
 
 ## Event 1086
 Date: 8/25/1959  
+Time: 1100  
 Description: Near Hagen, Lutz Holtmann went toward a bright object in a forest, and fainted when he got close to it. When he regained consciousness, he saw it take off silently and vertically. It was round, had a tripod landing gear, two rows of bright openings, and was about 30 m in diameter.  
 Type: ufo sighting  
 Reference: Nachrichten Oct., 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8427,6 +8786,7 @@ Magnolia ID: 499
 
 ## Event 1091
 Date: 12/22/1959  
+Time: 2350  
 Description: Kenneth Lindsley and several other witnesses saw a bright, orange object at ground level. It was bowl-shaped, as wide as the road, and shadows that appeared to be moving could be seen.  
 Type: ufo sighting  
 Reference: FSR 60, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8466,6 +8826,7 @@ Reference: [link](https://medium.com/@richgel99/interesting-1961-letter-from-man
 
 ## Event 1097
 Date: spring 1960  
+Time: night  
 Description: An electronics engineer was fishing when he heard a shrill, whirring sound and saw a round object, with a rotating light on top, land on the shore. The sound gradually stopped, an opening became visible, and two dwarfs with oversized heads came out with a hose and pumped water from the river. Later they appeared to play like children. Their bodies glowed with lights of changing colors.  
 Type: ufo sighting  
 Reference: Binder ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8482,6 +8843,7 @@ Magnolia ID: 502
 
 ## Event 1099
 Date: 4/18/1960  
+Time: 2100  
 Description: Mr. Arnold saw a round object, fiery red in color, arriving at high speed from the south. It touched the ground about 300 m away with a loud explosion heard by many people, and a flame. It bounced in an easterly direction for about 300 m, then rose again, turned west and disappeared. The ground was scarred in nine places, and a substance resembling metallic paint was found.  
 Type: ufo sighting  
 Reference: Science & Mechanics Dec., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8490,6 +8852,7 @@ Magnolia ID: 503
 
 ## Event 1100
 Date: 5/4/1960  
+Time: 0915  
 Description: A yellow, elliptical object with four evenly spaced windowlike openings was observed at ground level by an architect.  
 Type: ufo sighting  
 Reference: NICAP May., 60 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8498,6 +8861,7 @@ Magnolia ID: 504
 
 ## Event 1101
 Date: 5/14/1960  
+Time: 0400  
 Description: Raimondo dos Santos saw two craft land on hill near a farm called Capin Acu. He went near them and saw several small beings, palelooking, making friendly gestures. He ran away. The creatures wore blue uniforms and white helmets. The previous day at 1900, over 100 witnesses had observed a dark-gray, circular craft, 20 m in diameter with a powerful light, maneuvering and hovering.  
 Type: ufo sighting  
 Reference: Humanoids 37; LDLN 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8506,6 +8870,7 @@ Magnolia ID: 505
 
 ## Event 1102
 Date: 5/19/1960  
+Time: night  
 Description: Salvatore Cianci, jeweler, and his wife, were driving near this Sicilian town when a creature about 1 m tall appeared in the headlights. It wore a shining coverall and a diving helmet and had two short wings. Mrs. Cianci suffered from shock.  
 Type: ufo sighting  
 Reference: FSR 64, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8522,6 +8887,7 @@ Magnolia ID: 507
 
 ## Event 1104
 Date: 8/1960  
+Time: 0920  
 Description: Mrs. K. St. Bereits was in her garden when she saw an object coming down at great speed. Arriving at ground level, it came toward her, appearing as a disk standing on edge, 7 m in diameter with a pulsating halo of yellow light. Three beams of light came from a central opening. A sort of haze and "gas stream" was also described.  
 Type: ufo sighting  
 Reference: Nachrichten Jan., 61; FSR 61, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8537,6 +8903,7 @@ Location: Red Bluff, CA
 
 ## Event 1106
 Date: 9/23/1960  
+Time: 2135  
 Description: A Canadian ship reported that a cylindrical object with lighted portholes came down, hit the ocean, and sank off the northcoast of Labrador.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8553,6 +8920,7 @@ Magnolia ID: 510
 
 ## Event 1108
 Date: 11/11/1960  
+Time: night  
 Description: Four witnesses, among them three military men, saw an object that seemed about to land, then took off again toward the north, leaving a trail of sparks and blinding them.  
 Type: ufo sighting  
 Reference: 130; FSR 61,1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8561,6 +8929,7 @@ Magnolia ID: 511
 
 ## Event 1109
 Date: 11/13/1960  
+Time: 0245  
 Description: Remi Carbonnier, 45, was awakened by a green light illuminating his room. He went to the window and saw a bright, round object, 6 m in diameter, resting on three legs on the railroad tracks 300 m away. It was emitting orange flashes. A dome on top of the object started spinning, the legs disappeared, and the object rose vertically above the trees, without noise. Less than 20 sec later, it had cleared the hill and was lost to sight in the southwest. The next day the witness went to the site and found no trace, but his dog turned around and ran away,  
 Type: ufo sighting  
 Reference: 131 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8569,6 +8938,7 @@ Magnolia ID: 512
 
 ## Event 1110
 Date: 12/9/1960  
+Time: 2030  
 Description: A dog barking at a glowing object resting in a park. Three witnesses observed it from separate locations. It appeared as an oval, luminous craft, 4 m in diameter, inside which vague shadows were seen. It took off toward the north. A circle of yellowed grass was found at the site.  
 Type: ufo sighting  
 Reference: Ouranos 27 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8616,6 +8986,7 @@ Location: Washington DC
 
 ## Event 1116
 Date: 1/22/1961  
+Time: 1830  
 Description: An electronics professor at Bordeaux University and three school teachers observed an elongated, glowing, orange object. Interference with car ignition was noted. One witness was said to have felt a slight indisposition and to have heard or somehow perceived the word "ZEMU" repeated twice.  
 Type: ufo sighting  
 Reference: Ouranos 26 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8631,6 +9002,7 @@ Location: Vietnam
 
 ## Event 1118
 Date: 3/10/1961  
+Time: 2045  
 Description: F. Reynolds and his son were camping near the water. They observed an object on the ground with four windows in it. There was a fire nearby, and four figures could be seen between it and the object. At 2130 it had disappeared. Witnesses in Wodonga, West Albury, Wangaratta and Tallangatta independently observed an unknown object in flight.  
 Type: ufo sighting  
 Reference: Austr. FSR 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8639,6 +9011,7 @@ Magnolia ID: 516
 
 ## Event 1119
 Date: 4/18/1961  
+Time: 1100  
 Description: J. Simonton heard a whining sound and saw an object, 10 m in diameter, 4 m high, with exhaust pipes around the periphery, land near his house. A door was opened and a man appeared. About 1.50 m tall, he wore a black, turtle-neck pullover with a white band at the belt, and black trousers with a vertical white band along the side. Two figures were visible inside the object. Simonton filled a jug with water, returned it to the man, who gave him three ordinary pancakes, and the craft took off.  
 Type: ufo sighting  
 Reference: Atic; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8663,6 +9036,7 @@ See also: 9/29/59
 
 ## Event 1122
 Date: 5/3/1961  
+Time: 2200  
 Description: Approximate date. A hemispherical craft with portholes, resting on a road, took off when a car came near it. Estimated diameter was 4 m, height 2.5 m, bearing "fluorescent lights."  
 Type: ufo sighting  
 Reference: Evidence 139, 147 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8671,6 +9045,7 @@ Magnolia ID: 518
 
 ## Event 1123
 Date: 6/3/1961  
+Time: 0635  
 Description: Off this town, four people in a boat were suddenly shaken by growing waves and saw the sea swelling like an enormous bubble 1 km away. An object emerged, hovering at 10 m altitude for a brief time, its underside glowing, and it left obliquely at high speed toward the northeast. Its shape was similar to a cone resting on a disk.  
 Type: ufo sighting  
 Reference: Settimana Incom. Jan. 6,63 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8679,6 +9054,7 @@ Magnolia ID: 519
 
 ## Event 1124
 Date: 7/3/1961  
+Time: 0015  
 Description: An object resembling a hovercraft, having five windows through which an orange light was shining, hovered about 20 m above the trees. It left suddenly at high speed.  
 Type: ufo sighting  
 Reference: FSR 61, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8687,6 +9063,7 @@ Magnolia ID: 520
 
 ## Event 1125
 Date: 7/17/1961  
+Time: 0200  
 Description: One mile north of Bonny Spring Ranch, on U.S. Highway 91, two civilians in a car observed in the rear-view mirror a low-flying object that overtook their car, followed by a rush of cold air. It stopped, circled the vehicle, flew off and was lost to sight behind the mountains, where it may have landed. In the course of an exceptionally complete investigation by military authorities, however, no evidence of a landing was discovered.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8703,6 +9080,7 @@ See also: 1/27/67
 
 ## Event 1127
 Date: 8/12/1961  
+Time: 2100  
 Description: Two Drake University students saw a large object shaped like an oval with "running boards" bearing a series of lights. It hovered for about 4 min at tree-height, shot straight up, climbed away toward the east, then disappeared from view in five sec or so.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8727,6 +9105,7 @@ Location: Lincoln, New Hampshire
 
 ## Event 1130
 Date: 9/19/1961  
+Time: 2200  
 Description: Mr. and Mrs. Hill saw a lenticular object with a double row of portholes and half-a-dozen dark figures working at control panels inside, when they stopped to investigate a light following their car. They became afraid and drove away. A "beeping sound" enveloped the car, and they felt a prickling sensation before losing consciousness. When they came to, they were driving near Ashland. A series of nightmares and medically controlled hypnosis brought back what apparently was the memory of their abduction by the occupants of the object.  
 Type: ufo sighting  
 Reference: Fuller; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8735,6 +9114,7 @@ Magnolia ID: 524
 
 ## Event 1131
 Date: 9/30/1961  
+Time: 2200  
 Description: Eight km south of La Porte, 16year-old Dennis Bealor saw a large sphere of orange light rise ahead of him on the road. He was so frightened that he lost control of his bike and left the road.  
 Type: ufo sighting  
 Reference: Hartle 158 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8760,6 +9140,7 @@ Location: US
 
 ## Event 1134
 Date: 12/21/1961  
+Time: 2145  
 Description: Jerry Hislope, 20, was driving to Kentland when he saw a glowing white object, 3 m in diameter, 1 m thick, dive at him, flying 3 m above the ground. He stopped to observe it, but the object flew away.  
 Type: ufo sighting  
 Reference: APRO Mar., 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8768,6 +9149,7 @@ Magnolia ID: 526
 
 ## Event 1135
 Date: 1/8/1962  
+Time: night  
 Description: A truck driver and two other men observed two powerful lights lost sight of thern, but later saw a craft on the ground 150 m to the side of the road. It took off at high speed when illuminated by the headlights. Farther away, two objects maneuvered above the road leading to La Bajada. As the police were driving to the scene, they saw one of the craft on the ground near Loma Brava.  
 Type: ufo sighting  
 Reference: CODOVNI 1962 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8776,6 +9158,7 @@ Magnolia ID: 527
 
 ## Event 1136
 Date: 2/9/1962  
+Time: 0330  
 Description: Mr. Wildam, of Luton, noticed that his car was gradually losing speed as he approached a bright, oval thing hovering 10 m above the road. The object was surrounded by a glow, and left at high speed very suddenly.  
 Type: ufo sighting  
 Reference: FSR 62, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8791,6 +9174,7 @@ Location: Wright Patterson AFB
 
 ## Event 1138
 Date: 4/10/1962  
+Time: evening  
 Description: Mario Zuccula, 27, was walking home when he suddenly felt a current of cold air. He was paralyzed with fear when he saw a white object, 10 m in diameter, metallic in appearance which hovered close to the ground. A metallic cylinder was lowered from the craft, and two little men about 1.30 m tall, came out through a door lighted by a source inside the cylinder. A low voice similar to the sound of an electronic device told him they would return at the end of the fourth moon, one hour before dawn, with a message. The beings had their heads covered with a hood.  
 Type: ufo sighting  
 Reference: FSR 62, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8799,6 +9183,7 @@ Magnolia ID: 529
 
 ## Event 1139
 Date: 4/11/1962  
+Time: evening  
 Description: Between Saronno and Legnano, Benazzi and three other witnesses saw a peculiar craft fly above them and land on the road. It was intensely luminous.  
 Type: ufo sighting  
 Reference: APRO Sep., 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8817,6 +9202,7 @@ Location: Eureka, Utah
 
 ## Event 1141
 Date: 4/30/1962  
+Time: night  
 Description: Eugenio Siragusa, 43, claimed to have met two men of normal height, clad in diving suits, with belts emitting intermittent yellow-green blue light, who delivered to him a peace message in Italian. The voice had a metallic tone. Also observed was a very dazzling object, 15 m in diameter.  
 Type: ufo sighting  
 Reference: FSR 63, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8825,6 +9211,7 @@ Magnolia ID: 531
 
 ## Event 1142
 Date: 5/1962  
+Time: 0400  
 Description: Approximate date. Four people whose car had run out of gas, were waiting in a drizzling rain when a bright light, first thought to be from a car, approached them. It turned out to be a lowflying object that landed. It was round with a blinking light, and stayed there about one hour before taking off at high speed  
 Type: ufo sighting  
 Reference: APRO Jul., 63 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8840,6 +9227,7 @@ Location: West Point Academy
 
 ## Event 1144
 Date: 5/12/1962  
+Time: 0410  
 Description: V. and G. Tomasini and H. Zenobi saw an object on the ground 100 m away from the road. It looked like a railroad car and was illuminated. As they came close to it, the object took off, crossed the road at low altitude, rose with a flame, and separated into two sections that flew away in different directions. It made a humming noise and was seen on the ground for one min. Within a circle 60 m in radius, grass was burned, insects were carbonized, and the ground was "petrified." Sample analysis was done by the Puerto Belgrano Naval Base.  
 Type: ufo sighting  
 Reference: SBEDV 30; 132; CODOVNI 1962 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8848,6 +9236,7 @@ Magnolia ID: 533
 
 ## Event 1145
 Date: 5/13/1962  
+Time: 0400  
 Description: Dozens of witnesses in Uncativo, Cordoba, Carranza, and Los Molinos Dam observed a very luminous, elongated object with a bright trail. Soon thereafter, fog filled a wooded section near Uncativo, and a landed object resembling a small house was observed.  
 Type: ufo sighting  
 Reference: 133; CODOVNI 1962 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8872,6 +9261,7 @@ Magnolia ID: 536
 
 ## Event 1148
 Date: 6/26/1962  
+Time: evening  
 Description: For about one hour, 20-year-old Roberto Poregozzo, his mother, Maria, and his 25year-old sister, Luisa, observed a silvery disk, the apparent diameter of the moon, maneuvering in the sky near Santa Anastasia church. They finally went home. About 0300, one of them was awakened by a feeling of intense cold and perceived a greenish light in the room. In the window a sharply defined human shape, delineating a semi-transparent body, was visible. The apparition had a huge bald head. The witness screamed, awakening the two others, and they saw the apparition shrink and vanish "like a TV image when one turns off the set."  
 Type: ufo sighting  
 Reference: FSR 63, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8904,6 +9294,7 @@ Magnolia ID: 540
 
 ## Event 1152
 Date: 8/17/1962  
+Time: evening  
 Description: Rivalino da Silva, a diamond prospector, told his associates that he had seen two strange dwarfs digging a hole near his house. They ran away as he came near them, and moments later an object took off from behind the bushes. It was shaped like a hat and surrounded with a red glow.  
 Type: ufo sighting  
 Reference: APRO Sep.,62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8912,6 +9303,7 @@ Magnolia ID: 541
 
 ## Event 1153
 Date: 8/19/1962  
+Time: night  
 Description: Raimundo, the son of Rivalino da Silva (see previous case), was awakened by the sound of steps and saw "a weird shadow" in the room. It was small and not human in shape. Voices were heard saying, "This one looks like Rivalino," and later that they would kill him. The family stayed on the alert all night.  
 Type: ufo sighting  
 Reference: APRO Sep., 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8928,6 +9320,7 @@ Magnolia ID: 543
 
 ## Event 1155
 Date: 9/1962  
+Time: 2145  
 Description: A. T. Gray, a dairy rancher, thought some lights in a field were those of a car. When coming nearer, he realized the object was oblong with blunt edges and hovered about 7 m above the ground, making no noise. When Gray was 50 m away, the object came toward him, rose, and took off toward the southwest.  
 Type: ufo sighting  
 Reference: APRO Jul., 63 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8936,6 +9329,7 @@ Magnolia ID: 544
 
 ## Event 1156
 Date: 9/5/1962  
+Time: night  
 Description: Second observation by Mr. Siragusa (Case 531), who saw two figures over 2.10 m tall. The light from their belts prevented him from seeing them in detail. A large, spinning object, 25 m wide, top-shaped, hovered nearby. "From the under part, a metallic cylinder over 3 m long reached down almost to touch the road, with a small door, a sort of lift."  
 Type: ufo sighting  
 Reference: FSR 62, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8944,6 +9338,7 @@ Magnolia ID: 545
 
 ## Event 1157
 Date: 9/13/1962  
+Time: 2320  
 Description: Myra Jones was driving between Overfield and Norris Hill when she saw a luminous, gray object, larger than a car with a dome on top. It was flying at the altitude of the Phone poles, slowly spinning. Dark spots were visible on the underside. It nearly touched the car, then gave a whistling sound and flew away.  
 Type: ufo sighting  
 Reference: 137; FSR 62, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8952,6 +9347,7 @@ Magnolia ID: 546
 
 ## Event 1158
 Date: 9/15/1962  
+Time: 1700  
 Description: Two bright disks were first seen at 1700, then were seen again at 1800, at the state line. Two witnesses saw one round object with a fin on top and another under it at 1950, and reported that it was going down toward the Oradell reservoir. Three young men saw and heard the object as it touched the water. Another witness called police. The luminous object took off a few minutes later. Official investigation described it as bright, surrounded with a glow, the apparent size of a small plane 1 km away. It left toward the south.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8976,6 +9372,7 @@ Magnolia ID: 549
 
 ## Event 1161
 Date: 10/28/1962  
+Time: 1930  
 Description: Mrs. E. D. Silvester was driving with her three children when an illuminated oval object landed near the road. She watched it for 40 min, and reported seeing a man wearing a helmet and gas mask in the vicinity of the object.  
 Type: ufo sighting  
 Reference: FSR 63, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8984,6 +9381,7 @@ Magnolia ID: 550
 
 ## Event 1162
 Date: 11/1962  
+Time: evening  
 Description: A garage owner was driving through a rainstorm when he suddenly saw a group of figures 80 m away. He slowed down as they went away jerkily, and observed that they were bizarre, birdlike creatures. As they rushed toward the car, he drove past them in terror and saw them going back toward a luminous, blue object hovering in a field. They entered it as if "sucked into it," and a dull sound was heard before the object flew off.  
 Type: ufo sighting  
 Reference: FSR 68, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -8992,6 +9390,7 @@ Magnolia ID: 551
 
 ## Event 1163
 Date: 12/9/1962  
+Time: 2200  
 Description: Antonio Candau saw a circular object land in Cadivilla, 9 m away from him. It was about 5.5 m m diameter, and two men emerged from it, approaching within 2 m, and spoke incomprehensible words. They wore yellow coveralls and a wide belt. Noting that the witness was afraid, one of them made a reassuring gesture with his hand, and the craft departed with a strange sound.  
 Type: ufo sighting  
 Reference: Settimana Incom. Dec. 30, 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9000,6 +9399,7 @@ Magnolia ID: 552
 
 ## Event 1164
 Date: 12/11/1962  
+Time: dawn  
 Description: G. L. Colodrero and the director of the Cordoba Historial Museum were driving from Catamarca to Cordoba when, 7 km away from Chumbicha, they saw seven objects on the ground of a mountain slope. They were bright and spherical, rose straight up and flew away with a very bright trail.  
 Type: ufo sighting  
 Reference: CODOVNI 1962 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9008,6 +9408,7 @@ Magnolia ID: 553
 
 ## Event 1165
 Date: 12/17/1962  
+Time: dawn  
 Description: Francesco Rizzi, night watchman, was crossing the factory yard when he heard a whistling sound and observed an object hovering 1 m above ground. It was a silvery disk, about 5 m in diameter, with lighted windows. The noise stopped, a door became visible, and a small being appeared and made a gesture. A second figure was also seen. The craft took off with a puff of white smoke and a whistling sound.  
 Type: ufo sighting  
 Reference: 138 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9024,6 +9425,7 @@ Magnolia ID: 555
 
 ## Event 1167
 Date: 12/21/1962  
+Time: 0215  
 Description: A large, fiery disk was observed on the runway by Horado Alora and Mario Pezzuto, the two control tower operators, and by the crews of two aircraft. It rose to 10 m altitude, hovered, and flew away to the northeast.  
 Type: ufo sighting  
 Reference: CODOVNI 1962 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9032,6 +9434,7 @@ Magnolia ID: 556
 
 ## Event 1168
 Date: 1/4/1963  
+Time: 1900  
 Description: A well-known psychiatrist saw an object on the ground in a deserted city park. Shape: a dome upon a cylinder, bearing a series of round apertures and surrounded by a thick, roundish ring, set on a tripod landing gear supporting the base of the cylinder 1 m above the ground. Diameter: 5 m. Suddenly the ring started spinning rapidly, and a gust of air was felt as the craft rose a few m above ground, then disappeared in a split second.  
 Type: ufo sighting  
 Reference: 142 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9040,6 +9443,7 @@ Magnolia ID: 557
 
 ## Event 1169
 Date: 1/11/1963  
+Time: 2300  
 Description: A 43-year-old farmer was awakened by restless animals and went out to calm them. Fifteen min later he saw an object land in a small square in the village, went toward it, was "paralyzed" when 10 m away. Two min later the craft, 4.5 m long, 1.5 m high, with a translucent upper dome showing two dark, moving figures, ascended in the direction of Brindisi, emitted a vertical beam of green light.  
 Type: ufo sighting  
 Reference: 143 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9048,6 +9452,7 @@ Magnolia ID: 558
 
 ## Event 1170
 Date: 1/28/1963  
+Time: night  
 Description: A former Chilean Air Force officer, who was driving a truck, observed two disk-shaped objects that followed him for over ten min.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9056,6 +9461,7 @@ Magnolia ID: 560
 
 ## Event 1171
 Date: 1/28/1963  
+Time: 1720  
 Description: Mary Sharp and Mrs. E. L. Sharp saw an object on the ground. It had four windows, emitted a yellow-orange light, and eventually left toward Rugby.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9080,6 +9486,7 @@ Magnolia ID: 562
 
 ## Event 1174
 Date: 2/15/1963  
+Time: 0710  
 Description: A civilian observed an object arriving from the east. It stopped at 15 m altitude over his farmhouse. The object made a swishing sound, and measured about 8 m in diameter, 3 m in height. The underside was spinning in a counterclockwise direction, had a blue color and no light. It took off faster than a jet, after hovering about five sec. The witness suffered from a strong headache all day.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9088,6 +9495,7 @@ Magnolia ID: 563
 
 ## Event 1175
 Date: 2/20/1963  
+Time: 1730  
 Description: A young man saw from a window ,a slowly spinning object, almost stationary, 500 m away. It appeared as a disk having a central upper dome, with a total diameter of 3 m. The object had a brilliant yellow red halo, but its dome was much more brilliant. The witness observed it through binoculars, reported seeing a "particle" leave the object, after which it stopped spinning, gained altitude with a vertical shifting, and left toward the northeast.  
 Type: ufo sighting  
 Reference: 144 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9096,6 +9504,7 @@ Magnolia ID: 564
 
 ## Event 1176
 Date: 2/21/1963  
+Time: 0230  
 Description: A strange globe of fire hit a car driven by a civilian man. Several people called authorities to report that they had been awakened by a peculiar object.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9112,6 +9521,7 @@ Magnolia ID: 566
 
 ## Event 1178
 Date: 3/12/1963  
+Time: 0532  
 Description: After an intense rainfall Pablo Michalowski and Roberto Jorge Martinez observed and photographed a luminous object that rose from a forest preserve about 2 km from Colonia Yerua.  
 Type: ufo sighting  
 Reference: CODOVNI 1963 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9120,6 +9530,7 @@ Magnolia ID: 567
 
 ## Event 1179
 Date: 3/13/1963  
+Time: 2230  
 Description: Fred White was fishing when he heard a high-pitched whine coming from the east and saw an object come in his direction and land 15 m away, scattering sand. It was at least 30 m in diameter, and was shaped like two plates glued together. Through several oval portholes he could see light inside. A man with a fair complexion, wearing a metallic helmet, looked at the witness. He wore a sky-blue, one-piece coverall with no visible buttons or fasteners, and gloves made of shiny mesh. Warm air was felt as the craft took off about six min later, and radio interference was noted.  
 Type: ufo sighting  
 Reference: FSR 63, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9128,6 +9539,7 @@ Magnolia ID: 568
 
 ## Event 1180
 Date: 5/7/1963  
+Time: evening  
 Description: Margaret McCutcheon and her 13-year-old son reported to the police that, after the house lights blacked out while watching television, they saw an object about 6 m in diameter, with two aerials and a red light flashing, emitting a low buzz, near the house. After one minute, it flew away.  
 Type: ufo sighting  
 Reference: FSR 63, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9144,6 +9556,7 @@ Magnolia ID: 570
 
 ## Event 1182
 Date: 5/20/1963  
+Time: evening  
 Description: A 17-year-old witness, who wishes anonymity for fear of ridicule, saw what he first thought was a bulldozer by the side of the road. He came within 20 m of it, then was blinded by a strong light as his car suddenly stopped. The object crossed the road and flew away. The light was as intense as that of a welder's torch. The witness's father testified that his son came home white and visibly terrified.  
 Type: ufo sighting  
 Reference: APRO Nov., 63 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9160,6 +9573,7 @@ Magnolia ID: 572
 
 ## Event 1184
 Date: 6/28/1963  
+Time: 2130  
 Description: A fiery red object, 8 m wide 4 m high, with a concave top and flat bottom, was seen on the road by a Willaston resident who stopped his car 4 m away. The object rose, tipped to one side and flew away at fantastic speed.  
 Type: ufo sighting  
 Reference: 141; FSR 64, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9183,6 +9597,7 @@ Location: US
 
 ## Event 1187
 Date: 7/22/1963  
+Time: 2030  
 Description: William Holland, 12, and two other persons saw a hovering, silvery object with a flashing red light on top, at 20 m altitude. It had three "legs" and a periscope underneath that pointed at the witnesses. The object went up into a cloud of unusual color, which flew against the wind.  
 Type: ufo sighting  
 Reference: FSR 64, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9197,6 +9612,7 @@ Reference: [link](https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_T
 
 ## Event 1189
 Date: 8/7/1963  
+Time: night  
 Description: Five persons observed a luminous source flying slowly over the railroad tracks. Direction of travel: west, then north. It appeared ready to land in a wooded area. Its luminosity was variable.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9205,6 +9621,7 @@ Magnolia ID: 576
 
 ## Event 1190
 Date: 8/8/1963  
+Time: 2210  
 Description: An oval, luminous object coming from the north dived toward Centralia Road, followed a car, flying around it. Then it went away toward the west, disappeared like a bulb turned off, and was seen again in the west flying very fast. It was observed by numerous people. Total duration: 15 min.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9221,6 +9638,7 @@ Magnolia ID: 578
 
 ## Event 1192
 Date: 8/20/1963  
+Time: 2132  
 Description: In a wooded area near Rome, a man in a car observed an object resembling a plate turned upside down, with a central turret, flying low over his vehicle.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9229,6 +9647,7 @@ Magnolia ID: 579
 
 ## Event 1193
 Date: 8/28/1963  
+Time: 1915  
 Description: Two brothers, F. and R. Eustagio, 11 and 9, saw a luminous sphere at treetop level. Through an opening they observed "several rows of people inside" and a thin, 3 m tall being, whho glided down to the ground along two vertical beams of light. He walked with a strange, swinging motion, then sat down. He wore a transparent helmet, had one eye in the middle of his forehead, wore high boots that left a triangular imprint, and carried a box emitting flashes. He made a threatening gesture and flew up to the sphere, which left. The chlldren somehow became convinced that the being was "good" and would return.  
 Type: ufo sighting  
 Reference: Humanoids 37; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9237,6 +9656,7 @@ Magnolia ID: 580
 
 ## Event 1194
 Date: 9/19/1963  
+Time: 2000  
 Description: Four children saw a bright oval object hover in a field and drop something. Approaching the site, they were confronted with a 3 m tall man, dressed in "a white monklike suit," who held out his hands and made unintelligible sounds. The children fled in panic, and one girl was admitted to the hospital in shock.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9245,6 +9665,7 @@ Magnolia ID: 581
 
 ## Event 1195
 Date: 10/1963  
+Time: 0900  
 Description: A middle-aged woman, who had seen a strange craft hovering near her house the previous Jul., observed a gray-colored object, 3.5 m long, hovering less than 2 m above ground. Through the transparent front part she could see three figures. Suddenly one of the occupants was standing on the grass. He was clothed in "asbestostextured coveralls" and neither the face, nor the hands, nor the feet was visible. When she asked, "What do you want?" the answer, in English, was: "One of our party knows you; we will return." The object then decreased in size, tilted, partially sank into the ground, grew to its previous size, and departed to the east, producing steam, a flash, and a noise.  
 Type: ufo sighting  
 Reference: FSR 64, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9253,6 +9674,7 @@ Magnolia ID: 582
 
 ## Event 1196
 Date: 10/12/1963  
+Time: 0330  
 Description: E. Douglas, while driving a truck through,a violent rainstorm, had to stop when he encountered a large, blinding object, 35 m high, from which three giants, 3 m tall, wearing luminous clothes and strange helmets, emerged. Douglas fired at them, as a red beam burned him. He ran away and found shelter in Monte Maiz. He suffered burns similar to ultraviolet exposure. Footprints of large dimension were found at the site.  
 Type: ufo sighting  
 Reference: CODOVNI 1963; Austr; FSR 8; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9261,6 +9683,7 @@ Magnolia ID: 583
 
 ## Event 1197
 Date: 10/21/1963  
+Time: 2130  
 Description: Six strange objects were observed for 40 min causing a local panic. One was hovering at ground level above some railroad tracks, while another, showing a dome and portholes, was nea a house. When witneses flashed a light, the house was flooded with a strong beam. Temperature rose and a sulphurous odor was noted. Figures were seen in the vicinity of the first disks. All six objects had a white and a red light beam, measured 8 m in diameter, and left a cloud of white smoke.  
 Type: ufo sighting  
 Reference: 145; LDLN 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9269,6 +9692,7 @@ Magnolia ID: 584
 
 ## Event 1198
 Date: 10/31/1963  
+Time: 0415  
 Description: Jim Davidson saw an object about 3 m long, bearing orange and red lights, which came close to his light truck, flew ahead of him, then departed and appeared to land behind a hill. Two witnesses independently reported a maneuvering light.  
 Type: ufo sighting  
 Reference: Austr. FSR May., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9277,6 +9701,7 @@ Magnolia ID: 585
 
 ## Event 1199
 Date: 10/31/1963  
+Time: 1400  
 Description: A farmer, Issuo Oikiti, and two other witnesses saw a luminous object, resembling a huge, aluminum ball, which hit the river, changed direction while spinning, crossed to the other side and plunged into the water, which appeared to boil.  
 Type: ufo sighting  
 Reference: Vuillequez ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9293,6 +9718,7 @@ Magnolia ID: 587
 
 ## Event 1201
 Date: 11/16/1963  
+Time: evening  
 Description: Four teenagers, among them painter John Flaxton, while walking on a country road, saw a moving star turn into a reddish glow coming toward them, then disappearing behind some trees. Shortly thereafter, a bright, golden light was seen 80 m away, floating 3 m above ground, and a dark figure the size of a man, with wings like a bat, came toward them. They fled in terror.  
 Type: ufo sighting  
 Reference: FSR 64, 2; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9322,6 +9748,7 @@ Magnolia ID: 589
 
 ## Event 1205
 Date: 12/10/1963  
+Time: 2330  
 Description: At the RAF camp, two airmen observed a dome-shaped object that landed behind a hangar. It gave out a bright glow, and the witnesses fled when an opening became visible.  
 Type: ufo sighting  
 Reference: FSR 64, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9330,6 +9757,7 @@ Magnolia ID: 590
 
 ## Event 1206
 Date: 12/14/1963  
+Time: 0100  
 Description: Messrs. Muller and Immelman suddenly found the countryside illuminated and saw an object, 15 m in diameter, with intense orange and blue lights, emitting sparks, flying toward their car. They stopped and jumped out as it dived five or six times, at one point hovering for two min 15 m above them, making a humming sound, before flying away.  
 Type: ufo sighting  
 Reference: 146; FSR 64, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9338,6 +9766,7 @@ Magnolia ID: 591
 
 ## Event 1207
 Date: 12/25/1963  
+Time: night  
 Description: A fisherman witnessed the landing of a craft, from which a terrifying creature emerged. It was humanoid in shape, spoke sounds he could not understand, left footprints on the sand, and went back to the machine and flew off.  
 Type: ufo sighting  
 Reference: 147;LDLN 70 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9346,6 +9775,7 @@ Magnolia ID: 592
 
 ## Event 1208
 Date: 12/27/1963  
+Time: 1600  
 Description: A shiny white object was seen on the ground at Bank's Stables. It was about 3.5 m long, 1 m high, and had something like a windshield more brilliant than the rest of the craft. It took off, flew horizontally for 30 m, and was hidden from view. Grass was flattened over a circular area, and four traces were found.  
 Type: ufo sighting  
 Reference: BUFORA 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9354,6 +9784,7 @@ Magnolia ID: 593
 
 ## Event 1209
 Date: 4/3/1964  
+Time: 2100  
 Description: Four people in a car observed a rigid configuration of intense red and white lights, apparently attached to a large object that came to ground level, hovered, and flew off very fast as they were driving about 2 km west of Monticello.  
 Type: ufo sighting  
 Reference: Atic; Challenge 31 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9362,6 +9793,7 @@ Magnolia ID: 594
 
 ## Event 1210
 Date: 4/15/1964  
+Alternate date: 4/24/1964  
 Description: USAF Intelligence officer meets with 2 Aliens at prearranged location in the desert of New Mexico near Holloman AFB. Project SIGMA operates at AFB, New Mexico.  
 Type: alien meeting  
 Reference: [Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)  
@@ -9369,6 +9801,7 @@ Location: Holloman AFB
 
 ## Event 1211
 Date: 4/22/1964  
+Time: 2100  
 Description: Marie Morrow and two other persons were driving west, about 2O km east of Lordsbury when the entire area was illuminated by a bluish light "as bright as day," and a round object flew about 3 m above the car, making a whining sound, then went north.  
 Type: ufo sighting  
 Reference: APRO May., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9377,6 +9810,7 @@ Magnolia ID: 595
 
 ## Event 1212
 Date: 4/24/1964  
+Time: 1745  
 Description: Policeman Lonnie Zamora observed the landing of a white craft, resting on four legs, in a depression 4 km outside Socorro. Near it were standing two figures, below average height, dressed in white. Within 30 m of the object, he saw a red insignia on its aluminumlike surface. It rose to 4 m with a strong roar, became silent, hovered and flew away. Traces.  
 Type: ufo sighting  
 Reference: Atic; Challenge 34; Humanoids 47; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9385,6 +9819,7 @@ Magnolia ID: 597
 
 ## Event 1213
 Date: 4/24/1964  
+Time: 1000  
 Description: Dairy farmer Gary T. Wilcox saw a shiny, egg-shaped object, about 8 m long and 6 m wide, in his field. He spoke in English to two dwarfs, 1.2 m tall, wearing seamless clothing and hoods, and carrying trays.  
 Type: ufo sighting  
 Reference: Humanoids 59; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9393,6 +9828,7 @@ Magnolia ID: 596
 
 ## Event 1214
 Date: 4/26/1964  
+Time: 1230  
 Description: Orlando Gallegos observed a bright, metallic, egg-shaped object about 70 m away, on the ground, north of La Madera. Blue flames appeared to circle the base of the machine, which was silent and about the length of a Phone pole. Scorch marks and four imprints were found, according to Police Capt. Martin Vigil.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9401,6 +9837,7 @@ Magnolia ID: 598
 
 ## Event 1215
 Date: 4/28/1964  
+Time: morning  
 Description: Numerous witnesses, among them policeman Paul Arteche, saw a reddish, round object hover at low level, then take off very rapidly toward the west.  
 Type: ufo sighting  
 Reference: NICAP Jul., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9409,6 +9846,7 @@ Magnolia ID: 599
 
 ## Event 1216
 Date: 4/30/1964  
+Time: 2230  
 Description: Several anonymous adults observed an elongated, glowing object. Two children saw a lighted craft land and take off, leaving four rectangular indentations.  
 Type: ufo sighting  
 Reference: APRO Jul., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9425,6 +9863,7 @@ Magnolia ID: 600
 
 ## Event 1218
 Date: 5/5/1964  
+Time: 0830  
 Description: A farmer, Alfred Ernst, saw an object rise from a field and fly rapidly into the cloud bank. It was described as oval, and it left a depression and imprints in the ground.  
 Type: ufo sighting  
 Reference: FS Jun., 65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9433,6 +9872,7 @@ Magnolia ID: 602
 
 ## Event 1219
 Date: 5/9/1964  
+Time: 1100  
 Description: Three children, John Owens, Cheryl Glunt, and Bernie Montello, saw a silvery, dome-shaped object arrive from the south and land in a field 150 m away. Estimated diameter: 3 m.  
 Type: ufo sighting  
 Reference: FS Jun., 65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9449,6 +9889,7 @@ Magnolia ID: 604
 
 ## Event 1221
 Date: 5/17/1964  
+Time: 2100  
 Description: A fiery object, maneuvering at low altitude, was seen from Wooster and Smithville at 2110. then from Lawrence and Burbank between 2125 and 2130. It flew erratically with a whirring sound and changes of color, apparently interfering with police radio. lt went down toward the northwest, seemingly ready to land. Abnormal radioactivity allegedly was found at the site.  
 Type: ufo sighting  
 Reference: Akron UFO Res. Soc. ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9465,6 +9906,7 @@ Magnolia ID: 606
 
 ## Event 1223
 Date: 5/24/1964  
+Time: 2100  
 Description: A man driving on Millinocket Lake Road saw a fiery, spherical object to the side. He stopped and left his car with a friend to observe it better. When they became afraid and walked back to the car, the sphere followed them; the engine could not be started as long as the sphere remained within 2 or 3 m of the car. It flew away after five min. It was described as a ball of fire without structure, about 75 cm in diameter.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9473,6 +9915,7 @@ Magnolia ID: 607
 
 ## Event 1224
 Date: 6/2/1964  
+Time: 1730  
 Description: David Wilson, 14, was going to get some straw for his rabbits when he stopped with other children to observe half-a-dozen dwarfs, about 80 cm tall, dressed in bright green, and having hands lighted "like electric bulbs," who seemed to be searching for something. Another child later reported that she had seen a silvery disk-shaped object, the size of a car, take off from the same location.  
 Type: ufo sighting  
 Reference: FS Dec.,64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9481,6 +9924,7 @@ Magnolia ID: 609
 
 ## Event 1225
 Date: 6/2/1964  
+Time: 1600  
 Description: A "black object with flames" is blamed for burns suffered by an 8-year-old child, who said he saw the object coming from the sky. His grandmother, Mrs. Frank Smith, who was standing nearby, heard a sound similar to that of a bullet, but saw nothing. The child suffered second-degree burns on his face, and lost part of his hair.  
 Type: ufo sighting  
 Reference: Saucer News Mar., 65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9497,6 +9941,7 @@ Magnolia ID: 610
 
 ## Event 1227
 Date: 6/8/1964  
+Time: 2230  
 Description: Helen Reed observed a spinning object 5 m above ground,less than 20 m away, coming and going with right-angle turns. It had a dome from which colored light emanated (blue turning to red) and bands of yellow light. The object was lost to sight behind trees in the north.  
 Type: ufo sighting  
 Reference: NICAP Jul., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9505,6 +9950,7 @@ Magnolia ID: 611
 
 ## Event 1228
 Date: 6/13/1964  
+Time: 2100  
 Description: Karen Fahle saw a bright object coming to the ground about 200 m away. While approaching its lights blinked and turned to dark red. Five min later it went away slowly.  
 Type: ufo sighting  
 Reference: AMUFO Sep., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9513,6 +9959,7 @@ Magnolia ID: 612
 
 ## Event 1229
 Date: 6/14/1964  
+Time: 2100  
 Description: Charles Englebrecht went outside when his TV set and all house lights suddenly failed and saw a glowing blue-white object, about 30 nn in diameter, land about 18 m away in the field. He felt a mild electric shock when he tried to approach it and was unable to move forward.  
 Type: ufo sighting  
 Reference: NICAP Jul., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9536,6 +9983,7 @@ Location: Palm Springs, CA
 
 ## Event 1232
 Date: 7/7/1964  
+Time: 2100  
 Description: Nine persons from three different houses, including J. Ivester, described an object like "a flying top." TV interference was associated with the object's presence. It flew silently at tree height and hovered over the vard of Mrs. Russell Mickinan's house. The lower part was bright red, with three lights on the upper part. As it left, a green light illuminated the countryside. A powerful odor similar to "embalming fluid" was noticeable when police arrived. The next day, witnesses felt a burning sensation on their faces and arms.  
 Type: ufo sighting  
 Reference: Challenge 39 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9544,6 +9992,7 @@ Magnolia ID: 615
 
 ## Event 1233
 Date: 7/14/1964  
+Time: evening  
 Description: Miss P. Upton came running home nearly hysterical. While riding bicycles, she and a friend saw a low-flying object that terrified them. A strong unpleasant smell also was reported.  
 Type: ufo sighting  
 Reference: Fate Nov., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9552,6 +10001,7 @@ Magnolia ID: 616
 
 ## Event 1234
 Date: 7/16/1964  
+Time: 1500  
 Description: Edmund Travis, 9, Randy Travis, 7 Floyd Moore, 10, and two other boys, saw a dwarf dressed in a black suit and a helmet, with a glass section in front of his face, which looked human. He appeared to request some water in a strange tone, which sounded "as if it came from a pipe." He then walked to a shiny machine partially hidden in the brush, as the boys ran home.  
 Type: ufo sighting  
 Reference: Humanoids 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9560,6 +10010,7 @@ Magnolia ID: 617
 
 ## Event 1235
 Date: 7/27/1964  
+Time: 2100  
 Description: An engineer stopped his car when he saw an aluminum-looking object, stationary, about 15 m above ground. The edge of the craft seemed fluorescent, and three beams of very bright light were emitted before it flew off at high speed. Total duration: 6 min.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9568,6 +10019,7 @@ Magnolia ID: 618
 
 ## Event 1236
 Date: 7/28/1964  
+Time: 2230  
 Description: A former Navy pilot and another man, both regarded as trustworthy, were at work in a field when they saw an intense light, cone-shaped, emitted from the ground. A similar light was observed in the sky when the one on ground was turned off, then the reverse took place. A round, aluminum-looking object, about 10 m in diameter, with one red and one white light, then appeared and descended to ground level with a strong whistling sound similar to a small jet. Piercing and high-pitched voices similar to those of children playing were heard. After 40 min the craft took off. Before it did so, a jet aircraft flying at low altitude circled its position. On Jul. 31 and August 1, the densely wooded area was explored from a helicopter and on foot by Sheriff Nickell and a U.S. Air Force officer, but nothing was found.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9598,6 +10050,7 @@ Location: Vietnam
 
 ## Event 1240
 Date: 8/12/1964  
+Time: 2200  
 Description: Witnesses got out of their car to watch an object resembling a "burning haystack," oval or crescent-shaped, which rose from the ground, crossed the sky, and was lost to sight in the south.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9606,6 +10059,7 @@ Magnolia ID: 621
 
 ## Event 1241
 Date: 8/25/1964  
+Time: 2230  
 Description: Richard Pratt, 17, heard a whistling noise and saw a silvery, oval object surrounded with a soft white glow, supporting a dome, which went down to ground level. A similar object had been observed one hour earlier at Littleton, about 50 km west, by four boys. It was described as silvery gray, with three blinking red lights and a white light.  
 Type: ufo sighting  
 Reference: NICAP Sep., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9614,6 +10068,7 @@ Magnolia ID: 622
 
 ## Event 1242
 Date: 9/5/1964  
+Time: 2100  
 Description: Chafredo Dagota observed a circular object that came to the ground briefly. It stood on a sort of pillar and emitted a blinding light. He caught sight of two figures moving near it.  
 Type: ufo sighting  
 Reference: FSR 66, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9622,6 +10077,7 @@ Magnolia ID: 623
 
 ## Event 1243
 Date: 9/5/1964  
+Time: 2200  
 Description: A hunter, who had lost his way in the mountains, observed approaching lights that seemed to land. From a vantage point in a tree, he saw a dome-shaped object at ground level, about 500 m away. Several creatures, one of them a robotlike figure with "eyes" about 10 cm in diameter, came near, apparently trying to dislodge the witness from his tree. The creatures appeared to fear the light from flaming objects thrown at them. The witness fell asleep after an exhausting series of attempts to keep the creatures away. At dawn there was nothing to be seen.  
 Type: ufo sighting  
 Reference: Atic; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9630,6 +10086,7 @@ Magnolia ID: 624
 
 ## Event 1244
 Date: 9/11/1964  
+Time: 0600  
 Description: Karen Campbell was scared by an oval, dull copper object that flew low over her car. It measured about 1.2 m in height, had a dome on top, made a "rushing" noise, and seemed to "float" over the car.  
 Type: ufo sighting  
 Reference: 148 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9653,6 +10110,7 @@ Location: Korea
 
 ## Event 1247
 Date: 11/1964  
+Time: 2300  
 Description: Mr. Lehel observed a lighted object at hilltop level, about 700 m away. At the site, a wide circle of crushed vegetation was found, three branches were broken, and a pole was calcined.  
 Type: ufo sighting  
 Reference: LDLN 76 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9677,6 +10135,7 @@ See also: 1/25/65
 
 ## Event 1250
 Date: 12/21/1964  
+Time: 1700  
 Description: Mr. Burns saw a huge object cross the road, hover at ground level in a field for less than one min, then take off vertically. There were other witnesses in the area.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9700,6 +10159,7 @@ Location: Fairborn, Ohio
 
 ## Event 1253
 Date: 1/12/1965  
+Time: night  
 Description: A member of a federal agency, who was driving toward the base, saw a low-flying object, 10 m in diameter, which avoided collision at the last moment. He got out of the car and observed it hovering for one min, then it flew off. at high speed. The object was tracked on radar. The same night, a round, glowing object with a dome on top landed on a nearby farm, melting snow in a 10 m diameter urcle.  
 Type: ufo sighting  
 Reference: NICAP Mar., 65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9708,6 +10168,7 @@ Magnolia ID: 630
 
 ## Event 1254
 Date: 1/14/1965  
+Time: 2400  
 Description: James Myers saw an object rise from the ground, appearing as a bright, circular silvery craft.  
 Type: ufo sighting  
 Reference: Fate Jul., 65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9725,6 +10186,7 @@ Atomic KT: 140
 
 ## Event 1256
 Date: 1/19/1965  
+Time: 1815  
 Description: A workman cutting wood on the Augusta archery range saw two saucer-shaped objects, 30 m and 6 m in diameter, hovering in the sky. The smaller one landed, a door opened, and three pilots emerged. They looked human, but had a reddish-orange skin and staring eyes. One of them had "a long finger on his left hand." Their clothes were the same color as the craft, whose open door showed a strange light inside. The object was so highly polished that "I would bet on a clear day you could not see it at five thousand feet." The occupants spoke sounds that were not understood and reentered the object. The door outline could not be seen when it was closed.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9733,6 +10195,7 @@ Magnolia ID: 632
 
 ## Event 1257
 Date: 1/23/1965  
+Time: 0840  
 Description: A 31-year-old man driving a '64 Cadillac was at the intersection of U.S. Highway 60 and State Route 14 when the engine failed, and he had to stop by the side of the road. He then observed an object about 1.2 m above ground. It was shaped like a mushroom or an electric bulb, 25 m high, 8 m in diameter made noise similar to a vacuum cleaner had a metallic gray coIor, a red-orange light on one side, and a blue one on the other. It took off against the wind toward the west, at high speed.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9741,6 +10204,7 @@ Magnolia ID: 633
 
 ## Event 1258
 Date: 1/25/1965  
+Time: night  
 Description: Woody Darnell, policeman, his family, and several neighbors saw a stationary object on the ground. It took off with a shower of sparks. Several trees were found uprooted or calcined at the site.  
 Type: ufo sighting  
 Reference: Fate Jul., 65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9756,6 +10220,7 @@ See also: 12/19/64
 
 ## Event 1260
 Date: 2/3/1965  
+Time: 2045  
 Description: A man saw a light on the beach near Penguin Street and got out of his car to observe it. He then heard a modulated whistling sound and saw an object, 7 m wide, rise from the beach to an altitude of about 20 m. He came back to the site with other persons, and a dog that became restless at a spot where grass was found flattened. Another witness, driving near Humphrey Ave., saw the object as it rose over South Brighton.  
 Type: ufo sighting  
 Reference: 149 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9779,6 +10244,7 @@ Location: Pacific Ocean
 
 ## Event 1263
 Date: 2/21/1965  
+Time: 2100  
 Description: About 50 Toba Indians, including policemen, saw three little men with luminous glows emerge from an object that had made several low passes over the village with other flying craft. A photographer took several pictures and noted that the creatures feared the light from his flash camera. The object increased in luminosity as it took off.  
 Type: ufo sighting  
 Reference: CODOVNI; FSR 65, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9787,6 +10253,7 @@ Magnolia ID: 637
 
 ## Event 1264
 Date: 3/2/1965  
+Time: 1355  
 Description: John F. Reeves, 65, retired, was walking in the woods when he observed an object 10 m in diameter, 2m thick, saucer-shaped with an outer rim and a stairway. After watching it for 10 min, he saw a robotlike being, about 1.30m tall, wearing a silver uniform, glass headgear, and then returned with a The being walked walked to the craft, then returned with a box that emitted a flash when pointed at the witness. The object subsequently took off with a whistling sound.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9795,6 +10262,7 @@ Magnolia ID: 638
 
 ## Event 1265
 Date: 3/4/1965  
+Time: 1830  
 Description: A farmer and his employee saw from their car three yellow-orange spheres rapidly rising. Oily spots were found in the field.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9803,6 +10271,7 @@ Magnolia ID: 639
 
 ## Event 1266
 Date: 3/8/1965  
+Time: 1940  
 Description: Three persons saw a cigarshaped object with two fixed red lights, which flew above them, avoided hitting the house at the last moment, and was lost to sight in the northeast.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9811,6 +10280,7 @@ Magnolia ID: 640
 
 ## Event 1267
 Date: 3/15/1965  
+Time: 0100  
 Description: In the Everglades, 30 km east of Big Cypress, James Flynn, 45, who was hunting, saw a huge, lighted object 1 m above the swamp surface. He watched it for 40 min, observing that it was conical, twice as wide as it was high, and seemed built from metal sections over one square m each. It showed four rows of square windows, 70 cm wide. Estimated diameter: 25 m. A yellow light shone through the windows, and the object made a sound of a transformer and wind. Flynn got within 2 m of it and made a gesture. A beam of light from the underside of the object struck him between the eyes and he lost consciousness for 24 hours. He had lost vision in the right eye, saw poorly with the left, went to a doctor in Fort Myers, and spent five days in the hospital.  
 Type: ufo sighting  
 Reference: Fate Sep.,65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9827,6 +10297,7 @@ Magnolia ID: 642
 
 ## Event 1269
 Date: 4/8/1965  
+Time: 2130  
 Description: A 60-year-old man saw an object 200 m away, in the northwest at 30 m altitude. It turned east, then left toward the south. First seen as a single, bright light, then two luminous sources were visible through a "door" in the object, which appeared metallic. Radio interference was noted.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9835,6 +10306,7 @@ Magnolia ID: 643
 
 ## Event 1270
 Date: 4/23/1965  
+Time: 0800  
 Description: A woman observed an object land near her house while she was working in her kitchen. It was shaped like a disk, showed portholes and a cylinder about 1 m high, with a sliding door from which a small creature, about 1 m tall, emerged and jumped to the ground. Its face was not clearly visible but it had pointed ears, a sort of tail, and was linked to the main object by a cable. It wore white clothing, appeared to pick up something from the ground, and reentered the cylinder, which then slid up into the larger white disk. The outside rim started spinning in a counterclockwise motion with a soft whistling sound and the object rose straight up, out of view. Estimated diameter of the disk: 7m.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9843,6 +10315,7 @@ Magnolia ID: 644
 
 ## Event 1271
 Date: 4/26/1965  
+Time: 1700  
 Description: Gary X., 9, saw an object which came down silently and hovered at ground level 60 m away. A sort of periscope emerged from it, and a strange noise (also heard by the boy's father) was noted. After 1-2 min the "periscope" disappeared, the object rose, and then dashed up at unbelievable speed.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9851,6 +10324,7 @@ Magnolia ID: 645
 
 ## Event 1272
 Date: 5/23/1965  
+Time: 2100  
 Description: About 70 km from Mackay, Jim Tilse, Eric Judin, and John Burgess saw a circular object, 10 m in diameter, flying erratically, making a buzzing sound. It had headlights, a tripod landing gear, and supported another disk-shaped device. Police investigation disclosed damaged trees and other landing traces.  
 Type: ufo sighting  
 Reference: FSR 65, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9859,6 +10333,7 @@ Magnolia ID: 646
 
 ## Event 1273
 Date: 5/24/1965  
+Time: 0130  
 Description: Mr. and Mrs. French observed an object in a field at 4 m altitude. It had blinding white lights, caused radio interference, and made a high-pitched sound.  
 Type: ufo sighting  
 Reference: Spaceview 44; LDLN 80 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9867,6 +10342,7 @@ Magnolia ID: 647
 
 ## Event 1274
 Date: 5/24/1965  
+Time: 1840  
 Description: Hunters saw through binoculars an object resembling an upside-down plate, very luminous, with a red light on top, flying in circles and landing on a hilltop. The Lujan police sent a patrol, under Comm. Osvaldo Pagella, which found a large, metallic object resting on the hill, but they could not approach the object before it took off, because of the difficult terrain.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9882,6 +10358,7 @@ Location: Bougainville Reef, Australia
 
 ## Event 1276
 Date: 6/2/1965  
+Time: 2000  
 Description: Mr. D. Armstrong, a former airman, was called outside by his sons and saw a spherical object with flashing lights that appeared to land silently on a hillside situated on Mr. Watson's property.  
 Type: ufo sighting  
 Reference: FSR 65, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9890,6 +10367,7 @@ Magnolia ID: 649
 
 ## Event 1277
 Date: 7/1/1965  
+Time: 0500  
 Description: Farmer Maurice Masse, 41, heard a strange noise and saw an egg-shaped object 30 m away in a lavender field. The craft was set on a central pivot with six legs, was about 5 m long, and had a door showing two seats back to back. Near it were two dwarfs the size of 8-year-old children, with heads, normal human eyes, fine hands with five fingers, and no hair. They seemed surprised when the witness came near, and stopped their examination of a plant to aim a small device at him, causing inhibition of movement. They spoke among themselves in shrill sounds similar to a gargle. The craft took off and "vanished." Traces.  
 Type: ufo sighting  
 Reference: FSR 65, 5; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9905,6 +10383,7 @@ Location: Antartica
 
 ## Event 1279
 Date: 7/6/1965  
+Time: night  
 Description: The commander and crew of the Norwegian tanker "Jawesta" observed a lighted object flying out of the sea. First Officer Toronin Lien first saw a large, blue, intense flame behind the ship at high speed. He called the captain and tracked the object with binoculors as its altitude reached about 300m. Its shape was that of a cigar, with a row of lighted portholes showing a clear yellow glow, and it left a bluish trail.  
 Type: ufo sighting  
 Reference: 150 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9913,6 +10392,7 @@ Magnolia ID: 651
 
 ## Event 1280
 Date: 7/9/1965  
+Time: 1230  
 Description: At the Cote-de-Thermont, 30year-old Mrs. Zielonka saw a metallic object rise at high speed and fly away toward Metz. Estimated diameter: 3 m.  
 Type: ufo sighting  
 Reference: 152 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9945,6 +10425,7 @@ Magnolia ID: 655
 
 ## Event 1284
 Date: 7/19/1965  
+Time: 1930  
 Description: Maria Andres, teacher, Mr. Gomez, Mrs. Goicoecha, and others saw a small object leave a larger one, land, and burn a spot on the ground before going back to the main object. It emitted a blinding light.  
 Type: ufo sighting  
 Reference: Asi Jul. 30, 1965 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9953,6 +10434,7 @@ Magnolia ID: 656
 
 ## Event 1285
 Date: 7/19/1965  
+Time: 2130  
 Description: Mr. Crowe was attracted by a strong light on the beach, and walked within 20 m of the craft producing it, which took off with a yelloworange light. Estimated diameter: 7 m, height, 3 m, with blue-green edges.  
 Type: ufo sighting  
 Reference: Spaceview 44 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9961,6 +10443,7 @@ Magnolia ID: 657
 
 ## Event 1286
 Date: 7/19/1965  
+Time: night  
 Description: Carlos Videla Zamudio saw a "strange machine" land on an isolated beach. It was shaped like a mushroom or a top, was lighted from inside, rested on the ground silently, flew up to 30 m, and disappeared at fantastic speed. This was the third landing on a beach reported in Jul..  
 Type: ufo sighting  
 Reference: 155; LDLN 78; APRO Jan., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9969,6 +10452,7 @@ Magnolia ID: 658
 
 ## Event 1287
 Date: 7/20/1965  
+Time: 0800  
 Description: R. Pereyra was driving near Monte de los Curas when he saw a parachutelike object land. Going near, he observed a chromiumlooking, egg-shaped craft standing on metal legs, with a transparent upper part. A blond-haired pilot, wearing plastic coveralls and small boots, seemed to study a piece of paper. Inside the craft was another man seated before an instrument panel. Shortly thereafter the object took off.  
 Type: ufo sighting  
 Reference: Humanoids 40 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9985,6 +10469,7 @@ Magnolia ID: 660
 
 ## Event 1289
 Date: 7/25/1965  
+Time: night  
 Description: Mr. Alva was awakened by a strange sound and saw an object on the ground emitting green light flashes. He woke up other employees, who had time to note that the object was about 3 m in diameter, had small windows in its upper part, and a revolving telescopic appendage. The investigating commission found dark, triangular traces on the ground.  
 Type: ufo sighting  
 Reference: FSR 67, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -9993,6 +10478,7 @@ Magnolia ID: 661
 
 ## Event 1290
 Date: 7/26/1965  
+Time: 2000  
 Description: A teenager, Adilon Azevedo, a others who fled, saw two objects at ground level, about 3 m in diameter, 1.5 m high, with five occupants, wearing luminous helmets, speaking among theselves, in unfamiliar language. One of the beings had a bright object in his hand. The witness experienced headaches for five days.  
 Type: ufo sighting  
 Reference: Humanoids 41 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10001,6 +10487,7 @@ Magnolia ID: 662
 
 ## Event 1291
 Date: 7/29/1965  
+Time: 2300  
 Description: Alain Bressol observed a large, disk-shaped object in a field near Monsempron-Libos. It flew at high speed toward the south. Official report.  
 Type: ufo sighting  
 Reference: 156;LDLN 78 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10017,6 +10504,7 @@ Magnolia ID: 664
 
 ## Event 1293
 Date: 7/30/1965  
+Time: 0500  
 Description: Two children attracted by the barking of a dog saw a luminous object resting on a tripod landing gear, and observed it for one hour.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10057,6 +10545,7 @@ Magnolia ID: 669
 
 ## Event 1298
 Date: 8/3/1965  
+Time: 2000  
 Description: Approximate date. Dr. Antonin Kukla and Mrs. Audrey Lawrence saw an object dive toward them. They switched off the car headlights and got out of the vehicle to observe the oval object, which hovered at ground level, its color changing from orange to fluorescent green, before it took off at high speed.  
 Type: ufo sighting  
 Reference: NICAP ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10073,6 +10562,7 @@ Magnolia ID: 671
 
 ## Event 1300
 Date: 8/4/1965  
+Time: 0130  
 Description: A man in a car observed a red and blue light thought it came from a police car, then was passed by a huge, orange object flying at ground level.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10081,6 +10571,7 @@ Magnolia ID: 672
 
 ## Event 1301
 Date: 8/4/1965  
+Time: 0130  
 Description: Truck driver Don Tenopir had reached a point 35 km from Abilene, going toward Lincoln, when his headlights blinked and failed. An object then dived toward the truck and stopped on the road 30 m ahead causing a car coming in the opposite direction to leave the road in order to avoid it. The object was orange, 5 m in diameter, 1.5 m high, with a dome and a "black spot." It took off toward the west, then turned south.  
 Type: ufo sighting  
 Reference: LDLN 82 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10089,6 +10580,7 @@ Magnolia ID: 673
 
 ## Event 1302
 Date: 8/4/1965  
+Time: 2200  
 Description: Joao Erondo dos Santos saw a disk 50 m in diameter land with a distinct sound, although no traces were found afterward. The object illuminated a wide area.  
 Type: ufo sighting  
 Reference: LDLN 84 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10097,6 +10589,7 @@ Magnolia ID: 674
 
 ## Event 1303
 Date: 8/5/1965  
+Time: 2030  
 Description: Several children saw an object shaped like two saucers glued together come to ground level several times on the farm of William Butcher. It was chromelike, measured about 16 m in diameter, took off with green and yellow flames, and illuminated the clouds when it flew into them. Capt. James Dorsey and four technicians from Niagara Falls AFB investigated the case. They found no trace, concluding, however, that the witnesses were not lying.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10105,6 +10598,7 @@ Magnolia ID: 675
 
 ## Event 1304
 Date: 8/9/1965  
+Time: 2330  
 Description: Three girls driving a car observed what they first thought was the rising moon. It was a circular, pale-yellow object, with a silhouette moving inside the glow. There were five other witnesses one of whom stated that as he approached the object, it appeared to "blow up" with a bang.  
 Type: ufo sighting  
 Reference: FSR 66, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10113,6 +10607,7 @@ Magnolia ID: 676
 
 ## Event 1305
 Date: 8/13/1965  
+Time: 0700  
 Description: Ellen G. Ryerson, 16, and her sister, Laura, were going to work in a bean field when they observed three creatures about 1.60 m tall, with bulging eyes, expressionless faces, white craniums, large pores, and a protrusion at the back of their heads. They wore purple jerseys and white shirts. They had disappeared when the running girls looked back.  
 Type: ufo sighting  
 Reference: FSR 66, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10129,6 +10624,7 @@ Magnolia ID: 677
 
 ## Event 1307
 Date: 8/14/1965  
+Time: 0200  
 Description: Patrick Nash and his family were awaiting a ferry boat when a brilliant, orange-red object shaped like a large soup plate appeared 50 m away, rose from the ground, flew low over the car, landed 20m away on the other side, vanishing suddenly.  
 Type: ufo sighting  
 Reference: FSR 65,6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10137,6 +10633,7 @@ Magnolia ID: 679
 
 ## Event 1308
 Date: 8/15/1965  
+Time: 2300  
 Description: Five persons in a car heard a humming sound, and an object with changing colored lights landed and blocked the road while the car engine stalled. The object was as wide as the road, and 3 m high. Before it took off, three human beings were seen inside.  
 Type: ufo sighting  
 Reference: Humanoids 42 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10145,6 +10642,7 @@ Magnolia ID: 681
 
 ## Event 1309
 Date: 8/15/1965  
+Time: 0200  
 Description: A guard saw a boatlike object flying at high speed, with red flames on its sides. It circled and came low over a farm. In fear, the man fired at it with his rifle.  
 Type: ufo sighting  
 Reference: FSR 66, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10153,6 +10651,7 @@ Magnolia ID: 680
 
 ## Event 1310
 Date: 8/20/1965  
+Time: 2300  
 Description: Mr. and Mrs. Yacobi heard a loud humming sound and saw a glowing, oval, flashing object land 200 m away. Figures moved around it, as if examining the craft, which took off again.  
 Type: ufo sighting  
 Reference: Humanoids 42 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10161,6 +10660,7 @@ Magnolia ID: 685
 
 ## Event 1311
 Date: 8/20/1965  
+Time: 1820  
 Description: Four students working on a farm noted radio interference and a peculiar "beeping sound," then saw an object at low altitude on the farm of William Butcher. It was shaped like two saucers glued together, had a shiny chromelike surface, diameter of 15 m, height of 6 m, and left a trail and smell of burned gasoline. It rose straight up into the clouds, which were illuminated with green light. Five min later it came down again over a woods, rose, and finally flew off to the southwest. Effects were noted on animals: milk production decreased from 2 1/2 barrels to one; a dog barked, and other animals were terrified.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10169,6 +10669,7 @@ Magnolia ID: 684
 
 ## Event 1312
 Date: 8/20/1965  
+Time: 1150  
 Description: Several tourists, including Alberto Ugarte and Elwin Voter, observed a strange craft landing near the Inca ruins that they were visiting. Two creatures described as luminous dwarfs, who seemed to have "vertical mouths," were seen briefly.  
 Type: ufo sighting  
 Reference: Humanoids 43 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10177,6 +10678,7 @@ Magnolia ID: 683
 
 ## Event 1313
 Date: 8/20/1965  
+Time: 0300  
 Description: Mrs. T. E. Schumaker was awakened by a loud humming sound and found she could not speak or move for a while. When she finally reached her window, she saw a vertical, cigarshaped, luminous object. It moved right and left, then back, etc. Ultimately it disappeared behind some trees. The next morning a circle of crushed grass, 4 m in diameter, was found in the yard.  
 Type: ufo sighting  
 Reference: FSR 66,2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10185,6 +10687,7 @@ Magnolia ID: 682
 
 ## Event 1314
 Date: 8/21/1965  
+Time: 1530  
 Description: A man was repairing the broken chain of his motorbike when an object shaped like a top, gray, spinning, 1.8 m high, same diameter, suddenly appeared 5 m away, 1.5 m above the road. It shot off toward the northeast.  
 Type: ufo sighting  
 Reference: FSR 65,6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10193,6 +10696,7 @@ Magnolia ID: 686
 
 ## Event 1315
 Date: 8/23/1965  
+Time: 0100  
 Description: Casimiro Zuk was riding his bicycle near a railroad crossing when he saw a luminous object above him that circled, then landed near the tracks. It was round, 5 m in diameter, and 2.5 m high. A door opened, and a man dressed like a pilot emerged, walked around, and reentered the object, which flew off in a spiral.  
 Type: ufo sighting  
 Reference: 158 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10201,6 +10705,7 @@ Magnolia ID: 687
 
 ## Event 1316
 Date: 8/25/1965  
+Time: 0300  
 Description: Zoilo Campos Aguilar observed an object very close to the ground for 38 min. It was semi-oval, with a powerful yellow-orange light and left rapidly toward the south with a double trail. Apparent diameter was that of the full moon. The witness was a night watchman.  
 Type: ufo sighting  
 Reference: Binder ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10209,6 +10714,7 @@ Magnolia ID: 688
 
 ## Event 1317
 Date: 8/25/1965  
+Time: 1010  
 Description: A red object shaped like a plate, emittting fire and smoke through two openings in its lower section, shook a school building as it allegedly landed on the roof. Faculty and students at the Santa Leonor College observed the craft, which had two antennae on top, rise spinning and emitting red light beams It flew off to the northeast.  
 Type: ufo sighting  
 Reference: FSR 67, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10225,6 +10731,7 @@ Magnolia ID: 690
 
 ## Event 1319
 Date: 9/1/1965  
+Time: 0500  
 Description: A worker observed the landing of an oval object on an airfield where he had gone "drawn by a strange feeling." Four other persons also saw the object, from which a dwarfish creature, 85 cm tall, emerged. The entity had a head double the size of a normal human head, and made gestures that were not understood. He reentered the machine, which became illuminated and took off, first vertically, then toward the west.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10240,6 +10747,7 @@ Location: Angleton, TX
 
 ## Event 1321
 Date: 9/3/1965  
+Time: 0120  
 Description: J. Fernandez was awakened by a humming sound and saw a luminous, oval object rising from the roof of his house. Its color varied from white to red, and it left marks on the roof.  
 Type: ufo sighting  
 Reference: Humanoids 41 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10248,6 +10756,7 @@ Magnolia ID: 692
 
 ## Event 1322
 Date: 9/3/1965  
+Time: 0200  
 Description: A young man and two Police officers observed five lights in a rigid configuration moving over a field, sometimes fluttering to low altitude with a falling-leaf motion. The lights illuminated the countryside and flashed in sequence.  
 Type: ufo sighting  
 Reference: Fuller ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10256,6 +10765,7 @@ Magnolia ID: 693
 
 ## Event 1323
 Date: 9/3/1965  
+Time: evening  
 Description: Two Angleton sheriffs, McCoy and Robert Goode saw from their car a huge object 70 m long, 15 m high, with a bright, violet light at one end and a pale-blue light at the other. They stopped to watch it and saw the craft fly within 30 m, casting a huge shadow when it intercepted the moonlight. They felt a heat wave and drove away in fear, but returned to the site a second time, only to turn around when they found the object was still there. Goode had been bitten by an animal before the sighting, and his left index finger swelled and bled freely. After exposure to the light from the object, the pain was gone, and the wound cured unnaturally. Later that evening, two men found him at a restaurant and described the object in detail, adding he should keep future encounters to himself.  
 Type: ufo sighting  
 Reference: NICAP Aug.,65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10264,6 +10774,7 @@ Magnolia ID: 694
 
 ## Event 1324
 Date: 9/5/1965  
+Time: 0500  
 Description: Governor Sebastian Macha saw two dwarfish creatures, 80 cm tall, on the snow near Ceulacocha. They entered a craft, which left with a thundering noise.  
 Type: ufo sighting  
 Reference: FSR 66, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10272,6 +10783,7 @@ Magnolia ID: 695
 
 ## Event 1325
 Date: 9/7/1965  
+Time: 2100  
 Description: More than 200 witnesses saw two objects come to ground level, leaving crater-like depressions.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10280,6 +10792,7 @@ Magnolia ID: 696
 
 ## Event 1326
 Date: 9/8/1965  
+Time: evening  
 Description: After work, latex collectors saw an object resembling a huge wheel, intensely bright, with two flaming openings in front, about to land near them. They went into hiding, and observed the craft as it flew away.  
 Type: ufo sighting  
 Reference: LDLN 84 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10288,6 +10801,7 @@ Magnolia ID: 697
 
 ## Event 1327
 Date: 9/8/1965  
+Time: 2200  
 Description: A child reported the observation of a luminous object from which seven creatures, 80 cm tall, with only one eye, emerged. The same day a newsman was said to have seen an object land in the vicinity of Puno, and to have made an unsuccesful attempt at communication.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10312,6 +10826,7 @@ Magnolia ID: 700
 
 ## Event 1330
 Date: 9/11/1965  
+Time: 0800  
 Description: Antonio Pau Ferro saw two objects land. Two dwarfish beings emerged, 70 cm tall, dressed like humans, with "ugly" skin. They appeared to examine some tomato plants, reentered their craft, 6 m in diameter, and flew off. They spoke in a language which was not understood.  
 Type: ufo sighting  
 Reference: LDLN 84 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10320,6 +10835,7 @@ Magnolia ID: 701
 
 ## Event 1331
 Date: 9/15/1965  
+Time: 2400  
 Description: Two policemen, John Lockem and Koos de Klerk, were on a patrol of the Pretoria-Bronkhorstspruit Road when their headlights illuminated a disk 10 m in diameter, copper-colored, resting on the road. Ten sec later it took off in a pool of flames, at high speed. The tar on the road kept burning for some time.  
 Type: ufo sighting  
 Reference: Humanoids 71 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10335,6 +10851,7 @@ Location: Pretoria, South Africa
 
 ## Event 1333
 Date: 9/20/1965  
+Time: 1630  
 Description: A farm woman saw an object land, and six dwarfs, 80 cm tall, emerged from it. They wore very shiny white clothes and "walked like ducks." She hid during the observation, and noted that they spoke in a language she could not understand. After their departure, a liquid resembling vinegar was found on the ground.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10343,6 +10860,7 @@ Magnolia ID: 703
 
 ## Event 1334
 Date: 9/27/1965  
+Time: 0815  
 Description: Addie Jones, 61, saw a silvery object, 10 m in diameter, rise from a wooded area and hover silently before leaving toward the west. Under the object was a boxlike device. Distance to witness: 400 m. No light.  
 Type: ufo sighting  
 Reference: 160 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10382,6 +10900,7 @@ Magnolia ID: 707
 
 ## Event 1339
 Date: 10/4/1965  
+Time: evening  
 Description: Betty Valine and her 12-yearold son Robbie observed a large, plate-shaped machine with a dome on top, inside which three creatures were clearly visible. The witnesses did not see the object touch down.  
 Type: ufo sighting  
 Reference: FSR 66, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10414,6 +10933,7 @@ Magnolia ID: 711
 
 ## Event 1343
 Date: 10/23/1965  
+Time: 1915  
 Description: James Townsend, 19, was driving on Highway 27 when his engine, lights, and radio stopped operating. He then observed an object 10 m tall, about 3 m in diameter, shaped somewhat like a rocket, sitting on fins on the road. Three creatures with "tripod legs and matchstick arms," brownish-black in color, having no eyes or facial features, stood in a large, lighted circle under it, facing the witness for a few moments before disappearing in the intense light. The object rose straight up for 400 m, with a high-pitched humming sound, stopped and vanished. The car then resumed normal operation by itself.  
 Type: ufo sighting  
 Reference: FSR 66, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10422,6 +10942,7 @@ Magnolia ID: 712
 
 ## Event 1344
 Date: 10/30/1965  
+Time: night  
 Description: Witnesses in a Volkswagen encountered a strong light on the road. A truck and another Volkswagen arrived and went near the object, which took off suddenly and flew over them. It was also observed by dozens of witnesses at the Pinhal Junction.  
 Type: ufo sighting  
 Reference: APRO Sep., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10438,6 +10959,7 @@ See also: 12/10/64
 
 ## Event 1346
 Date: 11/1965  
+Time: dusk  
 Description: Eric Williams saw a large object, 30 m in diameter, 15 m high, about 75 m away. He reported seeing clearly a row of portholes illuminated with a greenish light.  
 Type: ufo sighting  
 Reference: FSR 66, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10446,6 +10968,7 @@ Magnolia ID: 714
 
 ## Event 1347
 Date: 11/9/1965  
+Time: dawn  
 Description: During the great power blackout, actor Stuart Whitman was startled to hear a whistling sound outside his 12th floor window and to observe two hovering objects, one orange and the other blue giving off a luminescent light. He then heard an English message indicating that the blackout was a "demonstration."  
 Type: ufo sighting  
 Reference: FSR 66, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10470,6 +10993,7 @@ Magnolia ID: 717
 
 ## Event 1350
 Date: 11/29/1965  
+Time: evening  
 Description: Kevin Davis, 12, and Gary Jardine, 10, saw an object with a blinking red dome fly over the Cooper Creek area and come to ground level. They observed portholes and a long bar with fingerlike devices emerging from an opening. Snow was blown away and bushes were flattened.  
 Type: ufo sighting  
 Reference: NICAP Jan., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10508,6 +11032,7 @@ Location: San Diego, CA
 
 ## Event 1355
 Date: 1/7/1966  
+Time: 15l7  
 Description: A civilian had to stop his car when an object he first thought was a helicopter landed on the road about 5 km southwest of Georgetown. The craft was about 8 m in diameter, supported a cone with a flashing green light, made a loud whirring sound. It appeared to hover, then left at high speed. The witness could then restart his engine, which had died during the close approach. Sulphur or a "rotten egg" smell was noted.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10523,6 +11048,7 @@ Location: Miami, FL
 
 ## Event 1357
 Date: 1/16/1966  
+Time: 0400  
 Description: On the Morlaix-Callac Road, 23year-old Eugene Coquil was driving his Renault Dauphine when he saw headlights in a field and observed an object come over his car and land on the other side of the road. It was square with four vertical lights resembling lamps. The witness drove away and did not see the object leave.  
 Type: ufo sighting  
 Reference: Personal; 161 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10531,6 +11057,7 @@ Magnolia ID: 722
 
 ## Event 1358
 Date: 1/19/1966  
+Time: 0900  
 Description: George Pedley, 27, was driving his tractor when he heard a high-pitched sound and saw a strange gray-blue craft, 8 m in diameter, 3 m high, rise from the lagoon 25 m away. It was spinning like a top, rose to 20 m, and flew to the southwest on a fast, oblique course. Flattened reeds were found in several places.  
 Type: ufo sighting  
 Reference: FSR 66,2; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10539,6 +11066,7 @@ Magnolia ID: 723
 
 ## Event 1359
 Date: 1/29/1966  
+Time: 0010  
 Description: Two civilians returning from a sporting event observed what they first thought was the moon. After driving for about 1 km, they saw that it was a flat, well-defined object, which had blocked the road. The object was the size of a truck and cast an intense yellow-orange light on the ground. The witnesses turned around and drove back to Rexburg.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10547,6 +11075,7 @@ Magnolia ID: 724
 
 ## Event 1360
 Date: 2/6/1966  
+Time: 2000  
 Description: Vicente Ortuno and another man observed a bright orange disk, about 11 m in diameter, with three legs, which came down, landed, and took off again at high speed on the "El Relajal" estate.  
 Type: ufo sighting  
 Reference: FSR 63, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10555,6 +11084,7 @@ Magnolia ID: 725
 
 ## Event 1361
 Date: 2/16/1966  
+Time: 2030  
 Description: A luminous object was said to have landed in the woods. It showed flashing red, blue, and green lights. A second object was later seen to join the first one.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10585,6 +11115,7 @@ Magnolia ID: 727
 
 ## Event 1365
 Date: 3/3/1966  
+Time: 1920  
 Description: Several civilians reported an object that flew slowly toward the south, hovered, came within 15 m of them, and finally flew off toward the southwest.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10601,6 +11132,7 @@ Magnolia ID: 729
 
 ## Event 1367
 Date: 3/17/1966  
+Time: 0000  
 Description: A police officer observed an object in the southwest. He thought it was a plane about to crash, although no sound was audible. He tried to contact the police headquarters, but his radio transmitter did not work properly. The object, which now colored lights spinning at the periphery, and a diameter of 16 m, came within 25 m of the patrol car, following it for 1 km, then flew off toward the northwest. The witness had been a policeman for 10 years, and had never seen anything like that object.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10616,6 +11148,7 @@ Location: La Porte, IN
 
 ## Event 1369
 Date: 3/20/1966  
+Time: 2000  
 Description: Frank Mannor and his son, Ronald, saw a luminous object hovering over a swamp. It was described as brown, with a "scaly" surface, coneshaped, and showing bluish lights that turned red. Then the whole object lighted up with a yellowish glow and flew away at high speed with a whistling sound.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10665,6 +11198,7 @@ Magnolia ID: 733
 
 ## Event 1375
 Date: 3/23/1966  
+Time: 0505  
 Description: An electronics instructor, who was driving to work at a local Air Force Base, observed an object blocking the road. It was shaped like an airplane fuselage, 25 m long, with a "bubble" on top resembling the canopy on a B-26, rested on legs, and had very bright aft and forward lights. There was a door and a short stairway to the side of the object, and a man in coveralls appeared to be examining the craft which bore the identification "TL 4768" (see case 417). When the witness approached, the "pilot" went back inside, a sound resembling that of a highspeed drill was heard, and the object rose. No engine was observed. The witness was familiar with all conventional military aircraft.  
 Type: ufo sighting  
 Reference: Atic; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10673,6 +11207,7 @@ Magnolia ID: 734
 
 ## Event 1376
 Date: 3/24/1966  
+Time: 2215  
 Description: Two women saw a glowing object on the road. As they came near it, they found that it hovered and showed two intense white lights, as well as a green and red light. The object was bowlshaped, and they lost sight of it when they drove away. They saw it again later, flying low on a southnorth trajectory.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10697,6 +11232,7 @@ Magnolia ID: 737
 
 ## Event 1379
 Date: 3/26/1966  
+Time: 2400  
 Description: Two civilian women were driving back from Amarillo when they saw an object aproaching from the north. The engine died and the headlights failed. The object flew over the car and hovered 400 m away. After 10 min, the witnesses were able to start their car and leave. They reported the object had a wafflelike surface and glowed with an intense red light.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10705,6 +11241,7 @@ Magnolia ID: 738
 
 ## Event 1380
 Date: 3/28/1966  
+Time: 2000  
 Description: A man driving at a speed of about 100 km/h suddenly encountered a large lighted object 1 m above the road on a hilltop. It flew off, as the car engine and headlights died. The light bulbs had to be replaced. The object was oval, 7 m long, dark gray, and showed about 30 lights along its periphery.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10721,6 +11258,7 @@ Magnolia ID: 740
 
 ## Event 1382
 Date: 3/30/1966  
+Time: 2035  
 Description: A civilian woman and her four children observed an oval object crossing the road as they were driving south about 15 km north of Lexisburg. It came close to the car, and a pulsating sound was heard, increasing in frequency as the object came nearer, but it seemed to come through the car radio rather than directly from the object. The witness drove away in fear, but was followed for 13 km by the object, whose color suddenly changed from reddishorange to bluish-white before accelerating out of sight.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10729,6 +11267,7 @@ Magnolia ID: 741
 
 ## Event 1383
 Date: 3/30/1966  
+Time: 2200  
 Description: An anonymous witness saw a round object with two lights land near the Ohio State University campus. A door opened and a very thin, child-sized figure was seen. The object then began to move torward the witness's car and rose rapidly.  
 Type: ufo sighting  
 Reference: Gribble Jun., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10737,6 +11276,7 @@ Magnolia ID: 742
 
 ## Event 1384
 Date: 3/31/1966  
+Time: 0200  
 Description: A man driving home saw lights on the road and discovered a gray,lens-shaped object hovering at 1 m altitude. It had one intense white light and three colored flashing lights. Driving within 2 m of it, he became afraid and backed up, but the object suddenly flew over and behind him. A noise similar to that of a swarm of bees was audible. It left at high speed toward the east.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10745,6 +11285,7 @@ Magnolia ID: 743
 
 ## Event 1385
 Date: 3/31/1966  
+Time: 0600  
 Description: Two women observed a large object with a pulsating bluish light on top, an orange light below, windows, and antennae, resting in a construction area. Silhouettes could be seen moving inside, one of them gesturing as the craft took off.  
 Type: ufo sighting  
 Reference: Gribble Jun., 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10753,6 +11294,7 @@ Magnolia ID: 744
 
 ## Event 1386
 Date: 3/31/1966  
+Time: 2115  
 Description: Charles Kozens, 13, saw two objects, 2.5 m long, 1.2 m high, with flashing lights, land near Hamilton. When he tried to touch an antenna on one of the objects, he received an electric shock.  
 Type: ufo sighting  
 Reference: FSR 66, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10770,6 +11312,7 @@ See also: 3/21/66
 
 ## Event 1388
 Date: 4/1/1966  
+Time: 2240  
 Description: A civilian man, 34, was driving about 10 km south of Tangier when he reached a hilltop and saw a green object flying north at very high speed, emitting a shrieking noise and a "heat wave." The car engine died. The witness noted that the object was wider than the road.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10778,6 +11321,7 @@ Magnolia ID: 746
 
 ## Event 1389
 Date: 4/1/1966  
+Time: 2400  
 Description: Darlene Underwood and her mother saw two starlike objects land in a field. One of them rose rapidly when a train came into view. It went behind a hill, while the second one hovered at tree height with its lights off. When the train had passed, both objects landed again and two manlike shadows were seen. Voices shouting in a foreign language and what sounded like a pig being butchered were heard. Light signals.  
 Type: ufo sighting  
 Reference: IIR May., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10786,6 +11330,7 @@ Magnolia ID: 747
 
 ## Event 1390
 Date: 4/4/1966  
+Time: 0605  
 Description: A civilian man, 40, saw an object resting on the ground as he was going to work, less than 2 km southeast of Hague. It was an elongated craft, 2 m long, 70 cm high. When he tried to touch it, the craft left at great speed toward the west. It had six openings, 10 cm in diameter, and made a "turbine" noise so loud that the witness had to put his hands over his ears. After going away for a few meters, it vanished suddenly. Rain was falling throughout the observation, which lasted four min.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10809,6 +11354,7 @@ Magnolia ID: 749
 
 ## Event 1393
 Date: 4/5/1966  
+Time: 0130  
 Description: A woman was awakened by a flash, thought her heater had exploded, but found everything in order. The next day she was told that a pulsating, luminous object had flown at very low altitude over her trailer, circled and left. Three witnoises. Low buzzing sound.  
 Type: ufo sighting  
 Reference: Binder ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10817,6 +11363,7 @@ Magnolia ID: 750
 
 ## Event 1394
 Date: 4/5/1966  
+Time: 0300  
 Description: A civilian woman, 42, went to get a glass of water in her kitchen and saw a spinning object, 3 m in diameter, 6 m above ground near her house. It departed very suddenly, leaving a trail.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10825,6 +11372,7 @@ Magnolia ID: 751
 
 ## Event 1395
 Date: 4/5/1966  
+Time: 1900  
 Description: A landed object was observed through binoculars by four persons. It took off, hovered for a while, and left.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10833,6 +11381,7 @@ Magnolia ID: 752
 
 ## Event 1396
 Date: 4/5/1966  
+Time: 2400  
 Description: Two civilian men stopped to watch an object hovering above a swamp, tried to follow it, but it flew awav. They observed that animals (cows, dogs, horses) were restless in all the areas that the object crossed. A photographic reconstitution by the U.S. Air Force showed an oval object, 30 m long, flying at 5 m altitude, between a high-tension line and a row of trees.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10841,6 +11390,7 @@ Magnolia ID: 753
 
 ## Event 1397
 Date: 4/7/1966  
+Time: 2130  
 Description: Six teenagers reported strange lights following their car as they left the site of a picnic in a state of extreme fear. An unknown man, 2.20 m tall, wearing black clothes, had been seen passing in front of the shelter entrance and walking on the roof.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10849,6 +11399,7 @@ Magnolia ID: 754
 
 ## Event 1398
 Date: 4/8/1966  
+Time: 0805  
 Description: Mike Dorsey and Gary Hunt, 12 were walking to school when they saw a circling object making the sound of humming bees. They ran for cover, trying to stop a car. The craft resembled an upside-down plate, very smooth, apparently metallic, with a black spot near the rim, a red light and an antennalike projection, and red and white lights spinning counterclockwise. Diameter2.5 m, height, 1.5 m. Minimum altitude was 2 m, held for 5 min, with a slight rocking motion. The object then took off at great speed.  
 Type: ufo sighting  
 Reference: Lor. III 108 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10857,6 +11408,7 @@ Magnolia ID: 755
 
 ## Event 1399
 Date: 4/11/1966  
+Time: 0000  
 Description: A civilian man, 43, saw a well-defined object 5 m above ground, 100 m away. It showed a flashing red light, rose, was lost in the fog, then came back at treetop level with a strong whistling sound. Its shape was that of a cigar, 15 m long. It had no wings, tail assembly, or wheels.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10865,6 +11417,7 @@ Magnolia ID: 756
 
 ## Event 1400
 Date: 4/12/1966  
+Time: 1945  
 Description: During a power failure many residents, including Robert Moses and Robert McCambly, saw an oval object with a dome on top and lights (red to white to green) around the bottom, which appeared to land on the roof of the Oliver Wendelle Holmes grammar school after a series of maneuvers.  
 Type: ufo sighting  
 Reference: FSR 66, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10889,6 +11442,7 @@ See also: 6/24/66
 
 ## Event 1403
 Date: 4/18/1966  
+Time: 2210  
 Description: An egg-shaped object, 25 m long, 5 m high, gray-colored, was observed from a distance of 25 m by a 42-year-old witness driving a car. The object supported a cockpit with windows and three rows of lights, emitted red flames, and made the same noise as a heavy truck on wet pavement. The object followed the car for some time.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10897,6 +11451,7 @@ Magnolia ID: 759
 
 ## Event 1404
 Date: 4/19/1966  
+Time: 2200  
 Description: Two women saw a cigar-shaped object, with bright, red lights at both ends, flying erratically. It made a whistling sound when moving, was silent when hovering. Minimum distance: 100 m, length, 20 m. The lights began flashing and the object went down behind some trees when five planes and a helicopter came over the area. Two of the aircraft circled the location, then flew on. The whistling sound was again heard, but the object was not seen after the departure of the planes.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10905,6 +11460,7 @@ Magnolia ID: 760
 
 ## Event 1405
 Date: 4/19/1966  
+Time: 2245  
 Description: A man saw what he thought was a crashing plane, then observed it was oval, had white, red, and green lights, flew low over him, circled, came down with pendulum motion, and appeared to land on Route 114. At midnight, two men driving along that route saw a beam sweep the road, stopped, and saw the object in a field. It was a disk with a white, a green, and three red lights. The two reports were independent.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10913,6 +11469,7 @@ Magnolia ID: 761
 
 ## Event 1406
 Date: 4/22/1966  
+Time: 1530  
 Description: Several people were said to have observed an object fly at low altitude and land outside Bagley. Four dwarfs seemed to make repairs, then the craft flew away.  
 Type: ufo sighting  
 Reference: FS Mar., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10921,6 +11478,7 @@ Magnolia ID: 762
 
 ## Event 1407
 Date: 4/22/1966  
+Time: 2100  
 Description: A child saw a blinding, multicolored source of light making a buzzing sound as it flew over the road 15 m away from the house. It seemed to land in a field near the school. Three adults came out to calm the child and also saw the object circling and hovering. They called the police. Two officers arrived and saw the object appearing to "dance" with two other craft. All witnesses then observed the arrival of one helicopter and two aircraft, as the remaining object flew away to the southwest. Police described the object as plate-shaped when stationary above the school building. TV reception was blurred throughout the observation.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10929,6 +11487,7 @@ Magnolia ID: 763
 
 ## Event 1408
 Date: 4/24/1966  
+Time: 0330  
 Description: Tom M. Lasseter, architect, was camping near the river when he was awakened by a fluttering sound and observed a glowing white disk, 7 m in diameter, at treetop level 60 m away. It had a row of lights.  
 Type: ufo sighting  
 Reference: NICAP May., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10937,6 +11496,7 @@ Magnolia ID: 764
 
 ## Event 1409
 Date: 4/24/1966  
+Time: 1810  
 Description: Two men saw an object dive within 30 m of their car. It was silent, had a bright blue light on top, suddenly accelerated, and was lost to sight toward Mt. Watatic.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10945,6 +11505,7 @@ Magnolia ID: 765
 
 ## Event 1410
 Date: 4/26/1966  
+Time: 2330  
 Description: A young man saw a silent object shaped like two bowls glued together, 30 m altitude, ahead of his car. Estimated diameter: 10 m. He drove away without looking behind.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10953,6 +11514,7 @@ Magnolia ID: 766
 
 ## Event 1411
 Date: 5/10/1966  
+Time: 1652  
 Description: A man observed the landing of an oval object and two beings, who ame out of the object through a system of light beams. They used strange instruments to examine a number of objects, especially plants. They were 2 m tall, had oversized heads, appeared bright and "transparent." Their eyes were slanted, their shoulders very broad. They wore no apparent weapon, but their belts were very wide and emitted light rays. They did not touch anything without first illuminating it with these beams. They went back aboard their craft "as if carried by the light."  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10961,6 +11523,7 @@ Magnolia ID: 767
 
 ## Event 1412
 Date: 5/10/1966  
+Time: 2200  
 Description: Approximate date. The crowd at a movie projection panicked, thinking it was an earthquake, as an unknown object exploded. According to police, a sulphurous odor and a trace 25 cm deep, 35 cm wide, were noted at the site.  
 Type: ufo sighting  
 Reference: LDLN 84 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10977,6 +11540,7 @@ Magnolia ID: 769
 
 ## Event 1414
 Date: 6/3/1966  
+Time: 2145  
 Description: Two witnesses observed a stationary object 3 m above ground. It had a diameter of 7 m, lights on top and bottom and smaller lights at the rim. It flew away very fast to the east.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10985,6 +11549,7 @@ Magnolia ID: 770
 
 ## Event 1415
 Date: 6/8/1966  
+Time: 0645  
 Description: A civilian man, 43, driving west between Kansas and Toledo, saw an object appear out of nowhere. It was cigar-shaped, bright metallic, and flew low to the northeast. Minimum distance: 30 m. The object was completely silent, and the size of an airliner.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -10993,6 +11558,7 @@ Magnolia ID: 771
 
 ## Event 1416
 Date: 6/11/1966  
+Time: 0345  
 Description: A civilian who was going fishing saw an object dive toward his car and hover at treetop level, stopped and observed it for two min. It was shaped like two plates glued together, and had a smaller, oval object on top. It took a 45 (degree) inclination, rose, made a right-angle turn, and changed color (white to yellow to blue to green) as it accelerated.  
 Type: ufo sighting  
 Reference: NICAP ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11009,6 +11575,7 @@ Magnolia ID: 773
 
 ## Event 1418
 Date: 6/18/1966  
+Time: 0345  
 Description: The Mayor of Bar-sur-Loup, Leon Barbier, saw a large, round object with yellow and green lights on a hilltop.  
 Type: ufo sighting  
 Reference: LDLN 89 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11017,6 +11584,7 @@ Magnolia ID: 774
 
 ## Event 1419
 Date: 6/18/1966  
+Time: 0400  
 Description: A truck driver, Mr. Dugelay, saw a disk-shaped object over Le Rouret. It remained motionless for five min, then disappeared. Its lights were alternately red and bluish-green.  
 Type: ufo sighting  
 Reference: LDLN 84; 163 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11025,6 +11593,7 @@ Magnolia ID: 775
 
 ## Event 1420
 Date: 6/18/1966  
+Time: 2400  
 Description: Four campers saw an object with three flashing red lights land on the ground 200 m away. It remained there all night, rose at dawn, was then observed through binoculars as a red-colored, bell-shaped craft. Broken trees and other traces were found.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11048,6 +11617,7 @@ Location: Iowa
 
 ## Event 1423
 Date: 6/23/1966  
+Time: 2130  
 Description: A 61-year-old civilian woman was reading when an intense red light illuminated the ground near her house. She went outside and saw a lighted object 20 m away 1 m in diameter, which backed up and flew away "like a bullet." Three other persons saw it from the next house. (Atic) <*>  
 Type: ufo sighting  
 Reference:  ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11088,6 +11658,7 @@ Magnolia ID: 780
 
 ## Event 1428
 Date: 7/17/1966  
+Time: 0345  
 Description: Rene Pebre and two others were driving back from Draguignan when they saw a gray oval, metallic object, about 5 m long, hovering at low altitude, about 300 m from them. They noticed several window-like openings on the craft, which emitted a light beam. All the dogs in the vicinity were barking.  
 Type: ufo sighting  
 Reference: GEPA Sep., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11096,6 +11667,7 @@ Magnolia ID: 781
 
 ## Event 1429
 Date: 7/25/1966  
+Time: 0200  
 Description: A man driving between Greenville and Vancehars saw a glow in the woods and was followed by the light even at speeds of 170 km/hr. He finally stopped to observe it, but became afraid when he saw that it came from a pulsating object that flew within 100 m of the car, 15 m above ground. The color changed in sequence, orange to red to blue to green, and the object wobbled on its axis. It came within 30 m, then suddenly left straight up.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11104,6 +11676,7 @@ Magnolia ID: 782
 
 ## Event 1430
 Date: 7/28/1966  
+Time: evening  
 Description: A photographer, Mr. Lacoste, and his wife, saw a red, lighted object cross the sky and appear to touch the ground. It then rose, hovered, and disappeared. The next day a wheat field was found flattened over an area 3 m in diameter, and covered with an oily substance.  
 Type: ufo sighting  
 Reference: 166; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11112,6 +11685,7 @@ Magnolia ID: 783
 
 ## Event 1431
 Date: 7/31/1966  
+Time: 2025  
 Description: Young witnesses reported an object flying erratically and landing 300 m away. It had the shape of a mushroom and swept the area with a light beam. A strange being, 1.80 m tall, was seen. Police report.  
 Type: ufo sighting  
 Reference: 167; FSR 66, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11120,6 +11694,7 @@ Magnolia ID: 784
 
 ## Event 1432
 Date: 8/1/1966  
+Time: 1945  
 Description: Several young witnesses reported seeing an unidentified object at low altitude.  
 Type: ufo sighting  
 Reference: Lor. III 109 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11128,6 +11703,7 @@ Magnolia ID: 785
 
 ## Event 1433
 Date: 8/6/1966  
+Time: 1400  
 Description: A civilian man and his family observed a dark object hovering near their isolated house. It had a square "door" emitting a yellow light. Three children saw a dwarf through the opening. He was dressed in shiny black coveralls. The object left slowly with a soft humming sound.  
 Type: ufo sighting  
 Reference: Atic; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11144,6 +11720,7 @@ Magnolia ID: 787
 
 ## Event 1435
 Date: 8/19/1966  
+Time: 1650  
 Description: A border patrolman saw a bright, shiny disk on its edge, 10 m in diameter, 5 m high, floating down the side of a hill, wobbling from side to side 3 m above ground. It reached the valley floor, climbed to about 30 m, and moved across to a small reservoir where it assumed a horizontal position. A dome then became visible on top of the disk. It hovered for one min and seemed about to land less than 80 m away, but tilted back on edge and flew into the clouds at high speed.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11152,6 +11729,7 @@ Magnolia ID: 788
 
 ## Event 1436
 Date: 8/20/1966  
+Time: early  
 Description: Otto Becker, his son, and daughter-in-law woke up to find the whole house bathed in bright light, and they observed a "six-story" object at treetop level 60 m away. It gave off rainbow colors which appeared to pour off its edges "like water" in a fantastic display. Distinct engine noise was heard before it took off vertically. Domestic animals had been greatly disturbed, and the witness had inflamed eyes for several days.  
 Type: ufo sighting  
 Reference: Gribble Jan., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11168,6 +11746,7 @@ Magnolia ID: 790
 
 ## Event 1438
 Date: 8/24/1966  
+Time: 2200  
 Description: An airman observed and reported by radio a multi-colored light high in the sky. A strike team was sent to his location and confirmed the unknown. A second object, white, was seen to pass in front of clouds. At the radar base, an object was detected and tracked. The observations lasted nearly 4 hours and were confirmed by three different missile sites. Radio interference was noted by teams sent to locations where the object was sometimes described as hovering at ground level.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11176,6 +11755,7 @@ Magnolia ID: 791
 
 ## Event 1439
 Date: 9/1966  
+Time: 0330  
 Description: A police officer was driving at nearly 200 km/h toward the north on Route 71 when he suddenly saw an object on the road ahead and another one following his car. The first one looked like a flaming car and was the size of a 3-story house. It flew away as the policeman was about to hit it.  
 Type: ufo sighting  
 Reference: 168 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11184,6 +11764,7 @@ Magnolia ID: 792
 
 ## Event 1440
 Date: 9/3/1966  
+Time: 1400  
 Description: Two young witnesses went outside when the TV set became blurred. They observed a fantastic spinning light illuminating the house. It came from an object hovering at the same location as an earlier sighting (see Case 786).  
 Type: ufo sighting  
 Reference: Atic; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11192,6 +11773,7 @@ Magnolia ID: 793
 
 ## Event 1441
 Date: 9/5/1966  
+Time: evening  
 Description: A civilian man observed a peculiar light phenomenon and a small figure that appeared to enter a bedroom. The figure was not seen again.  
 Type: ufo sighting  
 Reference: Atic; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11200,6 +11782,7 @@ Magnolia ID: 794
 
 ## Event 1442
 Date: 9/7/1966  
+Time: 2000  
 Description: About 15 km east of Durand, Mrs. E. Bruns and her two children observed an elongated object, about 10 m long, with revolving lights, hovering 1 m above ground and making a deafening noise. After 30 sec, it tilted and took off.  
 Type: ufo sighting  
 Reference: APRO Sep., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11208,6 +11791,7 @@ Magnolia ID: 795
 
 ## Event 1443
 Date: 9/9/1966  
+Time: 2100  
 Description: A man saw an object descend from a cloud bank, slow down, and land with a soft whirring sound. It showed three horizontal bands of light-blue, red and green.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11216,6 +11800,7 @@ Magnolia ID: 796
 
 ## Event 1444
 Date: 9/13/1966  
+Time: 0730  
 Description: A child of 11 years saw a disk-shaped object land near a farm. It had a tripod landing gear, two red lights, two white and one green light, and a transparent dome. A businessman from Gwinner and an Air Force Lt. Col. went to the site and discovered three traces, apparently left by spherical objects, 18 cm deep, very compact. Radiation measured at 0.1 milliroentgen (normal). The child reported that the object "went away so fast that it vanished."  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11224,6 +11809,7 @@ Magnolia ID: 797
 
 ## Event 1445
 Date: 9/17/1966  
+Time: 0445  
 Description: Mr. and Mrs. Ronald MacGilvary saw a golden-white, luminous object resting on the beach, with two bright lights flying in and out of the craft. It went away after one hour.  
 Type: ufo sighting  
 Reference: LDLN 88; NICAP Oct., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11232,6 +11818,7 @@ Magnolia ID: 798
 
 ## Event 1446
 Date: 9/21/1966  
+Time: 0630  
 Description: Eight members of the Royal Canadian Air Force saw a bright object that flew down at high speed, stopped abruptly, remained at ground level for 20 min, and flew away straight up.  
 Type: ufo sighting  
 Reference: NICAP Oct., 66 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11248,6 +11835,7 @@ Magnolia ID: 800
 
 ## Event 1448
 Date: 10/14/1966  
+Time: 2230  
 Description: James Roberts saw two round pinkish-red objects on a hillside near his home. He fled when they took off with a hissing sound emitting streams of fire.  
 Type: ufo sighting  
 Reference: Gribble Jan., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11256,6 +11844,7 @@ Magnolia ID: 802
 
 ## Event 1449
 Date: 10/14/1966  
+Time: 1845  
 Description: A adolescent first saw a bright light, then a plate-shaped object hovering near the house. It took off at high speed, causing static on the phone as the boy was calling his mother to describe it. When she came home, she found her son in a state of shock and the dog hiding in a corner.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11264,6 +11853,7 @@ Magnolia ID: 801
 
 ## Event 1450
 Date: 11/2/1966  
+Time: 1925  
 Description: W. Derenberger, salesman, saw a dark object ahead of him on the road. It was flat on the bottom and rounded on top. As he stopped, the object came within 20 cm of the road surface, and a man of dark complexion, dressed with a shirt and ordinary trousers, both a shiny blue color, came out, smiled at the witness who then thought that he received a message, although no word was spoken. The message described a hypothetical "other world" and suggested that the observation be reported to authorities. The man also promised to return. Several people who drove by the witness did report seeing a man speaking to him, as well as a strange vehicle nearby.  
 Type: ufo sighting  
 Reference: 169; FSR 67, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11272,6 +11862,7 @@ Magnolia ID: 804
 
 ## Event 1451
 Date: 11/2/1966  
+Time: evening  
 Description: Mrs. Mark deFriend, 32, saw an object at ground level in front of her car on a rainy night. It would leave the road and fly over the fields from time to time. The greenish-blue object flew back in front of the car, then was lost to sight behind some trees.  
 Type: ufo sighting  
 Reference: 168 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11280,6 +11871,7 @@ Magnolia ID: 803
 
 ## Event 1452
 Date: 11/17/1966  
+Time: 0400  
 Description: Patrolmen A. G. Huskey and C. Hutchins saw a dark, spherical machine with a flat rim land near them. Estimated diameter: 7 m. An opening and a short ladder became visible, and a small man, dressed in a shiny gold suit, emerged, came within 6 m of them, and spoke in perfect English before taking off.  
 Type: ufo sighting  
 Reference: FSR 68, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11288,6 +11880,7 @@ Magnolia ID: 805
 
 ## Event 1453
 Date: 11/19/1966  
+Time: 0750  
 Description: Two local businessmen observed a dark, gray, metallic sphere, from the top of which projected a dozen "tentacles" over 2 m long, flying at about 40 m altitude and then coming down behind a house. It was assumed that it plunged into the bay, but a search by patrol boats was unsuccessful.  
 Type: ufo sighting  
 Reference: Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11304,6 +11897,7 @@ Magnolia ID: 807
 
 ## Event 1455
 Date: 12/30/1966  
+Time: 2015  
 Description: A physics professor driving through a wooded area saw a bright, pulsating glow, changing from orange to white, in the woods about 1.7 km away. Coming back the next day, he located traces of burns, and called the Air Force and the University of Colorado.  
 Type: ufo sighting  
 Reference: Personal; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11319,6 +11913,7 @@ Location: Lake Karachay, Russia
 
 ## Event 1457
 Date: 1/5/1967  
+Time: 0430  
 Description: A civilian man, 32, driving to work in his 1964 Chevy truck, had to stop and inspect the vehicle when its engine stalled. Only then did he observe an intense light to his right, coming closer. He saw it land on the road, and locked himself inside the cabin. The craft settled on a tripod landing gear; it measured 25 m in diameter and was 10 m high. Something similar to an elevator came down from it, and a man dressed in blue coveralls "with something like a glass fishbowl on his head," of medium height, seemed to check something and left.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11327,6 +11922,7 @@ Magnolia ID: 812
 
 ## Event 1458
 Date: 1/17/1967  
+Time: night  
 Description: F. Bedel, 23, driving on Route 135 about 8 km north of Freetown saw a plate-shaped object with red, yellow, blue, and white blinking lights, lost control of his car, and ran off the road. Less than 2 km away, Phil Patton saw an identical object that came within 30 m of his car.  
 Type: ufo sighting  
 Reference: Lor. III 22 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11335,6 +11931,7 @@ Magnolia ID: 810
 
 ## Event 1459
 Date: 1/17/1967  
+Time: 1845  
 Description: A woman walking home saw a beam of light about 1 m in section sweep the ground in her direction. It came from a circular, white object that turned off its main light. She then saw reddish spots before it vanished entirely. Another witness saw the phenomenon from a separate location, 2 km away (LDLN).  
 Type: ufo sighting  
 Reference:  ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11343,6 +11940,7 @@ Magnolia ID: 809
 
 ## Event 1460
 Date: 1/19/1967  
+Time: 0905  
 Description: Two min later it flew away.  
 Type: ufo sighting  
 Reference: FSR 67, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11351,6 +11949,7 @@ Magnolia ID: 811
 
 ## Event 1461
 Date: 1/26/1967  
+Time: 2100  
 Description: A Methodist minister was driving on Route 185 near Coffeen when he saw an object, flat on the bottom, rounded on top, cross the road silently 100 m away, at low speed. Length, 20 m; height, 3 m.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11359,6 +11958,7 @@ Magnolia ID: 813
 
 ## Event 1462
 Date: 1/28/1967  
+Time: 1345  
 Description: Children observed "a little blue man with a tall hat and a beard" that disappeared in a puff of smoke; they later saw him again, and heard "foreign-sounding" voices.  
 Type: ufo sighting  
 Reference: FSR 67, 4; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11367,6 +11967,7 @@ Magnolia ID: 814
 
 ## Event 1463
 Date: 2/1/1967  
+Time: 2100  
 Description: Three witnesses independently saw a craft emitting light signals land a few meters away.  
 Type: ufo sighting  
 Reference: LDLN 93 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11375,6 +11976,7 @@ Magnolia ID: 815
 
 ## Event 1464
 Date: 2/5/1967  
+Time: evening  
 Description: A young man heard a strange noise and a barking dog, and saw an egg-shaped object land. From an elevatorlike shaft came human figures that placed small spheres around the craft. A man walked to them and appeared to speak with the entities. The witness was seen, the creatures tried to abduct him, and then took off.  
 Type: ufo sighting  
 Reference: NICAP May., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11383,6 +11985,7 @@ Magnolia ID: 816
 
 ## Event 1465
 Date: 2/11/1967  
+Time: 0145  
 Description: Miss Hildebrand, 19, and Michael McKee fled when they saw a large shiny object off the road. Returning to the scene with a policeman, the found broken branches at the site.  
 Type: ufo sighting  
 Reference: APRO Jan., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11391,6 +11994,7 @@ Magnolia ID: 817
 
 ## Event 1466
 Date: 2/22/1967  
+Time: night  
 Description: G. Grammond saw an object with flashing red and green lights glide, circle, and land in a field. He saw it again spinning in the northeast when he came out with two other witnesses 5 min later.  
 Type: ufo sighting  
 Reference: FSR 67, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11399,6 +12003,7 @@ Magnolia ID: 818
 
 ## Event 1467
 Date: 2/23/1967  
+Time: 1030  
 Description: Mrs. Rice and Mrs. Weston were talking on the phone when they were surprised to hear a very strong sound and saw an object flying low over their area. A third person saw the object, and many heard it. The snow was swirling under it. The object was mushroom-shaped, supported a dome with a fin, was greenish, and left toward the Severn River.  
 Type: ufo sighting  
 Reference: 170 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11431,6 +12036,7 @@ Magnolia ID: 821
 
 ## Event 1471
 Date: 3/4/1967  
+Time: 2400  
 Description: The Sodestrom family obsered two plate-shaped objects, one 30 m in diameter, the other smaller and gray in color. They hovered at 20 111 altitude for 15 min. The object left with a hushed whistling sound, illuminating the forest with intense light.  
 Type: ufo sighting  
 Reference: 171 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11439,6 +12045,7 @@ Magnolia ID: 822
 
 ## Event 1472
 Date: 3/8/1967  
+Time: 0105  
 Description: Two persons observed deep fog in the vicinity of a cemetery and saw a light in the center, coming from an object hovering 100 m above ground. Thinking it was a fire, the witnesses stopped. Paralysis and ignition interference were then noted while the object, about 13 m in diameter, oscillated and then departed with a whirring sound. It took about 20 min for the witnesses to recover muscular coordination.  
 Type: ufo sighting  
 Reference: NICAP Mar., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11447,6 +12054,7 @@ Magnolia ID: 823
 
 ## Event 1473
 Date: 3/9/1967  
+Time: 2100  
 Description: Three witnesses observed an object as they were driving on Route 2. It was round, hovered at rooftop level, left suddenly at high speed. Its size was that of a car, and the underside showed several lights.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11463,6 +12071,7 @@ Magnolia ID: 825
 
 ## Event 1475
 Date: 3/20/1967  
+Time: 2245  
 Description: A man and his daughter saw two lights that they thought were landing lights on aircraft, but they came to ground level, flew straight toward the car, and suddenly vanished. At the same time, five figures appeared about 3 m away. They had narrow, pointed noses, mouths and eyes like slits, blond hair, rough skin, and were dressed in loose "hunterlike" clothes. Witnesses drove away as fast as they could.  
 Type: ufo sighting  
 Reference: FSR 68, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11479,6 +12088,7 @@ Magnolia ID: 827
 
 ## Event 1477
 Date: 3/25/1967  
+Time: dawn  
 Description: An intensely luminous object woke up several residents. People in trains going toward Acapulco and people traveling by car saw the same phenomenon. It came to ground level with a blinding light, then took off.  
 Type: ufo sighting  
 Reference: 177 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11487,6 +12097,7 @@ Magnolia ID: 828
 
 ## Event 1478
 Date: 3/26/1967  
+Time: 2045  
 Description: Mr. and Mrs. John Dick and Mrs. W. Buhr were driving toward Gretna. Near three radio towers situated 3.5 km south of Altona, they saw a very bright object at ground level, illuminating the countryside with a pink glow. The object itself was dark, with a luminous band around it, was motionless and pulsated, then suddenly disappeared.  
 Type: ufo sighting  
 Reference: 173 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11503,6 +12114,7 @@ Magnolia ID: 830
 
 ## Event 1480
 Date: 4/1/1967  
+Time: 2000  
 Description: Two boys saw an orange disk, less than 1 m in diameter, flying at high speed, stop and hover for three min, 20 m above ground. Chief of Police Peter Mehan confirmed that the sighting was under investigation.  
 Type: ufo sighting  
 Reference: 174 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11511,6 +12123,7 @@ Magnolia ID: 831
 
 ## Event 1481
 Date: 4/5/1967  
+Time: 1945  
 Description: Justice of the Peace John H. Demler was driving north on Route 72 when his car stalled and the lights went out. He then saw an object, 10 m in diameter, which gave off a smell of sulphur and camphorated oil, hovering low over the car, which was pulled and rocked when the object took off. Physiological effects (perspiration and peeling skin) were reported after 12 hours. The object gave off a sound resembling an electric motor, and emitted sparks.  
 Type: ufo sighting  
 Reference: NICAP May., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11519,6 +12132,7 @@ Magnolia ID: 832
 
 ## Event 1482
 Date: 4/6/1967  
+Time: 1245  
 Description: An entire class at an elementary school observed an object 20 m above ground, 2 km away. It vanished suddenly as the children and their teacher, 33-year-old Robert Apfel, were watching it.  
 Type: ufo sighting  
 Reference: 176 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11527,6 +12141,7 @@ Magnolia ID: 833
 
 ## Event 1483
 Date: 4/7/1967  
+Time: 0945  
 Description: More than two hundred children and three teachers saw an oval object, with a light at each end, come to ground level. Several other objects also were seen, moving up and down with a pendulum motion.  
 Type: ufo sighting  
 Reference: FSR 67, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11543,6 +12158,7 @@ Magnolia ID: 835
 
 ## Event 1485
 Date: 4/21/1967  
+Time: 2100  
 Description: Mr. Crowder was driving home when he saw an object on the road 70 m away. Supported by four legs, it was a vertical cylinder, 5 m in diameter, with a half-sphere on top. It was gray and its base was 1 m above the pavement. When the witness turned his high beams on, the craft gave off a vertical light and vanished. The road burned for 15 min. Mr. Martin, who lived nearby, also observed the light. Holes, traces of burns, and calcined matches were noted at the site.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11551,6 +12167,7 @@ Magnolia ID: 836
 
 ## Event 1486
 Date: 4/26/1967  
+Time: 2100  
 Description: Brian Dorscht saw a dark object, measuring 1 m in diameter and 1.5 m in height, with flashing green and white lights. When 1 m above ground, six legs came out, and it landed on a lawn near the National Grocers Company. The whirring sound the object was making stopped, and the witness became afraid and ran away. Police found six prints at the site.  
 Type: ufo sighting  
 Reference: 177; SS&S; Summer, 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11559,6 +12176,7 @@ Magnolia ID: 837
 
 ## Event 1487
 Date: 4/27/1967  
+Time: 2200  
 Description: Four boys with binoculars observed an object come lower with oscillating motions, illuminating the woods 1 km away. It was concshaped, with a blue underside, and a top that changed from red to orange to white.  
 Type: ufo sighting  
 Reference: Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11567,6 +12185,7 @@ Magnolia ID: 838
 
 ## Event 1488
 Date: 5/6/1967  
+Time: 1100  
 Description: A mechanical engineer and his daughter saw a disk-shaped object on the ground off a highway. They stopped the car and took three photos of the object as it was taking off. The first one showed the object at treetop level, the second showed it in flight, and the third photo missed the object.  
 Type: ufo sighting  
 Reference: Lor. III 65 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11575,6 +12194,7 @@ Magnolia ID: 839
 
 ## Event 1489
 Date: 5/7/1967  
+Time: 0200  
 Description: Ricky Banyard, 14, saw a strange object in the sky and followed it with a friend, Glenn Coates, through binoculars. It hovered near a cemetery, making a hushed whistling sound and illuminating the ground with a vertical beam of light. The object left suddenly with a roar similar to that of a jet, and a series of "bangs." Stones were found calcined at the site.  
 Type: ufo sighting  
 Reference: 178 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11591,6 +12211,7 @@ Magnolia ID: 841
 
 ## Event 1491
 Date: 5/11/1967  
+Time: 0200  
 Description: Michael Campeadore, 25, a hospital employee, was driving to Salt Lake City when he heard a noise similar to that of a truck, but saw nothing. Then a yellow light became visible to the left, and thinking that it was a jet plane about to crash, he got out and saw it stop 30 m away at 30 m altitude. It was shaped like an inverted bowl with a dome on top and looked metallic. The witness became afraid and emptied his .25 Beretta in the direction of the craft. He heard the bullets hit metal and the object took off at great speed. When he told his story at a nearby service station, the attendant replied that about 20 reports had been made in the Saint George area recently.  
 Type: ufo sighting  
 Reference: 180 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11607,6 +12228,7 @@ Magnolia ID: 843
 
 ## Event 1493
 Date: 5/20/1967  
+Time: 1213  
 Description: Polish-born Steve Michalac, 52, industrial mechanic and prospector, saw two redglowing objects flying at high speed. One of them blew vegetation as it landed, surrounded by a glow, and it was observed for 30 min before a door opened, showing a purple light. A high-pitched sound and an odor resembling a burning electrical circuit were noted. Approaching, the witness heard voices, and upon touching the craft, he burned his rubber-coated glove, and was "blown out" by hot air when the subject started spinning. The witness felt dizzy, suffered minor face burns, second and third degree burns on his chest, vomited frequently for 4 days, and lost over 10 kg. Diameter of craft, 11 m; height, 3 m, with a 1-m-high superstructure.  
 Type: ufo sighting  
 Reference: Lor. III 60; Condon 316 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11615,6 +12237,7 @@ Magnolia ID: 844
 
 ## Event 1494
 Date: 5/22/1967  
+Time: evening  
 Description: A teacher, 45-year-old Mr. Tyrode, saw a glow, then an object shaped like an inverted plate emitting a greenish-blue light. It flew less than 20 m above his car, at 40 km/h.  
 Type: ufo sighting  
 Reference: LDLN 94 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11623,6 +12246,7 @@ Magnolia ID: 845
 
 ## Event 1495
 Date: 5/24/1967  
+Time: 2300  
 Description: Remy Deneuville and his family saw a white light to the side of the road, but it was turned off when they drove within 150 m of its location. Minutes later, they saw a luminous spherical object fly away for several minutes.  
 Type: ufo sighting  
 Reference: GEPA Dec., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11631,6 +12255,7 @@ Magnolia ID: 846
 
 ## Event 1496
 Date: 6/1/1967  
+Time: 2330  
 Description: John Norton, 7, had to be taken to a hospital after observing a disk-shaped, buzzing object, the size of a Volkswagen, with green and red lights, which landed in a clearing and took off "like lightning."  
 Type: ufo sighting  
 Reference: NICAP May., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11639,6 +12264,7 @@ Magnolia ID: 847
 
 ## Event 1497
 Date: 6/7/1967  
+Time: 0130  
 Description: A vehicle stalled in the vicinity of a brilliant, transparent, mushroom-shaped object, aboard which occupants with catlike faces were seen. Under the object was a quadrangular protuberance.  
 Type: ufo sighting  
 Reference: FSR 68, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11647,6 +12273,7 @@ Magnolia ID: 848
 
 ## Event 1498
 Date: 6/11/1967  
+Time: 2000  
 Description: Two children saw a disk-shaped object 1 m in diameter and 25 cm thick, making a metallic noise as it hovered 10 m above them. They took a series of photos that show only a blur.  
 Type: ufo sighting  
 Reference: 181 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11663,6 +12290,7 @@ Magnolia ID: 850
 
 ## Event 1500
 Date: 6/20/1967  
+Time: 1200  
 Description: Farmer Arvi Juntunen heard a loud humming sound and saw a round, shiny gray object 50 cm above ground, 6 m away. It had a domed top with a fin and measured 75 cm in diameter. As he was about to seize it, the object rose with a blast, circled and flew away.  
 Type: ufo sighting  
 Reference: FSR 68, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11686,6 +12314,7 @@ Magnolia ID: 852
 
 ## Event 1503
 Date: 7/7/1967  
+Time: 2330  
 Description: Antonio Brambila and another man saw a glow coming from a disk, 6.5 m in diameter and 2.5 m high, with a dome on top and four telescopic legs, which emitted a strange vibration.  
 Type: ufo sighting  
 Reference: LDLN 91 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11694,6 +12323,7 @@ Magnolia ID: 853
 
 ## Event 1504
 Date: 7/11/1967  
+Time: evening  
 Description: Two persons saw a cigar-shaped object on the ground, 400 m away from the road, which took off, rising rapidly. It had windowlike openings emitting a bright light.  
 Type: ufo sighting  
 Reference: 183 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11702,6 +12332,7 @@ Magnolia ID: 854
 
 ## Event 1505
 Date: 7/17/1967  
+Time: evening  
 Description: E. Browne, walking in a wood, saw a disklike, dull, blue-gray object with a rough surface, hovering about 2 m above ground. An opening became visible in the middle section and two men dressed in silvery clothes emerged, walked in the woods, then reentered the craft, which rose and vanished from sight.  
 Type: ufo sighting  
 Reference: FSR 67, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11710,6 +12341,7 @@ Magnolia ID: 856
 
 ## Event 1506
 Date: 7/17/1967  
+Time: 1600  
 Description: Children were terrified by four dwarfish creatures dressed in black clothing, about 1 m tall, who moved very rapidly among the bushes. They were dark-skinned, had bulging eyes, and spoke among themselves in a strange, musical dialect.  
 Type: ufo sighting  
 Reference: 182 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11718,6 +12350,7 @@ Magnolia ID: 855
 
 ## Event 1507
 Date: 7/18/1967  
+Time: 0130  
 Description: A minister was awakened by a strange sound and had the "impulse" to go downstairs and look outside. Between his house and the next one, he saw a silhouette wearing a luminous suit. He thought someone was playing a prank, but the apparition was well-defined and looked real. It turned into a shapeless glow and vanished.  
 Type: ufo sighting  
 Reference: Keel; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11726,6 +12359,7 @@ Magnolia ID: 857
 
 ## Event 1508
 Date: 7/21/1967  
+Time: 0230  
 Description: Barbara Fawcett, 18, and her sister saw a yellow "jagged" object rise above a swamp and land on a hill. Air Force investigators found a very large scorched area at the spot.  
 Type: ufo sighting  
 Reference: APRO Jul., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11734,6 +12368,7 @@ Magnolia ID: 858
 
 ## Event 1509
 Date: 7/24/1967  
+Time: 2200  
 Description: Between Mareuil and Ste-Hermine, Daniel Bonifait and his family saw a red disk, the size of a building, fall 300 m away behind a hill. Dark forms were observed on the disks surface, and the forest seemed to be ablaze as the witnesses drove away in fear.  
 Type: ufo sighting  
 Reference: GEPA Dec., 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11742,6 +12377,7 @@ Magnolia ID: 859
 
 ## Event 1510
 Date: 7/31/1967  
+Time: 2215  
 Description: A guard, Sidney Zipkin, 50, was driving through a large parking lot when he observed a cigar-shaped object, 16 m long, with green lights under it, land on the pavement. He stopped his truck within 30 m of the object, with the headlights aimed on it, and was surprised to see two dwarfs dressed in shiny black uniforms rush by the vehicle and enter the craft, which took off straight up.  
 Type: ufo sighting  
 Reference: 184 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11750,6 +12386,7 @@ Magnolia ID: 860
 
 ## Event 1511
 Date: 8/3/1967  
+Time: 2330  
 Description: Two persons saw a luminous, whitish object, 10 m in diameter, resembling two plates glued together. The whole yard was illuminated and a humming sound was heard. A door opened in the base of the craft, and something similar to a light bulb lowered itself to ground level. This, too, had an opening, from which stepped a small man in silvery, luminous clothes, his head surrounded with vapor. He was about 5 m away from the witnesses, and was observed to pick up stones, examine them, look up and seem to communicate with the main object. He then dropped the stones and stepped into the "bulb" that reentered the craft, which took off.  
 Type: ufo sighting  
 Reference: Lor. III 44 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11758,6 +12395,7 @@ Magnolia ID: 862
 
 ## Event 1512
 Date: 8/3/1967  
+Time: 2000  
 Description: J. Vieira, a lawyer, and his driver, Amauri, at km 15 on the Miguel Peraira Highway saw two yellowish lights, then many others, about 500 m away to the left. They blinked and faded. Similar lights were seen again at Conrado. When the driver blinked the car's headlights, the objects seemed to respond. An object which illuminated the whole area was seen resting in a woods.  
 Type: ufo sighting  
 Reference: Lor. III 17 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11766,6 +12404,7 @@ Magnolia ID: 861
 
 ## Event 1513
 Date: 8/4/1967  
+Time: early  
 Description: Engineer Hugo S. Yepes was on a beach 25 km north of Recife when he saw a disk, 6 m in diameter, come out of the water. It was gray, looked metallic, hovered for a few sec at 1 m altitude, then rose slowly to the east and disappeared.  
 Type: ufo sighting  
 Reference: NICAP Mar., 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11774,6 +12413,7 @@ Magnolia ID: 863
 
 ## Event 1514
 Date: 8/5/1967  
+Time: 2330  
 Description: Ronald Sherven and Robert Bodine saw a glowing, white object on a west-east trajectory north of Sawyer. The object was hidden by a hill at first but all of a sudden it appeared again over a cemetery, came to ground level, and sped away to the north.  
 Type: ufo sighting  
 Reference: NICAP Oct., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11790,6 +12430,7 @@ Magnolia ID: 865
 
 ## Event 1516
 Date: 8/7/1967  
+Time: 0200  
 Description: In the San Bernardino section, Pedro Riera, of Avila Ave., was awakened by the shaking of his bed and saw a creature in his room, which "flew" out through the open window. Lights on the ground blinded the witness when he rushed to the balcony. Other people had seen a strange vehicle parked in the street. That afternoon, a strange dwarf entered the office of Dr. S. Vegas, who examined him. The being spoke perfect Spanish, had peculiar heart sounds, and did not understand the notion of "age."  
 Type: ufo sighting  
 Reference: Lor. III 74 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11798,6 +12439,7 @@ Magnolia ID: 866
 
 ## Event 1517
 Date: 8/8/1967  
+Time: evening  
 Description: Evangelic Pastor Estanislao Lugo Contreras was at the shore when he saw a diskshaped object with a very bright orange glow emitting a buzzing sound, rise out of the sea, hover a few seconds then rise obliquely.  
 Type: ufo sighting  
 Reference: Lor. III 55 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11806,6 +12448,7 @@ Magnolia ID: 867
 
 ## Event 1518
 Date: 8/12/1967  
+Time: 0230  
 Description: Mr. and Mrs. Miedtke, awakened by the barking of their dog, saw a large hemispherical object with a fluorescent glow and a short flash of light. Too terrified to go outside, they heard heavy footsteps around their trailer. At dawn there was a sound like that of a generator, and seconds later the object was gone.  
 Type: ufo sighting  
 Reference: Lor. III 27 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11814,6 +12457,7 @@ Magnolia ID: 868
 
 ## Event 1519
 Date: 8/23/1967  
+Time: early  
 Description: Stanley Moxon, of Toronto, driving to Montreal, was between Joyceville and the Glen Grove Rd. when he encountered a large, diskshaped craft and two creatures, 1.20 m tall, dressed in white suits and helmets. They "flew back" into the object at once and it left silently at high speed.  
 Type: ufo sighting  
 Reference: Lor. III 32 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11822,6 +12466,7 @@ Magnolia ID: 869
 
 ## Event 1520
 Date: 8/23/1967  
+Time: 2000  
 Description: A boy and a girl, both 15, noticed a red glow coming down in the woods. Later they saw a large source of light in mid-air and heard piercing whistling sounds, then footsteps, and saw a jumping creature, 10 m away. It was about 1.30 m tall, had an oversized head, made jerky motions, raised a tube in its arms, and had a "shimmering" appearance.  
 Type: ufo sighting  
 Reference: APRO Sep., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11830,6 +12475,7 @@ Magnolia ID: 870
 
 ## Event 1521
 Date: 8/24/1967  
+Time: 1700  
 Description: A motorcyclist was suddenly engulfed in a bluish-white light so dazzling that he had to stop. He then saw a metallic object, 30 m away, its shape that of two saucers one on top of the other, with a dome on top, silvery, the lower half dark gray, about 10 m in diameter, and bearing a black mark or insignia. Near it appeared two figures about 1.5 m tall, wearing silvery coveralls and opaque helmets. A gesture from them scared the witness, who drove away but was followed by the object.  
 Type: ufo sighting  
 Reference: FSR 68, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11838,6 +12484,7 @@ Magnolia ID: 871
 
 ## Event 1522
 Date: 8/25/1967  
+Time: 1700  
 Description: Three disks of large dimension were seen to emerge from the sea by Ruben Norato, after he observed a "precipitous movement of the water."  
 Type: ufo sighting  
 Reference: NICAP Mar., 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11846,6 +12493,7 @@ Magnolia ID: 872
 
 ## Event 1523
 Date: 8/26/1967  
+Time: 0200  
 Description: Esteban D. Cova, a private in the Marines, was relieved of duty at the airport and returned to his quarters. Then he met an ugly dwarf, 1 m tall, with a huge head, bulgy eyes, and a body covered with "hairy stuff or wiry metal." It made a deep whistling sound, and Cova felt a prickling sensation in his body. In perfect Spanish the creature said: "Won't you come with me? We need one human being." Cova fainted.  
 Type: ufo sighting  
 Reference: Lor. III 79 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11862,6 +12510,7 @@ Magnolia ID: 874
 
 ## Event 1525
 Date: 8/29/1967  
+Time: 1030  
 Description: Two children saw a sphere, 2 m in diameter, and "four little devils." One of them was bending over, apparently busy with something on the ground, and another held a mirrorlike object. They hovered and flew around the sphere, then dived into it as it rose with a soft whistling sound. A smell of sulphur began to spread, and the object flew away.  
 Type: ufo sighting  
 Reference: FSR 68, 5; LDLN 90 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11870,6 +12519,7 @@ Magnolia ID: 875
 
 ## Event 1526
 Date: 9/2/1967  
+Time: night  
 Description: Nelson Gutierrez, a salesman, saw an object on the Plains Highway, and a creature, of which he took several photographs.  
 Type: ufo sighting  
 Reference: Lor. III 78 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11886,6 +12536,7 @@ Magnolia ID: 877
 
 ## Event 1528
 Date: 9/4/1967  
+Time: 0510  
 Description: Police Officer P. A. Andrade was on duty at City Hall when he heard a humming noise and footsteps in a garage. He met a dwarf, 1 m tall, with a big head and bulging, reddish glowing eyes, wearing a silver-colored, metallic-looking coverall. Andrade pointed his machine gun at the creature, but a voice from a hovering disk said in Spanish that he should not harm the creature. The dwarf then tried to convince Andrade to come to "their world," adding it was "very distant and much larger than the Earth, and with many advantages for Earthlings." When Andrade declined, the creature flew back into the object, which left.  
 Type: ufo sighting  
 Reference: Lor. III 82 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11894,6 +12545,7 @@ Magnolia ID: 878
 
 ## Event 1529
 Date: 9/8/1967  
+Time: 0230  
 Description: A. Aguilar, 23, saw a creature outside her bedroom window and screamed. Her parents ran into the room in time to see it soaring over rooftops, surrounded by a bluish-yellow glow. It moved as if suspended from a balloon. A strong smell of "melted iron" was detected by all.  
 Type: ufo sighting  
 Reference: Lor. III 81 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11902,6 +12554,7 @@ Magnolia ID: 879
 
 ## Event 1530
 Date: 9/11/1967  
+Time: 2130  
 Description: During a raging storm, an entire family watched a large, glowing object in a field 300 m away, giving off brilliant beams of light for 4 hours, after which it took off in seconds. Sootlike material with an unpleasant smell and tracks on flattened grass were noted.  
 Type: ufo sighting  
 Reference: FSR 68, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11910,6 +12563,7 @@ Magnolia ID: 880
 
 ## Event 1531
 Date: 9/14/1967  
+Time: 1100  
 Description: Fabio J. Diniz, 16, was walking near a hospital when he saw a mushroom-shaped craft on a playing field. It had a cupola on top, and a guillotinelike door that slid up. The boy fled, but a voice told him in Portuguese: "Don't run away." He saw two men, 2 m tall, dressed in green tight-fitting clothes. They told him not to be afraid and to return the next day, "otherwise we will take your family." They had greenish skin, and round eyes set wide apart.  
 Type: ufo sighting  
 Reference: FSR 68, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11926,6 +12580,7 @@ Magnolia ID: 882
 
 ## Event 1533
 Date: 9/15/1967  
+Time: 2045  
 Description: Two teenage girls observed a large, glowing object, and three small figures, about 1.25 m tall, witll oversized heads, running near a barn. From the object came a noise similar to that of "a power mower when it fires but fails to start." The object blacked out, and the figures hid while a car passed, after which the object pulsated between very bright white and dull red, and moved diagonally several times.  
 Type: ufo sighting  
 Reference: Lor. III 166; Condon 347 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11934,6 +12589,7 @@ Magnolia ID: 883
 
 ## Event 1534
 Date: 9/18/1967  
+Time: 0100  
 Description: Forestry employee Russell Hill heard a strange pulsating sound and saw an object giving off a green glow hover near his cabin. Radio interference.  
 Type: ufo sighting  
 Reference: Lor. III 34 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11942,6 +12598,7 @@ Magnolia ID: 884
 
 ## Event 1535
 Date: 9/22/1967  
+Time: night  
 Description: Near Caracas, a race track employee was attacked by a very strong creature that choked him, but ran away when a horse was heard neighing frantically in the stable. Thirty min later, a horse was attacked, and an employee saw a dwarf, 1 m tall, "zoom" out of the building.  
 Type: ufo sighting  
 Reference: Lor. III 84 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11950,6 +12607,7 @@ Magnolia ID: 885
 
 ## Event 1536
 Date: 10/9/1967  
+Time: 1740  
 Description: A boy riding his bicycle saw an aluminum cylinder standing on end, 3 m high, 80 cm wide, supported by two legs ending in round pads joined by a bar. He got within 12 m of the object before it rose vertically with a deep, low-pitched hum, but no smoke, flame, or haze. It left two impressions.  
 Type: ufo sighting  
 Reference: Lor. III 119 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11958,6 +12616,7 @@ Magnolia ID: 886
 
 ## Event 1537
 Date: 10/11/1967  
+Time: 0010  
 Description: Othmar Willi, 37, observed three cylinders, 10 m high, 5 m in diameter, with two rows of square windows and a small cone on top, hovering 50 m away and 5 m above a maize field, making a noise resembling a swarm of bees. A small object was dropped briefly.  
 Type: ufo sighting  
 Reference: FSR 68, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11966,6 +12625,7 @@ Magnolia ID: 887
 
 ## Event 1538
 Date: 10/21/1967  
+Time: 2200  
 Description: Four boys were driving east on State Route 7 when they saw three men on the road, who "almost flew off and disappeared." They were about 1.20 m tall and wore shiny blue-green clothing. Their faces looked human, but they had very large ears. The next day a small footprint showing four toes was found in the mud.  
 Type: ufo sighting  
 Reference: Lor. III 84 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11974,6 +12634,7 @@ Magnolia ID: 888
 
 ## Event 1539
 Date: 10/24/1967  
+Time: 2130  
 Description: Donald Chiszar, 13, and Pat Crozier, 10, saw a bright object hovcrillg in mid-air. It tilted toward them, and they could see two big, square windows separated by a bar, and strange lettering under them. Two aliens, and control panels with lights and knobs, could be seen inside. It vanished on the spot.  
 Type: ufo sighting  
 Reference: Lor. III, 180 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11982,6 +12643,7 @@ Magnolia ID: 889
 
 ## Event 1540
 Date: 10/25/1967  
+Time: 2045  
 Description: Clive Robinson and Richard Corben, 14, and a third boy, reported the landing of a dome-shaped object with a smaller hump on top, 200 m away. It took off diagonally, leaving some traces.  
 Type: ufo sighting  
 Reference: FSR 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -11990,6 +12652,7 @@ Magnolia ID: 890
 
 ## Event 1541
 Date: 10/26/1967  
+Time: 0430  
 Description: A businessman driving north between Hook and Reading was puzzled when the electrical system of his car broke down. He then observed a dull object, 20 m in diameter, 100 m away, at about 15 m altitude. He made the rest of his journey in a trancelike state.  
 Type: ufo sighting  
 Reference: FSR 67, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12006,6 +12669,7 @@ Magnolia ID: 892
 
 ## Event 1543
 Date: 10/30/1967  
+Time: 2100  
 Description: A businessman was driving toward Boyup Brook when his car failed completely and stopped, although he did not recall feeling deceleration. He found a strong light beam aimed at him from a mushroom-shaped craft, 10 m in diameter. He had no recollection of starting the car again after the departure of the object.  
 Type: ufo sighting  
 Reference: FSR 68, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12014,6 +12678,7 @@ Magnolia ID: 893
 
 ## Event 1544
 Date: 11/2/1967  
+Time: night  
 Description: Will Begay and Clyde Soccie, in their early 20's, said that an object landed on top of their car, forcing them to stop. Two dwarfs spoke to them, but were not understood. The object left.  
 Type: ufo sighting  
 Reference: FSR 68, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12030,6 +12695,7 @@ Magnolia ID: 895
 
 ## Event 1546
 Date: 11/5/1967  
+Time: 2330  
 Description: Lorry driver Karl Farlow told police that as his lights and radio blacked out, although his diesel engine continued to work, he saw an egg-shaped object, 3 m long, 15 m away. Moments later, a white Jaguar coming in the opposite direction also stopped. The object, emitting a green light and showing a whitish dome under its lower surface, hovered between the two vehicles for 2 min and left at high speed.  
 Type: ufo sighting  
 Reference: FSR 67, 6; 68, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12046,6 +12712,7 @@ Magnolia ID: 897
 
 ## Event 1548
 Date: 11/16/1967  
+Time: 1700  
 Description: Mrs. Quick and another woman saw a flickering light and a deep-red, glowing object at ground level, with a dark figure, slightly larger than a normal human, approaching it. The object disappeared suddenly.  
 Type: ufo sighting  
 Reference: FSR 68, 2 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12054,6 +12721,7 @@ Magnolia ID: 898
 
 ## Event 1549
 Date: 11/16/1967  
+Time: 1830  
 Description: Farm manager Alan Pool, 43, saw an object, 6 m in diameter and 1.5 m high, with round and square windows, land in a field with a whining noise. It took off and vanished, leaving no trace.  
 Type: ufo sighting  
 Reference: FSR 68, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12062,6 +12730,7 @@ Magnolia ID: 899
 
 ## Event 1550
 Date: 11/24/1967  
+Time: 1430  
 Description: Technician Ugo Battaglia, 39, and a boy, heard a high-pitched sound and saw a bright, metallic, disk-shaped object come down, hit a tree and hover, while three tall men in white coveralls walked around. The boy later suffered severe headaches. Traces.  
 Type: ufo sighting  
 Reference: APRO Nov., 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12070,6 +12739,7 @@ Magnolia ID: 900
 
 ## Event 1551
 Date: 11/29/1967  
+Time: 0200  
 Description: Percy McBride saw a flashing object, the size of a station wagon, with two aerials, arrive from the east and land in a woods for 15 min. It made a clicking sound and a noise similar to six radio receivers tuned on different stations. It had a square, boxlike protuberance supported by a pole underneath.  
 Type: ufo sighting  
 Reference: APRO Jan., 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12085,6 +12755,7 @@ Location: Nebraska
 
 ## Event 1553
 Date: 12/3/1967  
+Time: 0230  
 Description: Police Officer Schirmer observed a bright, aluminum-colored object just above the road and approached within 14 m, when the object rose, emitting a shrill beeping noise and a red-orange beam. Under hypnosis at the University of Colorado, the witness reported that a small human form, about 1.30 m tall, came from under the craft and approached him to communicate a message stating that "they" came from space and would meet him again.  
 Type: ufo sighting  
 Reference: FSR 68, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12135,6 +12806,7 @@ See also: 1/19/68
 
 ## Event 1559
 Date: 3/3/1968  
+Time: 0615  
 Description: Nick Sgouris, while driving to work, observed a luminous, cigar-shaped object, about 20 m long, showing numerous multi-colored lights. The car almost stopped as the object flew low overhead, and the witness was briefly paralyzed.  
 Type: ufo sighting  
 Reference: APRG Bulletin 67 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12150,6 +12822,7 @@ Location: US
 
 ## Event 1561
 Date: 5/1968  
+Time: 2400  
 Description: Gerardo Vidal and his wife were driving along Route 2 when they were caught in "a dense fog" and lost consciousness for 48 hours. When they came to, it was daytime, and the car, whose paint was badly scorched, was parked in an unknown road. They spoke to local people and found that they were in Mexico.  
 Type: ufo sighting  
 Reference: FSR 68, 5; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12158,6 +12831,7 @@ Magnolia ID: 906
 
 ## Event 1562
 Date: 6/1968  
+Time: 0050  
 Description: Pedro Pretzel, 39, motel owner, observed an object 50 m away on road 20, showing two powerful red headlights. Arriving at his room, the witness found his daughter unconscious. When she came to, she said that a blond man, 2 m tall, wearing a blue, bright suit, and holding a paleblue sphere in his hand, had appeared and spoken to her.  
 Type: ufo sighting  
 Reference: LDLN 95 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12166,6 +12840,7 @@ Magnolia ID: 907
 
 ## Event 1563
 Date: 6/14/1968  
+Time: 0300  
 Description: Jorge Yaru, 35, saw a strange light outside and a bright object, the size of a bus, 30 m away. It had yellow, green and red lights at the bottom. As he approached, the object rose suddenly, hovered for 40 min, and left at high speed.  
 Type: ufo sighting  
 Reference: LDLN 95 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12174,6 +12849,7 @@ Magnolia ID: 908
 
 ## Event 1564
 Date: 6/16/1968  
+Time: night  
 Description: Chief of Provincial Police German Rocha and Police Major Niceforo Leon observed a round object with a vivid blue light. It landed, left a strange, powerful odor, and burned grass and shrubs.  
 Type: ufo sighting  
 Reference: FSR 68, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12182,6 +12858,7 @@ Magnolia ID: 909
 
 ## Event 1565
 Date: 6/19/1968  
+Time: night  
 Description: A settler, Romulo Velasco, 25, saw a bright object land. From it emerged a strange "tall, slim being" who came toward the witness, who fainted.  
 Type: ufo sighting  
 Reference: FSR 68, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12198,6 +12875,7 @@ Magnolia ID: 911
 
 ## Event 1567
 Date: 6/25/1968  
+Time: 105  
 Description: Jorge Ribles, electrician at the Carmal Chemical Plant, noticed that the engines were at a standstill, while the countryside was lit up with intensive reddish light. Another man, 52-yearold Jose J. Rociski, fell unconscious as a vivid light enveloped him. He was unable to move his left arm for three days, and suffered from pain and extreme nervousness.  
 Type: ufo sighting  
 Reference: FSR 68, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12206,6 +12884,7 @@ Magnolia ID: 912
 
 ## Event 1568
 Date: 7/1/1968  
+Time: 1230  
 Description: Three boys saw an object, about 8 m wide, 350 m away. It had a large tripod under carriage and a ladder reaching down to the ground. These devices were retracted, and the object rose a few meters, then flew off at high speed.  
 Type: ufo sighting  
 Reference: FSR 68, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12214,6 +12893,7 @@ Magnolia ID: 914
 
 ## Event 1569
 Date: 7/1/1968  
+Time: 0400  
 Description: Raul Calcedo met two giants, almost 3 m tall, in Ricardone. He fled in terror, in spite of a strange power that tended to make him stay.  
 Type: ufo sighting  
 Reference: FSR 68, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12222,6 +12902,7 @@ Magnolia ID: 913
 
 ## Event 1570
 Date: 7/2/1968  
+Time: 1125  
 Description: Oscar H. Iriart, 15, saw two men of normal height, with short, white hair and red clothes, semi-transparent legs, motioning to him. Near them was an elliptical, silvery machine, 2 m long, 60 cm high, with three 50 cm legs. The men gave him an envelope with a childish message and flew off. The witness's horse and dog were paralyzed for several minutes. The boy arrived home "like a madman."  
 Type: ufo sighting  
 Reference: FSR 68, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12230,6 +12911,7 @@ Magnolia ID: 916
 
 ## Event 1571
 Date: 7/2/1968  
+Time: 0815  
 Description: A boy, Sola, saw, a few meters away, a strange being, about 2.10 m tall, hovering in the air, his body emitting a peculiar glow, near a bright, unknown object.  
 Type: ufo sighting  
 Reference: FSR 68, 5 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12238,6 +12920,7 @@ Magnolia ID: 915
 
 ## Event 1572
 Date: 7/31/1968  
+Time: 0900  
 Description: Luce Fontaine, 31, a farmer, was in a clearing when he suddenly saw an oval object, 25 m away, less than 5 m above ground. It had a clear center, dark-blue ends, two protrusions on top and bottom, and measured 5 m in diameter, 2.5 m in height. In the object stood two beings, 90 cm tall, wearing coveralls. A violent flash and a blast of hot air were noted as the object vanished.  
 Type: ufo sighting  
 Reference: LDLN 96 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12246,6 +12929,7 @@ Magnolia ID: 917
 
 ## Event 1573
 Date: 8/27/1968  
+Time: early  
 Description: Maria Josa Cintra, who worked at the Clemente Ferreira Sanatorium, was awakened by a noise. At the front door was a "foreign-looking" woman of normal height, wearing light-colored clothes, and a headdress exposing only her face. She spoke in an unknown language, and handed Marie a mug and a glass bottle covered with beautiful engravings. Maria filled them. The woman said something such as "Rempaua," and went out to a pearlshaped, bright object that took off with the sound of wings.  
 Type: ufo sighting  
 Reference: FSR 69, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12254,6 +12938,7 @@ Magnolia ID: 918
 
 ## Event 1574
 Date: 8/31/1968  
+Time: early  
 Description: Three witnesses, among them two Casino employees, stated that they observed five dwarfs, with oversized heads, who emerged from a landed craft and traced undecipherable signs on the ground.  
 Type: ufo sighting  
 Reference: Le Figaro Sep. 2, 1968 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12262,6 +12947,7 @@ Magnolia ID: 919
 
 ## Event 1575
 Date: 10/9/1968  
+Time: 0620  
 Description: Doribio Pereira, 41, municipal employee, suddenly observed a golden, cigar-shaped object, and a figure armed with a flashing weapon that immobilized him. Three beings were standing on a platform under the craft, and another figure appeared to be using a keyboard inside the transparent top part. The object took off rapidly, leaving the witness in a state of shock.  
 Type: ufo sighting  
 Reference: FSR 69, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12270,6 +12956,7 @@ Magnolia ID: 920
 
 ## Event 1576
 Date: 11/2/1968  
+Time: 0355  
 Description: During a thunderstorm, a medical doctor was awakened by his crying 14-month-old son. He saw two luminous objects outside his house, and observed them coming close together and merging about 180 m away. A vertical beam of light was aimed at him for a second as the object tilted, and then the display vanished with a flash, leaving a slowly dissolving cloud. Persistent nightmares and various physiological phenomena were later recorded.  
 Type: ufo sighting  
 Reference: 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12278,6 +12965,7 @@ Magnolia ID: 921
 
 ## Event 1577
 Date: 11/20/1968  
+Time: 1730  
 Description: Mr. and Mrs. Milakovic were driving to Hednesford when they suddenly saw a brilliant object rising from a held to the left and hovering above a house. It appeared to "quiver like a jelly." Several figures were seen on the deck of the craft for about five min, then it left with a jerky motion.  
 Type: ufo sighting  
 Reference: FSR 69, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
@@ -12286,6 +12974,7 @@ Magnolia ID: 922
 
 ## Event 1578
 Date: 11/22/1968  
+Time: 2100  
 Description: A dozen witnesses saw a lens-shaped object surrounded with a blue glow, making a noise similar to that of a jet and emitting flashes, which landed in a field briefly. It suddenly took off and was lost to sight at the horizon.  
 Type: ufo sighting  
 Reference: France-Soir Nov. 24, 1968 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
