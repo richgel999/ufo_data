@@ -5,7 +5,7 @@ ufojson tool: Copyright (c) 2023 By Richard Geldreich, Jr. (Apache 2.0 license)
 
 [libsoldout](https://github.com/faelys/libsoldout): Copyright (c) 2009, Natacha Porté (ISC license)
 
-Data files: George M. Eberhart - Copyright 2022, LeRoy Pea - Copyright 9/8/1988 (updated 3/17/2005), Dr. Donald A. Johnson - Copyright 2012, Fred Keziah - Copyright 1958
+Data files (in 'bin' directory): George M. Eberhart - Copyright 2022, LeRoy Pea - Copyright 9/8/1988 (updated 3/17/2005), Dr. Donald A. Johnson - Copyright 2012, Fred Keziah - Copyright 1958
 
 ## Instructions
 
