@@ -1,0 +1,10 @@
+*.a
+*.o
+*.so
+*.so.*
+
+amalgamation/
+depends/
+mkd2html
+mkd2latex
+mkd2man

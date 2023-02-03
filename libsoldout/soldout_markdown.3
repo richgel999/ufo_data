@@ -1,0 +1,292 @@
+.\"
+.\" Copyright (c) 2009 - 2016 Natacha Porté <natacha@instinctive.eu>
+.\"
+.\" Permission to use, copy, modify, and distribute this software for any
+.\" purpose with or without fee is hereby granted, provided that the above
+.\" copyright notice and this permission notice appear in all copies.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+.\" WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+.\" MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+.\" ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+.\" WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+.\" ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+.\" OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+.\"
+.Dd September 12, 2016
+.Dt SOLDOUT_MARKDOWN 3
+.Os
+.Sh NAME
+.Nm soldout_markdown ,
+.Nm markdown
+.Nd parse markdown document
+.Sh SYNOPSIS
+.In markdown.h
+.Pp
+.Fd "#define MKD_CELL_ALIGN_DEFAULT"
+.Fd "#define MKD_CELL_ALIGN_LEFT"
+.Fd "#define MKD_CELL_ALIGN_RIGHT"
+.Fd "#define MKD_CELL_ALIGN_CENTER"
+.Fd "#define MKD_CELL_ALIGN_MASK"
+.Fd "#define MKD_CELL_HEAD"
+.Fd "#define MKD_LIST_ORDERED"
+.Fd "#define MKD_LI_BLOCK"
+.Ft void
+.Fo markdown
+.Fa "struct buf *ob"
+.Fa "struct buf *ib"
+.Fa "const struct mkd_renderer *rndr"
+.Fc
+.Sh DESCRIPTION
+The
+.Fn markdown
+function parses the input buffer
+.Fa ib
+and renders it into the output buffer
+.Fa ob ;
+.Fa rndr
+is a pointer to the renderer structure.
+.Pp
+The following describes a general parse sequence:
+.Bl -enum
+.It
+Create output, input buffers by
+.Fn bufnew
+function.
+.It
+Fill input buffer by
+.Fn bufput
+function.
+.It
+Create
+.Vt "struct mkd_renderer"
+or use provided renderer.
+.It
+Call
+.Fn markdown
+function.
+.It
+Process output buffer.
+.It
+Call
+.Fn bufrelease
+function to clean up buffers.
+.El
+.Sh REFERENCE
+This section documents the functions, types, definitions available via
+.In markdown.h .
+.Ss Types
+.Bl -ohang
+.It Vt "enum mkd_autolink"
+type of autolink:
+.Bl -tag -width Ds
+.It MKDA_NORMAL
+normal http/https/ftp link.
+.It MKDA_EXPLICIT_EMAIL
+e-mail link with explicit mailto.
+.It MKDA_IMPLICIT_EMAIL
+e-mail link without mailto.
+.El
+.It Vt "struct mkd_renderer"
+has this form:
+.Bd -literal -offset indent
+struct mkd_renderer {
+	/* document level callbacks */
+	void (*prolog)(struct buf *ob, void *opaque);
+	void (*epilog)(struct buf *ob, void *opaque);
+
+	/* block level callbacks - NULL skips the block */
+	void (*blockcode)(struct buf *ob,
+	    struct buf *text,
+	    void *opaque);
+	void (*blockquote)(struct buf *ob,
+	    struct buf *text,
+	    void *opaque);
+	void (*blockhtml)(struct buf *ob,
+	    struct buf *text,
+	    void *opaque);
+	void (*header)(struct buf *ob,
+	    struct buf *text, int level,
+	    void *opaque);
+	void (*hrule)(struct buf *ob, void *opaque);
+	void (*list)(struct buf *ob,
+	    struct buf *text, int flags,
+	    void *opaque);
+	void (*listitem)(struct buf *ob,
+	    struct buf *text, int flags,
+	    void *opaque);
+	void (*paragraph)(struct buf *ob,
+	    struct buf *text,
+	    void *opaque);
+	void (*table)(struct buf *ob,
+	    struct buf *head_row, struct buf *rows,
+	    void *opaque);
+	void (*table_cell)(struct buf *ob,
+	    struct buf *text, int flags,
+	    void *opaque);
+	void (*table_row)(struct buf *ob,
+	    struct buf *cells, int flags,
+	    void *opaque);
+
+	/* span level callbacks - NULL or return 0 prints the span verbatim */
+	int (*autolink)(struct buf *ob,
+	    struct buf *link, enum mkd_autolink type,
+	    void *opaque);
+	int (*codespan)(struct buf *ob,
+	    struct buf *text,
+	    void *opaque);
+	int (*emphasis)(struct buf *ob,
+	    struct buf *text, char c,
+	    void *opaque);
+	int (*double_emphasis)(struct buf *ob,
+	    struct buf *text, char c,
+	    void *opaque);
+	int (*triple_emphasis)(struct buf *ob,
+	    struct buf *text, char c,
+	    void *opaque);
+	int (*image)(struct buf *ob,
+	    struct buf *link, struct buf *title, struct buf *alt,
+	    void *opaque);
+	int (*linebreak)(struct buf *ob, void *opaque);
+	int (*link)(struct buf *ob,
+	    struct buf *link, struct buf *title, struct buf *content,
+	    void *opaque);
+	int (*raw_html_tag)(struct buf *ob,
+	    struct buf *tag,
+	    void *opaque);
+
+	/* low level callbacks - NULL copies input directly into the output */
+	void (*entity)(struct buf *ob,
+	    struct buf *entity,
+	    void *opaque);
+	void (*normal_text)(struct buf *ob,
+	    struct buf *text,
+	    void *opaque);
+
+	/* renderer data */
+	int max_work_stack; /* prevent arbitrary deep recursion, cf README */
+	const char *emph_chars; /* chars that trigger emphasis rendering */
+	void *opaque; /* opaque data send to every rendering callback */
+};
+.Ed
+.Pp
+The first argument of a renderer function is always the output buffer,
+where the function is supposed to write its output.
+The last argument of a renderer function is always
+a private pointer, which is
+.Va opaque
+member of
+.Vt struct mkd_renderer .
+libsoldout itself never does nothing with this data.
+.Pp
+Function pointers in
+.Vt "struct mkd_renderer"
+can be
+.Dv NULL .
+A null block-level callback will make the corresponding block
+disappear from the output, as if the callback was an empty function.
+A null span-level callback will cause the corresponding element
+to be treated as normal characters, copied verbatim to the output.
+Moreover, span-level callbacks return an integer, which tells
+whether the renderer accepts to render the item (non-zero return value)
+or whether it should be copied verbatim (zero return value).
+.Pp
+.Fa flags
+of the
+.Va list
+and
+.Va listitem
+function callbacks are:
+.Dv MKD_LIST_ORDERED ,
+.Dv MKD_LI_BLOCK .
+.Pp
+.Fa flags
+of the
+.Va table_cell
+and
+.Va table_row
+function callbacks are:
+.Dv MKD_CELL_ALIGN_DEFAULT ,
+.Dv MKD_CELL_ALIGN_LEFT ,
+.Dv MKD_CELL_ALIGN_RIGHT ,
+.Dv MKD_CELL_ALIGN_CENTER ,
+.Dv MKD_CELL_ALIGN_MASK ,
+.Dv MKD_CELL_HEAD .
+.Pp
+The
+.Va normal_text
+callback should perform whatever escape is needed
+to have the output looking like the input data.
+.Pp
+.Va emph_chars
+is a zero-terminated string which contains
+the set of characters that trigger emphasis.
+In regular markdown, emphasis is only
+triggered by
+.Sq _
+and
+.Sq * ,
+but in some extensions it might be useful to
+add other characters to this list.
+The character that triggered the emphasis is then passed to
+.Va emphasis , double_emphasis
+and
+.Va triple_emphasis
+function callbacks through the parameter
+.Fa c .
+.El
+.Sh EXAMPLES
+Simple example that uses first argument as a markdown string,
+converts it to an HTML and outputs it to stdout.
+.Bd -literal
+#include <stdio.h>
+
+#include <buffer.h>
+#include <markdown.h>
+#include <renderers.h>
+
+#define INPUT_UNIT  1024
+#define OUTPUT_UNIT 64
+
+int
+main(int argc, char *argv[])
+{
+  struct buf *ib, *ob;
+
+  /* Make sure we have enough arguments. */
+  if (argc != 2) {
+    return 1;
+  }
+
+  ib = bufnew(INPUT_UNIT);
+  ob = bufnew(OUTPUT_UNIT);
+
+  /* bufputs() is a wrapper over bufput() for nil-terminated string. */
+  bufputs(ib, argv[1]);
+
+  markdown(ob, ib, &mkd_html);
+
+  /* Note the resulted data is not nil-terminated string;
+   * to make it use bufnullterm(). */
+  printf("%.*s", (int)ob->size, ob->data);
+
+  bufrelease(ib);
+  bufrelease(ob);
+  return 0;
+}
+.Ed
+.Sh SEE ALSO
+.Xr soldout_array 3 ,
+.Xr soldout_buffer 3 ,
+.Xr soldout_renderers 3 ,
+.Lk http://daringfireball.net/projects/markdown/ John Gruber's markdown format
+.Sh AUTHORS
+.An -nosplit
+The
+.Nm soldout
+library was written by
+.An Natasha Qo Kerensikova Qc Porte Aq Mt natacha@instinctive.eu .
+Manual page was originally written by
+.An Massimo Manghi Aq Mt mxmanghi@apache.org ,
+and rewritten to mdoc format by
+.An Svyatoslav Mishyn Aq Mt juef@openmailbox.org .

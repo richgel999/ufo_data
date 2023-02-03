@@ -1,0 +1,288 @@
+.\"
+.\" Copyright (c) 2009 - 2016 Natacha Porté <natacha@instinctive.eu>
+.\"
+.\" Permission to use, copy, modify, and distribute this software for any
+.\" purpose with or without fee is hereby granted, provided that the above
+.\" copyright notice and this permission notice appear in all copies.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+.\" WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+.\" MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+.\" ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+.\" WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+.\" ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+.\" OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+.\"
+.Dd September 12, 2016
+.Dt SOLDOUT_ARRAY 3
+.Os
+.Sh NAME
+.Nm soldout_array ,
+.Nm arr_adjust ,
+.Nm arr_free ,
+.Nm arr_grow ,
+.Nm arr_init ,
+.Nm arr_insert ,
+.Nm arr_item ,
+.Nm arr_newitem ,
+.Nm arr_remove ,
+.Nm arr_sorted_find ,
+.Nm arr_sorted_find_i ,
+.Nm parr_adjust ,
+.Nm parr_free ,
+.Nm parr_grow ,
+.Nm parr_init ,
+.Nm parr_insert ,
+.Nm parr_pop ,
+.Nm parr_push ,
+.Nm parr_remove ,
+.Nm parr_sorted_find ,
+.Nm parr_sorted_find_i ,
+.Nm parr_top
+.Nd array handling functions for soldout
+.Sh SYNOPSIS
+.In array.h
+.Ft int
+.Fo (*array_cmp_fn)
+.Fa "void *key"
+.Fa "void *array_entry"
+.Fc
+.Ft int
+.Fo arr_adjust
+.Fa "struct array *arr"
+.Fc
+.Ft void
+.Fo arr_free
+.Fa "struct array *arr"
+.Fc
+.Ft int
+.Fo arr_grow
+.Fa "struct array *arr"
+.Fa "int sz"
+.Fc
+.Ft void
+.Fo arr_init
+.Fa "struct array *arr"
+.Fa "size_t unit"
+.Fc
+.Ft int
+.Fo arr_insert
+.Fa "struct array *arr"
+.Fa "int nb"
+.Fa "int n"
+.Fc
+.Ft "void *"
+.Fo arr_item
+.Fa "struct array *arr"
+.Fa "int no"
+.Fc
+.Ft int
+.Fo arr_newitem
+.Fa "struct array *arr"
+.Fc
+.Ft void
+.Fo arr_remove
+.Fa "struct array *arr"
+.Fa "int idx"
+.Fc
+.Ft "void *"
+.Fo arr_sorted_find
+.Fa "struct array *arr"
+.Fa "void *key"
+.Fa "array_cmp_fn cmp"
+.Fc
+.Ft int
+.Fo arr_sorted_find_i
+.Fa "struct array *arr"
+.Fa "void *key"
+.Fa "array_cmp_fn cmp"
+.Fc
+.Ft int
+.Fo parr_adjust
+.Fa "struct parray *arr"
+.Fc
+.Ft void
+.Fo parr_free
+.Fa "struct parray *arr"
+.Fc
+.Ft int
+.Fo parr_grow
+.Fa "struct parray *arr"
+.Fa "int sz"
+.Fc
+.Ft void
+.Fo parr_init
+.Fa "struct parray *arr"
+.Fc
+.Ft int
+.Fo parr_insert
+.Fa "struct parray *parr"
+.Fa "int nb"
+.Fa "int n"
+.Fc
+.Ft "void *"
+.Fo parr_pop
+.Fa "struct parray *arr"
+.Fc
+.Ft int
+.Fo parr_push
+.Fa "struct parray *arr"
+.Fa "void *i"
+.Fc
+.Ft "void *"
+.Fo parr_remove
+.Fa "struct parray *arr"
+.Fa "int idx"
+.Fc
+.Ft "void *"
+.Fo parr_sorted_find
+.Fa "struct parray *arr"
+.Fa "void *key"
+.Fa "array_cmp_fn cmp"
+.Fc
+.Ft int
+.Fo parr_sorted_find_i
+.Fa "struct parray *arr"
+.Fa "void *key"
+.Fa "array_cmp_fn cmp"
+.Fc
+.Ft "void *"
+.Fo parr_top
+.Fa "struct parray *arr"
+.Fc
+.Sh DESCRIPTION
+.Ss Types
+.Bl -ohang
+.It Vt "struct array"
+generic linear array.
+Has this form:
+.Bd -literal -offset indent
+struct array {
+	void	*base;
+	int	 size;
+	int	 asize;
+	size_t	 unit;
+};
+.Ed
+.It Vt "struct parray"
+array of pointers.
+Has this form:
+.Bd -literal -offset indent
+struct parray {
+	void	**item;
+	int	  size;
+	int	  asize;
+};
+.Ed
+.It Vt array_cmp_fn
+comparison function for sorted arrays.
+.El
+.Ss Functions
+.Bl -ohang
+.It Fn arr_adjust
+shrink the allocated memory to fit exactly the needs.
+.It Fn arr_free
+free the structure contents
+.Pq but NOT the struct itself .
+.It Fn arr_grow
+increase the array size to fit the given number of elements.
+.It Fn arr_init
+initialize the contents of the struct.
+.It Fn arr_insert
+insert
+.Fa nb
+elements before the
+.Fa n
+one.
+.It Fn arr_item
+return a pointer to the
+.Fa n
+element.
+.It Fn arr_newitem
+return the index of a new element appended to the array
+.Fa arr .
+.It Fn arr_remove
+remove the n-th elements of the array.
+.It Fn arr_sorted_find
+O(log n) search in a sorted array, returning entry.
+.It Fn arr_sorted_find_i
+O(log n) search in a sorted array,
+returning index of the smallest element larger than the key.
+.It Fn parr_adjust
+shrink the allocated memory to fit exactly the needs.
+.It Fn parr_free
+free the structure contents
+.Pq but NOT the struct itself .
+.It Fn parr_grow
+increase the array size to fit the given number of elements.
+.It Fn parr_init
+initialize the contents of the struct.
+.It Fn parr_insert
+insert
+.Fa nb
+elements before the
+.Fa n
+one.
+.It Fn parr_pop
+pop the last item of the array and return it.
+.It Fn parr_push
+push a pointer at the end of the array
+.Pq = append .
+.It Fn parr_remove
+remove the
+.Fa idx
+element of the array and return it.
+.It Fn parr_sorted_find
+O(log n) search in a sorted array, returning entry.
+.It Fn parr_sorted_find_i
+O(log n) search in a sorted array,
+returning index of the smallest element larger than the key.
+.It Fn parr_top
+return the top the stack
+.Pq i.e. the last element of the array .
+.El
+.Sh RETURN VALUES
+The
+.Fn arr_adjust ,
+.Fn arr_grow ,
+.Fn arr_insert ,
+.Fn parr_adjust ,
+.Fn parr_grow ,
+.Fn parr_insert
+and
+.Fn parr_push
+functions return on success 1; on error - 0.
+.Pp
+The
+.Fn arr_item ,
+.Fn arr_sorted_find ,
+.Fn parr_pop ,
+.Fn parr_remove ,
+.Fn parr_sorted_find
+and
+.Fn parr_top
+functions return a pointer to the element on success; on error -
+.Dv NULL .
+.Pp
+The
+.Fn arr_newitem
+function returns the index on success; on error -1.
+.Pp
+The
+.Fn arr_sorted_find_i
+and
+.Fn parr_sorted_find_i
+functions return an index.
+.Sh SEE ALSO
+.Xr soldout_markdown 3
+.Sh AUTHORS
+.An -nosplit
+The
+.Nm soldout
+library
+was written by
+.An Natasha Qo Kerensikova Qc Porte Aq Mt natacha@instinctive.eu .
+Manual page was originally written by
+.An Massimo Manghi Aq Mt mxmanghi@apache.org ,
+and rewritten to mdoc format by
+.An Svyatoslav Mishyn Aq Mt juef@openmailbox.org .

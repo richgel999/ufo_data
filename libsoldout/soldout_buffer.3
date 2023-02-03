@@ -1,0 +1,270 @@
+.\"
+.\" Copyright (c) 2009 - 2016 Natacha Porté <natacha@instinctive.eu>
+.\"
+.\" Permission to use, copy, modify, and distribute this software for any
+.\" purpose with or without fee is hereby granted, provided that the above
+.\" copyright notice and this permission notice appear in all copies.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+.\" WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+.\" MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+.\" ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+.\" WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+.\" ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+.\" OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+.\"
+.Dd September 12, 2016
+.Dt SOLDOUT_BUFFER 3
+.Os
+.Sh NAME
+.Nm soldout_buffer ,
+.Nm bufcasecmp ,
+.Nm bufcmp ,
+.Nm bufcmps ,
+.Nm bufdup ,
+.Nm bufgrow ,
+.Nm bufnew ,
+.Nm bufnullterm ,
+.Nm bufprintf ,
+.Nm bufput ,
+.Nm bufputs ,
+.Nm bufputc ,
+.Nm bufrelease ,
+.Nm bufreset ,
+.Nm bufset ,
+.Nm bufslurp ,
+.Nm buftoi ,
+.Nm vbufprintf
+.Nd buffer handling functions for soldout
+.Sh SYNOPSIS
+.In buffer.h
+.Pp
+.Fd "#define CONST_BUF(name, string)"
+.Fd "#define VOLATILE_BUF(name, strname)"
+.Fd "#define BUFPUTSL(output, literal)"
+.Ft int
+.Fo bufcasecmp
+.Fa "const struct buf *a"
+.Fa "const struct buf *b"
+.Fc
+.Ft int
+.Fo bufcmp
+.Fa "const struct buf *a"
+.Fa "const struct buf *b"
+.Fc
+.Ft int
+.Fo bufcmps
+.Fa "const struct buf *a"
+.Fa "const char *b"
+.Fc
+.Ft "struct buf *"
+.Fo bufdup
+.Fa "const struct buf *src"
+.Fa "size_t dupunit"
+.Fc
+.Ft int
+.Fo bufgrow
+.Fa "struct buf *buf"
+.Fa "size_t sz"
+.Fc
+.Ft "struct buf *"
+.Fo bufnew
+.Fa "size_t unit"
+.Fc
+.Ft void
+.Fo bufnullterm
+.Fa "struct buf *buf"
+.Fc
+.Ft void
+.Fo bufprintf
+.Fa "struct buf *buf"
+.Fa "const char *fmt"
+.Fa ...
+.Fc
+.Ft void
+.Fo bufput
+.Fa "struct buf *buf"
+.Fa "const void *data"
+.Fa "size_t len"
+.Fc
+.Ft void
+.Fo bufputs
+.Fa "struct buf *buf"
+.Fa "const char *str"
+.Fc
+.Ft void
+.Fo bufputc
+.Fa "struct buf *buf"
+.Fa "char c"
+.Fc
+.Ft void
+.Fo bufrelease
+.Fa "struct buf *buf"
+.Fc
+.Ft void
+.Fo bufreset
+.Fa "struct buf *buf"
+.Fc
+.Ft void
+.Fo bufset
+.Fa "struct buf **dest"
+.Fa "struct buf *src"
+.Fc
+.Ft void
+.Fo bufslurp
+.Fa "struct buf *buf"
+.Fa "size_t len"
+.Fc
+.Ft int
+.Fo buftoi
+.Fa "struct buf *buf"
+.Fa "size_t offset_i"
+.Fa "size_t *offset_o"
+.Fc
+.Ft void
+.Fo vbufprintf
+.Fa "struct buf *buf"
+.Fa "const char *fmt"
+.Fa "va_list ap"
+.Fc
+.Vt extern long buffer_stat_nb;
+.Vt extern size_t buffer_stat_alloc_bytes;
+.Sh DESCRIPTION
+.Ss Variables
+Compile time options.
+Statistics are kept about memory usage.
+.Bl -ohang
+.It Va buffer_stat_nb
+show how many buffers were created.
+.It Va buffer_stat_alloc_bytes
+show how many bytes were allocated.
+.El
+.Ss Types
+.Bl -ohang
+.It Vt "struct buf"
+character array buffer.
+Has this form:
+.Bd -literal -offset indent
+struct buf {
+	char	*data;	/* actual character data */
+	size_t	 size;	/* size of the string */
+	size_t	 asize;	/* allocated size (0 = volatile buffer) */
+	size_t	 unit;	/* reallocation unit size (0 = read-only buffer) */
+	int	 ref;	/* reference count */
+};
+.Ed
+.El
+.Ss Macros
+.Bl -ohang
+.It Dv CONST_BUF
+create a global buffer
+.Va name
+from a string literal
+.Va string .
+.It Dv VOLATILE_BUF
+create a volatile buffer
+.Va name
+on the stack from a string
+.Va strname .
+.It Dv BUFPUTSL
+optimized
+.Fn bufputs
+of a string literal.
+.El
+.Ss Functions
+.Bl -ohang
+.It Fn bufcasecmp
+compare two buffers ignoring case.
+.It Fn bufcmp
+compare two buffers.
+.It Fn bufcmps
+compare a buffer to a string.
+.It Fn bufdup
+duplicate a buffer
+.Va src .
+.It Fn bufgrow
+increase the allocated size to the size
+.Va sz .
+.It Fn bufnew
+create a new buffer.
+.It Fn bufnullterm
+terminate the string array by NUL
+.Pq making a C-string .
+.It Fn bufprintf
+print formatted output to a buffer
+.Va buf .
+.It Fn bufput
+append raw data to a buffer
+.Va buf .
+.It Fn bufputs
+append a NUL-terminated string
+.Va str
+to a buffer
+.Va buf .
+.It Fn bufputc
+append a single char
+.Va c
+to a buffer
+.Va buf .
+.It Fn bufrelease
+decrease the reference count and free the buffer
+.Va buf
+if needed.
+.It Fn bufreset
+free internal data of the buffer
+.Va buf .
+.It Fn bufset
+safely assign a buffer to another.
+.It Fn bufslurp
+remove a given number of bytes from the head of the array.
+.It Fn buftoi
+convert the numbers at the beginning of the buffer
+.Va buf
+into an
+.Vt int .
+.It Fn vbufprintf
+.Xr stdarg 3
+variant of formatted printing into a buffer
+.Va buf .
+.El
+.Sh RETURN VALUES
+The
+.Fn bufcasecmp ,
+.Fn bufcmp
+and
+.Fn bufcmps
+functions return an integer less than, equal to, or greater than zero if
+.Va a
+is found, respectively, to be less than, to match, or be greater than
+.Va b .
+.Pp
+The
+.Fn bufdup
+and
+.Fn bufnew
+functions return a
+.Vt "struct buf *"
+on success; on error they return
+.Dv NULL .
+.Pp
+The
+.Fn bufgrow
+function returns on success 1; on error - 0.
+.Pp
+The
+.Fn buftoi
+function return the converted value.
+.Sh SEE ALSO
+.Xr soldout_markdown 3 ,
+.Xr stdarg 3
+.Sh AUTHORS
+.An -nosplit
+The
+.Nm soldout
+library
+was written by
+.An Natasha Qo Kerensikova Qc Porte Aq Mt natacha@instinctive.eu .
+Manual page was originally written by
+.An Massimo Manghi Aq Mt mxmanghi@apache.org ,
+and rewritten to mdoc format by
+.An Svyatoslav Mishyn Aq Mt juef@openmailbox.org .

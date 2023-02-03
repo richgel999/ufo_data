@@ -1,0 +1,67 @@
+#!/bin/sh
+# make-amal, generate the libsoldout amalgamation
+# inspired by make-bootstrap-jim (https://github.com/msteveb/jimtcl/blob/master/make-bootstrap-jim)
+#
+# Copyright (c) 2016 Svyatoslav Mishyn <juef@openmailbox.org>
+#
+# Permission to use, copy, modify, and/or distribute this software for
+# any purpose with or without fee is hereby granted, provided that the
+# above copyright notice and this permission notice appear in all
+# copies.
+#
+# THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL
+# WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED
+# WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE
+# AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL
+# DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR
+# PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+# TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+# PERFORMANCE OF THIS SOFTWARE.
+
+outputsource() {
+	sed	-e '/#include.*\".*\"/d'		\
+		-e 's/\/\*.*\*\///'			\
+		-e '/^[ 	]*\/\*/,/\*\//d'	\
+		-e 's/[ 	]*$//' $1
+}
+
+header="/* Amalgamation version of libsoldout. See https://github.com/faelys/libsoldout */"
+license=`sed -n -e '3,17p' markdown.c`
+
+mkdir -p amalgamation
+
+
+# soldout.h
+
+echo "$header" > amalgamation/soldout.h
+exec >> amalgamation/soldout.h
+
+echo
+echo "$license"
+echo
+echo '#ifndef SOLDOUT_H'
+echo '#define SOLDOUT_H'
+echo
+
+for f in array.h buffer.h markdown.h renderers.h; do
+	outputsource $f
+done
+
+echo
+echo '#endif /* SOLDOUT_H */'
+
+
+# soldout.c
+
+echo "$header" > amalgamation/soldout.c
+exec >> amalgamation/soldout.c
+
+echo
+echo "$license"
+echo
+echo '#include "soldout.h"'
+echo
+
+for f in array.c buffer.c markdown.c renderers.c; do
+	outputsource $f
+done

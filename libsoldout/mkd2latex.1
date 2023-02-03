@@ -1,0 +1,49 @@
+.\"
+.\" Copyright (c) 2009 - 2016 Natacha Porté <natacha@instinctive.eu>
+.\"
+.\" Permission to use, copy, modify, and distribute this software for any
+.\" purpose with or without fee is hereby granted, provided that the above
+.\" copyright notice and this permission notice appear in all copies.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+.\" WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+.\" MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+.\" ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+.\" WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+.\" ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+.\" OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+.\"
+.Dd March 1, 2016
+.Dt MKD2LATEX 1
+.Os
+.Sh NAME
+.Nm mkd2latex
+.Nd convert a markdown document into LaTex
+.Sh SYNOPSIS
+.Nm
+.Op Ar file
+.Sh DESCRIPTION
+.Nm
+utility reads
+.Ar file
+and generates LaTex input from markdown source.
+If unspecified,
+.Ar file
+is taken to be standard input.
+.Sh EXIT STATUS
+.Ex -std
+.Sh SEE ALSO
+.Xr mkd2html 1 ,
+.Xr mkd2man 1
+.Sh AUTHORS
+.An -nosplit
+.Nm
+was written by
+.An Natasha Qo Kerensikova Qc Porte Aq Mt natacha@instinctive.eu ,
+.An Baptiste Daroussin Aq Mt bapt@freebsd.org
+and
+.An Michael Huang .
+Manual page was originally written by
+.An Massimo Manghi Aq Mt mxmanghi@apache.org ,
+and rewritten to mdoc format by
+.An Svyatoslav Mishyn Aq Mt juef@openmailbox.org .

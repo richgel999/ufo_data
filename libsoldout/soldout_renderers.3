@@ -1,0 +1,144 @@
+.\"
+.\" Copyright (c) 2009 - 2016 Natacha Porté <natacha@instinctive.eu>
+.\"
+.\" Permission to use, copy, modify, and distribute this software for any
+.\" purpose with or without fee is hereby granted, provided that the above
+.\" copyright notice and this permission notice appear in all copies.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+.\" WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+.\" MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+.\" ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+.\" WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+.\" ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+.\" OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+.\"
+.Dd September 12, 2016
+.Dt SOLDOUT_RENDERERS 3
+.Os
+.Sh NAME
+.Nm soldout_renderers ,
+.Nm lus_attr_escape ,
+.Nm lus_body_escape
+.Nd various markdown to (X)HTML renderers for soldout
+.Sh SYNOPSIS
+.In renderers.h
+.Ft void
+.Fo lus_attr_escape
+.Fa "struct buf *ob"
+.Fa "const char *str"
+.Fa "size_t len"
+.Fc
+.Ft void
+.Fo lus_body_escape
+.Fa "struct buf *ob"
+.Fa "const char *str"
+.Fa "size_t len"
+.Fc
+.Vt extern const struct mkd_renderer mkd_html;
+.Vt extern const struct mkd_renderer mkd_xhtml;
+.Vt extern const struct mkd_renderer discount_html;
+.Vt extern const struct mkd_renderer discount_xhtml;
+.Vt extern const struct mkd_renderer nat_html;
+.Vt extern const struct mkd_renderer nat_xhtml;
+.Sh DESCRIPTION
+The
+.Fn lus_attr_escape
+and
+.Fn lus_body_escape
+functions escape all problematic characters in (X)HTML:
+.Sq < ,
+.Sq > ,
+.Sq & ,
+.Sq \(dq ;
+and
+.Sq < ,
+.Sq > ,
+.Sq &
+respectively.
+They accept a string
+.Va str
+of the length
+.Va len
+and output into
+.Va ob
+buffer.
+.Pp
+All provided renderers come with two flavors,
+.Dq _html
+producing HTML code (self-closing tags are rendered like this: <hr>),
+and
+.Dq _xhtml
+producing XHTML code (self-closing tags like <hr />).
+.Pp
+.Va mkd_html
+and
+.Va mkd_xhtml
+implement standard markdown to (X)HTML translation without any extensions.
+.Pp
+.Va discount_html
+and
+.Va discount_xhtml
+implement on top of the standard markdown some of the extensions
+found in Discount plus PHP-Markdown-like tables.
+Here is a list of all extensions included in these renderers:
+.Bl -bullet -width 1m
+.It
+image size specification, by appending
+.Do =(width)x(height) Dc to the link
+.It
+pseudo-protocols in links:
+.Bl -bullet -width 1m
+.It
+.Do abbr:description Dc for <abbr title="description">...</abbr>
+.It
+.Do class:name Dc for <span class="name">...</span>
+.It
+.Do id:name Dc for <span id="name">...</span>
+.It
+.Do raw:text Dc for verbatim unprocessed text inclusion
+.El
+.It
+class blocks: blockquotes beginning with
+.Do %class% Dc will be rendered as a div of the given class(es)
+.El
+.Pp
+.Va nat_html
+and
+.Va nat_xhtml
+implement on top of the Discount extensions Natasha's own extensions.
+Here is a list of these extensions:
+.Bl -bullet -width 1m
+.It
+id attribute for headers, using the syntax
+.Dq id#Header text
+.It
+class attribute for paragraphs, by putting class name(s)
+between parenthesis at the very beginning of the paragraph
+.It
+<ins> and <del> spans, using respectively
+.Do ++ Dc and Do -- Dc
+as delimiters (with emphasis-like restrictions,
+i.e. an opening delimiter cannot be followed by a whitespace,
+and a closing delimiter cannot be preceded by a whitespace)
+.It
+plain <span> without attribute, using emphasis-like delimiter
+.Sq |
+.El
+.Sh SEE ALSO
+.Xr soldout_buffer 3 ,
+.Xr soldout_markdown 3 ,
+.Lk https://www.w3.org/TR/html/ HTML specification ,
+.Lk http://www.pell.portland.or.us/~orc/Code/discount/ Discount ,
+.Lk https://michelf.ca/projects/php-markdown/extra/#table PHP-Markdown tables
+.Sh AUTHORS
+.An -nosplit
+The
+.Nm soldout
+library
+was written by
+.An Natasha Qo Kerensikova Qc Porte Aq Mt natacha@instinctive.eu .
+Manual page was originally written by
+.An Massimo Manghi Aq Mt mxmanghi@apache.org ,
+and rewritten to mdoc format by
+.An Svyatoslav Mishyn Aq Mt juef@openmailbox.org .

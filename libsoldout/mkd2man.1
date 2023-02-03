@@ -1,0 +1,96 @@
+.\"
+.\" Copyright (c) 2009 - 2016 Natacha Porté <natacha@instinctive.eu>
+.\"
+.\" Permission to use, copy, modify, and distribute this software for any
+.\" purpose with or without fee is hereby granted, provided that the above
+.\" copyright notice and this permission notice appear in all copies.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+.\" WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+.\" MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+.\" ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+.\" WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+.\" ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+.\" OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+.\"
+.Dd March 30, 2016
+.Dt MKD2MAN 1
+.Os
+.Sh NAME
+.Nm mkd2man
+.Nd convert a markdown document into an mdoc manual page
+.Sh SYNOPSIS
+.Nm
+.Op Fl h
+.Op Fl d Ar date
+.Op Fl s Ar section
+.Op Fl t Ar title
+.Op Ar file
+.Sh DESCRIPTION
+.Nm
+utility reads
+.Ar file
+and generates
+.Xr mdoc 7
+input from markdown source.
+If unspecified,
+.Ar file
+is taken to be standard input.
+.Pp
+The options are as follows:
+.Bl -tag -width Ds
+.It Fl d , Fl Fl date
+set the document date
+.Pq Sq \&Dd
+to
+.Ar date
+.Po
+preferrably in
+.Qq Month Day, Year
+format
+.Pc .
+If unspecified,
+.Nm
+uses the file modification date or current date
+if reading is from standard input or if
+.Xr stat 2
+fails.
+.It Fl h , Fl Fl help
+display help text.
+.It Fl s , Fl Fl section
+set the document section
+.Pq Sq \&Dt
+to
+.Ar section .
+If unspecified,
+.Nm
+uses
+.Ar 1 .
+.It Fl t , Fl Fl title
+set the document title
+.Pq Sq \&Dt
+to
+.Ar title .
+If unspecified,
+.Nm
+uses the suffix-stripped filename part of
+.Ar file .
+When reading is from stdin the title must be specified.
+.El
+.Sh EXIT STATUS
+.Ex -std
+.Sh SEE ALSO
+.Xr mkd2html 1 ,
+.Xr mkd2latex 1 ,
+.Xr mdoc 7
+.Sh AUTHORS
+.An -nosplit
+.Nm
+was written by
+.An Natasha Qo Kerensikova Qc Porte Aq Mt natacha@instinctive.eu
+and
+.An Baptiste Daroussin Aq Mt bapt@freebsd.org .
+Manual page was originally written by
+.An Massimo Manghi Aq Mt mxmanghi@apache.org ,
+and rewritten to mdoc format by
+.An Svyatoslav Mishyn Aq Mt juef@openmailbox.org .

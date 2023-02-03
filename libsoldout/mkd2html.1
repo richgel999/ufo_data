@@ -1,0 +1,108 @@
+.\"
+.\" Copyright (c) 2009 - 2016 Natacha Porté <natacha@instinctive.eu>
+.\"
+.\" Permission to use, copy, modify, and distribute this software for any
+.\" purpose with or without fee is hereby granted, provided that the above
+.\" copyright notice and this permission notice appear in all copies.
+.\"
+.\" THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+.\" WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+.\" MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+.\" ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+.\" WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+.\" ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
+.\" OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+.\"
+.Dd September 12, 2016
+.Dt MKD2HTML 1
+.Os
+.Sh NAME
+.Nm mkd2html
+.Nd convert a markdown document into (X)HTML
+.Sh SYNOPSIS
+.Nm
+.Op Fl dHhmnx
+.Op Ar file
+.Sh DESCRIPTION
+.Nm
+utility reads
+.Ar file
+and generates (X)HTML input from markdown source.
+If unspecified,
+.Ar file
+is taken to be standard input.
+.Pp
+By default,
+.Nm
+implies
+.Fl H
+and
+.Fl m
+options.
+.Pp
+The options are as follows:
+.Bl -tag -width Ds
+.It Fl d , Fl Fl discount
+enable Discount extensions and PHP-Markdown-like tables:
+.Bl -bullet -width 1m
+.It
+image size specification, by appending
+.Do =(width)x(height) Dc to the link
+.It
+pseudo-protocols in links:
+.Bl -bullet -width 1m
+.It
+.Do abbr:description Dc for <abbr title="description">...</abbr>
+.It
+.Do class:name Dc for <span class="name">...</span>
+.It
+.Do id:name Dc for <span id="name">...</span>
+.It
+.Do raw:text Dc for verbatim unprocessed text inclusion
+.El
+.It
+class blocks: blockquotes beginning with
+.Do %class% Dc will be rendered as a div of the given class(es)
+.El
+.It Fl H , Fl Fl html
+output HTML (self-closing tags like: <br>).
+.It Fl h , Fl Fl help
+display help text.
+.It Fl m , Fl Fl markdown
+disable all extensions and use strict markdown syntax.
+.It Fl n , Fl Fl natext
+enable Discount extensions and Natasha's own extensions:
+.Bl -bullet -width 1m
+.It
+id attribute for headers, using the syntax
+.Dq id#Header text
+.It
+class attribute for paragraphs, by putting class name(s)
+between parenthesis at the very beginning of the paragraph
+.It
+<ins> and <del> spans, using respectively
+.Do ++ Dc and Do -- Dc
+as delimiters (with emphasis-like restrictions,
+i.e. an opening delimiter cannot be followed by a whitespace,
+and a closing delimiter cannot be preceded by a whitespace)
+.It
+plain <span> without attribute, using emphasis-like delimiter
+.Sq |
+.El
+.It Fl x , Fl Fl xhtml
+output XHTML (self-closing tags like: <br />).
+.El
+.Sh EXIT STATUS
+.Ex -std
+.Sh SEE ALSO
+.Xr mkd2latex 1 ,
+.Xr mkd2man 1
+.Sh AUTHORS
+.An -nosplit
+.Nm
+was written by
+.An Natasha Qo Kerensikova Qc Porte Aq Mt natacha@instinctive.eu .
+Manual page was originally written by
+.An Massimo Manghi Aq Mt mxmanghi@apache.org ,
+and rewritten to mdoc format by
+.An Svyatoslav Mishyn Aq Mt juef@openmailbox.org .
