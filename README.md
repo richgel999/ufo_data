@@ -1,7 +1,7 @@
 # UFO Event Timeline Processing Tool
 
 ## Copyrights:
-ufojson tool: Copyright (C) 2023 By Richard Geldreich, Jr. (Apache 2.0 license)
+ufojson tool: Copyright (c) 2023 By Richard Geldreich, Jr. (Apache 2.0 license)
 
 [libsoldout](https://github.com/faelys/libsoldout): Copyright (c) 2009, Natacha Porté
 
