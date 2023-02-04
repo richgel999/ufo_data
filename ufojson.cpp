@@ -5041,7 +5041,6 @@ int wmain(int argc, wchar_t* argv[])
 
     tests();
 
-#if 0
     uprintf("Convert Johnson:\n");
     if (!convert_johnson())
         panic("convert_johnson() failed!");
@@ -5071,7 +5070,6 @@ int wmain(int argc, wchar_t* argv[])
     if (!convert_bluebook_unknowns())
         panic("convert_bluebook_unknowns failed!");
     uprintf("Success\n");
-#endif
 
     std::vector<timeline_event> timeline_events;
 
