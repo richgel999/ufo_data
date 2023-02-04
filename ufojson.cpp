@@ -28,6 +28,9 @@
 #include "libsoldout/markdown.h"
 #include "pjson.h"
 
+#include "json/json.hpp"
+using json = nlohmann::json;
+
 #define USE_OPENAI (0)
 
 const uint32_t UTF8_BOM0 = 0xEF, UTF8_BOM1 = 0xBB, UTF8_BOM2 = 0xBF;
@@ -335,6 +338,39 @@ static bool read_text_file(const char* pFilename, std::vector<std::string>& line
     }
 
     fclose(pFile);
+    return true;
+}
+
+static bool read_text_file(const char* pFilename, std::vector<uint8_t>& buf, bool& utf8_flag)
+{
+    utf8_flag = false;
+
+    FILE* pFile = ufopen(pFilename, "rb");
+    if (!pFile)
+    {
+        ufprintf(stderr, "Failed reading file %s!\n", pFilename);
+        return false;
+    }
+
+    fseek(pFile, 0, SEEK_END);
+    uint64_t filesize = _ftelli64(pFile);
+    fseek(pFile, 0, SEEK_SET);
+
+    buf.resize(filesize + 1);
+    fread(&buf[0], 1, filesize, pFile);
+
+    fclose(pFile);
+
+    if ((buf.size() >= 3) &&
+        ((uint8_t)buf[0] == UTF8_BOM0) &&
+        ((uint8_t)buf[1] == UTF8_BOM1) &&
+        ((uint8_t)buf[2] == UTF8_BOM2))
+    {
+        utf8_flag = true;
+
+        buf.erase(buf.begin(), buf.begin() + 3);
+    }
+
     return true;
 }
 
@@ -1512,7 +1548,7 @@ struct event_date
 
     bool m_approx; // (approximate)
     bool m_estimated; // (estimated)
-        
+                
     event_date()
     {
         clear();
@@ -1521,6 +1557,23 @@ struct event_date
     event_date(const event_date& other)
     {
         *this = other;
+    }
+
+    bool operator== (const event_date& rhs) const
+    {
+        return (m_prefix == rhs.m_prefix) &&
+            (m_year == rhs.m_year) &&
+            (m_month == rhs.m_month) &&
+            (m_day == rhs.m_day) &&
+            (m_fuzzy == rhs.m_fuzzy) &&
+            (m_plural == rhs.m_plural) &&
+            (m_approx == rhs.m_approx) &&
+            (m_estimated == rhs.m_estimated);
+    }
+
+    bool operator!= (const event_date& rhs) const
+    {
+        return !(*this == rhs);
     }
 
     event_date& operator =(const event_date& rhs)
@@ -2296,6 +2349,7 @@ struct timeline_event
         
     event_date m_begin_date;
     event_date m_end_date;
+    event_date m_alt_date;
 
     std::string m_desc;
     std::vector<std::string> m_type;
@@ -2315,6 +2369,39 @@ struct timeline_event
     std::string m_source_id;
 
     std::string m_source;
+
+    bool operator==(const timeline_event& rhs) const
+    {
+#define COMP(X) if (X != rhs.X) return false;
+        COMP(m_date_str);
+        COMP(m_time_str);
+        COMP(m_alt_date_str);
+        COMP(m_end_date_str);
+        COMP(m_begin_date);
+        COMP(m_end_date);
+        COMP(m_alt_date);
+        COMP(m_desc);
+        COMP(m_type);
+        COMP(m_refs);
+        COMP(m_locations);
+        COMP(m_attributes);
+        COMP(m_see_also);
+        COMP(m_rocket_type);
+        COMP(m_rocket_altitude);
+        COMP(m_rocket_range);
+        COMP(m_atomic_type);
+        COMP(m_atomic_kt);
+        COMP(m_atomic_mt);
+        COMP(m_source_id);
+        COMP(m_source);
+#undef COMP
+        return true;
+    }
+
+    bool operator!=(const timeline_event& rhs) const
+    {
+        return !(*this == rhs);
+    }
 
     bool operator< (const timeline_event& rhs) const
     {
@@ -2370,37 +2457,366 @@ struct timeline_event
         if (m_source.size())
             fprintf(pFile, "Source: %s  \n", m_source.c_str());
     }
-};
 
-bool load_json(const char* pFilename, std::vector<timeline_event>& timeline_events, bool &utf8_flag, const char *pSource_override = nullptr)
-{
-    utf8_flag = false;
-
-    FILE* pFile = ufopen(pFilename, "rb");
-    if (!pFile)
+    void from_json(const json& obj, const char *pSource_override)
     {
-        ufprintf(stderr, "Failed reading JSON file %s!\n", pFilename);
-        return false;
+        auto date = obj.find("date");
+        auto alt_date = obj.find("alt_date");
+        auto time = obj.find("time");
+        auto end_date = obj.find("end_date");
+        auto desc = obj.find("desc");
+        auto location = obj.find("location");
+        auto ref = obj.find("ref");
+        auto type = obj.find("type");
+        auto attributes = obj.find("attributes");
+        auto atomic_kt = obj.find("atomic_kt");
+        auto atomic_mt = obj.find("atomic_mt");
+        auto atomic_type = obj.find("atomic_type");
+        auto rocket_type = obj.find("rocket_type");
+        auto see_also = obj.find("see_also");
+        auto rocket_altitude = obj.find("rocket_altitude");
+        auto rocket_range = obj.find("rocket_range");
+        auto source_id = obj.find("source_id");
+        auto source = obj.find("source");
+
+        if (desc == obj.end())
+            panic("Missing desc");
+
+        if (!desc->is_string())
+            panic("Invalid desc");
+
+        if ((date == obj.end()) || (!date->is_string()))
+            panic("Missing date");
+
+        if (type != obj.end() && !type->is_string() && !type->is_array())
+            panic("Invalid type");
+
+        if (end_date != obj.end() && !end_date->is_string())
+            panic("Invalid end_date");
+
+        if (alt_date != obj.end() && !alt_date->is_string())
+            panic("Invalid alt_date");
+
+        if (time != obj.end() && !time->is_string())
+            panic("Invalid time");
+                
+        m_date_str = (*date);
+        if (!m_begin_date.parse(m_date_str.c_str()))
+            panic("Failed parsing date %s\n", m_date_str.c_str());
+
+        if (end_date != obj.end())
+        {
+            m_end_date_str = (*end_date);
+
+            if (!m_end_date.parse(m_end_date_str.c_str()))
+                panic("Failed parsing end date %s\n", m_end_date_str.c_str());
+        }
+
+        if (alt_date != obj.end())
+        {
+            m_alt_date_str = (*alt_date);
+
+            if (!m_alt_date.parse(m_alt_date_str.c_str()))
+                panic("Failed parsing alt date %s\n", m_alt_date_str.c_str());
+        }
+
+        if (time != obj.end())
+            m_time_str = (*time);
+
+        if (type != obj.end())
+        {
+            if (type->is_string())
+            {
+                m_type.resize(1);
+                m_type[0] = (*type);
+            }
+            else
+            {
+                m_type.resize(type->size());
+                for (uint32_t j = 0; j < type->size(); j++)
+                {
+                    if (!(*type)[j].is_string())
+                        panic("Invalid type");
+
+                    m_type[j] = (*type)[j];
+                }
+            }
+        }
+
+        m_desc = (*desc);
+
+        if (source_id != obj.end())
+        {
+            if (!source_id->is_string())
+                panic("Invalid source ID");
+
+            m_source_id = (*source_id);
+        }
+
+        if (location != obj.end())
+        {
+            if (location->is_array())
+            {
+                for (uint32_t j = 0; j < location->size(); j++)
+                {
+                    const auto& loc_arr_entry = (*location)[j];
+
+                    if (!loc_arr_entry.is_string())
+                        panic("Invalid location");
+
+                    m_locations.push_back(loc_arr_entry);
+                }
+            }
+            else
+            {
+                if (!location->is_string())
+                    panic("Invalid location");
+
+                m_locations.push_back((*location));
+            }
+        }
+
+        if (ref != obj.end())
+        {
+            if (ref->is_array())
+            {
+                for (uint32_t j = 0; j < ref->size(); j++)
+                {
+                    const auto& ref_arr_entry = (*ref)[j];
+
+                    if (!ref_arr_entry.is_string())
+                        panic("Invalid ref");
+
+                    m_refs.push_back(ref_arr_entry);
+                }
+            }
+            else
+            {
+                if (!ref->is_string())
+                    panic("Invalid ref");
+
+                m_refs.push_back((*ref));
+            }
+        }
+
+        if (atomic_kt != obj.end())
+        {
+            if (!atomic_kt->is_string())
+                panic("Invalid atomic_kt");
+            m_atomic_kt = (*atomic_kt);
+        }
+
+        if (atomic_mt != obj.end())
+        {
+            if (!atomic_mt->is_string())
+                panic("Invalid atomic_mt");
+            m_atomic_mt = (*atomic_mt);
+        }
+
+        if (atomic_type != obj.end())
+        {
+            if (!atomic_type->is_string())
+                panic("Invalid atomic_type");
+            m_atomic_type = (*atomic_type);
+        }
+
+        if (rocket_type != obj.end())
+        {
+            if (!rocket_type->is_string())
+                panic("Invalid rocket_type");
+            m_rocket_type = (*rocket_type);
+        }
+
+        if (rocket_altitude != obj.end())
+        {
+            if (!rocket_altitude->is_string())
+                panic("Invalid rocket_altitude");
+            m_rocket_altitude = (*rocket_altitude);
+        }
+
+        if (rocket_range != obj.end())
+        {
+            if (!rocket_range->is_string())
+                panic("Invalid rocket_range");
+            m_rocket_range = (*rocket_range);
+        }
+
+        if (see_also != obj.end())
+        {
+            if (see_also->is_array())
+            {
+                for (uint32_t j = 0; j < see_also->size(); j++)
+                {
+                    const auto& see_also_array_entry = (*see_also)[j];
+
+                    if (!see_also_array_entry.is_string())
+                        panic("Invalid see_also");
+
+                    m_see_also.push_back(see_also_array_entry);
+                }
+            }
+            else
+            {
+                if (!see_also->is_string())
+                    panic("Invalid see_also");
+
+                m_see_also.push_back((*see_also));
+            }
+        }
+
+        if (attributes != obj.end())
+        {
+            if (attributes->is_array())
+            {
+                for (uint32_t j = 0; j < attributes->size(); j++)
+                {
+                    const auto& attr_entry = (*attributes)[j];
+
+                    if (!attr_entry.is_string())
+                        panic("Invalid attributes");
+
+                    m_attributes.push_back(attr_entry);
+                }
+            }
+            else
+            {
+                if (!attributes->is_string())
+                    panic("Invalid attributes");
+
+                m_attributes.push_back(*attributes);
+            }
+        }
+
+        if (pSource_override)
+            m_source = pSource_override;
+        else if (source != obj.end())
+        {
+            if (!source->is_string())
+                panic("Invalid source");
+
+            m_source = (*source);
+        }
     }
 
-    fseek(pFile, 0, SEEK_END);
-    uint64_t filesize = _ftelli64(pFile);
-    fseek(pFile, 0, SEEK_SET);
+    void to_json(json& j) const
+    {
+        j = json::object();
 
-    std::vector<uint8_t> buf(filesize + 1);
-    fread(&buf[0], 1, filesize, pFile);
+        j["date"] = m_date_str;
+        j["desc"] = m_desc;
+                
+        if (m_alt_date_str.size())
+            j["alt_date"] = m_alt_date_str;
+
+        if (m_end_date_str.size())
+            j["end_date"] = m_end_date_str;
+
+        if (m_time_str.size())
+            j["time"] = m_time_str;
+                
+        if (m_type.size() > 1)
+            j["type"] = m_type;
+        else if (m_type.size())
+            j["type"] = m_type[0];
+            
+        if (m_refs.size() > 1)
+            j["ref"] = m_refs;
+        else if (m_refs.size())
+            j["ref"] = m_refs[0];
+
+        if (m_locations.size() > 1)
+            j["location"] = m_locations;
+        else if (m_locations.size())
+            j["location"] = m_locations[0];
+
+        if (m_attributes.size() > 1)
+            j["attributes"] = m_attributes;
+        else if (m_attributes.size())
+            j["attributes"] = m_attributes[0];
+
+        if (m_see_also.size() > 1)
+            j["see_also"] = m_see_also;
+        else if (m_see_also.size())
+            j["see_also"] = m_see_also[0];
+
+        if (m_rocket_type.size())
+            j["rocket_type"] = m_rocket_type;
+        if (m_rocket_altitude.size())
+            j["rocket_altitude"] = m_rocket_altitude;
+        if (m_rocket_range.size())
+            j["rocket_range"] = m_rocket_range;
+
+        if (m_atomic_type.size())
+            j["atomic_type"] = m_atomic_type;
+        if (m_atomic_kt.size())
+            j["atomic_kt"] = m_atomic_kt;
+        if (m_atomic_mt.size())
+            j["atomic_mt"] = m_atomic_mt;
+
+        if (m_source_id.size())
+            j["source_id"] = m_source_id;
+        
+        if (m_source.size())
+            j["source"] = m_source;
+    }
+};
+
+static void create_json_from_timeline(const std::vector<timeline_event>& timeline_events, const char* pTimeline_name, json& j)
+{
+    j = json::object();
+
+    j[pTimeline_name] = json::array();
+
+    auto &ar = j[pTimeline_name];
+
+    for (size_t i = 0; i < timeline_events.size(); i++)
+    {
+        json obj;
+        timeline_events[i].to_json(obj);
+
+        ar.push_back(obj);
+    }
+}
+
+static bool write_json(const char* pFilename, const json& j, bool utf8_bom)
+{
+    FILE* pFile = ufopen(pFilename, "wb");
+    if (!pFile)
+        return false;
+
+    if (utf8_bom)
+    {
+        if ((fputc(UTF8_BOM0, pFile) == EOF) || (fputc(UTF8_BOM1, pFile) == EOF) || (fputc(UTF8_BOM2, pFile) == EOF))
+        {
+            fclose(pFile);
+            return false;
+        }
+    }
+
+    std::string d(j.dump(2));
+    
+    if (d.size())
+    {
+        if (fwrite(&d[0], d.size(), 1, pFile) != 1)
+        {
+            fclose(pFile);
+            return false;
+        }
+    }
 
     fclose(pFile);
 
-    if ((buf.size() >= 3) &&
-        (buf[0] == UTF8_BOM0) &&
-        (buf[1] == UTF8_BOM1) &&
-        (buf[2] == UTF8_BOM2))
-    {
-        utf8_flag = true;
+    return true;
+}
 
-        buf.erase(buf.begin(), buf.begin() + 3);
-    }
+// Load a JSON timeline using pjson
+static bool load_json1(const char* pFilename, std::vector<timeline_event>& timeline_events, bool &utf8_flag, const char *pSource_override = nullptr)
+{
+    utf8_flag = false;
+
+    std::vector<uint8_t> buf;
+    if (!read_text_file(pFilename, buf, utf8_flag))
+        return false;
 
     pjson::document doc;
     bool status = doc.deserialize_in_place((char*)&buf[0]);
@@ -2510,6 +2926,11 @@ bool load_json(const char* pFilename, std::vector<timeline_event>& timeline_even
         if (pAlt_date)
         {
             new_event.m_alt_date_str = pAlt_date->as_string();
+            if (!new_event.m_alt_date.parse(pAlt_date->as_string_ptr()))
+            {
+                ufprintf(stderr, "Failed parsing alt date %s\n", pAlt_date->as_string_ptr());
+                return false;
+            }
         }
 
         if (pTime)
@@ -2727,6 +3148,79 @@ bool load_json(const char* pFilename, std::vector<timeline_event>& timeline_even
             new_event.m_source = pSource->as_string();
     }
 
+    return true;
+}
+
+// Load a JSON timeline using nlohmann::json
+static bool load_json2(const char* pFilename, std::vector<timeline_event>& timeline_events, bool& utf8_flag, const char* pSource_override = nullptr)
+{
+    std::vector<uint8_t> buf;
+
+    if (!read_text_file(pFilename, buf, utf8_flag))
+        return false;
+
+    if (!buf.size())
+        panic("Input file is empty");
+
+    json js;
+    
+    bool success = false;
+    try
+    {
+        js = json::parse(buf.begin(), buf.end());
+        success = true;
+    }
+    catch (json::exception& e)
+    {
+        panic("json::parse() failed (id %i): %s", e.id, e.what());
+    }
+
+    if (!js.is_object() || !js.size())
+        panic("Invalid JSON");
+
+    auto first_entry = js.begin();
+
+    if (!first_entry->is_array())
+        panic("Invalid JSON");
+    
+    const size_t first_event_index = timeline_events.size();
+    timeline_events.resize(first_event_index + first_entry->size());
+
+    for (uint32_t i = 0; i < first_entry->size(); i++)
+    {
+        auto obj = (*first_entry)[i];
+
+        if (!obj.is_object())
+            panic("Invalid JSON");
+        
+        timeline_events[first_event_index + i].from_json(obj, pSource_override);
+    }
+    
+    return true;
+}
+
+static bool load_json(const char* pFilename, std::vector<timeline_event>& timeline_events, bool& utf8_flag, const char* pSource_override = nullptr)
+{
+    const size_t timeline_events_size = timeline_events.size();
+
+    if (!load_json2(pFilename, timeline_events, utf8_flag, pSource_override))
+        return false;
+
+    std::vector<timeline_event> timeline_events_alt;
+    bool utf8_flag_alt;
+    if (!load_json1(pFilename, timeline_events_alt, utf8_flag_alt, pSource_override))
+        return false;
+
+    if (utf8_flag != utf8_flag_alt)
+        panic("Failed loading timeline events JSON");
+
+    if ((timeline_events.size() - timeline_events_size) != timeline_events_alt.size())
+        panic("Failed loading timeline events JSON");
+    
+    for (size_t i = timeline_events_size; i < timeline_events.size(); i++)
+        if (timeline_events[i] != timeline_events_alt[i - timeline_events_size])
+            panic("Failed loading timeline events JSON");
+    
     return true;
 }
 
@@ -3834,11 +4328,11 @@ static bool convert_eberhart()
 
         if (!ref.size())
         {
-            fprintf(pOut_file, "  \"ref\" : \"[Eberhart](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf)\",\n");
+            fprintf(pOut_file, "  \"ref\" : \"[Eberhart](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf)\"\n");
         }
         else
         {
-            fprintf(pOut_file, "  \"ref\" : [ \"[Eberhart](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf)\", \"%s\" ],\n", escape_string_for_json(ref).c_str());
+            fprintf(pOut_file, "  \"ref\" : [ \"[Eberhart](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf)\", \"%s\" ]\n", escape_string_for_json(ref).c_str());
         }
         
         fprintf(pOut_file, "}");
@@ -4547,6 +5041,7 @@ int wmain(int argc, wchar_t* argv[])
 
     tests();
 
+#if 0
     uprintf("Convert Johnson:\n");
     if (!convert_johnson())
         panic("convert_johnson() failed!");
@@ -4576,16 +5071,17 @@ int wmain(int argc, wchar_t* argv[])
     if (!convert_bluebook_unknowns())
         panic("convert_bluebook_unknowns failed!");
     uprintf("Success\n");
+#endif
 
     std::vector<timeline_event> timeline_events;
 
     bool utf8_flag = false;
     bool status;
-
+        
     status = load_json("maj2.json", timeline_events, utf8_flag, "Maj2");
     if (!status)
         panic("Failed loading maj2.json");
-
+            
     status = load_json("trace.json", timeline_events, utf8_flag);
     if (!status)
         panic("Failed loading trace.json");
@@ -4621,6 +5117,27 @@ int wmain(int argc, wchar_t* argv[])
     uprintf("Load success, %zu total events\n", timeline_events.size());
 
     std::sort(timeline_events.begin(), timeline_events.end());
+
+    // Write majestic.json, then load it and verify that it saved and loaded correctly.
+    {
+        json j;
+        create_json_from_timeline(timeline_events, "Majestic Timeline", j);
+        
+        if (!write_json("majestic.json", j, true))
+            panic("Failed writing majestic.json!");
+        
+        std::vector<timeline_event> timeline_events_comp;
+        bool utf8_flag_comp;
+        if (!load_json("majestic.json", timeline_events_comp, utf8_flag_comp))
+            panic("Failed loading majestic.json");
+
+        if (timeline_events.size() != timeline_events_comp.size())
+            panic("Failed loading timeline events JSON");
+
+        for (size_t i = 0; i < timeline_events.size(); i++)
+            if (timeline_events[i] != timeline_events_comp[i])
+                panic("Failed comparing majestic.json");
+    }
 
     std::map<int, int> year_histogram;
 
