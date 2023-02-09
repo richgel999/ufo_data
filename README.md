@@ -7,7 +7,14 @@
 
 [json](https://github.com/nlohmann/json): Copyright (c) 2013-2022 Niels Lohmann (MIT license)
 
-Data files (in 'bin' directory): George M. Eberhart - Copyright 2022, LeRoy Pea - Copyright 9/8/1988 (updated 3/17/2005), Dr. Donald A. Johnson - Copyright 2012, Fred Keziah - Copyright 1958, Dr. Jacques F. Vallée - Copyright 1993
+## Data files (in 'bin' directory): 
+* George M. Eberhart - Copyright 2022
+* LeRoy Pea - Copyright 9/8/1988 (updated 3/17/2005)
+* Dr. Donald A. Johnson - Copyright 2012
+* Fred Keziah - Copyright 1958
+* Dr. Jacques F. Vallée - Copyright 1993
+* NICAP
+* Richard Geldreich, Jr. - Copyright 2023
 
 ## Instructions
 
