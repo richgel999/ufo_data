@@ -465,11 +465,11 @@
 			"type" : "military",
 			"location" : "Los Angeles, CA"
 		},
-
+        
 		{
 			"date" : "2/26/1942",
-			"desc" : "Secret Memo to the President from Chief of Staff, C.G. Marshall stating: UFO's appeared over Los Angeles, CA, yesterday morning. The 37th Brigade (AA) expended 1430 rounds of ammunition against them. No bombs dropped, no casualties among our troops, no planes (UFOs) shot down, no AA or Navy planes were inaction. (AA Document, OCS 21347–86.)",
-			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p15,446)", "[link](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)" ],
+			"desc" : "Secret Memo to the President from Chief of Staff, G. C. Marshall stating: UFO's appeared over Los Angeles, CA, yesterday morning. The 37th Brigade (AA) expended 1430 rounds of ammunition against them. No bombs dropped, no casualties among our troops, no planes (UFOs) shot down, no AA or Navy planes were inaction. (AA Document, OCS 21347–86.)",
+			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p17, 446)", "[link](https://en.wikipedia.org/wiki/Battle_of_Los_Angeles)" ],
 			"type" : "secret memo",
 			"location" : "Washington DC"
 		},		
@@ -1089,14 +1089,7 @@
 			"ref" : "[Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)",
 			"type" : "channelling"
 		},
-		
-		{
-			"date" : "12/22/1954",
-			"desc" : "World catastrophe predicted by Prof. Loughead via Dorothy Martin.",
-			"ref" : "[Keziah Poster](https://github.com/richgel999/uap_resources/blob/main/Keziah58.pdf)",
-			"type" : "channelling"
-		},
-		
+						
 		{
 			"date" : "4/24/1954",
 			"desc" : "Buck Nelson takes a trip to Venus, Moon, Mars in saucer.",
@@ -1605,7 +1598,7 @@
 		{
 			"date" : "9/4/1946",
 			"desc" : "Top Secret Memo, to Mr. Morgan, from Mr. Lyon stating: 800 UFO reports have been reported with new ones coming in daily from Sweden. Full details of these reports have been forwarded to Wash., D.C. by our Military and Naval Attaches",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p22,447)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p22,447)",
 			"type" : "top secret memo",
 			"location" : "Sweden"
 		},				
@@ -1682,10 +1675,10 @@
 		{
 			"date" : "1947",
 			"desc" : "Einstein sees \"Greys\" for the first time",
-			"ref" : "anonymous (channeled) information (R.G.)",
+			"ref" : "anonymous information (R.G.)",
 			"type" : "rumor",
 			"location" : "Roswell, NM",
-			"attributes" : [ "Einstein", "channeled" ]
+			"attributes" : [ "Einstein", "gallant" ]
 		},
 		
 		{
@@ -1855,7 +1848,7 @@
 		
 		{
 			"date" : "5/15/1947",
-			"desc" : "UFO sighting in Oklahoma City: round, disc-like, ten times longer than thick, high speed, Project Grudge case #82. (Possibly 5/21/47)",
+			"desc" : "UFO sighting in Oklahoma City: round, disc-like, ten times longer than thick, high speed, Project Grudge case #82. (Possibly 5/21/1947)",
 			"ref" : "[link](https://medium.com/@richgel99/interesting-1961-letter-from-manhattan-project-scientist-dr-46a781aeccfb)",
 			"type" : "ufo sighting",
 			"location" : "Oklahoma City, OK"
@@ -1988,9 +1981,10 @@
 		{
 			"date" : "7/4/1947",
 			"desc" : "UFO crashes in Horse Mountain Canyon: 2 dead grays, one heavily injured, one surviving",
-			"ref" : "anonymous (channeled) information (R.G.)",
+			"ref" : "anonymous information (R.G.)",
 			"type" : "ufo crash",
-			"location" : "Magdalena, NM"
+			"location" : "Magdalena, NM",
+            "attributes" : [ "gallant" ]
 		},													
 		
 		{
@@ -2096,7 +2090,7 @@
 			"desc" : "Urgent FBI Memo from Gen. Roger Ramey concerning “flying disc information”: “Maj. Curtan, HQ 8th AF, telephonically advised this office that an object purporting to be a flying disc was recovered near Roswell, N.M., this date...Information provided this office because of national interest in case and fact that (certain media sources) attempting to break the story of location of disc today...(the recovered disc was) being transported to Wright Field by special plane for examination...Maj. Curtan advised would request Wright Field to advise (FBI) results of examination.”",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "memo",
-			"see_also" : [ "7/2/47", "7/7/47" ]
+			"see_also" : [ "7/2/1947", "7/7/1947" ]
 		},			
 		
 		{
@@ -2177,10 +2171,10 @@
 		
 		{
 			"date" : "7/1947",
-			"desc" : "Conclusion to an FBI/ARMY Intelligence Report: Based on a detailed study of the Kenneth Arnold case (6/24/47) and 15 other UFO encounters during the first month of the “flying saucer” mystery the conclusion is “this flying saucer situation is not all imaginary or seeing too much in some natural phenomenon. Something is really flying around.” (This report was declassified FOIA, 1976.)",
+			"desc" : "Conclusion to an FBI/ARMY Intelligence Report: Based on a detailed study of the Kenneth Arnold case (6/24/1947) and 15 other UFO encounters during the first month of the “flying saucer” mystery the conclusion is “this flying saucer situation is not all imaginary or seeing too much in some natural phenomenon. Something is really flying around.” (This report was declassified FOIA, 1976.)",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufological event",
-			"see_also" : [ "6/24/47", "9/23/47" ]
+			"see_also" : [ "6/24/1947", "9/23/1947" ]
 		},
 		
 		{
@@ -2188,13 +2182,13 @@
 			"desc" : "In a paper by U.S. Navy Physicist, Dr. Bruce Maccabee, he stated: “...the Air Force knew by the middle of July, 1947 that saucers were real and not manmade...the technology represented by the (recovered) disc...was so far beyond our own that it could not be understood immediately...Therefore it would be necessary to treat the disc as a military secret. This would mean containing all information about it within some small group.”",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufological event",
-			"see_also" : "1/31/49"
+			"see_also" : "1/31/1949"
 		},		
 		
 		{
 			"date" : "7/15/1947",
 			"desc" : "Memo to Mr. Ladd with a handwritten note from J. Edgar Hoover, Director of the FBI stating, ”...before agreeing (to the investigation of crashed saucers)...we must insist upon full access to discs recovered. For instance in the Soc. (Socorro, N.M.) case the Army grabbed it and would not let us have it for cursory examination.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E, p541, RECOVERY)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up), p541, RECOVERY)",
 			"type" : "memo"
 		},
 		
@@ -2255,33 +2249,33 @@
 		},
 		
 		{
-			"date" : "9/19/47",
+			"date" : "9/19/1947",
 			"desc" : "Dr. Bronk’s team determines the recovered saucer from NM is a short range reconnaissance craft (from a mother ship)",
 			"type" : "majestic document",
 			"attributes" : [ "Majestic" ],
-			"see_also" : "11/30/47",
+			"see_also" : "11/30/1947",
 			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)", "[link](https://coolinterestingstuff.com/the-facts-about-the-majestic-12-and-ufo-evidence)" ]
 		},
 		
 		{
-			"date" : "9/23/47",
+			"date" : "9/23/1947",
 			"desc" : "Secret Briefing Document to Brig. General George Schulgen, AC/AS-2, from Lt. Gen. Nathan F. Twining (MJ-4), Commanding Officer, AMC, stating: Flying Saucers are REAL! Concerning “Flying Discs” the phenomenon reported is something real, not fictitious. These objects approximate the shape of a disc and appear to be as large as man-made aircraft. They have operating characteristics such as extreme rate ofclimb and maneuverability. Under a Security Code Name copies of this information will be sent to Army, Navy, AEC, JRDB, SAG, NACA, RAND and NEPA Projects. (AAF Record, U-39552)",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "secret briefing",
-			"see_also" : [ "7/47", "9/15/50", "8/54" ]
+			"see_also" : [ "7/1947", "9/15/1950", "8/1954" ]
 		},		
 		
 		{
-			"date" : "9/24/47",
+			"date" : "9/24/1947",
 			"desc" : "A covert operation, MAJESTIC-12, is established and classified Top Secret by President H.Truman. It consists of 12 persons selected to control all branches of government, both military and non-military. This ultimately led to silencing of UFO witnesses, confiscating of UFO photos, harassing and debunking of witnesses (and rumors of worse). (ref. “Black Budget”; JMP letter)",
 			"type" : "majestic document",
 			"attributes" : [ "Majestic" ],
-			"see_also" : [ "2/15/87", "9/4/87", "7/47" ],
+			"see_also" : [ "2/15/1987", "9/4/1987", "7/1947" ],
 			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)", "[link](https://coolinterestingstuff.com/the-facts-about-the-majestic-12-and-ufo-evidence)" ]
 		},
 		
 		{
-			"date" : "9/28/47",
+			"date" : "9/28/1947",
 			"desc" : "Student and Einstein assistant Shirley J. Wright: Newspaper college freshman photo",
 			"ref" : "[link](https://github.com/richgel999/dr_shirley_wright)",
 			"type" : "scientist",
@@ -2289,7 +2283,7 @@
 		},		
 						
 		{
-			"date" : "10/47",
+			"date" : "10/1947",
 			"desc" : "Article on student and Einstein assistant Shirley J. Wright receiving Barry Scholarship",
 			"ref" : "[link](https://github.com/richgel999/dr_shirley_wright)",
 			"type" : "scientist",
@@ -2297,7 +2291,7 @@
 		},
 		
 		{
-			"date" : "10/1/47",
+			"date" : "10/1/1947",
 			"desc" : "First flight of the prototype jet fighter XP-86 flies from Muroc Dry Lake (now Edwards AFB), CA — led to the F-86 Sabre",
 			"ref" : "[Wikipedia](https://en.wikipedia.org/wiki/North_American_F-86_Sabre#Operational_history)",
 			"type" : "aerospace"
@@ -2434,7 +2428,7 @@
 		},		
 		
 		{
-			"date" : "11/30/47",
+			"date" : "11/30/1947",
 			"desc" : "In a Top Secret Document, Dr. Bronk’s scientific team classifies extraterrestrials as EBE’s (Extra Biological Entities).",
 			"type" : "majestic document",
 			"attributes" : [ "Majestic" ],
@@ -2494,7 +2488,7 @@
 		{
 			"date" : "1/7/1948",
 			"desc" : "Top Secret Report (100–203–79,p.12,sec. k.) Capt. Thomas Mantell, a Nat. Guard pilot, was killed trying to chase an UFO up to 30,000 ft. His last message to the tower was, “it appears to be metallic object....oftremendous size.directly ahead and slightly above....I am trying to close for a better look.” The F-51 exploded in mid-air and disintegrated before it struck the ground. The aircraft’s metal was hit with fragments before it collided with the ground. State Police estimated the saucer to be 250 ft. diam.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
 			"type" : "ufological event",
 			"location" : "Maysville, KN"
 		},						
@@ -2574,12 +2568,12 @@
 			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C, RECOVERY)", "[Twitter](https://twitter.com/richgel999/status/1552547805369143296)" ],
 			"type" : "crash retrieval",
 			"location" : "White Sands Proving Grounds, NM",
-			"see_also" : [ "3/25/48", "2/13/1948" ]
+			"see_also" : [ "3/25/1948", "2/13/1948" ]
 		},
 		
 		{
 			"date" : "4/1948 (estimated)",
-			"desc" : "Photographer Nicholas Van Poppen, an aerospace photography expert, tells Dr. George C. Tyler on 11/49 he flew from Hollywood with Dr. Wang to the Los Alamos complex and boards a bus with blacked-out windows. He sees and photographs a huge disc-shaped object sitting on the ground with military brass, intelligence guards and officers, and scientific personnel all around it, also photographs small bodies.",
+			"desc" : "Photographer Nicholas Van Poppen, an aerospace photography expert, tells Dr. George C. Tyler on 11/1949 he flew from Hollywood with Dr. Wang to the Los Alamos complex and boards a bus with blacked-out windows. He sees and photographs a huge disc-shaped object sitting on the ground with military brass, intelligence guards and officers, and scientific personnel all around it, also photographs small bodies.",
 			"ref" : "[link](https://www.amazon.com/UFO-Crash-Aztec-Well-Secret/dp/093426905X)",
 			"type" : "witness statement",
 			"location" : "Los Alamos, NM"
@@ -2598,7 +2592,7 @@
 		{
 			"date" : "4/5/1948",
 			"desc" : "Top Secret Report (100–203–79, p.12,Sec. L.): 3 trained balloon observers from the Geophysics Lab, NJ spot UFO moving quickly undergoing “violent” maneuvers at high speed near Holloman AFB",
-			"ref" : [ "[NICAP — Air Intelligence Report — ONI](http://www.nicap.org/docs/airintelrpt100-203-79.pdf)", "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)" ],
+			"ref" : [ "[NICAP — Air Intelligence Report — ONI](http://www.nicap.org/docs/airintelrpt100-203-79.pdf)", "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)" ],
 			"type" : "top secret report",
 			"location" : "Holloman AFB"
 		},
@@ -2618,7 +2612,7 @@
 		{
 			"date" : "4/30/1948",
 			"desc" : "Top Secret Report (100–203–79, p.12,Sec. M.): Lt. Comdr. Marcus L. Lowe while on a flight observed a yellow or light colored sphere 25 to 40 ft. diam. moving at a speed of approx. 100 mph against wind",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
 			"type" : "top secret report"
 		},
 		
@@ -2674,7 +2668,7 @@
 		{
 			"date" : "6/15/1948",
 			"desc" : "Top Secret Report (100–203–79,p.12,Sec.P-2): Mr. Booneville observed a reddish glow with a jet exhaust in the vicinity of Miles City, Montana. Made no sound, traveled at twice the speed of conventional aircraft",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E, p481)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up), p481)",
 			"type" : "ufo sighting",
 			"location" : "Miles City, MT"
 		},		
@@ -2692,7 +2686,7 @@
 		{
 			"date" : "7/1/1948",
 			"desc" : "Top Secret Report (100–203–79, p.12,Sec. N.): Maj. Hammer, Rapid City Air Base, reported seeing 12 discs over the base. These disks were oval-shaped and about 100 ft. diam., speed in excess of 500 mph. Made 30 and 40 degree climbing turn, accelerating very rapidly out of sight",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
 			"type" : "ufo sighting",
 			"location" : "Ellsworth Air Force Base"
 		},	
@@ -2701,7 +2695,7 @@
 		{
 			"date" : "7/17/1948",
 			"desc" : "Top Secret Report (100–203–79, p.12,Sec. O): Kirtland AFB reported 7 UFOs flying a “J” formation in the vicinity of San Acacia, N.M., at altitude of 20,000 ft. Formation varied from “J” to “L” to “O” after passing zenith. Est. speed 1500 mph",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
 			"type" : "ufo sighting",
 			"location" : "Kirtland Air Force Base"
 		},			
@@ -2709,10 +2703,10 @@
 		{
 			"date" : "7/20/1948",
 			"desc" : "Top Secret Report (100–203–79,p.12,Sec.Q): A.D. Otter and his daughter Arnham, in the Netherlands, sight UFO similar to the UFO sighted on July 25, 1948, by two Eastern Airlines pilots",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
 			"type" : "ufo sighting",
 			"location" : "Netherlands",
-			"see_also" : "7/25/48"
+			"see_also" : "7/25/1948"
 		},			
 		
 		{
@@ -2726,10 +2720,10 @@
 		{
 			"date" : "7/25/1948",
 			"desc" : "Top Secret Report (100–203–79,p.12,sec.Q): Two Eastern Airlines pilots reported seeing an object like a huge V-2 Rocket pass their jet. Sighted 4 times through scattered clouds and unlimited visibility, travelling at high speed and high altitude. Description: Appeared wingless, had two decks, and made a sound similar to that of a V-2.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
 			"type" : "ufo sighting",
 			"location" : "US",
-			"see_also" : [ "7/20/48", "8/3/48", "1/31/50" ]
+			"see_also" : [ "7/20/1948", "8/3/1948", "1/31/1950" ]
 		},
 		
 		{
@@ -2748,7 +2742,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo sighting",
 			"location" : "Moscow",
-			"see_also" : "7/25/48"
+			"see_also" : "7/25/1948"
 		},							
 		
 		{
@@ -2764,7 +2758,7 @@
 		{
 			"date" : "9/12/1948",
 			"desc" : "Top Secret Report (100–203–79,p.12,Sec.P-1) Pilot and Co-pilot of a Pan Am aircraft en route from Midway to Honolulu, saw a blue-white light approaching, changing to twin reddish glows upon withdrawal. Est. speed: 1000 knots",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
 			"type" : "ufo sighting",
 			"location" : "Midway"
 		},	
@@ -2802,7 +2796,7 @@
         {
 			"date" : "10/1/1948",
 			"desc" : "Top Secret Report (100–203–79,p.12,Sec.S) 2nd Lt. George F. Gorman (North Dakota Air Nat. Guard), sighted a UFO 3000 ft. below him while he was flying his F-51 at 4500 ft. The pilot pursued the UFO which took evasive tactics. The UFO out-turned, out-speeded and out-climbed the F-51 in every attempt at intercept. The pilot lost contact with the UFO.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p481, B1-F p234, B1-G p28)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481, B1-F p234, B1-G p28)",
 			"type" : "ufo sighting",
 			"location" : "North Dakota"
 		},	
@@ -2867,7 +2861,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)",
 			"type" : "report",
 			"location" : "Dayton, OH",
-			"see_also" : "3/52"
+			"see_also" : "3/1952"
 		},
 		
 		{
@@ -2927,7 +2921,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo sighting",
 			"location" : "Los Alamos, NM",
-			"see_also" : [ "1/31/49", "7/25/48" ]
+			"see_also" : [ "1/31/1949", "7/25/1948" ]
 		},
 		
 		{
@@ -2942,7 +2936,7 @@
         {
 			"date" : "1/13/1949",
 			"desc" : "CONFIDENTIAL 4th Army MESSAGE: Col. Eustis L. Poland stated: “Unconventional Aircraft” have been sighted (see Report, Control No. A-1917). Possible Radiological warfare tests are being made over sensitive Bases in NM area. A foreign power may be making “sensing shots” with some super-stratosphere devise designed to be self-disintegrating.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p482)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p482)",
 			"type" : "ufo sightings",
 			"location" : "NM"
 		},
@@ -2967,11 +2961,11 @@
 		
         {
 			"date" : "1/31/1949",
-			"desc" : "MEMO, Director of FBI: Flying Saucers have been discussed by the OSI, FBI and the Fourth Army and is “considered TOP SECRET by Intelligence Officers of both the Army and the Air Forces.” It was thought that the first UFOs over Sweden were of Russian origin. Memo also makes reference to the Eastern Airlines sighting of July 25, 1948. Also, on 10 different days, between 12/05/48 and 01/06/49, sightings of UFOs were concentrated over the A.E.C. plant at Los Alamos, N.M. (Circulation of this Memo to: El Paso, Little Rock, Dallas, Oklahoma City)",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p483, B1-G p30)",
+			"desc" : "MEMO, Director of FBI: Flying Saucers have been discussed by the OSI, FBI and the Fourth Army and is “considered TOP SECRET by Intelligence Officers of both the Army and the Air Forces.” It was thought that the first UFOs over Sweden were of Russian origin. Memo also makes reference to the Eastern Airlines sighting of July 25, 1948. Also, on 10 different days, between 12/05/1948 and 01/06/1949, sightings of UFOs were concentrated over the A.E.C. plant at Los Alamos, N.M. (Circulation of this Memo to: El Paso, Little Rock, Dallas, Oklahoma City)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p483, B1-G p30)",
 			"type" : "memo",
 			"location" : "NM",
-			"see_also" : [ "7/25/48", "7/47", "8/4/50" ]
+			"see_also" : [ "7/25/1948", "7/1947", "8/4/1950" ]
 		},
 		
         {
@@ -3189,10 +3183,10 @@
 
 		{
 			"date" : "11/1949",
-			"desc" : "Photographer Nicholas Van Poppen, an aerospace photography expert, tells Dr. George C. Tyler on 11/49 he flew from Hollywood with Dr. Wang to the Los Alamos complex and sees and makes detailed photographs of a large disc-like object.",
+			"desc" : "Photographer Nicholas Van Poppen, an aerospace photography expert, tells Dr. George C. Tyler on 11/1949 he flew from Hollywood with Dr. Wang to the Los Alamos complex and sees and makes detailed photographs of a large disc-like object.",
 			"ref" : "[book \"The UFO Crash at Aztec\" by Steinman and Stevens](https://www.amazon.com/UFO-Crash-Aztec-Well-Secret/dp/093426905X)",
 			"type" : "witness statement",
-			"see_also" : [ "3/25/48", "4/48" ]
+			"see_also" : [ "3/25/1948", "4/1948" ]
 		},
 		
         {
@@ -3233,7 +3227,7 @@
 
 		{
 			"date" : "12/31/1949",
-			"desc" : "Newspaper articles on a crash saucer “almost 3 years ago”, research program, exotic metals defying analysis, small occupants, very high technology, acclimation program references. There are 2 years, 5 months, 23 days between 7/8/47 and 12/31/49.",
+			"desc" : "Newspaper articles on a crash saucer “almost 3 years ago”, research program, exotic metals defying analysis, small occupants, very high technology, acclimation program references. There are 2 years, 5 months, 23 days between 7/8/1947 and 12/31/1949.",
 			"type" : "newspaper articles",
 			"ref" : [ "[link](https://www.newspapers.com/clip/105191549/crash-retrieval/)",
 			          "[link](https://www.newspapers.com/clip/107741958/wes-izzard-columnist-tells-story-of/)" ]
@@ -3314,7 +3308,7 @@
 			"desc" : "CLASSIFIED USAF Staff Message: At a radar station near New Mexico a person reported seeing 2 saucers. One was badly damaged the other almost perfectly intact. Description: Each consisted of 2 parts, a cockpit or cabin about 6 ft. diam.; a ring approx. 18 ft. across and 2 ft. thick surrounding cabin, resembling aluminum, but actual metal has defied analysis by the Dearborn Plant. Two crew members in the damaged ship were charred but in the undamaged ship the two crew members were perfectly preserved.",
 			"type" : "classified staff message",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p27, RECOVERY)",
-			"see_also" : [ "1/6/50", "1/30/50" ]
+			"see_also" : [ "1/6/1950", "1/30/1950" ]
 		},
 		
 		{
@@ -3331,7 +3325,7 @@
 			"type" : "newspaper article",
 			"ref" : "[Newspapers.com](https://www.newspapers.com/clip/115954706/car-dealer-reports-saucer-from-venus/)",
 			"location" : "Kodiak, Alaska",
-			"see_also" : "1/6/50"
+			"see_also" : "1/6/1950"
 		},
 		
 		{
@@ -3340,7 +3334,7 @@
 			"type" : "ufo sightings",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"location" : "Los Alamos, NM",
-			"see_also" : "1/6/50"
+			"see_also" : "1/6/1950"
 		},		
 		
 		{
@@ -3381,17 +3375,17 @@
 		
 		{
 			"date" : "3/22/1950",
-			"desc" : "FBI “Guy Hottel” Memo: 3 saucers recovered in NM (corroborating Frank Scully’s later book on 8/50). Description: Circular with raised centers, approx. 50 ft. diam. Each one occupied by 3 bodies, only 3 ft. tall, dressed in metallic suite, taped like high-speed flyers. It is believed that a very high powered Radar Station interfered with their control mechanisms, causing them to crash.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p116, B1-F p326, B1-E p527, RECOVERY)",
+			"desc" : "FBI “Guy Hottel” Memo: 3 saucers recovered in NM (corroborating Frank Scully’s later book on 8/1950). Description: Circular with raised centers, approx. 50 ft. diam. Each one occupied by 3 bodies, only 3 ft. tall, dressed in metallic suite, taped like high-speed flyers. It is believed that a very high powered Radar Station interfered with their control mechanisms, causing them to crash.",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A p116, B1-F p326, [\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p527, RECOVERY)",
 			"type" : "memo",
 			"location" : "Washington DC",
-			"see_also" : "3/25/48"
+			"see_also" : "3/25/1948"
 		},				
 		
 		{
 			"date" : "3/22/1950",
 			"desc" : "Dept. Transportation, Ottawa Canada, announces plans to build and test free energy geomagnetic engine. Also state that \"Dr. Vannevar Bush heads highest secret saucer research group in the USA",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A, B1-E p464)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A, [\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p464)",
 			"type" : "announcement",
 			"location" : "Ottawa, CA"
 		},				
@@ -3516,7 +3510,7 @@
 		{
 			"date" : "8/4/1950",
 			"desc" : "CONFIDENTIAL MEMO: From Lt. Colonel Mildren (G-3) to Maj. U.G. Carlan (GSC Survey Section): Since July 30, 1950, UFO’s have been sighted over the Hanford AEC Plant. Air Force jets fails to intercept them. FBI, anti-aircraft battalion, radar units and fighter squadrons alerted for further observation. Atomic Energy Commission still investigating.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p485)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p485)",
 			"type" : "ufo sightings",
 			"location" : "Hanford, WA"
 		},		
@@ -3524,10 +3518,10 @@
 		{
 			"date" : "9/15/1950",
 			"desc" : "In a conference between Canadian Wilbert Smith and Dr. Sarbacher (a consultant to the US Research and Development Board), scientist reveals Frank Scully’s 1950 \"Behind the Flying Saucers\" book is true and substantially correct, Flying Saucers exist, we haven’t been able to duplicate their performance, it’s pretty certain they didn’t originate on the earth, the subject is classified more highly than the H-bomb.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p519)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p519)",
 			"type" : "conference",
 			"location" : "Washington DC",
-			"see_also" : [ "9/23/47", "1/26/53" ]
+			"see_also" : [ "9/23/1947", "1/26/1953" ]
 		},
 		
 		{
@@ -3634,7 +3628,7 @@
 			"date" : "2/10/1951",
 			"desc" : "Confidential Memo to Air Transport Squadron One: Lt. Graham E. Bethune, U.S. Naval Reserve reported seeing a circular, reddish-orange UFO flying at a speed in excess of 1000 mph, approx. 300 ft. diam. approaching and reversing direction within 5 miles of his plane (Flight 125 from Keflavik, Iceland.)",
 			"type" : "ufo sighting",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E, p486)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up), p486)",
 			"location" : "Keflavik, Iceland"
 		},
 		
@@ -3723,7 +3717,7 @@
 		{
 			"date" : "9/10/1951",
 			"desc" : "CONFIDENTIAL Air Intel REPORT: Maj. Ballard and Lt. Rogers while flying at 20,000 ft. in a T-33 spotted a disc-shaped UFO the size of an F-86 flying below them at 8000 ft. It was travelling much faster than they were (900+ mph). It was steady in flight, with no visible means of propulsion and shiny silver in color. The radar station at Ft. Monmouth plotted the same UFO on radar at 1110 EDT flying above 700 mph. (p127 of Ruppelt’s book)",
-			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p487)", "[NICAP](http://www.nicap.org/chronos/1951fullrep.htm)" ],
+			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p487)", "[NICAP](http://www.nicap.org/chronos/1951fullrep.htm)" ],
 			"type" : "ufo sighting",
 			"location" : "Asbury, NJ"
 		},
@@ -3752,7 +3746,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "historical event",
 			"location" : "Dayton, OH",
-			"see_also" : [ "12/48", "3/52" ]
+			"see_also" : [ "12/1948", "3/1952" ]
 		},				
 		
 		{
@@ -3786,10 +3780,10 @@
 		{
 			"date" : "1952?",
 			"desc" : "SECRET SECURITY INFORMATION: CIA, (not dated): Walter B. Smith, (MJ-3 replacement), Director of CIA notifies the Psychological Strategy Board that “Flying Saucers” have implications for psychological warfare as well as for intelligence and operations. Suggests discussion on the possible offensive or defensive utilization of these phenomena for psychological warfare purposes.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p511)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p511)",
 			"type" : "secret information",
 			"location" : "Langley, Virginia",
-			"see_also" : "10/2/52"
+			"see_also" : "10/2/1952"
 		},	
 		
 		{
@@ -3806,7 +3800,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufological event",
 			"location" : "Dayton, OH",
-			"see_also" : [ "12/48", "10/51" ]
+			"see_also" : [ "12/1948", "10/1951" ]
 		},
 		
 		{
@@ -3814,7 +3808,7 @@
 			"desc" : "Life Magazine article: “Have We Visitors from Space?”",
 			"ref" : "[Medium](https://medium.com/@richgel99/interesting-1961-letter-from-manhattan-project-scientist-dr-46a781aeccfb)",
 			"type" : "article",
-			"see_also" : [ "12/48", "10/51" ]
+			"see_also" : [ "12/1948", "10/1951" ]
 		},
 		
 		{
@@ -3828,7 +3822,7 @@
 		{
 			"date" : "5/10/1952",
 			"desc" : "RESTRICTED USAF Intelligence Report signed by Col. William L. Travis, Chief USAF Intelligence Division. stating: at 2030 hours, in the city of Paphos, S.W. Cypress, a group of persons including a noted British Scientist sighted an UFO which appeared to rise sharply from the level of the sea and disappeared into the sky. It was of a circular shape and emitted a luminous light. It appeared to waver back and forth before fading out of sight directly overhead.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p540)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p540)",
 			"type" : "ufo sighting",
 			"location" : "Paphos, Cypress"
 		},		
@@ -3873,7 +3867,7 @@
 			"desc" : "While Operation INTERCEPT was in effect, two North American F-86 Operation INTERCEPT Sabre fighters were vectored onto a target UFO. The pilots had a broad daylight view of the UFO and fired tracer bullets at it before it accelerated out of range. The officer who fired the bullets was debriefed by his Colonel (name withheld) and the base commander told Capt. Ruppelt to destroy the report (according to Ruppelt himself).",
 			"type" : "ufo sighting",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
-			"see_also" : "7/52"
+			"see_also" : "7/1952"
 		},        
 		
         {
@@ -3898,13 +3892,13 @@
 			"desc" : "Washington, D.C.: Long range “overfly” RADAR picked up a formation of seven blips that were 15 miles south and not far from Andrews AFB. Radar operator, Ed Nugent, thought that they were military traffic until two of the targets suddenly accelerated at fantastic speeds and disappeared off the radar scope. These strange UFOs were monitored by Harry Barnes, Senior Controller, and controllers Howard Cocklin and Joe Zacko. Also, Andrews AFB had also been tracking the UFOs as they intruded over the White House which was Washington Air Space restricted air space. The UFOs were traveling at speeds of up to 7000 mph before stopping abruptly and then cruising about in unconventional patterns.",
 			"type" : "ufo sighting",
 			"location" : "Washington DC",
-			"see_also" : "7/26/52",
+			"see_also" : "7/26/1952",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)"
 		},        
 		
         {
 			"date" : "7/20/1952",
-			"desc" : "Classified Spot Intelligence Report (dated 7/23/52): 3 UFO spotted by 5 base personnel at Andrews AFB at 0030 hours EST. UFOs reddish orange in color, moving erratically at an undetermined altitude. Approach Control picked up another UFO at 0415 EST which was on the radar scope for 30 seconds before fading. Lt. Hyatt, Operations Officer during this period, said that he had been receiving “flying saucer” reports that evening and the objects had been picked up by radar.",
+			"desc" : "Classified Spot Intelligence Report (dated 7/23/1952): 3 UFO spotted by 5 base personnel at Andrews AFB at 0030 hours EST. UFOs reddish orange in color, moving erratically at an undetermined altitude. Approach Control picked up another UFO at 0415 EST which was on the radar scope for 30 seconds before fading. Lt. Hyatt, Operations Officer during this period, said that he had been receiving “flying saucer” reports that evening and the objects had been picked up by radar.",
 			"type" : "ufo sightings",
 			"location" : "Andrews AFB",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)"
@@ -3947,8 +3941,8 @@
 			"desc" : "Personal Minute from Prime Minister W.S. Churchill to Secretary of xxxxxxx Air Ministry stating: What does all this stuff about Flying Saucers amount to? What can it mean? What is the truth? Let me have a report at your convenience.",
 			"type" : "secret memo",
 			"location" : "Britain",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p505, Churchhill)",
-			"see_also" : "8/9/52"
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p505, Churchhill)",
+			"see_also" : "8/9/1952"
 		},						
 		
         {
@@ -3956,7 +3950,7 @@
 			"desc" : "SECRET, EYES ONLY MEMO to Deputy Director/Intelligence from Ralph L. Clark, Acting Assistant Director of Scientific Intelligence stating: In the past several weeks numerous UFOs have been sighted visually and on RADAR. This office (CIA) has maintained a continuing review of reputed sightings for the past three years and a special group has been formed to review the sightings to date. O/CI and O/SI will participate in this study and prepare a report on UFOs by August 15, 1952.",
 			"type" : "secret memo",
 			"location" : "Britain",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p505)"
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p505)"
 		},								
 		
 		{
@@ -3964,12 +3958,12 @@
 			"desc" : "SECRET MEMO to Director, CIA, from H. Marshall Chadwell, Office of Scientific Intelligence stating: ATIC has set up a worldwide reporting network for Flying Saucers and major Air Force bases have been ordered to make INTERCEPTIONS of UFO’s. Battello Memorial Institute is to handle machine indexing of all official reported sightings. From 1947 to date, there have been 1500 official sightings with 250 of them in 1952 alone. Of the 1500, 28% remain UNEXPLAINED. UFO’s are of such importance that the matter should be brought before the National Security Council.",
 			"type" : "secret memo",
 			"location" : "Dayton OH",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p31,506, war escalation)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p31,506, war escalation)",
 			"see_also" : [ "9/19/76", "5/10/80", "5/19/86", "9/4/87" ]
 		},								
 		
 		{
-			"date" : "End of 8/1/1952",
+			"date" : "8/1/1952",
 			"desc" : "CIA Memo from acting Chief of Weapons and Equipment Division: “It is strongly urged, however, that no indication of CIA interest or concern reach the press or public.”",
 			"type" : "secret memo",
 			"location" : "Langley, Virginia",
@@ -3981,8 +3975,8 @@
 			"desc" : "Reply from Air Ministry, Whitehall, S.W. to W.S. Churchill stating: All UFO sightings are either astronomical phenomena, mistaken sightings of balloons, birds, etc., optical illusions or hoaxes. The Americans have reached a similar conclusion.",
 			"type" : "secret memo",
 			"location" : "Britain",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p449)",
-			"see_also" : "7/28/52"
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p449)",
+			"see_also" : "7/28/1952"
 		},								
 		
 		{
@@ -3990,7 +3984,7 @@
 			"desc" : "CIA analysis report of a Vienna news article of a UFO report from the Belgian Congo: Commander Pierre of Elisabethville Airfield was sent out to intercept two Flying Saucers. They had a diam. of 12 to 15 meters with a stationary central hub with visible portholes and an extremely fast rotating outer disk that glowed as if on fire. Color similar to aluminum. They emitted a loud whistling sound which could be heard over his own engines. He estimated their speed at over 1500 kilometers/hour.",
 			"type" : "report",
 			"location" : "Langley, Virginia",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p512)"
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p512)"
 		},
 		
 		{
@@ -3999,7 +3993,7 @@
 			"type" : "memorandom",
 			"location" : "Langley, Virginia",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
-			"see_also" : "11/25/52"
+			"see_also" : "11/25/1952"
 		},
 		
         {
@@ -4014,10 +4008,10 @@
 		
 		{
 			"date" : "8/23/1952",
-			"desc" : "CIA analysis report of an Athens news article of an UFO landing in Communist Berlin, Germany: Former Mayor of Gleimershausen, Oscar Linke and his 11 year old daughter, Gabriella, spotted a landed Flying Saucer near the town of Hasselbach. The huge “frying pan” was approx. 13 to 15 meters in diameter and had two rows of holes on its periphery, about 30 centimeters in circumference. The space between the two rows was about 0.45 meters. On top was a black conical object about 3 meters high. Two men dressed in shiny metallic clothing were standing outside the craft. Upon hearing my daughters voice the two men retreated into the UFO which then began to rotate. As the UFO began to spin the conical tower slid down into the UFO and the UFO began to rise and rotate like a top. It seemed to be supported by the conical tower that was now underneath it. (More details were included in report, see 02/23/55, See also the movie “Earth vs. the Flying Saucers”)",
+			"desc" : "CIA analysis report of an Athens news article of an UFO landing in Communist Berlin, Germany: Former Mayor of Gleimershausen, Oscar Linke and his 11 year old daughter, Gabriella, spotted a landed Flying Saucer near the town of Hasselbach. The huge “frying pan” was approx. 13 to 15 meters in diameter and had two rows of holes on its periphery, about 30 centimeters in circumference. The space between the two rows was about 0.45 meters. On top was a black conical object about 3 meters high. Two men dressed in shiny metallic clothing were standing outside the craft. Upon hearing my daughters voice the two men retreated into the UFO which then began to rotate. As the UFO began to spin the conical tower slid down into the UFO and the UFO began to rise and rotate like a top. It seemed to be supported by the conical tower that was now underneath it. (More details were included in report, see 02/23/1955, See also the movie “Earth vs. the Flying Saucers”)",
 			"type" : "report",
 			"location" : "Langley, Virginia",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p513)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p513)",
 			"see_also" : "2/23/1955"
 		},
 		
@@ -4041,8 +4035,8 @@
 		
 		{
 			"date" : "9/20/1952",
-			"desc" : "Air Ministry, London: A number of airmen and officers of the R.A.F., Topcliffe, observed an UFO. As it descended it was swinging in a pendular motion like a falling leaf. Pendulous motion ceased and object began rotary motion about its own axis. Suddenly accelerated at an incredible speed. (9/19/52, cont’d) It was not identifiable with any known aircraft and acceleration was in excess of that of a shooting star! Craft was silver in color and circular. (Operation Mainbrace)",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p31,450, B1-G p43)",
+			"desc" : "Air Ministry, London: A number of airmen and officers of the R.A.F., Topcliffe, observed an UFO. As it descended it was swinging in a pendular motion like a falling leaf. Pendulous motion ceased and object began rotary motion about its own axis. Suddenly accelerated at an incredible speed. (9/19/1952, cont’d) It was not identifiable with any known aircraft and acceleration was in excess of that of a shooting star! Craft was silver in color and circular. (Operation Mainbrace)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p31,450, B1-G p43)",
 			"type" : "ufo sighting",
 			"location" : "North Yorkshire, England",
 			"see_also" : "9/20/1952"
@@ -4050,11 +4044,11 @@
 		
 		{
 			"date" : "9/20/1952",
-			"desc" : "An UFO similar to the Topcliffe one (see 9/19/52) is sighted over a U.S. Carrier ship out with the fleet between England and Scandinavia. An American photographer doing a story of the fleet exercise took pictures of the UFO which was ascertained not to have been a balloon. The Navy never released the photos of the UFO.",
+			"desc" : "An UFO similar to the Topcliffe one (see 9/19/1952) is sighted over a U.S. Carrier ship out with the fleet between England and Scandinavia. An American photographer doing a story of the fleet exercise took pictures of the UFO which was ascertained not to have been a balloon. The Navy never released the photos of the UFO.",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo sighting",
 			"location" : "Between England and Scandinavia",
-			"see_also" : "9/19/52"
+			"see_also" : "9/19/1952"
 		},		
 		
 		{
@@ -4063,13 +4057,13 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo sighting",
 			"location" : "North Sea",
-			"see_also" : [ "7/52", "6/24/53" ]
+			"see_also" : [ "7/1952", "6/24/1953" ]
 		},		
 		
 		{
 			"date" : "10/2/1952",
 			"desc" : "SECRET MEMO to Director CIA from H. Marshall Chadwell, Assistant Director of Scientific Intelligence: ATIC is the only group devoting appreciable effort to the study of UFOs. Flying Saucers pose two elements of danger to the United States. The first involves mass psychological considerations and the second concerns vulnerability of the U.S. to air attack. Recommend that the DCI discuss this subject with the Psychological Strategy Board.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p509)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p509)",
 			"type" : "secret memo",
 			"location" : "Langley, VA",
 			"see_also" : "11/25/1952"
@@ -4102,11 +4096,11 @@
 		
 		{
 			"date" : "11/25/1952",
-			"desc" : "(cont’d briefing from 8/20/52): Memorandum for Director CIA: Another meeting by A-2 and ATIC personnel was held on this date. UFOs must have immediate attention. UFOs have been sighted at great altitudes and at high speeds in the vicinity of major U.S. defense installations and can NOT be attributed to natural phenomena or KNOWN types of aerial vehicles. OSI is proceeding to establish an immediate PRIORITY research and development on UFOs under the aegis of CANIS. Signed: H. Marshall Chadwell.",
+			"desc" : "(cont’d briefing from 8/20/1952): Memorandum for Director CIA: Another meeting by A-2 and ATIC personnel was held on this date. UFOs must have immediate attention. UFOs have been sighted at great altitudes and at high speeds in the vicinity of major U.S. defense installations and can NOT be attributed to natural phenomena or KNOWN types of aerial vehicles. OSI is proceeding to establish an immediate PRIORITY research and development on UFOs under the aegis of CANIS. Signed: H. Marshall Chadwell.",
 			"ref" : "[link](https://cathyfox.wordpress.com/2021/03/22/mj4-majestic-dan-burisch-stargates-and-et/)",
 			"type" : "memorandum",
 			"location" : "Langley, VA",
-			"see_also" : [ "8/10/52", "10/2/52", "11/25/52" ]
+			"see_also" : [ "8/10/1952", "10/2/1952", "11/25/1952" ]
 		},				
 		
 		{
@@ -4115,7 +4109,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "statement",
 			"location" : "Langley, VA",
-			"see_also" : [ "10/2/52", "11/25/52" ]
+			"see_also" : [ "10/2/1952", "11/25/1952" ]
 		},
 		
 		{
@@ -4124,7 +4118,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "classified mission",
 			"location" : "Dayton, OH",
-			"see_also" : "9/21/52"
+			"see_also" : "9/21/1952"
 		},		
 		
 		{
@@ -4169,9 +4163,9 @@
 		{
 			"date" : "1/26/1953",
 			"desc" : "The Dept. of Defense, Washington, D.C. states in a letter to the Henry Holt & Co. that Maj. Donald Keyhoes’ book on “flying saucers” is accurate and that if the reported controlled maneuvers of the saucers are accurate then the saucers may be from another planet. Signed, Albert M. Chop, Air Force Press Desk.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A10, B1-E p542)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A10, [\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p542)",
 			"type" : "letter",
-			"see_also" : "9/15/50",
+			"see_also" : "9/15/1950",
 			"location" : "Washington DC"
 		},						
 
@@ -4189,7 +4183,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "crash retrieval",
 			"location" : "Kingman, AZ",
-			"see_also" : "5/21/53"
+			"see_also" : "5/21/1953"
 		},
 		
 		{
@@ -4198,7 +4192,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "crash retrieval",
 			"location" : "Kingman, AZ",
-			"see_also" : "5/20/53"
+			"see_also" : "5/20/1953"
 		},
 		
 		{
@@ -4220,7 +4214,7 @@
 		{
 			"date" : "6/24/1953",
 			"desc" : "USAF EMERGENCY Intelligence Report: Two jets out of Quonset Point have had mid-air collision at 2130E with UFO. American and Eastern Airlines pilots reported UFO. Jets fell in flames 15 miles West of Quonset Point.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p488)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p488)",
 			"type" : "ufo collision",
 			"location" : "Quonset Point, Rhode Island",
 			"see_also" : "6/26/1953"
@@ -4228,11 +4222,11 @@
 		
 		{
 			"date" : "6/26/1953",
-			"desc" : "USAF Intelligence Report, EMERGENCY JEDUP JEDEN JEDFF JEPHQ JEPRS 555. Distribution: OOP, OOP-CP, OAC, ARMY, NAVY, JCS, CIA, NSA, Tech Intelligence Center Wright Patterson AFB. (see 06/24/53 for details of report)",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p488)",
+			"desc" : "USAF Intelligence Report, EMERGENCY JEDUP JEDEN JEDFF JEPHQ JEPRS 555. Distribution: OOP, OOP-CP, OAC, ARMY, NAVY, JCS, CIA, NSA, Tech Intelligence Center Wright Patterson AFB. (see 06/24/1953 for details of report)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p488)",
 			"type" : "ufo collision",
 			"location" : "Dayton, OH",
-			"see_also" : "6/24/53"
+			"see_also" : "6/24/1953"
 		},
 		
 		{
@@ -4241,7 +4235,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo sighting",
 			"location" : "Oak Ridge, TN",
-			"see_also" : "7/27/53"
+			"see_also" : "7/27/1953"
 		},		
 		
 		{
@@ -4266,7 +4260,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "Confidential Message",
 			"location" : "Washington DC",
-			"see_also" : "7/19/53"
+			"see_also" : "7/19/1953"
 		},		
 
 		{
@@ -4307,10 +4301,10 @@
 		
 		{
 			"date" : "8/26/1953",
-			"desc" : "Regulation AFR 200–2 issued to Air Force personnel for reporting UFOs.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
+			"desc" : "Air Force Regulation 200-2 issued by Secretary of Air Force: \"Intelligence. Unidentified Flying Objects Reporting.\" Paragraph 9 forbids public release of unexplained sightings. Paragraph 8 requires classification of radar-scope photographs of UFOs. Air Force personnel instructed to discuss sightings only with \"authorized personnel.\" (Note rapid drop-off of officially reported sightings after this date.)",
+			"ref" : [ "The UFO Evidence page 22, Richard H. Hall", "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)" ],
 			"type" : "regulation",
-			"see_also" : "8/12/54"
+			"see_also" : "8/12/1954"
 		},			
 		
 		{
@@ -4354,7 +4348,7 @@
 		},			
 		
 		{
-			"date" : "mid 11/1953",
+			"date" : "Mid 11/1953",
 			"desc" : "Rumors a saucer and its occupant were in custody at Edwards AFB, originally heard up by ex-Naval aviator and intelligence officer George Williams. Recorded by author Frank Scully in his private notes now at the AHC.",
 			"ref" : "[Medium](https://medium.com/@richgel99/edwards-afb-1954-rumors-from-frank-scullys-private-notes-df6c32e910d4)",
 			"type" : "private notes",
@@ -4412,17 +4406,17 @@
 		
 		{
 			"date" : "1/24/1954",
-			"desc" : "Author Frank Scully records in his private notes 11/53 rumors of a saucer and its occupant in custody at Edwards AFB. He also records that an “industrial group” discussing matters that “confront the country” will be meeting at Muroc Dry Lake concerning the custody of several beings off a saucer.",
+			"desc" : "Author Frank Scully records in his private notes 11/1953 rumors of a saucer and its occupant in custody at Edwards AFB. He also records that an “industrial group” discussing matters that “confront the country” will be meeting at Muroc Dry Lake concerning the custody of several beings off a saucer.",
 			"ref" : "[Medium](https://medium.com/@richgel99/edwards-afb-1954-rumors-from-frank-scullys-private-notes-df6c32e910d4)",
 			"type" : "private notes",
 			"location" : "Edwards AFB",
-			"see_also" : [ "11/53", "12/53" ]
+			"see_also" : [ "11/1953", "12/1953" ]
 		},		
 		
 		{
 			"date" : "2/6/1954",
 			"desc" : "CONFIDENTIAL Air Force Staff Message: (DTG 061800Z) From Commander 19, A-Division, Carswell AFB, TX: UFO sighted over base. Had long fuselage, elliptical wings, stabilizer and no visible means of propulsion. It was larger than a B-36, had no tail, left no trail of exhaust and emitted no sound. Passed directly over tower at an Alt. of 3000 to 4000 ft. and was visible to all persons on duty. The UFO, when viewed on 10 mile scope gave a return of 1 inch. Copy of this report sent to: CSAF, WASH DC; COMDR ADC, ENT AFB, COLO; COMDR ATINTEL, CRT WPAFB, OHIO; COMDR 8TH AF, CARSWELL AFB, TEX.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p495)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p495)",
 			"type" : "ufo sighting",
 			"location" : "Carswell AFB, TX"
 		},
@@ -4433,7 +4427,7 @@
 			"ref" : "[book link](https://www.amazon.com/President-Eisenhowers-Close-Encounters-Blake-ebook/dp/B08KFM46H3)",
 			"type" : "ufo sighting",
 			"location" : "Edwards AFB, CA",
-			"see_also" : "4/2/54"
+			"see_also" : "4/2/1954"
 		},		
 		
 		{
@@ -4477,7 +4471,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B3-C, A5, RECOVERY, desert - NM)",
 			"type" : "crash retrieval",
 			"location" : "NM",
-			"see_also" : [ "2/10/54", "4/24/54", "3/7/55" ]
+			"see_also" : [ "2/10/1954", "4/24/1954", "3/7/1955" ]
 		},
 		
 		{
@@ -4505,7 +4499,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (RECOVERY)",
 			"type" : "crash retrieval",
 			"location" : "Edwards AFB",
-			"see_also" : "4/12/54"
+			"see_also" : "4/12/1954"
 		},				
 		
 		
@@ -4572,13 +4566,13 @@
 			"desc" : "Statement by Air Chief Marshall Lord Dowding, head of the RAF during WWII: “Of course the flying saucers are real! And, they are inter planetary!”",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "public statement",
-			"see_also" : [ "9/23/47", "10/9/55" ]
+			"see_also" : [ "9/23/1947", "10/9/1955" ]
 		},
 		
 		{
 			"date" : "8/12/1954",
 			"desc" : "EMERGENCY CIA MESSAGE: Sighted Saucer hovering at 2000 ft. above Maxwell AFB, Alabama. Dispatched local helicopter NBR ARMY267 to investigate. Definitely NOT a star. Helicopters fuel low, returned to base. In coming helicopter ARMY294 proceeded toward UFO which then completely disappeared. Pilot of ARMY294 lost sight of it, would be glad to be called upon to verify saucer light. Pilots of Army helicopters were: R.T. Wade, 506th helicopter Co., U.S. Tarma, also of the 506th, Ft. Genning, GA.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p493)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p493)",
 			"type" : "ufo sighting",
 			"location" : "Maxwell AFB"
 		},
@@ -4586,7 +4580,7 @@
 		{
 			"date" : "8/12/1954",
 			"desc" : "New updated reporting of UFOs. Regulation AFR 200–2, (see Aug. 26, 1953), by order of N.F. Twining (MJ-4), Chief of Staff, USAF.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p489)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p489)",
 			"type" : "ufo sighting",
 			"location" : "Washington DC",
 			"see_also" : "8/26/1953"
@@ -4636,10 +4630,10 @@
 		{
 			"date" : "2/23/1955",
 			"desc" : "Broadlands Archives Record: Sworn statement by Lord Mountbatten and Frederick Briggs describing a Saucer that landed on Lord Mountbattens property. It was shaped like a child’s humming top, between 10 to 30 ft. diameter. Looked like kitchen saucepan. Had cylindrical column about the size of a man descending from the center. Had portholes all around the middle, like a steamer boat. I noticed a man standing on the end of the central column. He was dressed in a dark suit of overalls, and wearing a close fitting hat or helmet. As the Saucer powered up a bright blue light came from one of the portholes (like a mercury-vapor lamp). A force knocked me over. The Flying Saucer proceeded to rise and retract the central column. (See movie ”Earth vs. the F.S.”)",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p451-453, ALIEN)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p451-453, ALIEN)",
 			"type" : "ce2 event",
 			"location" : "Britain",
-			"see_also" : "8/23/52"
+			"see_also" : "8/23/1952"
 		},
 		
 		{
@@ -4648,7 +4642,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A5, B3-C)",
 			"type" : "personnel discharged",
 			"location" : "Roswell, NM",
-			"see_also" : "4/12/54"
+			"see_also" : "4/12/1954"
 		},
 		
 		{
@@ -4852,7 +4846,7 @@
 			"desc" : "Sputnik 1 launched, transmits for 3 weeks, deorbits on 1/4/58",
 			"ref" : "[Wikipedia](https://en.wikipedia.org/wiki/Sputnik_1)",
 			"type" : "aerospace",
-			"see_also" : "11/12/57"
+			"see_also" : "11/12/1957"
 		},
 		
 		{
@@ -4869,11 +4863,11 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ce2 event",
 			"location" : "Loveland, TX",
-			"see_also" : "11/5/57"
+			"see_also" : "11/5/1957"
 		},				
 		
 		{
-			"date" : "11/5/57",
+			"date" : "11/5/1957",
 			"desc" : "A single investigator from Project Blue Book headquarters arrived at Loveland, TX. He interviewed only two persons who had stalled cars and reported that all the UFO activity in Texas between Nov. 2–4 was the result of a “rather heavy electrical storm…All witnesses saw the same streak of lightning…which stimulated the populace into a high level of excitement….and resulted in an inflation of stories by some witnesses.”",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "investigation",
@@ -4881,7 +4875,7 @@
 		},
 		
 		{
-			"date" : "11/12/57",
+			"date" : "11/12/1957",
 			"desc" : "FBI STATUS REPORT: “Ever since the Russians release ‘Sputnik’ there has been a great increase in the number of flying saucers and other UFOs reportedly seen by people all over the U.S.” [Angle: Artificial satellite spurs Alien interest in mankind. Other Angle: Artificial satellite causes populace to go sky crazy.]",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "status report",
@@ -4889,7 +4883,7 @@
 		},		
 		
 		{
-			"date" : "12/5/57",
+			"date" : "12/5/1957",
 			"desc" : "Engineer Norman S. Bean gives a talk titled “Satellites and Saucers”",
 			"ref" : "[NICAP](http://www.nicap.org/articles/Bean,%20N.pdf#page=6)",
 			"type" : "status report",
@@ -4897,7 +4891,7 @@
 		},				
 		
 		{
-			"date" : "12/28/57",
+			"date" : "12/28/1957",
 			"desc" : "Japanese science fiction movie “The Mysterians” is released",
 			"ref" : "[Wikipedia](https://en.wikipedia.org/wiki/The_Mysterians)",
 			"type" : "movie",
@@ -4972,9 +4966,9 @@
 
 		{
 			"date" : "4/1/1959",
-			"desc" : "An Air Force C-118 transport plane with four passengers suddenly radioed in ”MAYDAY, we’ve been hit!” Col. R.E. Booth told reporters that a mid-air collision had taken place at 8:19 p.m. APRG (Aerial Phenomena Research Group) investigators determined that from 7:00 p.m. on through the early evening several mysterious aerial explosions had shaken the Seattle, WA, area. Several residents had reported seeing mysterious UFOs from 20 miles north of the crash scene to about 8 miles southeast of it. These sightings were confirmed by the Orting Chief of Police and by Public Information Officer at Mc Chord AFB. Several persons told APRG investigator, R. Gribble, that as the C-118 passed over their area it was followed by 2 parachute-shaped objects and that the C-118 was missing its tail assembly. Mr. and Mrs. Bill Jones reported 3 or 4 parachute-shaped UFOs following the C-118 as it passed over their home. Chief of Police, Fred Emard, told R. Gribble that he would be glad to furnish information on the UFOs to APRG, but changed his mind the next day after an interview with an Air Force Colonel. “The Chief and other officials of Orting had been silenced,” Gribble reported.",
+			"desc" : "An Air Force C-118 transport plane with four passengers suddenly radioed in ”MAYDAY, we’ve been hit!” Col. R.E. Booth told reporters that a mid-air collision had taken place at 8:19 p.m. APRG (Aerial Phenomena Research Group) investigators determined that from 7:00 p.m. on through the early evening several mysterious aerial explosions had shaken the Seattle, WA, area. Several residents had reported seeing mysterious UFOs from 20 miles north of the crash scene to about 8 miles southeast of it. These sightings were confirmed by the Orting Chief of Police and by Public Information Officer at McChord AFB. Several persons told APRG investigator, R. Gribble, that as the C-118 passed over their area it was followed by 2 parachute-shaped objects and that the C-118 was missing its tail assembly. Mr. and Mrs. Bill Jones reported 3 or 4 parachute-shaped UFOs following the C-118 as it passed over their home. Chief of Police, Fred Emard, told R. Gribble that he would be glad to furnish information on the UFOs to APRG, but changed his mind the next day after an interview with an Air Force Colonel. “The Chief and other officials of Orting had been silenced,” Gribble reported.",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
-			"type" : "ufo midair collision",
+			"type" : "mid-air collision",
 			"location" : "Orting, WA",
 			"see_also" : [ "9/29/59", "5/61" ]
 		},																		
@@ -4983,7 +4977,7 @@
 			"date" : "9/29/1959",
 			"desc" : "Maj. R.O. Braswell, while flying an C-47 at 6500 ft. alt., spotted an UFO. “It was colored like a large red fire and looked like an atomic cloud”, he stated. At about 5 degrees above my plane it appeared massive and was at about 13000 ft. alt. The UFO appeared to be about 1000 ft. thick (top to bottom). Billie Guyton of Centerville, TX, also observed the UFO and said that he observed a smaller UFO emerge from it. Another ground observer, Jackie J. Cox, schoolteacher, saw a “bright light in the sky that spread to cover the entire sky.” W.S. Webb of Buffalo, N.Y., glanced out his bedroom window and saw a ball of fire shooting through the sky, after which he heard a noise, as if something was falling from the sky. The next day Braniff Airways Flight 542, carrying 28 passengers and 6 crew members, was found shredded in a thousand pieces. Subsequent inquiry found that there had been no fire or explosion aboard the jet before or after the crash and that scorch marks found on the exterior windows, fuselage and parted tail section showed signs of having been exposed to tremendous exterior heat. Also the force causing the plane to come down did not come from within the plane. Radar Operator, E.H. Tindale, later told investigators that he had plotted an UFO twice on the night Flight 542 crashed. Both plots of the UFO were in the area where the wreckage of the airliner was found. The UFO was stationary both times it was tracked.",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
-			"type" : "ufo midair collision",
+			"type" : "mid-air collision",
 			"location" : "Buffalo, Texas",
 			"see_also" : [ "4/1/59", "5/61" ]
 		},																		
@@ -5006,7 +5000,7 @@
 		
 		{
 			"date" : "1960's",
-			"end_date" : "mid 1980's",
+			"end_date" : "Mid 1980's",
 			"desc" : "ex-Navy worker Riley Hansard Crabb (April 2, 1912 — January 20, 1994) takes over as director of the BSRF. One of the first major things he does is discredit “Gerald Light”",
 			"ref" : "[link](https://borderlandsciences.org/cart/riley-hansard-crabb/)",
 			"type" : "research group"
@@ -5184,7 +5178,7 @@
 		
 		{
 			"date" : "11/22/1963",
-			"end_date" : "1/20/69",
+			"end_date" : "1/20/1969",
 			"desc" : "President Lyndon B. Johnson in office",
 			"ref" : "[Wikipedia](https://en.wikipedia.org/wiki/Lyndon_B._Johnson)",
 			"type" : "historical event"
@@ -5342,7 +5336,7 @@
 		
 		{
 			"date" : "1966",
-			"desc" : "Envelope found with hand written notes in private BSRA/BSRF archives containing the addresses of the 3 other named witnesses to the 4/54 Edwards AFB meeting.",
+			"desc" : "Envelope found with hand written notes in private BSRA/BSRF archives containing the addresses of the 3 other named witnesses to the 4/1954 Edwards AFB meeting.",
 			"ref" : "[Twitter](https://twitter.com/richgel999/status/1555315016508776448)",
 			"type" : "hand written note",
 			"location" : "San Diego, CA"
@@ -5447,7 +5441,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo sighting",
 			"location" : "Nha Trang, Vietnam",
-			"see_also" : "3/4/69"
+			"see_also" : "3/4/1969"
 		},
 		
 		{
@@ -5491,14 +5485,14 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-A)",
 			"type" : "majestic document",
 			"attributes" : [ "Majestic" ],
-			"see_also" : [ "1953", "12/69", "1976" ]
+			"see_also" : [ "1953", "12/1969", "1976" ]
 		},
 		
 		{
 			"date" : "1/19/1968",
 			"desc" : "DIA Intelligence Report from Liaison in Moscow, Russia mentioning an attempt by the British Government in 1967 to collaborate with the Soviets in UFO research.",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
-			"type" : "intelligence report (B1-E p543)",
+			"type" : "intelligence report ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p543)",
 			"see_also" : "2/22/68",
 			"location" : "Moscow, Russia"
 		},		
@@ -5514,7 +5508,7 @@
 		{
 			"date" : "2/22/1968",
 			"desc" : "UNCLASSIFIED AIR GRAM, U.S. Dept. of the State regarding UFOs in the Soviet Union: Feb. 1968, Soviet Life published three pages pertinent to UFOs, by Felix Zigel. He also published a UFO article in 1966. Until recently no study of UFOs had been made in the Soviet Union.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p473)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p473)",
 			"type" : "unclassified air gram",
 			"location" : "Soviet Union",
 			"see_also" : "1/19/68"
@@ -5579,7 +5573,7 @@
 		{
 			"date" : "10/1969",
 			"desc" : "Jimmy Carter sees and reports a UFO.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p516)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p516)",
 			"type" : "ufo sighting",
 			"location" : "Leary, Georgia"
 		},		
@@ -5619,7 +5613,7 @@
 		{
 			"date" : "10/2/1972",
 			"desc" : "A letter from the Dept. of National Defense, Canada, Brig. Gen. L.A. Bourgeois states: All UFOs reported to CFHQ are investigated by the Director of Operations. It isn’t a practice to allow the public to study these files. Since the beginning of 1968 these UFO reports have been passed along to the NRC. Evidence suggests that UFOs present no threat to the world. They exhibit a unique scientifically advanced technology.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p467)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p467)",
 			"type" : "letter",
 			"see_also" : "9/19/26"
 		},
@@ -5659,7 +5653,7 @@
 		{
 			"date" : "10/25/1973",
 			"desc" : "Director of FBI, Clarence M. Kelley, states: UFOs are not and never has been a matter that is within the investigative jurisdiction of the FBI.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p475)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p475)",
 			"type" : "statement",
 			"location" : "Washington DC"
 		},
@@ -5695,7 +5689,7 @@
 			"ref" : "[link](https://thesaucersthattimeforgot.blogspot.com/2018/05/robert-spencer-carr-and-hangar-18.html)",
 			"type" : "interview",
 			"location" : "Tampa, Florida",
-			"see_also" : "3/25/48"
+			"see_also" : "3/25/1948"
 		},
 		
 		{
@@ -5709,7 +5703,7 @@
 		{
 			"date" : "1/8/1975",
 			"desc" : "Confidential Spanish Report, Spanish Air Force: UFO spotted by military personnel at Las Bardenas Reales, near Zaragoza Air Base",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p459)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p459)",
 			"type" : "ufo sighting",
 			"location" : "Las Bardenas Reales, Spain"
 		},		
@@ -5717,7 +5711,7 @@
 		{
 			"date" : "3/28/1975",
 			"desc" : "Letter from Senator Barry Goldwater stating: Ten or twelve years ago I tried to get access to the building at Wright-Patterson (HANGER-18) where UFO artifacts were stored and I was understandably denied access. It is still classified above TOP SECRET. I’ve heard they plan to release some of the information in the near future and hope not to have to wait too much longer.",
-			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p2)", "See Barry Goldwater’s “Blue Room” letters and released FOIA Material 1975–1984, Burbank CA, asked General Curtis LeMay to see Blue Room" ],
+			"ref" : [ "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p2)", "See Barry Goldwater’s “Blue Room” letters and released FOIA Material 1975–1984, Burbank CA, asked General Curtis LeMay to see Blue Room" ],
 			"type" : "letter",
 			"location" : "Washington DC"
 		},				
@@ -5728,7 +5722,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p281)",
 			"type" : "ufo sighting",
 			"location" : "Haderslev, Denmark",
-			"see_also" : "3/4/69"
+			"see_also" : "3/4/1969"
 		},
 		
 		{
@@ -5737,7 +5731,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-F p282)",
 			"type" : "ce4 event",
 			"location" : "Alamogordo, NM",
-			"see_also" : "3/4/69"
+			"see_also" : "3/4/1969"
 		},
 		
 		{
@@ -5752,16 +5746,16 @@
 		{
 			"date" : "10/28/1975",
 			"desc" : "Confidential CINC/NORAD Report: UFOs, suspicious objects seen by ground personnel. Sounded like jet aircraft. Intermittent radar contact made with object. Jets scrambled to intercept but objects lights went out, interceptors passed and then came on again. Then the object increased in speed and raised to a high altitude and could not be discerned from the stars. Description: Through binoculars, looked like 100 ft. sphere and appeared to have craters around the outside. To date, AF and SAC helicopters have failed to provide a positive I.D. of the UFO.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p468)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p468)",
 			"type" : "ufo sighting",
 			"location" : "Loring AFB",
-			"see_also" : [ "11/11/75", "7/52" ]
+			"see_also" : [ "11/11/75", "7/1952" ]
 		},		
 		
 		{
 			"date" : "10/29/1975",
 			"desc" : "NMCC Joint Staff Memo: Subject: AFB penetration. At 290200 EST, AFOC informed NMCC that an unidentified helicopter (UFO), possibly two, had been sighted flying low over Loring AFB, Maine, in proximity to a weapons storage area. Army Nat. Guard helos called in to assist in locating UFO. NORAD informed of the incident by SAC. Received authority to proceed into Canadian airspace, if necessary, to locate UFO. A similar incident was reported the evening before.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p468)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p468)",
 			"type" : "ufo sighting",
 			"location" : "Loring AFB"
 		},				
@@ -5777,8 +5771,8 @@
 		
 		{
 			"date" : "11/11/1975",
-			"desc" : "Confidential CINC/NORAD Report",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p468)",
+			"desc" : "Confidential CINC/NORAD Report related to sightings over nuclear missile bases in 1975",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/468/mode/2up) p468)",
 			"type" : "ufo sighting",
 			"location" : "US",
 			"see_also" : "10/28/75"
@@ -5797,7 +5791,7 @@
 		{
 			"date" : "1/21/1976",
 			"desc" : "MEMO from NMCC by Rear Adm. J. B. Morin stating: Two UFOs reported near the flight line at Cannon AFB, N.M. Security Police report the UFOs to be 25 yards (75 ft.) in diameter, gold/silver in color with blue light on top, hole in the middle and red light on the bottom.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p524, B1-F p342)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p524, B1-F p342)",
 			"type" : "ufo sighting",
 			"location" : "Cannon AFB, NM"
 		},
@@ -5805,7 +5799,7 @@
 		{
 			"date" : "4/9/1976",
 			"desc" : "CONFIDENTIAL CIA Message: Source (name Censored) seeks guidance from CIA UFO experts as to material in his report that should remain classified.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p508)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p508)",
 			"type" : "confidential message",
 			"location" : "Langley, VA"
 		},
@@ -5821,7 +5815,7 @@
 		{
 			"date" : "9/19/1976",
 			"desc" : "Tehran, Iran: Civilians reported an UFO to the AFB. The Iranian AF scrambled an American F-4 for intercept. As the F-4 was vectored towards the brilliant UFO, all communications and instrumentation were suddenly lost. As the pilot broke off pursuit, all aircraft functions returned to normal. A second F-4 that was scrambled began closing in on the UFO at greater than Mach 1 and was closing on the UFO at 150 nautical mph., but the UFO accelerated and stayed ahead of the F-4 (confirmed by Radar). Multi-colored flashing lights were visible on the UFO. The moment the F-4 pilot tried to lock an AIM-9 missile at the UFO he lost all weapons panel and communication control. The UFO launched two smaller UFOs, one of which began to follow the F-4. After evasive action by the F-4, the smaller UFO returned and united with the larger UFO. The other smaller UFO seemed to have landed on the ground so the pilot flew down to investigate it. The landed UFO appeared to be 12feet in diameter. As the pilot descended the light from the landed UFO went out and he lost sight of it. The DIA termed this sighting as “an outstanding report. This case is a classic which meets all the criteria necessary for a study of a UFO phenomenon.” And, “an inordinate amount of maneuverability was displayed by the UFOs.”",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p497, TEHRAN, B1-F p288, B1-G p72)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p497, TEHRAN, B1-F p288, B1-G p72)",
 			"type" : "ufo sighting",
 			"location" : "Tehran, Iran",
 			"see_also" : [ "10/2/72", "9/20/76" ]
@@ -5853,7 +5847,7 @@
 		},
 		
 		{
-			"date" : "Late 70's",
+			"date" : "Late 1970's",
 			"desc" : "In an interview, Colonel-General Gennady Reshetnikov, chief of the Top Command Academy of the Air Defence Forces reported several incidents where aircraft were scrambled to chase UFO’s. He also investigated sightings of a cigar shaped object with portholes in the late 70’s over Arctic region of Norilsk, alarming local military units.",
 			"ref" : "[link](https://www.amazon.com/RUSSIAS-ROSWELL-INCIDENT-Amazing-Former-ebook/dp/B06XD2BNXV)",
 			"type" : "ufo sightings",
@@ -5872,7 +5866,7 @@
 		{
 			"date" : "9/1/1977",
 			"desc" : "Air Force Letter from Col. Charles H. Senn, Wash., D.C., to Gen. Duward L. Crow (Ret.), NASA, Wash., D.C. stating: Enclosed are the UFO Fact Sheet and standard response to UFO public inquiries you requested. I sincerely hope you are successful in preventing a reopening of UFO investigations.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p581)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p581)",
 			"type" : "letter",
 			"location" : "Washington DC"
 		},
@@ -5904,7 +5898,7 @@
 		{
 			"date" : "2/1/1978",
 			"desc" : "NASA Information Sheet claims NASA is not involved in a research program involving UFOs, nor is any other government agency. The U.S. Air Force no longer investigates UFOs. (see NASA arrest laws re. private citizens)",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p515)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p515)",
 			"type" : "information sheet",
 			"location" : "Washington DC"
 		},
@@ -5912,7 +5906,7 @@
 		{
 			"date" : "7/18/1978",
 			"desc" : "DoD Staff Message: UFO spotted over North Tehran, Iran",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p501)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p501)",
 			"type" : "ufo sighting",
 			"location" : "Tehran, Iran"
 		},
@@ -5928,7 +5922,7 @@
 		{
 			"date" : "10/21/1978",
 			"desc" : "Aircraft Accident Investigation Summary Report: Fredrick Valentich vanished while reporting a UFO playing cat and mouse with his airplane which was a Cessna 182L. It’s hovering above me… it’s got a greenlight and sort of metallic (like) it’s all shiny (on) the outside… it’s hovering and it’s Airplane not an aircraft… (end of transmission…pilot presumed dead).",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p461-463, B1-F p298)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p461-463, B1-F p298)",
 			"type" : "ufo encounter"
 		},
 		
@@ -5983,7 +5977,7 @@
 		{
 			"date" : "5/10/1980",
 			"desc" : "DoD Report: The FAP (Peruvian Air Force) spotted a UFO twice and tried to intercept and destroy the UFO without success.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p503)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p503)",
 			"type" : "ufo sighting",
 			"location" : "Area 51",
 			"see_also" : "7/1952"
@@ -6050,7 +6044,7 @@
 		{
 			"date" : "11/17/1980",
 			"desc" : "SECRET USAF OSI Document: Analysis of photo of UFO following C-5A aircraft inclusive. Photo analysis of Cylinder Shaped UFO legitimate. Photo E. showed legitimate disc shaped UFO of 37 ft. diameter with trilateral insignia on object. USAF still has an interest in all UFO sightings over installations and test ranges. Several other Government agencies, lead by NASA, actively investigate legitimate sightings through COVERT COVER. One agency that deceives the public which such covert cover is the UFO reporting center at U.S. Coast and Geodetic Survey, Rockville, MD. 20852. (The results of PROJECT AQUARIUS is still classified TOP SECRET with access limited to “MJ-12”.)",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p528)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p528)",
 			"attributes" : "majestic",
 			"type" : "secret document",
 			"location" : "US"
@@ -6076,7 +6070,7 @@
 		{
 			"date" : "12/27/1980",
 			"desc" : "USAF UFO report signed by Lt. Col. Charles I. Halt, Deputy Base Commander, RAF Woodbridge stating: Two USAF security police patrolmen saw a UFO either hovering or on legs outside the backgate, Woodbridge. Being early morning, it illuminated the entire forest with a white light. Description: Metallic in appearance and triangular in shape, pulsing red light on top and banks of blue lights underneath. Approx. 2–3 meters across and 2 meters high. It maneuvered through the trees and disappeared.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p456)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p456)",
 			"type" : "ufo sighting",
 			"location" : "RAF Woodbridge",
 			"see_also" : "12/29/1980"
@@ -6085,7 +6079,7 @@
 		{
 			"date" : "12/29/1980",
 			"desc" : "Lt. Col. C. I. Halt, sees a UFO that separates into 5 UFOs and later sees 3 other UFOs.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p456)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p456)",
 			"type" : "ufo sightings",
 			"location" : "RAF Woodbridge",
 			"see_also" : "12/27/1980"
@@ -6174,7 +6168,7 @@
 			"ref" : "[Twitter](https://twitter.com/richgel999/status/1552424352683016192)",
 			"type" : "telephone call",
 			"location" : "Clearwater FL",
-			"see_also" : "3/25/48"
+			"see_also" : "3/25/1948"
 		},				
 		
 		{
@@ -6237,7 +6231,7 @@
 		{
 			"date" : "11/29/1983",
 			"desc" : "Dr. Robert I Sarbacher, consultant US Research and Development Board and President and Chairman of the Board, Washington Institute of Technology, in a letter to Dr. William I. Steinman states that Frank Scully’s book (“Behind the Flying Saucers”) story is true and persons definitely involved in operations of recovered saucers were John von Neuman and Dr. Vannever Bush. Also, Dr. Sarbacher thought that Robert Oppenheimer was also involved. Dr. Sarbacher had been invited by President Eisenhower to attend several discussions associated with the reported recoveries, but was unable to attend them. He did receive Special Reports on the recoveries at the Pentagon but was instructed NOT to remove them from his office.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A2, B1-E p525, B1-G p49)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (A2, [\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p525, B1-G p49)",
 			"type" : "letter",
 			"location" : "US"
 		},
@@ -6245,7 +6239,7 @@
 		{
 			"date" : "1984",
 			"desc" : "From the Air Traffic Controllers Manual: Controllers MUST report UFOs immediately to AIS (Military), LATCC. A completed report MUST be sent to MOD (AFOR). A list of phone numbers and locations is shown in the directory at Appendix H.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p458)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p458)",
 			"type" : "manual",
 			"location" : "US"
 		},		
@@ -6319,14 +6313,14 @@
 			"date" : "6/28/1985",
 			"desc" : "USAF ACCESS RESTRICTED NOTICE: Report TR-DE-3A, Oct. 15, 1955, from Air Tech. Intel. Ctr., file no. TS5–2862, has been WITHDRAWN from the National Archives and is classified a TOP SECRET UFO Report.",
 			"type" : "report",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p529)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p529)",
 			"location" : "National Archives, Washington DC"
 		},		
 		
 		{
 			"date" : "8/27/1985",
 			"desc" : "Darlian, China, the “China Daily” reports: 20,000 people are involved in UFO research. The first recognized photo of a UFO in China was taken in 1945.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p472)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p472)",
 			"type" : "newspaper article",
 			"location" : "Darlian, China"
 		},		
@@ -6354,7 +6348,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo sightings",
 			"location" : ["Sao Paulo, Brazil", "Rio de Janeiro, Brazil" ],
-			"see_also" : "7/52"
+			"see_also" : "7/1952"
 		},
 		
 		{
@@ -6376,7 +6370,7 @@
 		{
 			"date" : "3/12/1987",
 			"desc" : "US Army Intelligence letter: The IPU (Interplanetary Phenomenon Unit) of the Scientific and Technical Branch, Counter intelligence Directorate, Department of the Army was disestablished during the 1950’s and never reactivated. All of its records were turned over to the USAF (which can’t seem to locate them). This letter was sent to Timothy Good.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (B1-E p484)",
+			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p484)",
 			"type" : "letter",
 			"location" : "US",
 			"see_also" : "5/16/84"
@@ -6396,7 +6390,7 @@
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) (JMP)",
 			"type" : "letter",
 			"location" : "Washington DC",
-			"see_also" : [ "7/52", "9/24/47" ]
+			"see_also" : [ "7/1952", "9/24/1947" ]
 		},		
 		
 		{
@@ -6937,11 +6931,12 @@
 		},
 		
 		{
-			"date" : "8/14/2018",
+			"date" : "6/13/2018",
+            "time" : "0400",
 			"desc" : "TTSA’s “ADAM Project” (an acronym for Acquisition & Data Analysis of Materials) hand delivers exotic materials claimed to be from a crashed UFO to EarthTech in Austin, TX.",
-			"ref" : "[YouTube](https://youtu.be/MzrnJtNbwZE))",
-			"type" : "delivery",
-			"location" : "Austin, TX"
+			"ref" : "[YouTube](https://youtu.be/MzrnJtNbwZE)",
+			"type" : "material delivery",
+			"location" : [ "San Diego, CA", "Austin, TX" ]
 		},		
 		
 		{
@@ -7166,7 +7161,478 @@
 				"[link](https://www.cbsnews.com/news/hundreds-more-ufo-sightings-included-latest-report/)" ],
 			"type" : "ufo sightings",
 			"location" : "US"
-		}									
+		},
+        
+        {
+			"date" : "7/1947",
+			"desc" : "The Air Force began investigating UFO reports seriously after sightings by airline pilots, other qualified observers.",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "investigation",
+			"location" : "US"
+		},									
+        
+        {
+			"date" : "9/23/1947",
+			"desc" : "The Chief of Air Technical Intelligence Center (ATIC) sent a letter to the Air Force Commanding General stating the conclusion of ATIC that UFOs were real, and urging the establishment of a permanent project to analyze future reports.",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, pg. 31](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "letter",
+			"location" : "US"
+		},									
+        
+        {
+			"date" : "1/22/1948",
+			"desc" : "Project \"Sign\" (popular name \"Saucer\") established at Wright-Patterson AFB, Ohio, to investigate UFO reports.",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "project established",
+			"location" : "Wright-Patterson AFB, Dayton OH"
+		},
+        
+        {
+			"date" : "9/1948",
+			"desc" : "Top Secret \"Estimate of the Situation\", concluding UFOs were interplanetary, sent from ATIC to Air Force Chief of Staff, General Hoyt S. Vandenberg. (Report was kicked back for additional proof; later declassified and burned).",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, pg. 62-63, 67](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "top secret report",
+			"location" : "US"
+		},
+        
+        {
+			"date" : "2/11/1949",
+			"desc" : "Project name changed to \"Grudge.\" Because of internal disagreement about the significance of UFOs, reports were then \"evaluated on the premise that UFOs couldn't exist.\"",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, pg. 85-88](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "project name change",
+			"location" : "US"
+		},
+        
+        {
+			"date" : "4/27/1949",
+			"desc" : "Project Saucer report released: About 30% of the sightings investigated to date were said to be explained as conventional objects. An equal number, the report said, probably would be explainable after further probing.",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "report released",
+			"location" : "US"
+		},
+        
+        {
+			"date" : "12/27/1949",
+			"desc" : "Project Grudge report released: Explained away all reports to date as delusions, hysteria, hoaxes and crackpot reports. Announcement that project had disbanded.",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "report released",
+			"location" : "US"
+		},
+        
+        {
+			"date" : "1950",
+            "end_date" : "1951",
+			"desc" : "This period has been called the \"Dark Ages\" of UFO investigation. Following the Project Grudge report, the project was not disbanded. However, those who believed in a more positive investigation could not win support for their views--until late in 1951 when the situation was reviewed partly due to public protests.",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "time period",
+			"location" : "US"
+		},
+        
+        {
+			"date" : "9/15/1951",
+			"desc" : "Lt. Jerry Cummings, and a Lt. Col. from ATIC, were called to Washington to brief a General (and a disgruntled group of industrialists and scientists) about the conduct of the investigation. Received orders to set up a new project.",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, pg. 128-130](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "briefing",
+			"location" : "US"
+		},
+        
+        {
+			"date" : "9/1951",
+			"desc" : "Capt. Edward J. Ruppelt became chief of the newly revitalized AF UFO project (which later became Project Blue Book).",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "personell assignment",
+			"location" : "US"
+		},
+        
+        {
+			"date" : "10/27/1951",
+			"desc" : "New AF UFO project (which later became Project Blue Book) officially established.",
+			"ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 154](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+			"type" : "project established",
+			"location" : "US"
+		},
+        
+        {
+            "date" : "3/1952",
+            "desc" : "Project Grudge had become a full-fledged organization, the \"Aerial Phenomena Group.\" Soon thereafter, the code name was changed to \"Blue Book.\"",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 176](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "organization established",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "4/1952",
+            "desc" : "Al Chop appointed public information officer for UFO's.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "personell appointment",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "4/1952",
+            "desc" : "Air Force Letter 200-5 gave Project Blue Book authority to cut red tape, contact any Air Force unit in the U.S. without going through channels; provided for wire transmission of reports to ATIC, followed with details via Air Mail.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "air force letter",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "4/7/1952",
+            "desc" : "Life Magazine article \"Have We Visitors From Space?\", inspired by several top officers in the Pentagon.",
+            "ref" : [ "[Project 1947: LIFE Magazine - April 7, 1952](http://www.project1947.com/shg/articles/lifemag52.html)",
+                      "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 177-178](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "magazine article",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "5/8/1952",
+            "desc" : "Capt. Ruppelt and a Lt. Col. from ATIC briefed Air Force Secretary Thomas K. Finletter for one hour.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 185](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "briefing",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "Mid 6/1952",
+            "desc" : "Capt. Ruppelt briefed General Samford, Director of Intelligence, others; given directive to take further steps to obtain positive identification of UFOs.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 196-199](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "briefing",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "Mid 7/1952",
+            "desc" : "Every Air Force installation in U.S. swamped with UFO reports.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 205](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "ufo sightings",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "8/1952",
+            "desc" : "Study of UFO maneuvers initiated, to determine whether objects displayed intelligent control.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 250-251](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "study initiated",
+            "location" : "Wright-Patterson AFB, Dayton OH"
+        },
+        
+        {
+            "date" : "11/1952",
+            "desc" : "Panel of four scientists convened at ATIC to make preliminary review of accumulated reports. Recommended convening panel of top scientists.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 250-251](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "scientific panel",
+            "location" : "Wright-Patterson AFB, Dayton OH"
+        },
+        
+        {
+            "date" : "1/12/1953",
+            "desc" : "The Air Force (reportedly with the assistance of the Central Intelligence Agency) convened a panel of top scientists to weigh the accumulated evidence. [\"Robertson Panel\" - headed by Howard P. Robertson] The panel was to decide whether the evidence indicated UFOs were interplanetary, whether it was all explainable, or whether the project should continue and seek better data. (p. 275). A study of UFO maneuvers concluding the objects were interplanetary was presented to the panel by Maj. Dewey Fournet.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 285](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "scientific panel",
+            "location" : "US"
+        },
+        
+         {
+            "date" : "1/17/1953",
+            "desc" : "The conclusions of the scientific Robertson Panel were not made public at the time. Since then, two conflicting versions have been released:<br/><br/>Conclusions Reported by Ruppelt, 1956: The panel recommended that the UFO project be expanded, the investigative force quadrupled in size and staffed by trained scientists; that tracking instruments be established all over the country, and that the public be told \"every detail of every phase\" of the investigation. The scientists believed this program would \"dispel any of the mystery\" created by military security procedures, and also keep the investigation on a scientific basis. The recommendations were not adopted.<br/><br/>Summary Released by Air Force, 1958: The panel concluded that UFOs constituted no \"direct physical threat to national security,\" there was no evidence of \"foreign artifacts capable of hostile acts,\" and no \"need for the revision of current scientific concepts.\" The panel recommended \"immediate steps to strip the Unidentified Flying Objects of the special status they have been given and the aura of mystery they have unfortunately acquired.\" The panel suggested \"an integrated program designed to reassure the public of the total lack of evidence of inimical forces behind the phenomena.\"<br/><br/>Exactly what transpired at the conclusion of this meeting is not clear, though it is strongly suggested that the whole story has not been told. If the decision of the panel had been clearly negative, as the 1958 summary implies, there would have been no reason to be so secretive about it. On the contrary, there would have been every reason to make an immediate public announcement.<br/><br/> What is known about the affair is the public manifestation of the UFO project following the meeting. After a period of apparent serious interest in gathering better data (which supports Ruppelt's version of the panel conclusions), the Air Force began debunking UFOs. Since then the Air Force does not admit to having the slightest shred of evidence that anything at all out of the ordinary is taking place.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt, page 293-298](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "scientific panel conclusions",
+            "location" : "US"
+        },
+                
+         {
+            "date" : "8/26/1953",
+            "desc" : "AF Regulation 200-2 issued by Secretary of Air Force; procedures for reporting UFOs, restrictions on public discussion.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "Air Force regulation",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "12/1/1953",
+            "desc" : "The Air Force announced in Washington it had set up cameras around the country equipped with diffraction gratings to analyze the nature of light from UFOs.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "public annoucement",
+            "location" : "Washington DC"
+        },
+        
+        {
+            "date" : "1/6/1954",
+            "desc" : "Reporters seeking information on UFOs were banned from Wright-Patterson AFB. [Cleveland Press]",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "historical event",
+            "location" : "Wright-Patterson AFB"
+        },
+        
+        {
+            "date" : "2/23/1954",
+            "desc" : "Scripps-Howard papers said the Air Force had worked out a plan with commercial airline companies to report sightings quickly.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "newspaper article",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "5/15/1954",
+            "desc" : "General Nathan F. Twining, Air Force Chief of Staff, stated the best brains in the country were working on the UFO problem; Air Force could not explain 10 per cent of the sightings. [Quoted by United Press; Amarillo, Texas].",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "public statement",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "5/5/1955",
+            "desc" : "Project Blue Book \"Special Report No. 14\" declassified.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "declassified report",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "10/25/1955",
+            "desc" : "Summary of Blue Book report released to press; linked with statement that Air Force would soon have its own saucer-shaped aircraft, the AVRO disc. (The AVRO disc project subsequently was scrapped without producing a flying model). Reported no evidence that UFOs \"constituted a threat to the security of the United States. . .\"",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "summary of report",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "1955",
+            "end_date" : "1957",
+            "desc" : "UFOs all but faded out of the news. Queries to the Air Force were answered by a \"fact sheet\" referring back to the 1955 report. A 1957 \"fact sheet\" stated the unexplained cases had been reduced \"from approximately 10% in 1954 to 3%, as of now.\"",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "USAF fact sheets",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "11/1957",
+            "desc" : "When the \"flap\" of UFO reports began about November 1, \"fact sheets\" were issued on the letterhead of the Department of Defense, Office of Public Affairs. These emphasized the percentages of explained cases, and again the lack of evidence of \"a threat to the security of the country.\"",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "USAF fact sheets",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "1958",
+            "end_date" : "1959",
+            "desc" : "USAF issues \"Fact Sheets\" - issued approximately semiannually.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "historical event",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "12/24/1959",
+            "desc" : "Air Force Inspector General brief to Operations and Training Commands: \"UFOs Serious Business.\" Stated that UFO investigators on base level \"should be equipped with binoculars, camera, geiger counter, magnifying glass and have a source for containers in which to store samples.\"",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "briefing",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "8/15/1960",
+            "desc" : "\"Air Force Information Policy Letter; For Commanders,\" Vol. XIV, No. 12, issued by Office of Secretary of Air Force. Under title \"AF Keeping Watchful Eye on Aerospace,\" stated, \"There is a relationship between the Air Force's interest in space surveillance and its continuous surveillance of the atmosphere near Earth for unidentified flying objects--'UFOs.'\"",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "policy letter",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "1960",
+            "end_date" : "1961",
+            "desc" : "Through its spokesman in the Pentagon, Lt. Col. Lawrence J. Tacker, the Air Force began answering critics of its UFO program publicly. Late in 1960, Col. Tacker's book [\"Flying Saucers and the U.S. Air Force\" by Lawrence J. Tacker](https://archive.org/details/flyingsaucersusa0000lawr) (Van Nostrand) was published, with a foreword by General Thomas D. White, Air Force Chief of Staff. Col. Tacker went on a public tour to publicize the book, appearing on radio and television, and giving lectures.",
+            "ref" : [ "Archive.org: [\"Flying Saucers and the U.S. Air Force\" by Lawrence J. Tacker](https://archive.org/details/flyingsaucersusa0000lawr)",
+                        "[Amazon: \"Flying Saucers and the U.S. Air Force\" by Lawrence J. Tacker](https://www.amazon.com/Flying-Saucers-U-S-Air-Force/dp/125818060X)",
+                        "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "book release",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "12/5/1960",
+            "desc" : "Debate with NICAP Director and USAF Col. Tacker on Dave Garroway's network television program.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "debate",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "12/18/1960",
+            "desc" : "Interview with USAF Col. Tacker on Westinghouse network radio program, \"Washington Viewpoint.\"",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "interview",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "3/17/1961",
+            "desc" : "USAF Col. Tacker lectures to the Aero Club of Buffalo, N.Y.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "lecture",
+            "location" : "Buffalo, NY"
+        },
+        
+         {
+            "date" : "3/1961",
+            "desc" : "Article in Argosy magazine. AF Col. Tacker used the strongest language to date in denouncing critics of the UFO investigation. Their claims were \"absolutely erroneous;\" \"a hoax:\" \"sensational theories:\" the work of \"amateur hobby groups.\" NICAP's evidence was \"drivel,\" its claims \"ridiculous\" and it was making \"senseless accusations.\" In April 1961, after being associated with the UFO project for over three years, Col. Tacker was shipped to Europe on \"routine reassignment.\"",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "magazine article",
+            "location" : "US"
+        },
+               
+         {
+            "date" : "6/1961",
+            "desc" : "The outspoken new policy, if that is what it was, apparently backfired. Angered by USAF Col. Tacker's attitude, NICAP members and other citizens deluged Congress with requests for an investigation of the Air Force project. Congressional hearings were contemplated but never came about. Instead, Air Force Congressional Liaison personnel briefed key Congressional committees in private.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "congressional briefings",
+            "location" : "US"
+        }, 
+        
+        {
+            "date" : "2/6/1962",
+            "desc" : "The Air Force issued the last \"fact sheet\" (No. 179-62) of the old style, then dropped that format.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "USAF fact sheets",
+            "location" : "US"
+        }, 
+                
+         {
+            "date" : "1963",
+            "end_date" : "1964",
+            "desc" : "In the past two years, packets of information-- including some details of specific cases--have been substituted for the generalized Air Force \"fact sheets.\" The unexplained cases for each year are briefly described. (In the new \"fact sheets\", the \"unknown\" category has been rendered meaningless by the inclusion of vague and incomplete cases. Formerly the term \"unknown\" was applied to the most detailed and inexplicable cases from the best observers. Now the distinction between \"unknowns\", and cases which lack detail or apparently have natural explanations, has been blurred.)",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "USAF fact sheets",
+            "location" : "US"
+        }, 
+        
+        {
+            "date" : "1947",
+            "end_date" : "1949",
+            "desc" : "USAF Investigation Summary: Serious investigation, conclusions UFOs real and interplanetary.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "investigation",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "1950",
+            "end_date" : "1951",
+            "desc" : "USAF Investigation Summary: These conclusions challenged on basis of lack of proof; \"explain-away\" approach adopted by investigators.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "investigation",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "1952",
+            "end_date" : "1953",
+            "desc" : "USAF Investigation Summary: After review of situation, new serious investigation started; evidence uncovered led many high-ranking officers to conclude UFOs were interplanetary.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "investigation",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "1954",
+            "end_date" : "1964",
+            "desc" : "USAF Investigation Summary: Evidence again challenged as \"proof,\" this time by panel of scientists. Conflicting versions of whether expanded investigation was recommended (and adopted) to obtain more data. Public relations program adopted to assure public UFOs posed no danger, or threat to national security.",
+            "ref" : [ "[\"The UFO Evidence\" (1964) by Richard H. Hall, page 106-108](https://www.amazon.com/UFO-Evidence-Richard-Hall/dp/0760706271)", 
+                      "[\"Report on Unidentified Flying Objects\" (Dec. 1956) by Capt. Edward J. Ruppelt](https://archive.org/details/reportonunidenti00rupp/mode/1up)" ],
+            "type" : "investigation",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "Spring 1959",
+            "desc" : "ex-CIA Whistleblower Kewper Stein (likely Oscar Wayne Wolff 1935-2015), part of the CIA's secret UFO investigation project, claims in the spring of 1959, he returned to Washington D.C. and met with President Eisenhower, Vice President Nixon, and a CIA official at FBI headquarters. A few FBI officials took part in the meeting but not Director J. Edgar Hoover. Stein gave these leaders a thorough briefing on his fact-finding mission. The evidence he shared included a variety of reports and photographic images of flying saucers and unknown aerial crafts taken by various sources worldwide. Eisenhower looked them over with substantial interest and made informed remarks. He seemed to know a good deal more than Nixon, who was seemingly “stunned” and somewhat “out of the loop” on the otherworldly topic. Decades later starting in the 1990's, Kewper claimed that Project Blue Book was just window dressing and for public relations, and the most interesting reports were secretly forwarded to the CIA for investigation.",
+            "ref" : [ "[\"Deanonymizing “Anonymous” (“Agent Kewper”)\" by Richard Geldreich, Jr.](https://medium.com/@richgel99/deanonymizing-anonymous-agent-kewper-a1284fdab3fe)",
+                "[\"Anonymous: A Former CIA Agent comes out of the Shadows to Brief the White House about UFOs\", by  C. Ronald Garner](https://www.amazon.com/Former-Agent-comes-Shadows-Brief/dp/1936517841)",
+                "\"The Nixon-Gleason Alien Encounter\" by Paul Blake Smith, page 10",
+                "[\"Ex-CIA Agent Deathbed Confession On UFOs: Visited Area-51 & Saw Living Aliens\"](https://www.howandwhys.com/ex-cia-agent-deathbed-confession-on-ufos-visited-area-51-saw-living-aliens/)",
+                "[Part 1: Army/CIA Unit Studied the Real UFO Blue Book Cases](https://www.lowelegacy.com/flying-saucers/part-1-army-cia-unit)" ],
+            "type" : "secret meeting",
+            "location" : "Washington DC"
+        },
+        
+        {
+            "date": "1951",
+            "location" : "Georgia", 
+            "desc" : "David Huggins was born in Georgia in 1943 on a farm and claims to be an abductee. At night strange creatures would appear in his bedroom and escort him to a metallic, egg shaped craft. On his first encounter he saw a short alien, covered in brown fur, with large glowing eyes. He also encountered an \"Alien Mantis\", which often seemed to be in control, followed by typical Alien Grays, eight the first time. There were also short creatures wearing identical blue jumpsuits, and a hybrid named Crescent who appeared initially as a mother figure. Crescent had large eyes, pale skin, long hair that seemed to be a wig, with definite human anatomical features. These encounters ceased when he was 11 and the family moved to Acworth, but then continued when he turned 17.",
+            "ref" : "[Website: \"The Night Sky II\", Article: David Huggins](https://www.thenightskyii.org/huggins.html)",
+            "type" : "abduction",
+            "location" : "Georgia"
+        },
+        
+        {
+            "date" : "11/16/2021",
+            "desc" : "In 2021, a woman in Argentina named Irma Rick, after regaining her memory of the event, claimed she was abducted by a bright UFO, carried for 40 miles, then left on a road 24 hours later where she was found and taken to a hospital. Details of her experience were scarce, and her phone, which would have traveled with her and could have clues to what happened, seems to have disappeared. She had unexplained injuries. Tracking dogs lost her scent near where she was allegedly abducted and government officials are still investigating the incident.",
+            "ref" : "[Website: \"The Night Sky II\", Article: Irma Rick](https://www.thenightskyii.org/irmarick.html)",
+            "type" : "abduction",
+            "location" : "Jacinto Aráuz, Hucal, La Pampa Province, Argentina"
+        },
+        
+        {
+            "date" : "3/1978",
+            "desc" : "David and several soldiers were out on a routine patrol. While resting David was putting on his backpack when he noticed a flash of light from an object just above the trees. The object was metallic and elliptical in shaped, was hovering 300' away and was completely silent. Then it shot away at an incredible speed without a sound. Years later, David had started having flashbacks of what really happened. He remembers putting on his backpack when a dwarf-like creature in a cloak and hood approached him. He said the creature would take him into the forest where he would be given something. He was led away from the rest of the group, who did not react at all to what was going on. He was taken to a clearing in the woods where a ship had landed.",
+            "ref" : "[Website: \"The Night Sky II\", Article: Soldier Meets His Doppelgänger](https://www.thenightskyii.org/david.html)",
+            "type" : "abduction",
+            "location" : "Near Bulawayo Zimbabwe"
+        },
+        
+        {
+            "date" : "1/6/1976",
+            "desc" : "Three women, Mona Stafford, Louise Smith and Elaine Thomas where driving on Hustonville Road in Stanford, KY around 11:15 p.m., headed for the home of Mrs. Smith. Their car began driving as if it had a mind of its own, reaching 85 MPH even though Mona was hitting the brakes. A glowing red UFO descended and emitted a bright light into the car with a gaseous hazy quality. The UFO stayed close to the car and the women described it as enormous, metallic and disk shaped with a dome on top, a ring of red lights around its mid section, and a yellow, blinking light on the bottom. When the chaos subsided, they were in the car still driving down the road at a normal speed, but they were covered with burns. Upon reaching Mrs. Smith's home, they realized it was 1:20 a.m., meaning they had over an hour of missing time. They contacted the police, and soon their story hit nationwide headlines. UFO investigators began studying their case eagerly, and found a number of strange verifiable phenomena. Mechanical and electrical devices often stopped working in their presence, and Mrs. Smith's pet bird went wild with fear in her presence, and no longer would allow her near it. All took polygraph tests administered by the Lexington Police Department. All passed. Under a series of hypnotic sessions, the women all recalled being abducted by alien beings on a spaceship, and probed in many uncomfortable ways. Elaine Thomas died two years after the abduction, of unknown causes. The women have sought no fame or fortune from their UFO experience, and have tried hard to be left alone.",
+            "ref" : "[Website: \"The Night Sky II\", Article: Stanford UFO Abductions](https://www.thenightskyii.org/stanford.html)",
+            "type" : "abduction",
+            "location" : "Stanford, KY"
+        }
 		
 	]
 
