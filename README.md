@@ -13,7 +13,7 @@
 * Dr. Donald A. Johnson - Copyright 2012
 * Fred Keziah - Copyright 1958
 * Dr. Jacques F. Vallée - Copyright 1993
-* NICAP
+* NICAP - Unknown copyright status
 * Richard Geldreich, Jr. - Copyright 2023
 
 Note: Although the C++ tool itself is open source with a permissive license (Apache 2.0), any commercial use of the copyrighted data in this repository may require permission from one or more copyright holders.
