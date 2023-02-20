@@ -7,7 +7,16 @@
 
 [json](https://github.com/nlohmann/json): Copyright (c) 2013-2022 Niels Lohmann (MIT license)
 
-Data files (in 'bin' directory): George M. Eberhart - Copyright 2022, LeRoy Pea - Copyright 9/8/1988 (updated 3/17/2005), Dr. Donald A. Johnson - Copyright 2012, Fred Keziah - Copyright 1958, Dr. Jacques F. Vallée - Copyright 1993
+## Data files (in 'bin' directory): 
+* George M. Eberhart - Copyright (c) 2022
+* LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005)
+* Dr. Donald A. Johnson - Copyright (c) 2012
+* Fred Keziah - Copyright (c) 1958
+* Dr. Jacques F. Vallée - Copyright (c) 1993
+* Richard Geldreich, Jr. - Copyright (c) 2023
+* NICAP - Unknown copyright status
+
+Note: Although the C++ tool itself is open source with a permissive license (Apache 2.0), any commercial use of the copyrighted data in this repository may require permission from one or more copyright holders.
 
 ## Instructions
 
