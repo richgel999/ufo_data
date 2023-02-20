@@ -125,7 +125,8 @@
 			"date" : "1890's",
 			"desc" : "The experimental proof of Maxwell’s equations was demonstrated by Heinrich Hertz in a series of experiments. After that, Maxwell’s equations were fully accepted by scientists.",
 			"ref" : "[link](https://teslauniverse.com/nikola-tesla/landmarks/colorado-springs-experimental-station)",
-			"type" : "[Wikipedia](https://en.wikipedia.org/wiki/History_of_Maxwell%27s_equations)"
+			"ref" : "[Wikipedia](https://en.wikipedia.org/wiki/History_of_Maxwell%27s_equations)",
+                        "type" : "scientific advance"
 		},		
 		
 		{ 
@@ -7632,6 +7633,24 @@
             "ref" : "[Website: \"The Night Sky II\", Article: Stanford UFO Abductions](https://www.thenightskyii.org/stanford.html)",
             "type" : "abduction",
             "location" : "Stanford, KY"
+        },
+        
+        {
+            "date" : "6/1944",
+            "location" : "Palmyra Atoll",
+            "desc" : "A Coast Guard ship receives a message that a Navy plane has been lost at sea, and they were requested to join the search. They searched for almost 24 hours and found nothing. The following night, Ed Ludwig (of Stockton, CA) while on watch notices a brilliant, globalar light in the sky that was absolutely silent. It was about three times brighter than the brightest star or planet, and large enough that he made out its roundness. It appeared stationary for a minute or so, then began to move in slow, slight movements. The witness had the feeling they were being watched, as if the ball was observing the island. It covered an area of the sky approx. 100 degrees. It speeded up and traveled away from the island towards the direction where the plane was lost.",
+            "ref" : [ "[BSRA Round Robin - Sept 1945 Edition, article by John P. Bessor](http://iapsop.com/archive/materials/journal_of_borderland_research/round_robin_v5_n6_sep_1949.pdf)", 
+            "[Twitter](https://twitter.com/richgel999/status/1558663538624892930)" ],
+            "type" : "ufo sighting"
+        },
+        
+        {
+            "date" : "1967",
+            "end_date" : "1969",
+            "location" : "Santa Monica, California",
+            "desc" : "A $500,000 effort by the [McDonnell-Douglas Aircraft Company](https://en.wikipedia.org/wiki/McDonnell_Douglas) (formely the [Douglas Aircraft Company](https://en.wikipedia.org/wiki/Douglas_Aircraft_Company)), to derive some commercial advantage from studying UFO reports (including reports by abductees and contactees). They planned a mobile field unit to gather data using various instruments and also employed a psychic.",
+            "ref" : [ "[Isaac Koi's Blog](https://isaackoiup.blogspot.com/2022/09/mcdonnell-douglas-aircraft-company-ufo.html)", "Oke Shannon's notes", "Presentation by Dr. Robert M. Wood" ],
+            "type" : "UFO research project"
         }
 		
 	]

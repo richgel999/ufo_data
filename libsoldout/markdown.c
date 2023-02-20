@@ -26,6 +26,7 @@
 #ifdef _MSC_VER
 #include <string.h> /* for strncasecmp */
 #define strncasecmp _strnicmp
+#pragma warning (disable:4100)
 #else
 #include <strings.h> /* for strncasecmp */
 #endif
@@ -747,7 +748,7 @@ char_link(struct buf *ob, struct render *rndr,
 	if (i < size && data[i] == '(') {
 		size_t span_end = i;
 		
-		int level = 0;
+		int in_level = 0;
 #if 0
 		while (span_end < size && !(data[span_end] == ')' && (span_end == i || data[span_end - 1] != '\\')))
 		{
@@ -759,13 +760,13 @@ char_link(struct buf *ob, struct render *rndr,
 		{
 			if (data[span_end] == ')' && (span_end == i || data[span_end - 1] != '\\'))
 			{
-				level--;
-				if (!level)
+				in_level--;
+				if (!in_level)
 					break;
 			}
 			else if (data[span_end] == '(' && (span_end == i || data[span_end - 1] != '\\'))
 			{
-				level++;
+				in_level++;
 			}
 
 			span_end += 1;

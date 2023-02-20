@@ -21,6 +21,7 @@
 #ifdef _MSC_VER
 #include <string.h>
 #define strncasecmp _strnicmp
+#pragma warning (disable:4100)
 #else
 #include <strings.h>
 #endif
