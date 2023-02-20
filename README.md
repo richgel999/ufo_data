@@ -1,11 +1,13 @@
 # UFO Event Timeline Processing Tool
 
 ## Copyrights:
-[ufojson](https://github.com/richgel999/ufo_data) tool: Copyright (c) 2023 By [Richard Geldreich, Jr.](https://medium.com/@richgel99) (Apache 2.0 license)
+* [ufojson](https://github.com/richgel999/ufo_data) tool: Copyright (c) 2023 By [Richard Geldreich, Jr.](https://medium.com/@richgel99) (Apache 2.0 license)
 
-[libsoldout](https://github.com/faelys/libsoldout): Copyright (c) 2009, Natacha Porté (ISC license)
+* [libsoldout](https://github.com/faelys/libsoldout): Copyright (c) 2009, Natacha Porté (ISC license)
 
-[json](https://github.com/nlohmann/json): Copyright (c) 2013-2022 Niels Lohmann (MIT license)
+* [json](https://github.com/nlohmann/json): Copyright (c) 2013-2022 Niels Lohmann (MIT license)
+
+* Some portions of the specific file udb_tables.h (such as get_hatch_geo, g_hatch_continents) use strings/tables from the ["uDb" project by Jérôme Beau](https://github.com/RR0/uDb).
 
 ## Data files (in 'bin' directory): 
 * George M. Eberhart - Copyright (c) 2022
@@ -15,7 +17,7 @@
 * Dr. Jacques F. Vallée - Copyright (c) 1993
 * Richard Geldreich, Jr. - Copyright (c) 2023
 * NICAP - Unknown copyright status
-* Some portions of the specific file udb_tables.h (such as get_hatch_geo, g_hatch_continents) use strings from the ["uDb" project by Jérôme Beau](https://github.com/RR0/uDb). The license of his project us known.
+* *U* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142)
 
 Note: Although the C++ tool itself is open source with a permissive license (Apache 2.0), any commercial use of the copyrighted data in this repository may require permission from one or more copyright holders.
 
