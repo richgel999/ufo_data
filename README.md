@@ -15,6 +15,7 @@
 * Dr. Jacques F. Vallée - Copyright (c) 1993
 * Richard Geldreich, Jr. - Copyright (c) 2023
 * NICAP - Unknown copyright status
+* Some portions of the specific file udb_tables.h (such as get_hatch_geo, g_hatch_continents) use strings from the ["uDb" project by Jérôme Beau](https://github.com/RR0/uDb). The license of his project us known.
 
 Note: Although the C++ tool itself is open source with a permissive license (Apache 2.0), any commercial use of the copyrighted data in this repository may require permission from one or more copyright holders.
 
