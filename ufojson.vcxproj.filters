@@ -33,6 +33,21 @@
     <ClCompile Include="libsoldout\renderers.c">
       <Filter>Source Files\libsoldout</Filter>
     </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="markdown_proc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="udb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ufojson_core.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="converters.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="libsoldout\array.h">
@@ -46,6 +61,27 @@
     </ClInclude>
     <ClInclude Include="libsoldout\renderers.h">
       <Filter>Source Files\libsoldout</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="markdown_proc.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="udb.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ufojson_core.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="udb_tables.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="converters.h">
+      <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

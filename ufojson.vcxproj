@@ -72,20 +72,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="converters.cpp" />
     <ClCompile Include="libsoldout\array.c" />
     <ClCompile Include="libsoldout\buffer.c" />
     <ClCompile Include="libsoldout\markdown.c" />
     <ClCompile Include="libsoldout\renderers.c" />
+    <ClCompile Include="markdown_proc.cpp" />
+    <ClCompile Include="udb.cpp" />
+    <ClInclude Include="converters.h" />
+    <ClInclude Include="udb_tables.h" />
     <ClCompile Include="ufojson.cpp">
       <WarningLevel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Level4</WarningLevel>
       <WarningLevel Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Level4</WarningLevel>
     </ClCompile>
+    <ClCompile Include="ufojson_core.cpp" />
+    <ClCompile Include="utils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="libsoldout\array.h" />
     <ClInclude Include="libsoldout\buffer.h" />
     <ClInclude Include="libsoldout\markdown.h" />
     <ClInclude Include="libsoldout\renderers.h" />
+    <ClInclude Include="markdown_proc.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="udb.h" />
+    <ClInclude Include="ufojson_core.h" />
+    <ClInclude Include="utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
