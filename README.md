@@ -17,7 +17,7 @@
 * Dr. Jacques F. Vallée - Copyright (c) 1993
 * Richard Geldreich, Jr. - Copyright (c) 2023
 * NICAP - Unknown copyright status
-* *U* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142)
+* \*U\* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142)
 
 Note: Although the C++ tool itself is open source with a permissive license (Apache 2.0), any commercial use of the copyrighted data in this repository may require permission from one or more copyright holders.
 
