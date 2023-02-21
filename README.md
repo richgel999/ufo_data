@@ -17,7 +17,7 @@
 * Dr. Jacques F. Vallée - Copyright (c) 1993
 * Richard Geldreich, Jr. - Copyright (c) 2023
 * NICAP - Unknown copyright status
-* \*U\* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142)
+* \*U\* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142). According to David Marler, Executive Director of the [National UFO Historical Records Center](http://www.nufohrc.org/), "The family has verbally given permission for the database to be used. If you need to speak with them, I have their contact info."
 
 Note: Although the C++ tool itself is open source with a permissive license (Apache 2.0), any commercial use of the copyrighted data in this repository may require permission from one or more copyright holders.
 
@@ -29,3 +29,8 @@ Currently, the tool is Windows only, but it would be trivial to port to Linux/OS
 
 Here's the output [Markdown file converted to PDF](ufo_timeline_v1_04.pdf). The latest HTML timeline is published [here](http://www.subquantumtech.com/timeline/timeline.html).
 
+## Special Thanks
+
+* Thanks to David Marler, Executive Director of the [National UFO Historical Records Center](http://www.nufohrc.org/), for assistance in recovering Hatch's DOS-era UFO program.
+
+* Thanks to Jérôme Beau, creator of the ["uDb" project](https://github.com/RR0/uDb), for releasing his database tool. His output and code was very useful.
