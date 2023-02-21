@@ -1,6 +1,8 @@
 # UFO Event Timeline Processing Tool
 
 ## Copyrights:
+
+### Code:
 * [ufojson](https://github.com/richgel999/ufo_data) tool: Copyright (c) 2023 By [Richard Geldreich, Jr.](https://medium.com/@richgel99) (Apache 2.0 license)
 
 * [libsoldout](https://github.com/faelys/libsoldout): Copyright (c) 2009, Natacha Porté (ISC license)
