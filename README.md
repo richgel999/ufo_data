@@ -17,7 +17,7 @@ Although the C++ tool itself is open source with a permissive license (Apache 2.
 * George M. Eberhart - Copyright (c) 2022
 * LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was given for use as long as he is attributed.
 * Dr. Donald A. Johnson - Copyright (c) 2012
-* Fred Keziah - Copyright (c) 1958
+* Fred Keziah - Copyright (c) 1958. This poster hasn't been updated in 65 years, so it's probably fine for commercial usage.
 * Dr. Jacques F. Vallée - Copyright (c) 1993
 * Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage permitted as long as attribution is given.
 * NICAP - Unknown copyright status
