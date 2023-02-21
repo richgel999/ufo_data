@@ -13,7 +13,7 @@
 
 ### Data files (in 'bin' directory): 
 * George M. Eberhart - Copyright (c) 2022
-* LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission given for use as long as his name is associated with the records.
+* LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was given for use as long as he is attributed.
 * Dr. Donald A. Johnson - Copyright (c) 2012
 * Fred Keziah - Copyright (c) 1958
 * Dr. Jacques F. Vallée - Copyright (c) 1993
