@@ -19,7 +19,7 @@ Although the C++ tool itself is open source with a permissive license (Apache 2.
 * Dr. Donald A. Johnson - Copyright (c) 2012
 * Fred Keziah - Copyright (c) 1958
 * Dr. Jacques F. Vallée - Copyright (c) 1993
-* Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage is acceptable as long as attribution is given.
+* Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage permitted as long as attribution is given.
 * NICAP - Unknown copyright status
 * \*U\* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142). According to David Marler, Executive Director of the [National UFO Historical Records Center](http://www.nufohrc.org/), "The family has verbally given permission for the database to be used. If you need to speak with them, I have their contact info."
 
