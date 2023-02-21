@@ -12,7 +12,7 @@
 * Some portions of the specific file udb_tables.h (such as get_hatch_geo, g_hatch_continents) use strings/tables from the ["uDb" project by Jérôme Beau](https://github.com/RR0/uDb).
 
 ### Data files (in 'bin' directory): 
-Although the C++ tool itself is open source with a permissive license (Apache 2.0), **any commercial use of the copyrighted data in this repository (in any format, textual, JSON, Markdown, HTML etc.) may require permission from one or more copyright holders**:
+Although the C++ tool itself is open source with a permissive license (Apache 2.0), **any commercial use of the copyrighted data in this repository (in any format, textual, JSON, Markdown, HTML, raw binary records, etc.) may require permission from one or more copyright holders**:
 
 * George M. Eberhart - Copyright (c) 2022
 * LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was given for use as long as he is attributed.
