@@ -1,0 +1,6 @@
+Pakistan nuclear tests
+
+Date       Time         Lat       Long      Depth  mb     y      ymax  type         name          source   
+--------   ----------   -------   -------   -----  ----   ----   ----  ----------   ------------  ------
+05/28/98   10:16:17.6   28.8300   64.9500   0.00   4.87                NUCP_SALVO   -             BARKER
+05/30/98   06:54:54.9   28.4900   63.7300   0.00   4.60                NUCP         -             PDE
