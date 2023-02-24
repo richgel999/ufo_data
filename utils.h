@@ -180,6 +180,8 @@ bool string_begins_with(const std::string& str, const char* pPhrase);
 // Case insensitive
 bool string_ends_in(const std::string& str, const char* pPhrase);
 
+std::string string_slice(const std::string& str, size_t ofs, size_t len = UINT32_MAX);
+
 inline char to_hex(uint32_t val)
 {
     assert(val <= 15);
@@ -192,16 +194,20 @@ uint32_t crc32(const uint8_t* pBuf, size_t size, uint32_t init_crc = 0);
 
 bool read_binary_file(const char* pFilename, uint8_vec& buf);
 
-bool read_text_file(const char* pFilename, string_vec& lines, bool trim_lines = true, bool* pUTF8_flag = nullptr);
+bool read_text_file(const char* pFilename, string_vec& lines, bool trim_lines, bool* pUTF8_flag);
 
-bool read_text_file(const char* pFilename, std::vector<uint8_t>& buf, bool& utf8_flag);
+bool read_text_file(const char* pFilename, std::vector<uint8_t>& buf, bool *pUTF8_flag);
 
 bool write_text_file(const char* pFilename, string_vec& lines, bool utf8_bom = true);
 
 bool serialize_to_json_file(const char* pFilename, const json& j, bool utf8_bom);
 
-bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std::string& title, string_vec& col_titles);
+bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std::string& title, string_vec& col_titles, bool empty_line_seps, const char *pExtra_col_text);
 
 bool invoke_curl(const std::string& args, string_vec& reply);
 
 void convert_args_to_utf8(string_vec& args, int argc, wchar_t* argv[]);
+
+bool invoke_openai(const std::string& prompt, std::string& reply);
+
+std::string get_deg_to_dms(double deg);

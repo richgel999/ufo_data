@@ -5066,7 +5066,7 @@ OH
 
 BBU
 
-Delaware?\]. Paines
+At 1400 to 1430 hours, witnesses at Ashley and Delaware, Ohio, observed a long and narrow cylinder-shaped object moving slowly to the southwest. The object was silver in color and one witness described the object as leaning and then right itself and move along perpendicular. The object was clearly outlined.
 
 480409
 

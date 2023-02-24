@@ -436,9 +436,10 @@ bool read_text_file(const char* pFilename, string_vec& lines, bool trim_lines, b
     return true;
 }
 
-bool read_text_file(const char* pFilename, std::vector<uint8_t>& buf, bool& utf8_flag)
+bool read_text_file(const char* pFilename, std::vector<uint8_t>& buf, bool *pUTF8_flag)
 {
-    utf8_flag = false;
+    if (pUTF8_flag)
+        *pUTF8_flag = false;
 
     FILE* pFile = ufopen(pFilename, "rb");
     if (!pFile)
@@ -461,7 +462,8 @@ bool read_text_file(const char* pFilename, std::vector<uint8_t>& buf, bool& utf8
         ((uint8_t)buf[1] == UTF8_BOM1) &&
         ((uint8_t)buf[2] == UTF8_BOM2))
     {
-        utf8_flag = true;
+        if (pUTF8_flag)
+            *pUTF8_flag = true;
 
         buf.erase(buf.begin(), buf.begin() + 3);
     }
@@ -550,11 +552,11 @@ static std::string extract_column_text(const std::string& str, uint32_t ofs, uin
 }
 
 // Note: This doesn't actually handle utf8. It assumes ANSI (code page 252) text input.
-bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std::string& title, string_vec& col_titles)
+bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std::string& title, string_vec& col_titles, bool empty_line_seps, const char* pExtra_col_text)
 {
     string_vec lines;
     bool utf8_flag = false;
-    if (!read_text_file(pFilename, lines, utf8_flag))
+    if (!read_text_file(pFilename, lines, true, &utf8_flag))
         panic("Failed reading text file %s", pFilename);
 
     if (utf8_flag)
@@ -563,7 +565,7 @@ bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std:
     if (!lines.size() || !lines[0].size())
         panic("Expected title");
 
-    if (lines.size() < 6)
+    if (lines.size() < 5)
         panic("File too small");
 
     for (uint32_t i = 0; i < lines.size(); i++)
@@ -626,10 +628,13 @@ bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std:
     for (uint32_t i = 0; i < column_info.size(); i++)
     {
         col_titles[i] = col_line;
-
+                
         if (column_info[i].first)
             col_titles[i].erase(0, column_info[i].first);
 
+        if (column_info[i].second > col_titles[i].size())
+            panic("invalid columns");
+                
         col_titles[i].erase(column_info[i].second, col_titles[i].size() - column_info[i].second);
         string_trim(col_titles[i]);
     }
@@ -647,26 +652,29 @@ bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std:
         string_vec rec_lines;
         rec_lines.push_back(lines[cur_line++]);
 
-        while (cur_line < lines.size())
+        if (empty_line_seps)
         {
-            if (!lines[cur_line].size())
-                break;
-
-            rec_lines.push_back(lines[cur_line++]);
-        }
-
-        // cur_line should be blank, or we're at the end of the file
-        if (cur_line < lines.size())
-        {
-            cur_line++;
-            if (cur_line < lines.size())
+            while (cur_line < lines.size())
             {
                 if (!lines[cur_line].size())
-                    panic("Expected non-empty line");
+                    break;
+
+                rec_lines.push_back(lines[cur_line++]);
+            }
+
+            // cur_line should be blank, or we're at the end of the file
+            if (cur_line < lines.size())
+            {
+                cur_line++;
+                if (cur_line < lines.size())
+                {
+                    if (!lines[cur_line].size())
+                        panic("Expected non-empty line");
+                }
             }
         }
 
-        uprintf("%u:\n", cur_record_index);
+        //uprintf("%u:\n", cur_record_index);
         //for (uint32_t i = 0; i < rec_lines.size(); i++)
         //    uprintf("%s\n", rec_lines[i].c_str());
 
@@ -696,17 +704,15 @@ bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std:
             }
         }
 
+        if (pExtra_col_text)
+            col_lines.push_back(pExtra_col_text);
+
         // Convert from ANSI (code page 252) to UTF8.
         for (auto& l : col_lines)
             l = ansi_to_utf8(l);
 
-        for (uint32_t col_index = 0; col_index < column_info.size(); col_index++)
-        {
-            uprintf("%s\n", col_lines[col_index].c_str());
-        }
-
-        uprintf("\n");
-
+        rows.push_back(col_lines);
+        
         cur_record_index++;
     }
 
@@ -794,11 +800,11 @@ bool invoke_curl(const std::string& args, string_vec& reply)
         return true;
     }
 
-    if (!read_text_file("__temp.html", reply))
+    if (!read_text_file("__temp.html", reply, true, nullptr))
     {
         // Wait a bit and try again, rarely needed under Windows.
         Sleep(50);
-        if (!read_text_file("__temp.html", reply))
+        if (!read_text_file("__temp.html", reply, true, nullptr))
             return false;
     }
 
@@ -811,4 +817,83 @@ void convert_args_to_utf8(string_vec& args, int argc, wchar_t* argv[])
 
     for (int i = 0; i < argc; i++)
         args[i] = wchar_to_utf8(argv[i]);
+}
+
+std::string string_slice(const std::string& str, size_t ofs, size_t len)
+{
+    if (!len)
+        return "";
+
+    if (ofs > str.size())
+    {
+        assert(0);
+        return "";
+    }
+
+    const size_t max_len = str.size() - ofs;
+
+    len = std::min(len, max_len);
+
+    std::string res(str);
+    if (ofs)
+        res.erase(0, ofs);
+    
+    if (len)
+        res.resize(len);
+    
+    return res;
+}
+
+bool invoke_openai(const std::string& prompt, std::string& reply)
+{
+    reply.clear();
+
+    // Write prompt to i.txt
+    FILE* pFile = ufopen("i.txt", "wb");
+    fwrite(prompt.c_str(), prompt.size(), 1, pFile);
+    fclose(pFile);
+
+    // Invoke openai.exe
+    int status = system("openai.exe i.txt o.txt");
+    if (status != EXIT_SUCCESS)
+        return false;
+
+    // Read output file.
+    string_vec lines;
+    if (!read_text_file("o.txt", lines, true, nullptr))
+    {
+        // Wait a bit and try again, rarely needed under Windows.
+        Sleep(50);
+        if (!read_text_file("o.txt", lines, true, nullptr))
+            return false;
+    }
+
+    // Skip any blank lines at the beginning of the reply.
+    uint32_t i;
+    for (i = 0; i < lines.size(); i++)
+    {
+        std::string s(lines[i]);
+        string_trim(s);
+        if (s.size())
+            break;
+    }
+
+    for (; i < lines.size(); i++)
+        reply += lines[i];
+
+    return true;
+}
+
+std::string get_deg_to_dms(double deg)
+{
+    deg = std::round(fabs(deg) * 3600.0f);
+
+    int min_secs = (int)fmod(deg, 3600.0f);
+
+    deg = std::floor((deg - (double)min_secs) / 3600.0f);
+
+    int minutes = min_secs / 60;
+    int secs = min_secs % 60;
+
+    return string_format("%02i%:%02i:%02i", (int)deg, minutes, secs);
 }

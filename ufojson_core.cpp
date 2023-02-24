@@ -2,6 +2,8 @@
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "ufojson_core.h"
 
+#define TIMELINE_VERSION "1.14"
+
 // Note that May ends in a period.
 const char* g_months[12] =
 {
@@ -1032,7 +1034,7 @@ bool timeline_event::operator==(const timeline_event& rhs) const
     COMP(m_atomic_mt);
     COMP(m_source_id);
     COMP(m_source);
-    COMP(m_udb_data);
+    COMP(m_key_value_data);
 #undef COMP
     return true;
 }
@@ -1069,7 +1071,7 @@ void timeline_event::print(FILE* pFile) const
 
     for (uint32_t i = 0; i < m_refs.size(); i++)
         fprintf(pFile, "**Reference:** %s  \n", m_refs[i].c_str());
-        
+
     if (m_source.size() && m_source_id.size())
     {
         fprintf(pFile, "**Source:** %s, **ID:** %s  \n", m_source.c_str(), m_source_id.c_str());
@@ -1088,7 +1090,11 @@ void timeline_event::print(FILE* pFile) const
 
         for (uint32_t i = 0; i < m_attributes.size(); i++)
         {
-            fprintf(pFile, "%s", m_attributes[i].c_str());
+            const std::string& x = m_attributes[i];
+            if ((x.size() >= 5) && (x[3] == ':') && (uisupper(x[0]) && uisupper(x[1]) && uisupper(x[2])))
+                fprintf(pFile, "**%s**%s", string_slice(x, 0, 4).c_str(), string_slice(x, 4).c_str());
+            else
+                fprintf(pFile, "%s", x.c_str());
 
             if (i != (m_attributes.size() - 1))
                 fprintf(pFile, ", ");
@@ -1113,18 +1119,18 @@ void timeline_event::print(FILE* pFile) const
         fprintf(pFile, "**Atomic KT:** %s  \n", m_atomic_kt.c_str());
     if (m_atomic_mt.size())
         fprintf(pFile, "**Atomic MT:** %s  \n", m_atomic_mt.c_str());
-                
-    if (m_udb_data.size())
+
+    if (m_key_value_data.size())
     {
-        fprintf(pFile, "  \n**UDB Data:** ");
-        
+        fprintf(pFile, "  \n**Extra Data:** ");
+
         uint32_t total_printed = 0;
-        for (const auto& x : m_udb_data)
+        for (const auto& x : m_key_value_data)
         {
             fprintf(pFile, "**%s:** \"%s\"", x.first.c_str(), x.second.c_str());
             total_printed++;
 
-            if (total_printed != m_udb_data.size())
+            if (total_printed != m_key_value_data.size())
             {
                 fprintf(pFile, ", ");
             }
@@ -1373,9 +1379,9 @@ void timeline_event::from_json(const json& obj, const char* pSource_override, bo
         m_source = (*source);
     }
 
-    m_udb_data.clear();
+    m_key_value_data.clear();
 
-    const json::const_iterator udb_data = obj.find("udb");
+    const json::const_iterator udb_data = obj.find("key_vals");
     if (udb_data != obj.end())
     {
         if (!udb_data->is_object())
@@ -1389,7 +1395,7 @@ void timeline_event::from_json(const json& obj, const char* pSource_override, bo
             if (!x.key().size() || !x.value().size())
                 panic("Empty strings");
 
-            m_udb_data.push_back(std::make_pair(x.key(), x.value()));
+            m_key_value_data.push_back(std::make_pair(x.key(), x.value()));
         }
     }
 }
@@ -1455,10 +1461,10 @@ void timeline_event::to_json(json& j) const
     if (m_source.size())
         j["source"] = m_source;
 
-    if (m_udb_data.size())
+    if (m_key_value_data.size())
     {
-        auto &udb_obj = (j["udb"] = json::object());
-        for (const auto& x : m_udb_data)
+        auto &udb_obj = (j["key_vals"] = json::object());
+        for (const auto& x : m_key_value_data)
         {
             assert(x.first.size() && x.second.size());
 
@@ -1467,9 +1473,24 @@ void timeline_event::to_json(json& j) const
     }
 }
 
-bool ufo_timeline::write_markdown(const char* pTimeline_filename)
+bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pDate_range_desc, int begin_year, int end_year)
 {
     const std::vector<timeline_event>& timeline_events = m_events;
+
+    uint32_t first_event_index = UINT32_MAX, last_event_index = 0;
+    for (uint32_t i = 0; i < timeline_events.size(); i++)
+    {
+        const int y = timeline_events[i].m_begin_date.m_year;
+
+        if ((y >= begin_year) && (y <= end_year))
+        {
+            first_event_index = std::min(first_event_index, i);
+            last_event_index = std::max(last_event_index, i);
+        }
+    }
+    
+    if (first_event_index > last_event_index)
+        panic("Can't find events");
 
     FILE* pTimeline_file = ufopen(pTimeline_filename, "w");
     if (!pTimeline_file)
@@ -1482,7 +1503,7 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename)
 
     std::map<int, int> year_histogram;
 
-    fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline v" TIMELINE_VERSION " - Compiled 2/19/2023</a>\n\n");
+    fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, %s, v" TIMELINE_VERSION " - Compiled 2/23/2023</a>\n\n", pDate_range_desc);
 
     fputs(
         u8R"(An automated compilation by <a href="https://twitter.com/richgel999">Richard Geldreich, Jr.</a> using public data from <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e">Dr. Jacques Vallée</a>,
@@ -1501,12 +1522,16 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename)
 - Larry Hatch - Copyright (c) 1992-2002
 
 ## Update History:
+- v1.14: Added nuclear test data, over 2000 records, from the [Worldwide Nuclear Explosions](https://web.archive.org/web/20220407121213/https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf) paper by Yang, North, Romney, and Richards. Note the locations in the paper are approximate, and the yields are not super accurate, which are two problems I'll fix over time. I improved the coordinates of the earliest USA/USSR tests by looking them up from Wikipedia.
+- v1.13: Split up the timeline into 4 parts. Still not the best solution, but it avoids croaking browsers.
 - v1.12: Added \*U\* database record data, using a custom event description decoder to handle his 1k+ abbreviations and custom syntax
 - v1.11: Crawled all ~10.5k unique URL's in this timeline using [curl](https://curl.se/) and fixed dead URL's to use archive.org.
 - v1.10: Added NIPCAP DB data.
 
 ## Important Notes:
 Best viewed on a desktop/laptop, not a mobile device.
+
+I've split up the timeline into 4 parts, to reduce their sizes: distant past up to 1949, 1950-1959, 1960-1979, and 1980-present.
 
 The majority of the events in this chronology are sighting related, however it's important to be aware that this is a timeline of 
 UFO/UAP related _events_, not necessarily or exclusively UFO _sightings_. 
@@ -1518,7 +1543,13 @@ Currently, the events are not sorted by time of day, only by date. Some sources 
 A few events don't have firm dates, for example "Summer of 1947", or "Late July 1952". In these instances the compilation code uses fixed dates I selected for date sorting purposes. (See the code for the specific dates.)
 
 ## Source Code:
-This website is created automatically using a [C++](https://en.wikipedia.org/wiki/C%2B%2B) command line tool called “ufojson”. It parses the raw text and [Markdown](https://en.wikipedia.org/wiki/Markdown) source data to [JSON format](https://www.json.org/json-en.html), which is then converted to a single large web page using [pandoc](https://pandoc.org/). This tool's source code and all of the raw source and JSON data is located [here on github](https://github.com/richgel999/ufo_data).)", pTimeline_file);
+This website is created automatically using a [C++](https://en.wikipedia.org/wiki/C%2B%2B) command line tool called “ufojson”. It parses the raw text and [Markdown](https://en.wikipedia.org/wiki/Markdown) source data to [JSON format](https://www.json.org/json-en.html), which is then converted to a single large web page using [pandoc](https://pandoc.org/). This tool's source code and all of the raw source and JSON data is located [here on github](https://github.com/richgel999/ufo_data).
+
+## Year Ranges
+1. [Part 1: Distant past up to and including 1949](timeline.html)
+2. [Part 2: 1950 up to and including 1959](timeline_part2.html)
+3. [Part 3: 1960 up to and including 1979](timeline_part3.html)
+4. [Part 4: 1980 to present](timeline_part4.html))", pTimeline_file);
 
     fprintf(pTimeline_file, "\n\n## Table of Contents\n\n");
 
@@ -1526,7 +1557,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 
     std::set<uint32_t> year_set;
     int min_year = 9999, max_year = -10000;
-    for (uint32_t i = 0; i < timeline_events.size(); i++)
+    for (uint32_t i = first_event_index; i <= last_event_index; i++)
     {
         int y;
         year_set.insert(y = timeline_events[i].m_begin_date.m_year);
@@ -1557,7 +1588,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 
     int cur_year = -9999;
 
-    for (uint32_t i = 0; i < timeline_events.size(); i++)
+    for (uint32_t i = first_event_index; i <= last_event_index; i++)
     {
         uint32_t hash = crc32((const uint8_t*)timeline_events[i].m_desc.c_str(), timeline_events[i].m_desc.size());
         hash = crc32((const uint8_t*)&timeline_events[i].m_begin_date.m_year, sizeof(timeline_events[i].m_begin_date.m_year), hash);
@@ -1607,7 +1638,7 @@ bool ufo_timeline::load_json(const char* pFilename, bool& utf8_flag, const char*
 
     std::vector<uint8_t> buf;
 
-    if (!read_text_file(pFilename, buf, utf8_flag))
+    if (!read_text_file(pFilename, buf, &utf8_flag))
         return false;
 
     if (!buf.size())

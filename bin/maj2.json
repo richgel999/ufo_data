@@ -4432,7 +4432,7 @@
 		},		
 		
 		{
-			"date" : "2/24/1954",
+			"date" : "2/22/1954",
 			"desc" : "Lecturer and engineer Norman S. Bean states that saucers are already in “captivity”, one saucer was or still is in Dayton OH, military is investigating the saucer, saucer people look like humans, after the British atomic bomb tests in Australia saucer reports took off there, claimed Air Force permission to talk.",
 			"ref" : "[Newspapers.com](https://www.newspapers.com/clip/104864241/flying-saucers-real-thing-engineer-says/)",
 			"type" : "newspaper article",
@@ -5047,7 +5047,7 @@
 		{
 			"date" : "1961",
 			"end_date" : "1963",
-			"desc" : "Near Nellis AFB, NE: “Mat”, a radio maintenance engineer at Nevada’s AEC between 1961–1963 provided evidence to the MUFON Journal that Project REDLIGHT was secretly being conducted at nearby “Area 51”, a 50-mile-square quadrant of land east of Nellis AFB. This Project “involved flight-testing of an UFO which had been shipped there from Edwards AFB.” The craft flew silently, was about 20 to 30 ft. in diam., and had no wings or tail.",
+			"desc" : "Near [Nellis AFB](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base), NE: “Mat”, a radio maintenance engineer at Nevada’s AEC between 1961–1963 provided evidence to the MUFON Journal that Project REDLIGHT was secretly being conducted at nearby “Area 51”, a 50-mile-square quadrant of land east of [Nellis AFB](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base). This Project “involved flight-testing of an UFO which had been shipped there from Edwards AFB.” The craft flew silently, was about 20 to 30 ft. in diam., and had no wings or tail.",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo testing",
 			"location" : "Area 51"
@@ -7651,7 +7651,208 @@
             "desc" : "A $500,000 effort by the [McDonnell-Douglas Aircraft Company](https://en.wikipedia.org/wiki/McDonnell_Douglas) (formely the [Douglas Aircraft Company](https://en.wikipedia.org/wiki/Douglas_Aircraft_Company)), to derive some commercial advantage from studying UFO reports (including reports by abductees and contactees). They planned a mobile field unit to gather data using various instruments and also employed a psychic.",
             "ref" : [ "[Isaac Koi's Blog](https://isaackoiup.blogspot.com/2022/09/mcdonnell-douglas-aircraft-company-ufo.html)", "Oke Shannon's notes", "Presentation by Dr. Robert M. Wood" ],
             "type" : "UFO research project"
-        }
+        },
+        
+        { 
+            "date" : "12/1992",
+            "desc" : "Glenn Campbell wrote in his *Area 51 Viewer's Guide* that he saw some \"unusual lightning\" over Railroad Valley and the northwestern part of [Nellis Range](https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range). lt struck upward from the clouds into an apparently empty sky. The lightning occurred in groups of several bolts that struck upward, then fanned out like a flower, reminiscent of a fireworks display. The lightning produced no sound, and there was no local precipitation.",
+            "ref" : [ "[Glenn Campbell's website](http://area51looseends.blogspot.com/2012/05/area-51-viewers-guide-now-available.html)", "[Amazon - Area 51 Viewer's Guide](https://www.amazon.com/Area-Viewers-Guide-Glenn-Campbell/dp/B0006QZTYK)", "[UPDB - Area 51 Viewer's Guide](https://files.afu.se/Downloads/Books/Digitized_by_AFU/Campbell,%20Glenn%20-%20Area%2051%20Viewer's%20Guide.pdf)" ],
+            "type" : "atmospheric phenomenom",
+            "location" : "Nellis AFB, NV",
+            "attributes" : [ "Nellis" ]
+        },
+
+        { 
+            "date" : "10/20/1992",
+            "end_date" : "10/21/1992",
+            "time" : "21:00",
+            "desc" : "Glenn Campbell wrote in his *Area 51 Viewer's Guide* that he saw two orbs moving together, rising above the horizon many times between 9pm and midnight. Triangulation suggested a location near Desert Valley in the [Nellis Bombing Range](https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range), not over Groom or Papoose Lakes. It was unclear if the orbs were magnesium flares or UFO's.",  
+            "ref" : [ "[Glenn Campbell's website](http://area51looseends.blogspot.com/2012/05/area-51-viewers-guide-now-available.html)", "[Amazon - Area 51 Viewer's Guide](https://www.amazon.com/Area-Viewers-Guide-Glenn-Campbell/dp/B0006QZTYK)", "[UPDB - Area 51 Viewer's Guide](https://files.afu.se/Downloads/Books/Digitized_by_AFU/Campbell,%20Glenn%20-%20Area%2051%20Viewer's%20Guide.pdf)" ],
+            "type" : "ufo sightings",
+            "location" : "Nellis Bombing Range, NV",
+            "attributes" : [ "Nellis" ]
+        },
+
+        { 
+            "date" : "10/1992",
+            "end_date" : "8/9/1995",
+            "desc" : "Glenn Campbell wrote in his *Area 51 Viewer's Guide* that \"Bob Lazar's story has been impossible to confirm, but also curiously difficult to refute. If it is a hoax it is coherent and well crafted and includes many plausible technical details. The alleged location was a good one--an off-limits area near Papoose Dry Lake-and no government agency seems willing to directly deny his claims. Even people who believe Lazar find it hard to make sense of it all. Where did the saucers come from? Why hasn't the public been told about them? There is no consensus on these questions, and one person's theory seems as good as anyone else's. Whatever you think about Lazar and his truthfulness, his story is consistent and disciplined enough for investigators to draw logical conclusions about how to proceed. If the government did have alien hardware in its possession, Area 51 or nearby areas in the [Nellis Air Force Range](https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range) or Nevada Test Site would be the logical place to keep them.\" ... \"The Nellis Air Force Range can offer many bizarre shows that involve no shred of alien technology. There are many military operations taking place here that most civilians have never seen before, and it takes some skepticism and patience to figure out what could be alien and what is not.\"",  
+            "ref" : [ "[Glenn Campbell's website](http://area51looseends.blogspot.com/2012/05/area-51-viewers-guide-now-available.html)", "[Amazon - Area 51 Viewer's Guide](https://www.amazon.com/Area-Viewers-Guide-Glenn-Campbell/dp/B0006QZTYK)", "[UPDB - Area 51 Viewer's Guide](https://files.afu.se/Downloads/Books/Digitized_by_AFU/Campbell,%20Glenn%20-%20Area%2051%20Viewer's%20Guide.pdf)" ],
+            "type" : "commentary",
+            "location" : "Rachel, NV",
+            "attributes" : [ "Nellis", "Lazar" ]
+        },
+
+        {
+            "date" : "3/1993",
+            "desc" : "Glenn Campbell wrote in his \"Area 51 Viewer's Guide\" that cattle mutilations have been reported nearby Area 51. Reputable ranchers in Lincoln County claim to have lost a number of animals to this mysterious \"disease\"-that is, all blood drained from the body without a drop on the ground, laser-like \"zipper\" incisions in the corpse and parts of the body surgically removed-but most such incidents happened in the 70's and 80's. Human abductions have also been reported: A prominent ufologist and bis companion claim to have been abducted in the Tikaboo Valley in March 1993",
+            "ref" : [ "[Glenn Campbell's website](http://area51looseends.blogspot.com/2012/05/area-51-viewers-guide-now-available.html)", "[Amazon - Area 51 Viewer's Guide](https://www.amazon.com/Area-Viewers-Guide-Glenn-Campbell/dp/B0006QZTYK)", "[UPDB - Area 51 Viewer's Guide](https://files.afu.se/Downloads/Books/Digitized_by_AFU/Campbell,%20Glenn%20-%20Area%2051%20Viewer's%20Guide.pdf)" ],
+            "type" : "mutilation, abduction",
+            "location" : "Nellis Air Force Range, NV",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        { 
+            "date" : "6/17/1959",
+            "time" : "22:55",
+            "desc" : "AP Newswire: *Mystery Object Flits Over Vegas*: An unidentified object, visible to the naked eye but not on radar, was reported in the Las Vegas area. It was the 3rd mysterious sighting in the area in the last three weeks. A sherriff's sergeant, control tower crewman at McCarran Field, and Air Force men were amoung those reporting seeing a bright object flash down towards the desert northwest of Las Vegas at 10:55pm. Airman at the Air Force radar installation at Angel's Peak, 30 miles NW of Las Vegas, saw the object. Radar was not able to track it. The Air Force said none of the objects sighted could have been planes.",
+            "ref" : [ "[Quest International - Journal of UFO Investigation - Issue 145 (1947-1973), 1990](https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_010-Rare_news_reports_1947-1973.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : "Las Vegas, NV",
+            "attributes" : [ "Nellis" ]
+        },
+
+        { 
+            "date" : "5/27/1959 (approximate)",
+            "desc" : "AP Newswire: *Mystery Object Flits Over Vegas*: Unidentified objects, visible to the naked eye but not on radar, were reported in the Las Vegas area during a 3 week period. A man told [Nellis Air Force Base](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base) officials that he saw 4 unidentified objects flying in apparent formation at tremendous speed over the Black Mountains, 40 miles SE of Las Vegas area. The Air Force said none of the objects sighted could have been planes.",
+            "ref" : [ "[Quest International - Journal of UFO Investigation - Issue 145 (1947-1973), 1990](https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_010-Rare_news_reports_1947-1973.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : "Black Mountain, NV",
+            "attributes" : [ "Nellis" ]
+        },
+
+        { 
+            "date" : "6/3/1959 (approximate)",
+            "desc" : "AP Newswire: *Mystery Object Flits Over Vegas*: Unidentified objects, visible to the naked eye but not on radar, were reported in the Las Vegas area during a 3 week period. One object was reported sighted over Las Vegas, over the eastern horizon near the city. The Air Force said none of the objects sighted could have been planes.",
+            "ref" : [ "[Quest International - Journal of UFO Investigation - Issue 145 (1947-1973), 1990](https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_010-Rare_news_reports_1947-1973.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : "Las Vegas, NV",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        { 
+            "date" : "2013",
+            "desc" : "In recent years much attention has been being focused on the [Nellis Test Range Complex](https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range), a large area of highly-restricted (and heavily-secured) land in Southern Nevada, USA, used to develop various classified aircraft. Past examples of devices tested and perfected in this locale include the U2 spy plane, the SR-71 and the F-117A and B-2 stealth aircraft. Sites within this region (semi-officially termed [\"Area 51\"](https://en.wikipedia.org/wiki/Area_51)) include Groom Lake Air Force Base. Film taken from just outside the bases' parameter show lights moving in an anomalous manner; performing turning manoeuvres which would render unconscious any human pilot contained within such a device). However, most Ufologists feel that (at least) the majority of this footage depict UAVs (remotely piloted vehicles) developed at [Groom Lake](https://www.google.com/maps/place/Groom+Lake), which (due to being teleoperated or robotically controlled) can perform manoeuvres impossible for a manned aircraft. The USAF refuses to make any detailed comments concerning their activities at Area 51.",
+            "ref" : [ "[*The Ufology Handbook - 2013 Edition*, by Robert Moore](https://files.afu.se/Downloads/Books/Other/Moore,%20Robert%20-%20The%20Ufology%20Handbook.pdf)" ],
+            "type" : "commentary",
+            "location" : "US",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        { 
+            "date" : "7/9/1978",
+            "time" : "22:00",
+            "desc" : "Las Vegas Sun: *UFO, Or Whatever. LV Sees the Light* by C.J. SCHIFFLER: A number of residents saw a bright light lingering in the sky west of town that lasted several hours. A local radio station was inundated with calls. [Nellis AFB](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base) officers offered some explanations. Capt. Tom Wiesweaver, on duty when the command post started receiving calls, said the bright light may have been two Metro helicopters searching for a robbery suspect, although persons who saw the light said it was stationary. The officers were not sure what it was, and stated that they \"get UFO sigthings frequently\". They also said \"We just act as a sounding board and pass on the information to our UFO Department in San Diego.\" When asked if it could have been a UFO hovering over Las Vegas, he thought for a minute and replied \"It could be, you know.\"",
+            "ref" : [ "[AERIAL PHENOMENON CLIPPING INFORMATION CENTER, Cleveland OH, Aug. 1978, Vol. 3 No 8](https://files.afu.se/Downloads/Magazines/United%20States/APCIC%20clipping%20service/APCIC%20-%20Vol%2003%20No%2008%20-%201978.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : "Las Vegas, NV",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        { 
+            "date" : "11/27/1978",
+            "time" : "18:30",
+            "desc" : "A local resident, his family, and other residents report seeing a UFO to the *Las Vegas Sun*. One resident reported that the UFO \"looked like an upside-down plate with a dome on it. My kids and I were outside our house about 6:30 p.m. when we saw a huge white cloud in the black sky. Then all of a sudden it came toward us. It was fantastic. It must have been about two or three houses wide. The sky was lit up. I could see the whole farm.\" The mysterious object was reported in 3 separate sightings in the Reno and Battle Mountain areas Monday night. A total of 6 persons reported seeing the object, described as a large ball of light that spawned a domed, winged craft. One person reported seeing the object in the sky while in the Red Rock Canyon area as she was driving west on Spring Mountain Road at about 6:30pm. [Nellis Air Force Base](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base) officials were called but more or less ignored the reports.",
+            "ref" : [ "[AERIAL PHENOMENON CLIPPING INFORMATION CENTER, Cleveland OH, Jan. 1979, Vol. 4 No 1](https://files.afu.se/Downloads/Magazines/United%20States/APCIC%20clipping%20service/APCIC%20-%20Vol%2004%20No%2001%20-%201979.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : [ "Blue Diamond Road, Las Vegas, NV", "Battle Mountain, NV", "Red Rock Canyon, NV" ],
+            "attributes" : [ "Nellis" ]
+        },
+        
+        { 
+            "date" : "12/16/1978",
+            "time" : "~05:30",
+            "desc" : "*Las Vegas Sun*: A couple on the ground, one a commercial airline pilot, observed a disc-shaped object with glowing white lights hovering near [McCarran International Airport (now called Harry Reid International Airport)](https://en.wikipedia.org/wiki/Harry_Reid_International_Airport) before disappearing into the morning sky. He said \"At first I thought it was a bright star or planet, but then I saw it move, like a leaf falling from a tree.\" The woman said she ran into the house and grabbed a pair of high-powered binoculars. Closer inspection revealed that it was a disc or saucer-shaped object, hovering just below the clouds. It would occasionally bank fom side to side, readily displaying its saucer-like appearance. It was covered with a series of white lights. Tower personnel scanned the skies trying to see the object to no avail. Radar indicated all was normal, said controller Bob Turner. Fearing that a military jet might have strayed into McCarran airspace, controllers telephoned [Nellis Air Force Base](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base), but they said all their planes were down.",  
+            "ref" : [ "[AERIAL PHENOMENON CLIPPING INFORMATION CENTER, Cleveland OH, Feb. 1979, Vol. 4 No 2](https://files.afu.se/Downloads/Magazines/United%20States/APCIC%20clipping%20service/APCIC%20-%20Vol%2004%20No%2002%20-%201979.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : "near McCarran International Airport, NV",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        { 
+            "date" : "12/18/1980",
+            "time" : "15:30",
+            "desc" : "A Las Vegas pilot for Omni Airlines and his teenage passenger escaped uninjured after a midair collision with an unidentified object that ripped off part of the right wing and sent their plane into an uncontrollable spin at 5000ft. The pilot nursed his crippled Cessna 172 back to [North Las Vegas Airport](https://en.wikipedia.org/wiki/North_Las_Vegas_Airport). The object striked with such force that it almost ripped off the wing. He stated he thought it was a missile. The object appeared as \"just a streak\" as it fell past the nose of the plane. [Nellis Air Force Base](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base) spokesman said there were no Nellis-based aircraft or missiles anywhere in the area at the time of the accident. The spokesman added that AF jets enroute to the test range rarely approached the area. A call was immediately placed to Palmdale's regional facility for radar emergency response.",  
+            "ref" : [ "[AERIAL PHENOMENON CLIPPING INFORMATION CENTER, Cleveland OH, Feb. 1981, Vol. 6 No 2](https://files.afu.se/Downloads/Magazines/United%20States/APCIC%20clipping%20service/APCIC%20-%20Vol%2006%20No%2002%20-%201981.pdf)" ],
+            "type" : "midair collision",
+            "location" : "2 miles west of Lone Mountain, Las Vegas, NV",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        { 
+            "date" : "2/24/1985",
+            "desc" : "[Las Vegas Review Journal](https://en.wikipedia.org/wiki/Las_Vegas_Review-Journal): *Experts ponder Vegans' reports of tremors, lights in sky*: Large article on Las Vegans frequently feeling unexplained tremors or seeing unidentified flying objects. Many conjecture what they felt or saw was caused by an unannounced test at the [Nevada Test Site](https://en.wikipedia.org/wiki/Nevada_Test_Site), by a sonic boom or some secret military aircraft maneuver. Typically news authorities have been baffled in trying to find explanations. [Nellis Air Force Base](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base) officials say the rattling of windows and mild tremors isn't them. Chances of Nellis aircraft causing booms that would be felt in Las Vegas are \"rare,\" said Col. John Kuminecz, the base's chief spokesmen. The article stated that since 1951 more than 630 nuclear weapons have been detonated on the test site.",
+            "ref" : [ "[AERIAL PHENOMENON CLIPPING INFORMATION CENTER, Cleveland OH, April 1985, Vol. 10 No 4](https://files.afu.se/Downloads/Magazines/United%20States/APCIC%20clipping%20service/APCIC%20-%20Vol%2010%20No%2004%20-%201985.pdf)" ],
+            "type" : "",
+            "location" : "Las Vegas, NV",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        { 
+            "date" : "3/23/1985",
+            "desc" : "[Gary IN Post Tribune](https://en.wikipedia.org/wiki/Post-Tribune_(Indiana_newspaper)): *The U.S. Government's project to track UFO's*: Barbara Drakis wrote \"Operation Starlight\" was ostensibly an electronic network operated by the United States government in order to catch outerspace radio signals. She stated that in fact \"Operation Starlight\" was a tracking system for UFO's. The trackers activate alarms when radar spots UFO's and spotters, armed with cameras and binoculars, set out to sight them. The author stated that [Prof. Hynek](https://en.wikipedia.org/wiki/J._Allen_Hynek), of [Northwestern University](https://en.wikipedia.org/wiki/Northwestern_University) and head of the [Center for UFO Studies](https://en.wikipedia.org/wiki/Center_for_UFO_Studies), took a sabbatical from his teaching position about the same time as an anomalous aerial phenomenom appeared over the northern sky over Lake Michigan, without disclosing his location. She speculated that he may be part of Operation Starlight.",
+            "ref" : [ "[AERIAL PHENOMENON CLIPPING INFORMATION CENTER, Cleveland OH, April 1985, Vol. 10 No 4](https://files.afu.se/Downloads/Magazines/United%20States/APCIC%20clipping%20service/APCIC%20-%20Vol%2010%20No%2004%20-%201985.pdf)" ],
+            "type" : "newspaper article",
+            "location" : "Merrillville, Indiana"
+        },
+        
+        { 
+            "date" : "7/14/1956",
+            "time" : "0140",
+            "desc" : "A pale yellow ball of indistinct outline and approximately one fourth the diameter of the sun's image was seen rapidly approaching Holloman AFB from the direction of White Sands, approximately SW. The object was apparently following a flat trajectory when the yellow glow was replaced by two close-set red lights, which appeared to rise straight up and disappeared at a high rate of speed. The observer was anonymous, but his profession was Chemical Engineering.",     
+            "ref" : [ "[APRO Bulletin, 1/1957, page 5](https://www.openminds.tv/pdf/apro/apro_jan_1957.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : "Holloman AFB-White Sands range area, NM"
+        },
+        
+        { 
+            "date" : "12/15/1956 (approximate)",
+            "desc" : "During a missile test firing at a point in space, a UAO was tracked on radar. Result: near-miss with the Unconventional Aerial Object. Anonymous source.",     
+            "ref" : [ "[APRO Bulletin, 1/1957, page 6](https://www.openminds.tv/pdf/apro/apro_jan_1957.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : "Holloman AFB, Alamogordo, NM"
+        },
+        
+        { 
+            "date" : "1/17/1957",
+            "time" : "0500",
+            "desc" : "Art Johnson and his wife, driving north on Decatur Bldv., observed a huge white ball which came straight down out of the sky, then headed towards [Nellis AFB](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base). \"The object shot out a blast like at least 50 jet planes at once. It had a flaming exhaust colored reddish, blue and orange.\" A similar object was seen at approximately the same location on 1/3/1957. (Reported in the *Las Vegas Sun*, Cr. W.B. Nash)",     
+            "ref" : [ "[APRO Bulletin, 1/1957, page 6](https://www.openminds.tv/pdf/apro/apro_jan_1957.pdf)" ],
+            "type" : "ufo sighting",
+            "location" : "Las Vegas, NV",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        {
+            "date" : "2/19/1954 (approximate)",
+            "desc" : "Around the year 2000, Cristoforo Barbato, editor of *Stargate Magazine*, received many e-mails from a person who qualified himself as a Vatican insider. From those e-mails rose up the story of a presumed Vatican Intelligence Agency named S.I.V.: \"Servizio Informazioni del Vaticano\" After one year of such contacts, where he revealed to him that he was a S.I.V. member from the Jesuit order working in structures of the Holy See, they finally met in a public place in Rome. According to this person, the reason to establish the S.I.V. was the meeting with an Alien delegation at [Muroc Air Field (Edwards AFB)](https://en.wikipedia.org/wiki/Edwards_Air_Force_Base) in February 1954, in presence of president Dwight Eisenhower and [James Francis McIntyre, bishop of Los Angeles](https://en.wikipedia.org/wiki/James_Francis_McIntyre). After that incredible event, McIntyre flew to Rome to refer everything to [Pope Pius XII](https://en.wikipedia.org/wiki/Pope_Pius_XII), who decided to found the S.I.V with the aim to get every possible information about Aliens and how they interacted with the American government. From then on Bishop McIntyre and Detroit [Archbishop Edward Mooney](https://en.wikipedia.org/wiki/Edward_Aloysius_Mooney) became the main information co-ordinators between the USA and the Vatican State.",
+            "type" : "intelligence agency formation",
+            "ref" : [ "[Usenet: \"Conspiracy Journal\", Cristoforo Barbato, 12/23/2005](https://groups.google.com/g/ccoonnssppiirraacciieess/c/BpAcpptWfLQ/m/PzqjunEwTaIJ)",
+              "[archive.org - \"The Vatican UFOs & Secretum Omega\", Cristoforo Barbato](https://web.archive.org/web/20060501095316/https://uforeview.tripod.com/conspiracyjournal345.html)",
+                "[www.bibliotecapleyades.net: Vatican and UFO - Secretum Omega](https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_secretumomega01.htm)",
+                "[\"SECRETUM OMEGA - A Jesuit Confesses a Pact Between Aliens and the Vatican\"](https://thechurchandtheextraterrestrials.wordpress.com/2018/09/01/secretum-omega-a-jesuit-confesses-a-pact-between-aliens-and-the-vatican/)"
+              ],
+            "location" : "Rome"
+        },
+        
+        {
+            "date" : "1/3/1960",
+            "time" : "23:05",
+            "desc" : "A blue light, which raced silently across the Las Vegas, Nevada sky, puzzled McCarran Field tower controlmen. \"It was the fastest thing I ever saw,\" said tower employee Jack McMillen who spotted the light at about 11:05 p.m. A departing private plane also saw the object. Earlier that evening, four different pilots in two commercial airlines planes flying between Bryce Canyon and Mormon Mesa reported observing a similar light. Their reports of the object to Salt Lake City were intercepted by the McCarran tower. McMillen said he saw the light for about two or perhaps three seconds, going north to south at about a 15-20 degree elevation. He also said he had thought it might have been a meteor but changed his mind as it left no trail, and had a horizontal trajectory. He said he contacted a private plane which had just taken off and asked the pilot for confirmation. The pilot confirmed McMillen's sighting. An Air Force T-33 inbound to [Nellis AFB](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base) also confirmed its pilot had also seen a strange light.",
+            "type" : "ufo sighting",
+            "ref" : "[APRO Bulletin - Jan. 1960, Page 3](https://www.openminds.tv/pdf/apro/apro_jan_1960.pdf)",
+            "location" : "McCarran Field, Las Vegas NV",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        {
+            "date" : "6/26/1971",
+            "desc" : "Four residents of the \"Blue Diamond\" area a few miles from Las Vegas, Nevada have reported that a bright unidentified aerial object hovered over their ranches on the night of June 26th, a Friday The object, described as a brilliant white lighted object with a pinkish cast, caused panic among the animals on one ranch and simultaneously the generator which furnishes power to the ranch stopped functioning as the object dropped to about 500 feet altitude. Three other individuals living in the area reported the same object, all calls reaching the authorities within a short span of time. Officials at [Nellis AFB](https://en.wikipedia.org/wiki/Nellis_Air_Force_Base) said they had not received any reports of the object from pilots nor did an objects show on their radar. Officials at the McCarran International Airport control tower said they had not seen the object nor did they have any official sighting of the object. Witnesses said that the object had hovered from two to three minutes before leaving at high speed toward the south.",
+            "type" : "ufo sighting, electromagnetic effects",
+            "ref" : "[APRO Bulletin, May-June 1971](https://archive.org/details/apro-may-june-1971)",
+            "location" : "Blue Diamond area, near Las Vegas, Nevada",
+            "attributes" : [ "Nellis" ]
+        },
+        
+        {
+            "date" : "1955",
+            "desc" : "The site for [Area 51](https://en.wikipedia.org/wiki/Area_51) was selected after an aerial survey by the CIA and USAF. It was originally used for the [U-2](https://en.wikipedia.org/wiki/Lockheed_U-2) program.",
+            "ref" : "[bbc.com: \"Area 51 'declassified' in U-2 spy plane history\"](https://www.bbc.com/news/world-us-canada-23731759)",
+            "type" : "secret base",
+            "location" : "Groom Lake, NV"
+        }    
+        
+
 		
 	]
 

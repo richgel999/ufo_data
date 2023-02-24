@@ -20,20 +20,6 @@ enum
     cTotalFlags = 64
 };
 
-static std::string get_deg_to_dms(double deg)
-{
-    deg = std::round(fabs(deg) * 3600.0f);
-
-    int min_secs = (int)fmod(deg, 3600.0f);
-
-    deg = std::floor((deg - (double)min_secs) / 3600.0f);
-
-    int minutes = min_secs / 60;
-    int secs = min_secs % 60;
-
-    return string_format("%02i%:%02i:%02i", (int)deg, minutes, secs);
-}
-
 #pragma pack(push, 1)
 struct udb_rec
 {
@@ -1016,6 +1002,11 @@ static std::string decode_hatch(const std::string& str, bool first_line)
         {
             new_token = "W";
         }
+        // S-SHAPE - exception
+        else if ((tokens[i] == "S") && (num_tokens_left >= 2) && (tokens[i + 1] == "-") && (tokens[i + 2] == "SHAPE"))
+        {
+            new_token = "S";
+        }
         // mid-sky - exception
         else if ((tokens[i] == "MID") && (num_tokens_left >= 2) && (tokens[i + 1] == "-") && (tokens[i + 2] == "SKY"))
         {
@@ -1559,7 +1550,7 @@ static void init_dict()
 
     uprintf("Reading dictionary\n");
     bool utf8_flag = false;
-    if (!read_text_file("uppercase_dict.txt", dict, utf8_flag))
+    if (!read_text_file("uppercase_dict.txt", dict, true, &utf8_flag))
         panic("Failed reading uppercase_dict.txt");
 
     for (auto str : dict)
@@ -1718,7 +1709,10 @@ static bool convert_rec(uint32_t rec_index, const udb_rec* pRec, timeline_event&
     
     std::string time;
     if (pRec->get_time(time))
-        event.m_time_str = time;
+    {
+        if (time != "00:00?")
+            event.m_time_str = time;
+    }
 
     event.m_date_str = event.m_begin_date.get_string();
 
@@ -1738,32 +1732,33 @@ static bool convert_rec(uint32_t rec_index, const udb_rec* pRec, timeline_event&
 
     event.m_refs.push_back(pRec->get_full_refs());
     
-    event.m_udb_data.push_back(std::make_pair("Lat/Long", string_format("%f %f", pRec->get_latitude(), pRec->get_longitude())));
-    event.m_udb_data.push_back(std::make_pair("LocationLink", string_format("[Google Maps](https://www.google.com/maps/place/%f,%f)", pRec->get_latitude(), pRec->get_longitude())));
-    //event.m_udb_data.push_back(std::make_pair("lat/long DMS", string_format("%s %s", pRec->get_latitude_dms().c_str(), pRec->get_longitude_dms().c_str())));
+    event.m_key_value_data.push_back(std::make_pair("LocationLink", string_format("[Google Maps](https://www.google.com/maps/place/%f,%f)", pRec->get_latitude(), pRec->get_longitude())));
+    
+    event.m_key_value_data.push_back(std::make_pair("LatLong", string_format("%f %f", pRec->get_latitude(), pRec->get_longitude())));
+    event.m_key_value_data.push_back(std::make_pair("LatLongDMS", string_format("%s %s", pRec->get_latitude_dms().c_str(), pRec->get_longitude_dms().c_str())));
 
-    event.m_udb_data.push_back(std::make_pair("HatchDesc", db_str));
+    event.m_key_value_data.push_back(std::make_pair("HatchDesc", db_str));
 
-    event.m_udb_data.push_back(std::make_pair("Duration", string_format("%u", pRec->get_duration())));
+    event.m_key_value_data.push_back(std::make_pair("Duration", string_format("%u", pRec->get_duration())));
 
     std::string country_name, state_or_prov_name;
     pRec->get_geo(country_name, state_or_prov_name);
 
-    event.m_udb_data.push_back(std::make_pair("Country", country_name));
-    event.m_udb_data.push_back(std::make_pair("State/Prov", state_or_prov_name));
+    event.m_key_value_data.push_back(std::make_pair("Country", country_name));
+    event.m_key_value_data.push_back(std::make_pair("State/Prov", state_or_prov_name));
 
-    event.m_udb_data.push_back(std::make_pair("Strangeness", string_format("%u", pRec->get_strangeness())));
-    event.m_udb_data.push_back(std::make_pair("Credibility", string_format("%u", pRec->get_credibility())));
+    event.m_key_value_data.push_back(std::make_pair("Strangeness", string_format("%u", pRec->get_strangeness())));
+    event.m_key_value_data.push_back(std::make_pair("Credibility", string_format("%u", pRec->get_credibility())));
 
     const uint32_t locale = pRec->get_locale();
     if (locale < std::size(g_hatch_locales))
-        event.m_udb_data.push_back(std::make_pair("Locale", g_hatch_locales[locale]));
+        event.m_key_value_data.push_back(std::make_pair("Locale", g_hatch_locales[locale]));
 
     if (pRec->get_elevation() != -99)
-        event.m_udb_data.push_back(std::make_pair("Elev", string_format("%i", pRec->get_elevation())));
+        event.m_key_value_data.push_back(std::make_pair("Elev", string_format("%i", pRec->get_elevation())));
     
     if ((pRec->get_rel_altitude() != 0) && (pRec->get_rel_altitude() != 999))
-        event.m_udb_data.push_back(std::make_pair("RelAlt", string_format("%i", pRec->get_rel_altitude())));
+        event.m_key_value_data.push_back(std::make_pair("RelAlt", string_format("%i", pRec->get_rel_altitude())));
     
     return true;
 }

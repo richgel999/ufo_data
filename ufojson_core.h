@@ -3,8 +3,6 @@
 #pragma once
 #include "utils.h"
 
-#define TIMELINE_VERSION "1.13"
-
 // Note that May ends in a period.
 extern const char* g_months[12];
 extern const char* g_full_months[12];
@@ -139,8 +137,8 @@ struct timeline_event
 
     std::string m_source;
 
-    std::vector<string_pair> m_udb_data;
-        
+    std::vector<string_pair> m_key_value_data;
+            
     bool operator==(const timeline_event& rhs) const;
 
     bool operator!=(const timeline_event& rhs) const;
@@ -209,7 +207,7 @@ public:
 
     bool load_json(const char* pFilename, bool& utf8_flag, const char* pSource_override, bool fix_20century_dates);
 
-    bool write_markdown(const char* pTimeline_filename);
+    bool write_markdown(const char* pTimeline_filename, const char* pDate_range_desc, int begin_year, int end_year);
 
 private:
     timeline_event_vec m_events;

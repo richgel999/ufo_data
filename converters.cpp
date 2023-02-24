@@ -33,7 +33,7 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
 {
     string_vec lines;
 
-    if (!read_text_file(pSrc_filename, lines))
+    if (!read_text_file(pSrc_filename, lines, true, nullptr))
         panic("Can't open file %s", pSrc_filename);
 
     FILE* pOut_file = ufopen(pDst_filename, "w");
@@ -351,51 +351,11 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
     return true;
 }
 
-static bool invoke_openai(const std::string& prompt, std::string& reply)
-{
-    reply.clear();
-
-    // Write prompt to i.txt
-    FILE* pFile = ufopen("i.txt", "wb");
-    fwrite(prompt.c_str(), prompt.size(), 1, pFile);
-    fclose(pFile);
-
-    // Invoke openai.exe
-    int status = system("openai.exe i.txt o.txt");
-    if (status != EXIT_SUCCESS)
-        return false;
-
-    // Read output file.
-    string_vec lines;
-    if (!read_text_file("o.txt", lines))
-    {
-        // Wait a bit and try again, rarely needed under Windows.
-        Sleep(50);
-        if (!read_text_file("o.txt", lines))
-            return false;
-    }
-
-    // Skip any blank lines at the beginning of the reply.
-    uint32_t i;
-    for (i = 0; i < lines.size(); i++)
-    {
-        std::string s(lines[i]);
-        string_trim(s);
-        if (s.size())
-            break;
-    }
-
-    for (; i < lines.size(); i++)
-        reply += lines[i];
-
-    return true;
-}
-
 bool convert_bluebook_unknowns()
 {
     string_vec lines;
 
-    if (!read_text_file("bb_unknowns.txt", lines))
+    if (!read_text_file("bb_unknowns.txt", lines, true, nullptr))
         panic("Can't read file bb_unknowns.txt");
 
     uint32_t cur_line = 0;
@@ -644,7 +604,7 @@ bool convert_hall()
 {
     string_vec lines;
 
-    if (!read_text_file("ufo_evidence_hall.txt", lines))
+    if (!read_text_file("ufo_evidence_hall.txt", lines, true, nullptr))
         panic("Can't read file ufo_evidence_hall.txt");
 
     uint32_t cur_line = 0;
@@ -902,19 +862,19 @@ bool convert_eberhart(unordered_string_set& unique_urls)
 {
     string_vec lines;
 
-    if (!read_text_file("ufo1_199.md", lines))
+    if (!read_text_file("ufo1_199.md", lines, true, nullptr))
         panic("Can't read file ufo_evidence_hall.txt");
 
-    if (!read_text_file("ufo200_399.md", lines))
+    if (!read_text_file("ufo200_399.md", lines, true, nullptr))
         panic("Can't read file ufo_evidence_hall.txt");
 
-    if (!read_text_file("ufo400_599.md", lines))
+    if (!read_text_file("ufo400_599.md", lines, true, nullptr))
         panic("Can't read file ufo_evidence_hall.txt");
 
-    if (!read_text_file("ufo600_906_1.md", lines))
+    if (!read_text_file("ufo600_906_1.md", lines, true, nullptr))
         panic("Can't read file ufo_evidence_hall.txt");
 
-    if (!read_text_file("ufo600_906_2.md", lines))
+    if (!read_text_file("ufo600_906_2.md", lines, true, nullptr))
         panic("Can't read file ufo_evidence_hall.txt");
 
     string_vec trimmed_lines;
@@ -3165,4 +3125,175 @@ void converters_init()
     converters_test();
 }
 
+bool convert_nuk()
+{
+    std::string title;
+    string_vec col_titles;
+    
+    std::vector<string_vec> rows;
+
+    bool success = load_column_text("nuktest_usa.txt", rows, title, col_titles, false, "USA");
+    success = success && load_column_text("nuktest_ussr.txt", rows, title, col_titles, false, "USSR");
+    success = success && load_column_text("nuktest_britain.txt", rows, title, col_titles, false, "Britain");
+    success = success && load_column_text("nuktest_china.txt", rows, title, col_titles, false, "China");
+    success = success && load_column_text("nuktest_france.txt", rows, title, col_titles, false, "France");
+    success = success && load_column_text("nuktest_india.txt", rows, title, col_titles, false, "India");
+    success = success && load_column_text("nuktest_pakistan.txt", rows, title, col_titles, false, "Pakistan");
+    success = success && load_column_text("nuktest_unknown.txt", rows, title, col_titles, false, "Unknown");
+    if (!success)
+        panic("Failed loading nuk column text file");
+
+    enum { cColDate, cColTime, cColLat, cColLong, cColDepth, cColMb, cColY, cColYMax, cColType, cColName, cColSource, cColCountry, cColTotal };
+
+    ufo_timeline timeline;
+
+    uint32_t event_id = 0;
+    for (const string_vec& x : rows)
+    {
+        if (x.size() != cColTotal)
+            panic("Invalid # of cols");
+
+        timeline_event event;
+        if (!event.m_begin_date.parse(x[cColDate].c_str(), true))
+            panic("Failed parsing date");
+
+        event.m_date_str = event.m_begin_date.get_string();
+
+        if (x[cColTime] != "00:00:00.0")
+            event.m_time_str = x[cColTime];
+
+        event.m_type.push_back("atomic");
+        event.m_locations.push_back(x[cColLat] + " " + x[cColLong]);
+
+        std::string attr;
+        
+        std::string t(string_upper(x[cColType]));
+        
+        bool salvo = false;
+        if (string_ends_in(t, "_SALVO"))
+        {
+            salvo = true;
+            t = string_slice(t, 0, t.size() - 6);
+        }
+
+        if (t.size() == 1)
+        {
+            if (t[0] == 'A')
+                attr += "Air";
+            else if (t[0] == 'W')
+                attr += "Water";
+            else if (t[0] == 'U')
+                attr += "Underground";
+            else
+                panic("Unknown type");
+        }
+        else if ((t.size() == 4) || (t.size() == 5))
+        {
+            if (t.size() == 5)
+            {
+                if (t.back() != 'G')
+                    panic("Invalid type");
+            }
+            else
+            {
+                //US(U), USSR(S), France(F), China(C), India(I), United Kingdom(G), or Pakistan(P)
+
+                const char c = t.back();
+                if ((c != 'U') && (c != 'S') && (c != 'F') && (c != 'C') && (c != 'I') && (c != 'G') && (c != 'P'))
+                    panic("Invalid type");
+            }
+
+            if (t[0] != 'N')
+                panic("Not nuclear");
+
+            if (t[1] == 'A')
+                attr += "Air";
+            else if (t[1] == 'W')
+                attr += "Water";
+            else if (t[1] == 'U')
+                attr += "Underground";
+            else
+                panic("Unknown type");
+
+            if (t[2] == 'C')
+                attr += ", confirmed";
+            else if (t[2] == 'P')
+                attr += ", presumed";
+            else
+                panic("Unknown type");
+
+            if (salvo)
+                attr += ", salvo";
+        }
+        else
+            panic("Invalid type");
+
+        event.m_desc = string_format("Nuclear test: %s. Country: %s", attr.c_str(), x[cColCountry].c_str());
+        
+        if ((x[cColName].size()) && (x[cColName] != "-"))
+            event.m_desc += string_format(u8" Name: “%s”", x[cColName].c_str());
+
+        if (x[cColY].size())
+            event.m_desc += string_format(" Yield: %sKT", x[cColY].c_str());
+
+        if (x[cColYMax].size())
+            event.m_desc += string_format(" YieldMax: %sKT", x[cColYMax].c_str());
+
+        if (x[cColLat].size() && x[cColLong].size())
+        {
+            event.m_key_value_data.push_back(string_pair("LatLong", x[cColLat] + " " + x[cColLong]));
+
+            const double lat = atof(x[cColLat].c_str());
+            const double lon = atof(x[cColLong].c_str());
+
+            std::string latitude_dms = get_deg_to_dms(lat) + ((lat <= 0) ? " S" : " N");
+            std::string longitude_dms = get_deg_to_dms(lon) + ((lon <= 0) ? " W" : " E");
+                        
+            event.m_key_value_data.push_back(string_pair("LatLongDMS", latitude_dms + " " + longitude_dms));
+        }
+
+        if (x[cColDepth].size())
+            event.m_key_value_data.push_back(string_pair("NukeDepth", x[cColDepth]));
+        
+        if (x[cColMb].size())
+            event.m_key_value_data.push_back(string_pair("NukeMb", x[cColMb]));
+
+        if (x[cColY].size())
+            event.m_key_value_data.push_back(string_pair("NukeY", x[cColY]));
+
+        if (x[cColYMax].size())
+            event.m_key_value_data.push_back(string_pair("NukeYMax", x[cColYMax]));
+
+        if (x[cColType].size())
+            event.m_key_value_data.push_back(string_pair("NukeType", x[cColType]));
+
+        if (x[cColName] != "-")
+            event.m_key_value_data.push_back(string_pair("NukeName", x[cColName]));
+
+        event.m_key_value_data.push_back(string_pair("NukeSource", x[cColSource]));
+        event.m_key_value_data.push_back(string_pair("NukeCountry", x[cColCountry]));
+        
+        if (x[cColLat].size() && x[cColLong].size())
+        {
+            event.m_key_value_data.push_back(std::make_pair("LocationLink", string_format("[Google Maps](https://www.google.com/maps/place/%s,%s)", x[cColLat].c_str(), x[cColLong].c_str())));
+        }
+
+        event.m_refs.push_back("[\"columbia.edu: Worldwide Nuclear Explositions\", by Yang, North, Romney, and Richards](https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf)");
+        event.m_refs.push_back("[\"archive.org: Worldwide Nuclear Explositions\", by Yang, North, Romney, and Richards](https://web.archive.org/web/20220407121213/https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf)");
+
+        event.m_source = "NukeExplosions";
+        event.m_source_id = event.m_source + string_format("_%u", event_id);
+                
+        timeline.get_events().push_back(event);
+        
+        event_id++;
+    }
+
+    if (!timeline.get_events().size())
+        panic("Empty timeline)");
+
+    timeline.set_name("Nuclear Test Timeline");
+        
+    return timeline.write_file("nuclear_tests.json", true);
+}
 

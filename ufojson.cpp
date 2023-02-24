@@ -13,7 +13,7 @@ static void detect_bad_urls()
 {
     string_vec unique_urls;
     bool utf8_flag = false;
-    if (!read_text_file("unique_urls.txt", unique_urls, utf8_flag))
+    if (!read_text_file("unique_urls.txt", unique_urls, true, &utf8_flag))
         panic("Can't read file unique_urls.txt");
 
     uint32_t total_processed = 0;
@@ -94,24 +94,21 @@ int wmain(int argc, wchar_t* argv[])
     return 0;
 #endif
 
-#if 0
-    std::vector<string_vec> rows;
-    std::string title;
-    string_vec col_titles;
-    load_column_text("ufoevid13.txt", rows, title, col_titles);
-    return 0;
-#endif
-
     bool status = false, utf8_flag = false;
 
     unordered_string_set unique_urls;
 
+    uprintf("Convert Nuclear:\n");
+    if (!convert_nuk())
+        panic("convert_nuk() failed!");
+    uprintf("Success\n");
+        
+#if 1
     uprintf("Convert Hatch UDB:\n");
     if (!udb_convert())
         panic("udb_convert() failed!");
     uprintf("Success\n");
 
-#if 1
     uprintf("Convert NICAP:\n");
     if (!convert_nicap(unique_urls))
         panic("convert_nicap() failed!");
@@ -164,7 +161,8 @@ int wmain(int argc, wchar_t* argv[])
         panic("Failed loading maj2.json");
     for (uint32_t i = 0; i < timeline.size(); i++)
         timeline[i].m_source_id = string_format("%s_%u", timeline[i].m_source.c_str(), i);
-
+        
+#if 1
     status = timeline.load_json("hatch_udb.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading hatch_udb.json");
@@ -196,7 +194,12 @@ int wmain(int argc, wchar_t* argv[])
     status = timeline.load_json("johnson.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading johnson.json");
-        
+
+    status = timeline.load_json("nuclear_tests.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading nuclear_tests.json");
+#endif
+
     for (uint32_t i = 0; i < timeline.size(); i++)
     {
         if (!timeline[i].m_begin_date.sanity_check())
@@ -290,7 +293,10 @@ int wmain(int argc, wchar_t* argv[])
                 panic("Failed comparing majestic.json");
     }
 
-    timeline.write_markdown("timeline.md");
+    timeline.write_markdown("timeline.md", "Part 1: Distant Past up to and including 1949", -10000, 1949);
+    timeline.write_markdown("timeline_part2.md", "Part 2: 1950 up to and including 1959", 1950, 1959);
+    timeline.write_markdown("timeline_part3.md", "Part 3: 1960 up to and including 1979", 1960, 1979);
+    timeline.write_markdown("timeline_part4.md", "Part 4: 1980 to Present", 1980, 10000);
 
     uprintf("Processing successful\n");
 
