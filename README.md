@@ -31,6 +31,10 @@ Currently, the tool is Windows only, but it would be trivial to port to Linux/OS
 
 Here's the output [Markdown file converted to PDF](ufo_timeline_v1_04.pdf). The latest HTML timeline is published [here](http://www.subquantumtech.com/timeline/timeline.html).
 
+## Getting started with the JSON data
+
+Check out Larry Hatch's database of ~18k records converted to JSON format, [here](https://github.com/richgel999/ufo_data/blob/main/bin/hatch_udb.json). The JSON format should be self-explanatory. 
+
 ## Special Thanks
 
 * Thanks to David Marler, Executive Director of the [National UFO Historical Records Center](http://www.nufohrc.org/), for assistance in recovering Hatch's DOS-era UFO program.
