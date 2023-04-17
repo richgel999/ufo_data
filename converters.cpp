@@ -2,6 +2,7 @@
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "ufojson_core.h"
 #include "markdown_proc.h"
+#include <unordered_map>
 
 #define USE_OPENAI (0)
 
@@ -877,6 +878,42 @@ bool convert_eberhart(unordered_string_set& unique_urls)
     if (!read_text_file("ufo600_906_2.md", lines, true, nullptr))
         panic("Can't read file ufo_evidence_hall.txt");
 
+    json eberhart_openai;
+    bool utf8_flag;
+    if (!load_json_object("eberhart_openai.json", utf8_flag, eberhart_openai))
+        panic("Failed loading eberhart_openai.json");
+
+    if (eberhart_openai.find("results") == eberhart_openai.end())
+        panic("Couldn't find results");
+
+    const auto& openai_res = eberhart_openai["results"];
+    if (!openai_res.is_array())
+        panic("Couldn't find results");
+
+    std::unordered_map<uint32_t, std::vector<uint32_t> > openai_res_hash;
+
+    for (uint32_t l = 0; l < openai_res.size(); l++)
+    {
+        const auto& rec = openai_res[l];
+        if (!rec.contains("event_crc32") || !rec.contains("event_date_str") || !rec.contains("locations"))
+            panic("Invalid OpenAI JSON data");
+
+        std::vector<uint32_t> list;
+        list.push_back(l);
+            
+        auto res = openai_res_hash.insert(std::make_pair(rec["event_crc32"].get<uint32_t>(), list));
+        if (!res.second)
+            (res.first)->second.push_back(l);
+    }
+
+    string_vec useful_locs;
+    if (!read_text_file("eberhart_useful_locations.txt", useful_locs, true, nullptr))
+        panic("failed reading eberhart_useful_locations");
+
+    unordered_string_set useful_locs_set;
+    for (const auto& str : useful_locs)
+        useful_locs_set.insert(str);
+
     string_vec trimmed_lines;
     for (uint32_t i = 0; i < lines.size(); i++)
     {
@@ -961,6 +998,9 @@ bool convert_eberhart(unordered_string_set& unique_urls)
     cur_line = 0;
 
     uint32_t event_num = 0, total_unattributed = 0;
+    uint32_t total_openai_recs_found = 0;
+
+    string_vec location_strs;
 
     while (cur_line < lines.size())
     {
@@ -1114,12 +1154,79 @@ bool convert_eberhart(unordered_string_set& unique_urls)
 
         if (json_alt_date.size())
             fprintf(pOut_file, "  \"alt_date\" : \"%s\",\n", json_alt_date.c_str());
-
+                
         fprintf(pOut_file, "  \"desc\" : \"%s\",\n", escape_string_for_json(desc).c_str());
         fprintf(pOut_file, "  \"source_id\" : \"Eberhart_%u\",\n", event_num);
 
         fprintf(pOut_file, "  \"source\" : \"EberhartUFOI\",\n");
 
+        uint32_t hash = crc32((const uint8_t*)desc.c_str(), desc.size());
+        hash = crc32((const uint8_t*)&begin_date.m_year, sizeof(begin_date.m_year), hash);
+        hash = crc32((const uint8_t*)&begin_date.m_month, sizeof(begin_date.m_month), hash);
+        hash = crc32((const uint8_t*)&begin_date.m_day, sizeof(begin_date.m_day), hash);
+
+        auto find_res = openai_res_hash.find(hash);
+        if (find_res != openai_res_hash.end())
+        {
+            const std::vector<uint32_t>& list = find_res->second;
+
+            for (uint32_t l = 0; l < list.size(); l++)
+            {
+                const uint32_t rec_index = list[l];
+
+                const auto& rec = openai_res[rec_index];
+
+                if (!rec.contains("event_crc32") || !rec.contains("event_date_str") || !rec.contains("locations"))
+                    panic("Invalid OpenAI JSON data");
+
+                if (rec["event_crc32"] != hash)
+                    panic("hash failed");
+
+                if (rec["event_date_str"] != json_date)
+                    continue;
+
+                const auto& loc = rec["locations"];
+                if (loc.size())
+                {
+                    uint32_t total_useful_locs = 0;
+                    for (uint32_t k = 0; k < loc.size(); k++)
+                    {
+                        if (useful_locs_set.find(loc[k]) != useful_locs_set.end())
+                            total_useful_locs++;
+                    }
+
+                    if (total_useful_locs)
+                    {
+                        fprintf(pOut_file, "  \"location\" : [ ");
+
+                        uint32_t total_useful_locs_printed = 0;
+
+                        for (uint32_t k = 0; k < loc.size(); k++)
+                        {
+                            if (useful_locs_set.find(loc[k]) != useful_locs_set.end())
+                            {
+                                if (total_useful_locs_printed)
+                                    fprintf(pOut_file, ", ");
+                                                                
+                                fprintf(pOut_file, "\"%s\"", escape_string_for_json(loc[k]).c_str());
+                                
+                                total_useful_locs_printed++;
+                            }
+                            else
+                            {
+                                location_strs.push_back(loc[k]);
+                            }
+                        }
+
+                        fprintf(pOut_file, " ],\n");
+                    }
+                }
+
+                total_openai_recs_found++;
+                break;
+            }
+        }
+        
         if (!ref.size())
         {
             fprintf(pOut_file, "  \"ref\" : \"[Eberhart](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf)\"\n");
@@ -1139,11 +1246,14 @@ bool convert_eberhart(unordered_string_set& unique_urls)
         event_num++;
     }
 
+    write_text_file("rejected_location_strs.txt", location_strs, true);
+
     fprintf(pOut_file, "] }\n");
     fclose(pOut_file);
 
     uprintf("Total records: %u\n", event_num);
     uprintf("Total unattributed: %u\n", total_unattributed);
+    uprintf("Total OpenAI recs found: %u\n", total_openai_recs_found);
 
     return true;
 }

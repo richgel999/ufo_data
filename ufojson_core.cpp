@@ -2,7 +2,7 @@
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "ufojson_core.h"
 
-#define TIMELINE_VERSION "1.14"
+#define TIMELINE_VERSION "1.22"
 
 // Note that May ends in a period.
 const char* g_months[12] =
@@ -1061,8 +1061,21 @@ void timeline_event::print(FILE* pFile) const
     if (m_end_date_str.size())
         fprintf(pFile, "**End date:** %s  \n", m_end_date_str.c_str());
 
-    for (uint32_t i = 0; i < m_locations.size(); i++)
-        fprintf(pFile, "**Location:** %s  \n", m_locations[i].c_str());
+    if (m_locations.size() > 1)
+    {
+        fprintf(pFile, "**Locations:** ");
+        for (uint32_t i = 0; i < m_locations.size(); i++)
+        {
+            if (i)
+                fprintf(pFile, "; ");
+            fprintf(pFile, "%s", m_locations[i].c_str());
+        }
+        fprintf(pFile, "  \n");
+    }
+    else if (m_locations.size())
+    {
+        fprintf(pFile, "**Location:** %s  \n", m_locations[0].c_str());
+    }
 
     fprintf(pFile, "**Description:** %s  \n", m_desc.c_str());
 
@@ -1405,7 +1418,9 @@ void timeline_event::to_json(json& j) const
     j = json::object();
 
     j["date"] = m_date_str;
-    j["desc"] = m_desc;
+
+    if (m_desc.size())
+        j["desc"] = m_desc;
 
     if (m_alt_date_str.size())
         j["alt_date"] = m_alt_date_str;
@@ -1473,7 +1488,18 @@ void timeline_event::to_json(json& j) const
     }
 }
 
-bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pDate_range_desc, int begin_year, int end_year)
+uint32_t timeline_event::get_crc32() const
+{
+    uint32_t hash = crc32((const uint8_t*)m_desc.c_str(), m_desc.size());
+
+    hash = crc32((const uint8_t*)&m_begin_date.m_year, sizeof(m_begin_date.m_year), hash);
+    hash = crc32((const uint8_t*)&m_begin_date.m_month, sizeof(m_begin_date.m_month), hash);
+    hash = crc32((const uint8_t*)&m_begin_date.m_day, sizeof(m_begin_date.m_day), hash);
+
+    return hash;
+}
+
+bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pDate_range_desc, int begin_year, int end_year, bool single_file_output)
 {
     const std::vector<timeline_event>& timeline_events = m_events;
 
@@ -1503,7 +1529,10 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
 
     std::map<int, int> year_histogram;
 
-    fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, %s, v" TIMELINE_VERSION " - Compiled 2/23/2023</a>\n\n", pDate_range_desc);
+    if ((pDate_range_desc) && (strlen(pDate_range_desc)))
+        fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, %s, v" TIMELINE_VERSION " - Compiled 4/17/2023</a>\n\n", pDate_range_desc);
+    else
+        fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, v" TIMELINE_VERSION " - Compiled 4/17/2023</a>\n\n");
 
     fputs(
         u8R"(An automated compilation by <a href="https://twitter.com/richgel999">Richard Geldreich, Jr.</a> using public data from <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e">Dr. Jacques Vallée</a>,
@@ -1522,6 +1551,9 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
 - Larry Hatch - Copyright (c) 1992-2002
 
 ## Update History:
+- v1.22: Fixing the date of Dr. Eric W. Davis's March, 2020 classified briefing to the Senate (I had it listed as March 2019) - info from NY Times. Basic locations added to Eberhart records using OpenAI.
+- v1.20: Split up into 5 parts, to work around iPhone web browser limits. Minor spelling and grammer fixes throughout timeline.
+- v1.15: Eberhart records now have basic locations, thanks to OpenAI's Davinci-3 AI model. They aren't perfect, but it's a good start to geocoding them.
 - v1.14: Added nuclear test data, over 2000 records, from the [Worldwide Nuclear Explosions](https://web.archive.org/web/20220407121213/https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf) paper by Yang, North, Romney, and Richards. Note the locations in the paper are approximate, and the yields are not super accurate, which are two problems I'll fix over time. I improved the coordinates of the earliest USA/USSR tests by looking them up from Wikipedia.
 - v1.13: Split up the timeline into 4 parts. Still not the best solution, but it avoids croaking browsers.
 - v1.12: Added \*U\* database record data, using a custom event description decoder to handle his 1k+ abbreviations and custom syntax
@@ -1543,15 +1575,26 @@ Currently, the events are not sorted by time of day, only by date. Some sources 
 A few events don't have firm dates, for example "Summer of 1947", or "Late July 1952". In these instances the compilation code uses fixed dates I selected for date sorting purposes. (See the code for the specific dates.)
 
 ## Source Code:
-This website is created automatically using a [C++](https://en.wikipedia.org/wiki/C%2B%2B) command line tool called “ufojson”. It parses the raw text and [Markdown](https://en.wikipedia.org/wiki/Markdown) source data to [JSON format](https://www.json.org/json-en.html), which is then converted to a single large web page using [pandoc](https://pandoc.org/). This tool's source code and all of the raw source and JSON data is located [here on github](https://github.com/richgel999/ufo_data).
+This website is created automatically using a [C++](https://en.wikipedia.org/wiki/C%2B%2B) command line tool called “ufojson”. It parses the raw text and [Markdown](https://en.wikipedia.org/wiki/Markdown) source data to [JSON format](https://www.json.org/json-en.html), which is then converted to a single large web page using [pandoc](https://pandoc.org/). This tool's source code and all of the raw source and JSON data is located [here on github](https://github.com/richgel999/ufo_data).)", pTimeline_file);
 
-## Year Ranges
+    fputs("\n", pTimeline_file);
+
+    if (!single_file_output)
+    {
+        fputs("\n", pTimeline_file);
+
+        fputs(
+u8R"(## Year Ranges
 1. [Part 1: Distant past up to and including 1949](timeline.html)
 2. [Part 2: 1950 up to and including 1959](timeline_part2.html)
-3. [Part 3: 1960 up to and including 1979](timeline_part3.html)
-4. [Part 4: 1980 to present](timeline_part4.html))", pTimeline_file);
+3. [Part 3: 1960 up to and including 1969](timeline_part3.html)
+4. [Part 4: 1970 up to and including 1979](timeline_part4.html)
+5. [Part 5: 1980 to present](timeline_part5.html))", pTimeline_file);
 
-    fprintf(pTimeline_file, "\n\n## Table of Contents\n\n");
+        fputs("\n", pTimeline_file);
+    }
+
+    fprintf(pTimeline_file, "\n## Table of Contents\n\n");
 
     fprintf(pTimeline_file, "<a href = \"#yearhisto\">Year Histogram</a>\n\n");
 
@@ -1590,10 +1633,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 
     for (uint32_t i = first_event_index; i <= last_event_index; i++)
     {
-        uint32_t hash = crc32((const uint8_t*)timeline_events[i].m_desc.c_str(), timeline_events[i].m_desc.size());
-        hash = crc32((const uint8_t*)&timeline_events[i].m_begin_date.m_year, sizeof(timeline_events[i].m_begin_date.m_year), hash);
-        hash = crc32((const uint8_t*)&timeline_events[i].m_begin_date.m_month, sizeof(timeline_events[i].m_begin_date.m_month), hash);
-        hash = crc32((const uint8_t*)&timeline_events[i].m_begin_date.m_day, sizeof(timeline_events[i].m_begin_date.m_day), hash);
+        uint32_t hash = timeline_events[i].get_crc32();
 
         int year = timeline_events[i].m_begin_date.m_year;
         if ((year != cur_year) && (year > cur_year))

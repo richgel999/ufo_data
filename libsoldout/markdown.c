@@ -594,7 +594,20 @@ char_entity(struct buf *ob, struct render *rndr,
 		work.data = data;
 		work.size = end;
 		rndr->make.entity(ob, &work, rndr->make.opaque); }
-	else bufput(ob, data, end);
+	else
+	{
+		// rg
+		if (rndr->make.normal_text)
+		{
+			work.data = data;
+			work.size = end;
+			rndr->make.normal_text(ob, &work, rndr->make.opaque);
+		}
+		else
+		{
+			bufput(ob, data, end);
+		}
+	}
 	return end; }
 
 
@@ -1559,7 +1572,21 @@ parse_block(struct buf *ob, struct render *rndr,
 	    && rndr->make.table_cell);
 
 	if (rndr->work.size > rndr->make.max_work_stack) {
-		if (size) bufput(ob, data, size);
+		if (size)
+		{
+			// rg
+			if (rndr->make.normal_text)
+			{
+				struct buf work;
+				work.data = data;
+				work.size = size;
+				rndr->make.normal_text(ob, &work, rndr->make.opaque);
+			}
+			else
+			{
+				bufput(ob, data, size);
+			}
+		}
 		return; }
 
 	beg = 0;

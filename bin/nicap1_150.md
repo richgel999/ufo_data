@@ -1112,7 +1112,7 @@ Sutton photo of domed disc
 
 33Summer
 
-Chrysville
+Cherryville
 
 PA
 

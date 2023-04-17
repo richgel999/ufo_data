@@ -981,7 +981,8 @@ namespace pjson
             return -1;
          }
          
-         const uint n = get_array().size();
+         //const uint n = get_array().size();
+         const uint n = get_object().size();
          const key_value_vec_t &obj = get_object();
 
          for (uint i = 0; i < n; i++)
@@ -996,37 +997,37 @@ namespace pjson
          return find_key(pName) >= 0;
       }
 
-      inline bool as_bool(const char *pName, bool def = false) const 
+      inline bool find_bool(const char *pName, bool def = false) const 
       { 
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_bool(def);
       }
       
-      inline int as_int32(const char *pName, int32 def = 0) const 
+      inline int find_int32(const char *pName, int32 def = 0) const 
       {  
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_int32(def);
       }
       
-      inline int64 as_int64(const char *pName, int64 def = 0) const 
+      inline int64 find_int64(const char *pName, int64 def = 0) const 
       { 
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_int64(def);
       }
       
-      inline float as_float(const char *pName, float def = 0.0f) const 
+      inline float find_float(const char *pName, float def = 0.0f) const 
       { 
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_float(def);
       }
 
-      inline double as_double(const char *pName, double def = 0.0f) const 
+      inline double find_double(const char *pName, double def = 0.0f) const 
       { 
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_double(def);
       }
       
-      inline const char* as_string_ptr(const char *pName, const char *pDef = "") const 
+      inline const char* find_string_ptr(const char *pName, const char *pDef = "") const 
       { 
          int index = find_key(pName);
          if (index < 0) 
@@ -1034,6 +1035,8 @@ namespace pjson
          const char *p = get_object()[index].get_value().as_string_ptr();
          return p ? p : pDef;
       }
+
+      inline std::string find_string_obj(const char* pName, const char* pDef = "") const { return find_string_ptr(pName, pDef); }
      
       inline       value_variant& get_value_at_index(uint index)        { PJSON_ASSERT(is_object_or_array()); return is_object() ? get_object()[index].get_value() : get_array()[index]; }
       inline const value_variant& get_value_at_index(uint index) const  { PJSON_ASSERT(is_object_or_array()); return is_object() ? get_object()[index].get_value() : get_array()[index]; }
@@ -1646,6 +1649,7 @@ namespace pjson
 #endif
       }
       
+      // The buffer must be null terminated, and must stay resident in memory as long as this document lasts. The buffer will be modified.
       bool deserialize_in_place(char* pStr)
       {
          return deserialize_start((uint8*)pStr);
@@ -2292,3 +2296,43 @@ namespace pjson
 } // namespace pjson
 
 #endif // PJSON_H
+
+#if 0
+pjson::document doc;
+doc.set_to_object();
+doc.add_key_value("blah", pjson::value_variant(5.0f), doc.get_allocator());
+
+//doc.set_to_array();
+//doc.add_value(pjson::value_variant(5.0f), doc.get_allocator());
+
+//doc.set(5.0f);
+//doc.set("This is a \"test\"", doc.get_allocator());
+
+pjson::char_vec_t v;
+doc.serialize(v);
+
+pjson::document doc;
+
+doc.set_to_object();
+
+doc.add_key_value("k1", pjson::value_variant(5.0f), doc.get_allocator());
+
+pjson::value_variant vv(pjson::cJSONValueTypeObject);
+vv.add_key_value("blah", pjson::value_variant("This", doc.get_allocator()), doc.get_allocator());
+vv.add_key_value("blah2", 5, doc.get_allocator());
+vv.add_key_value("blah3", true, doc.get_allocator());
+
+doc.add_key_value("k2", vv, doc.get_allocator());
+
+pjson::value_variant vv2(pjson::cJSONValueTypeArray);
+vv2.add_value(1, doc.get_allocator());
+vv2.add_value(2, doc.get_allocator());
+vv2.add_value(3, doc.get_allocator());
+
+doc.add_key_value("k3", vv2, doc.get_allocator());
+
+pjson::char_vec_t v;
+doc.serialize(v);
+
+#endif
+

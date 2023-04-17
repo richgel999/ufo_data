@@ -6958,7 +6958,7 @@
 		},
 		
 		{
-			"date" : "3/2019",
+			"date" : "3/2020",
 			"desc" : "NY Times: Dr. Eric W. Davis PhD, Aerospace Corporation (a defense contractor), gives a classified briefing to a Defense Department agency about retrievals from “off-world vehicles not made on this earth.”",
 			"ref" : "[NY Times](https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html)",
 			"type" : "senate briefing",
@@ -6999,7 +6999,7 @@
 		
 		{
 			"date" : "10/21/2019",
-			"desc" : "Dr. Eric W. Davis PhD gave classified briefings on retrievals of unexplained objects to staff members of the Senate Armed Services Committee.",
+			"desc" : "Dr. Eric W. Davis PhD gave classified briefings on \"retrievals of unexplained objects\" to staff members of the Senate Armed Services Committee.",
 			"ref" : "[NY Times](https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html)",
 			"type" : "senate briefing",
 			"location" : "Washington DC"
@@ -7007,7 +7007,7 @@
 		
 		{
 			"date" : "10/23/2019",
-			"desc" : "Dr. Eric W. Davis PhD gave classified briefings on retrievals of unexplained objects to staff members of the Senate Intelligence Committee",
+			"desc" : "Dr. Eric W. Davis PhD gave classified briefings on \"retrievals of unexplained objects\" to staff members of the Senate Intelligence Committee",
 			"ref" : "[NY Times](https://www.nytimes.com/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html)",
 			"type" : "senate briefing",
 			"location" : "Washington DC"
@@ -7850,8 +7850,26 @@
             "ref" : "[bbc.com: \"Area 51 'declassified' in U-2 spy plane history\"](https://www.bbc.com/news/world-us-canada-23731759)",
             "type" : "secret base",
             "location" : "Groom Lake, NV"
-        }    
+        },
         
+        {
+            "date" : "7/3/1947",
+            "desc" : "The first instance of the ET hypothesis to appear in the media, in a letter by [Ole Johannes Sneide 1886-8/31/1947](https://www.jasoncolavito.com/saucer-mystery-solved.html). His letter first appeared in the *San Francisco Chronicle*. The flying discs were “oblate spheroid space ships from the older planets.” “Usually they travel in outer space with speeds approximating that of light by use of anti-gravity devices and hyperspace. In our space they travel much slower, and, of course, become visible either by intent or by accident, for in their travels they use the invisibility screen.” “This space navigation has been going on for millions of years, these ‘nova’ having come into our galaxy originally from the Great Magellanic Cloud via the Lesser Magellanic Cloud, 47 Tucanae, Omega and Alpha Centauri clusters.” “Their masters planted the original humanities here and which did not develop sui generis. They have been absent from our planet since before the fall of the Roman Empire when the Great Master left earth for the outer galaxy by fohatic teleportation.” “He is now back and what is going to be done depends upon mankind, but my advice is that physical man set up no belligerence, for a small concentration of those disks just beyond the range of our atmosphere could clean the surface of our planet completely in a matter of less than 24 hours. “Their present local headquarters is on the unseen side of our moon. I discovered this by teleportation visits hither and yon in and between our galaxy.” “Mankind,” he concluded, “will just have to learn their physics all over again, someday, if they live. Ah! If they live!”",
+            "type" : "newspaper article",
+            "location" : "San Francisco, CA",
+            "ref" : [ "[The Saucers That Time Forgot - blogspot.com](https://thesaucersthattimeforgot.blogspot.com/2021/12/a-1947-pioneer-of-ufo-extraterrestrial.html)",
+            "[Jason Colavito - Saucer Mystery Solved?](https://www.jasoncolavito.com/saucer-mystery-solved.html)",
+            "[Stockton Evening and Sunday Record, 7/3/1947, newspapers.com](https://www.newspapers.com/clip/119726162/ole-j-sneide/)" ]
+        },   
+        
+        {
+            "date" : "7/1/1947",
+            "desc" : "Military officials, both officers and the enlisted technicians had been tracking, on their radar, an unidentified object in flight over southern New Mexico since July 1. The object had first appeared over the highly restricted areas near the White Sands Proving Grounds. On July 2, Steve MacKenzie (a pseudonym, actually Frank Kaufmann), stationed at [Roswell Army Air Field](https://en.wikipedia.org/wiki/Walker_Air_Force_Base), had received a call from [Brigadier General Martin F. Scanlon](https://www.af.mil/About-Us/Biographies/Display/Article/105707/brigadier-general-martin-f-scanlon/) of the [Air Defense Command](https://en.wikipedia.org/wiki/Aerospace_Defense_Command), ordering him to report to the radar sites at [White Sands](https://en.wikipedia.org/wiki/White_Sands_Missile_Range). MacKenzie was to monitor the object's movements and report them directly to the general. MacKenzie could not leave the scope unattended for even the shortest of times. In fact, once he had his watch established, he set up a system of mirrors so that he could see the screen even when he needed to use the latrine. MacKenzie stayed at his post for twenty-four hours straight, but nothing changed. The object appeared periodically over southern New Mexico, but usually just \"flitting from one location to another.\" When MacKenzie reported that nothing had changed significantly during his twenty-four-hour watch, Scanlon decided to end MacKenzie's part of the operation. Although MacKenzie was ordered back to Roswell, the operators at White Sands were told to continue to monitor the object, as were the radarmen at Roswell and Albuquerque. (R.G.: Interestingly, this case was deleted and \"declared a hoax\" in NICAP's records and by K. Randle, but after re-reading all the relevant research I don't believe at all that this is a matter of a simple hoax. It fits into the historical timeline well and should be re-examined.)",
+            "location" : [ "Roswell Army Air Field, Roswell NM", "White Sands, NM" ],
+            "type" : "radar sightings",
+            "ref" : [ "[Radar Tracks Object - nipcap.org](https://web.archive.org/web/20050227234151/http://www.nicap.org/whitesands470701.htm)",
+            "[Frank Kaufmann (aka Steve McKenzie) - roswellfiles.com](http://www.roswellfiles.com/Witnesses/Kaufmann.htm)" ]
+        }
 
 		
 	]

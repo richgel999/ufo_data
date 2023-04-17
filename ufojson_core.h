@@ -150,6 +150,8 @@ struct timeline_event
     void from_json(const json& obj, const char* pSource_override, bool fix_20century_dates);
     
     void to_json(json& j) const;
+
+    uint32_t get_crc32() const;
 };
 
 typedef std::vector<timeline_event> timeline_event_vec;
@@ -175,7 +177,7 @@ public:
 
     void sort()
     {
-        std::sort(m_events.begin(), m_events.end());
+        std::stable_sort(m_events.begin(), m_events.end());
     }
 
     void create_json(json& j) const
@@ -207,7 +209,7 @@ public:
 
     bool load_json(const char* pFilename, bool& utf8_flag, const char* pSource_override, bool fix_20century_dates);
 
-    bool write_markdown(const char* pTimeline_filename, const char* pDate_range_desc, int begin_year, int end_year);
+    bool write_markdown(const char* pTimeline_filename, const char* pDate_range_desc, int begin_year, int end_year, bool single_file_output);
 
 private:
     timeline_event_vec m_events;

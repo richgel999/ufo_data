@@ -30,7 +30,7 @@
 
 #include <unordered_set>
 
-//#include "pjson.h"
+#include "pjson.h"
 
 #include "libsoldout/markdown.h"
 
@@ -41,12 +41,16 @@ typedef std::vector<std::string> string_vec;
 typedef std::unordered_set<std::string> unordered_string_set;
 typedef std::vector<uint8_t> uint8_vec;
 typedef std::pair<std::string, std::string> string_pair;
+typedef std::vector<int> int_vec;
+typedef std::vector<uint32_t> uint_vec;
 
 const uint32_t UTF8_BOM0 = 0xEF, UTF8_BOM1 = 0xBB, UTF8_BOM2 = 0xBF;
 
 // Code page 1242 (ANSI) soft hyphen character.
 // See http://www.alanwood.net/demos/ansi.html
 const uint32_t ANSI_SOFT_HYPHEN = 0xAD;
+
+template<typename T> inline void clear_obj(T& obj) { memset(&obj, 0, sizeof(T)); }
 
 void panic(const char* pMsg, ...);
 
@@ -172,6 +176,8 @@ std::string& string_trim_end(std::string& str);
 // Case sensitive, returns -1 if can't find
 int string_find_first(const std::string& str, const char* pPhrase);
 
+int string_ifind_first(const std::string& str, const char* pPhrase);
+
 int string_icompare(const std::string& a, const char* pB);
 
 // Case insensitive
@@ -192,6 +198,8 @@ std::string encode_url(const std::string& url);
 
 uint32_t crc32(const uint8_t* pBuf, size_t size, uint32_t init_crc = 0);
 
+uint32_t hash_hsieh(const uint8_t* pBuf, size_t len);
+
 bool read_binary_file(const char* pFilename, uint8_vec& buf);
 
 bool read_text_file(const char* pFilename, string_vec& lines, bool trim_lines, bool* pUTF8_flag);
@@ -211,3 +219,17 @@ void convert_args_to_utf8(string_vec& args, int argc, wchar_t* argv[]);
 bool invoke_openai(const std::string& prompt, std::string& reply);
 
 std::string get_deg_to_dms(double deg);
+
+bool load_json_object(const char* pFilename, bool& utf8_flag, json& result_obj);
+
+inline bool load_json_object(const char* pFilename, json& result_obj) { bool utf8_flag = false; return load_json_object(pFilename, utf8_flag, result_obj); }
+
+void string_tokenize(const std::string& str, const std::string& whitespace, const std::string& break_chars, string_vec& tokens, uint_vec* pOffsets_vec = nullptr);
+
+double deg2rad(double deg);
+double rad2deg(double rad);
+
+// input in degrees
+double geo_distance(double lat1, double lon1, double lat2, double lon2, int unit = 'M');
+
+std::string remove_bom(std::string str);

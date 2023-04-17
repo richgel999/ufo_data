@@ -3,9 +3,11 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LocalDebuggerWorkingDirectory>bin</LocalDebuggerWorkingDirectory>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>-single_file -filter "Canada" -title "Canada only" -filter "Quebec" -filter "Ontario" -filter "Nova Scotia" -filter "New Brunswick" -filter "British Columbia" -filter "Prince Edward Island" -filter "Saskatchewan" -filter "Alberta" -filter "Newfoundland"</LocalDebuggerCommandArguments>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LocalDebuggerWorkingDirectory>bin</LocalDebuggerWorkingDirectory>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommandArguments>-single_file -filter "Canada" -title "Canada only" -filter "Quebec" -filter "Ontario" -filter "Nova Scotia" -filter "New Brunswick" -filter "British Columbia" -filter "Prince Edward Island" -filter "Saskatchewan" -filter "Alberta" -filter "Newfoundland"</LocalDebuggerCommandArguments>
   </PropertyGroup>
 </Project>

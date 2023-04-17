@@ -248,6 +248,30 @@ int string_find_first(const std::string& str, const char* pPhrase)
     return (int)res;
 }
 
+// Case insensitive, returns -1 if can't find
+int string_ifind_first(const std::string& str, const char* pPhrase)
+{
+    const size_t str_size = str.size();
+    const size_t phrase_size = strlen(pPhrase);
+
+    assert((int)str_size == str_size);
+    assert((int)phrase_size == phrase_size);
+    assert(phrase_size);
+
+    if ((!str_size) || (!phrase_size) || (phrase_size > str_size))
+        return -1;
+
+    const size_t end_ofs = str_size - phrase_size;
+    for (size_t ofs = 0; ofs <= end_ofs; ofs++)
+    {
+        assert(ofs + phrase_size <= str_size);
+        if (_stricmp(str.c_str() + ofs, pPhrase) == 0)
+            return (int)ofs;
+    }
+    
+    return -1;
+}
+
 int string_icompare(const std::string& a, const char* pB)
 {
     const size_t a_len = a.size();
@@ -331,6 +355,7 @@ std::string encode_url(const std::string& url)
     return res;
 }
 
+// TODO
 uint32_t crc32(const uint8_t* pBuf, size_t size, uint32_t init_crc)
 {
     uint32_t crc = ~init_crc;
@@ -349,6 +374,62 @@ uint32_t crc32(const uint8_t* pBuf, size_t size, uint32_t init_crc)
     }
 
     return ~crc;
+}
+
+uint32_t hash_hsieh(const uint8_t* pBuf, size_t len)
+{
+    if (!pBuf || !len)
+        return 0;
+
+    uint32_t h = static_cast<uint32_t>(len);
+
+    const uint32_t bytes_left = len & 3;
+    len >>= 2;
+
+    while (len--)
+    {
+        const uint16_t* pWords = reinterpret_cast<const uint16_t*>(pBuf);
+
+        h += pWords[0];
+
+        const uint32_t t = (pWords[1] << 11) ^ h;
+        h = (h << 16) ^ t;
+
+        pBuf += sizeof(uint32_t);
+
+        h += h >> 11;
+    }
+
+    switch (bytes_left)
+    {
+    case 1:
+        h += *reinterpret_cast<const signed char*>(pBuf);
+        h ^= h << 10;
+        h += h >> 1;
+        break;
+    case 2:
+        h += *reinterpret_cast<const uint16_t*>(pBuf);
+        h ^= h << 11;
+        h += h >> 17;
+        break;
+    case 3:
+        h += *reinterpret_cast<const uint16_t*>(pBuf);
+        h ^= h << 16;
+        h ^= (static_cast<signed char>(pBuf[sizeof(uint16_t)])) << 18;
+        h += h >> 11;
+        break;
+    default:
+        break;
+    }
+
+    h ^= h << 3;
+    h += h >> 5;
+    h ^= h << 4;
+    h += h >> 17;
+    h ^= h << 25;
+    h += h >> 6;
+
+    return h;
 }
 
 bool read_binary_file(const char* pFilename, uint8_vec& buf)
@@ -392,7 +473,7 @@ bool read_text_file(const char* pFilename, string_vec& lines, bool trim_lines, b
 
     if (pUTF8_flag)
         *pUTF8_flag = false;
-
+        
     while (!feof(pFile))
     {
         char buf[16384];
@@ -488,7 +569,16 @@ bool write_text_file(const char* pFilename, string_vec& lines, bool utf8_bom)
 
     for (uint32_t i = 0; i < lines.size(); i++)
     {
-        if ((fwrite(lines[i].c_str(), lines[i].size(), 1, pFile) != 1) || (fwrite("\r\n", 2, 1, pFile) != 1))
+        if (lines[i].size())
+        {
+            if (fwrite(lines[i].c_str(), lines[i].size(), 1, pFile) != 1)
+            {
+                fclose(pFile);
+                return false;
+            }
+        }
+
+        if (fwrite("\r\n", 2, 1, pFile) != 1)
         {
             fclose(pFile);
             return false;
@@ -816,7 +906,17 @@ void convert_args_to_utf8(string_vec& args, int argc, wchar_t* argv[])
     args.resize(argc);
 
     for (int i = 0; i < argc; i++)
+    {
         args[i] = wchar_to_utf8(argv[i]);
+        if (args[i].size() >= 2)
+        {
+            if ((args[i][0] == '\"') && (args[i].back() == '\"'))
+            {
+                args[i].pop_back();
+                args[i].erase(0, 1);
+            }
+        }
+    }
 }
 
 std::string string_slice(const std::string& str, size_t ofs, size_t len)
@@ -896,4 +996,152 @@ std::string get_deg_to_dms(double deg)
     int secs = min_secs % 60;
 
     return string_format("%02i%:%02i:%02i", (int)deg, minutes, secs);
+}
+
+bool load_json_object(const char* pFilename, bool& utf8_flag, json &result_obj)
+{
+    std::vector<uint8_t> buf;
+
+    if (!read_text_file(pFilename, buf, &utf8_flag))
+        return false;
+
+    if (!buf.size())
+        return false;
+
+    bool success = false;
+    try
+    {
+        result_obj = json::parse(buf.begin(), buf.end());
+        success = true;
+    }
+    catch (json::exception& e)
+    {
+        fprintf(stderr, "load_json_object: Parse of file \"%s\" failed (id %i): %s", pFilename, e.id, e.what());
+        return false;
+    }
+
+    if (!result_obj.is_object() && !result_obj.is_array())
+        return false;
+
+    return true;
+}
+
+void string_tokenize(
+    const std::string &str, 
+    const std::string &whitespace,
+    const std::string &break_chars,
+    string_vec &tokens,
+    uint_vec *pOffsets_vec)
+{
+    tokens.resize(0);
+    if (pOffsets_vec)
+        pOffsets_vec->resize(0);
+
+    std::string cur_token;
+    uint32_t cur_ofs = 0;
+        
+    for (uint32_t i = 0; i < str.size(); i++)
+    {
+        uint8_t c = str[i];
+
+        if (whitespace.find_first_of(c) != std::string::npos)
+        {
+            if (cur_token.size())
+            {
+                tokens.push_back(cur_token);
+                if (pOffsets_vec)
+                    pOffsets_vec->push_back(cur_ofs);
+
+                cur_token.clear();
+            }
+        }
+        else if (break_chars.find_first_of(c) != std::string::npos)
+        {
+            if (cur_token.size())
+            {
+                tokens.push_back(cur_token);
+                if (pOffsets_vec)
+                    pOffsets_vec->push_back(cur_ofs);
+
+                cur_token.clear();
+            }
+
+            std::string s;
+            s.push_back(c);
+
+            tokens.push_back(s);
+            if (pOffsets_vec)
+                pOffsets_vec->push_back(i);
+        }
+        else
+        {
+            if (!cur_token.size())
+                cur_ofs = i;
+
+            cur_token.push_back(c);
+        }
+    }
+
+    if (cur_token.size())
+    {
+        tokens.push_back(cur_token);
+        if (pOffsets_vec)
+            pOffsets_vec->push_back(cur_ofs);
+    }
+}
+
+const double PI = 3.141592653589793238463;
+
+double deg2rad(double deg)
+{
+    return (deg * PI / 180.0);
+}
+
+double rad2deg(double rad)
+{
+    return (rad * 180.0 / PI);
+}
+
+// input in degrees
+double geo_distance(double lat1, double lon1, double lat2, double lon2, int unit)
+{
+    if ((lat1 == lat2) && (lon1 == lon2)) 
+        return 0;
+
+    double theta = lon1 - lon2;
+    double dist = cos(deg2rad(lat1)) * cos(deg2rad(lat2)) * cos(deg2rad(theta)) + sin(deg2rad(lat1)) * sin(deg2rad(lat2));
+    dist = acos(dist);
+    dist = rad2deg(dist);
+
+    dist = dist * 60 * 1.1515;
+
+    switch (unit) 
+    {
+    case 'M':
+        break;
+    case 'K':
+        dist = dist * 1.609344;
+        break;
+    case 'N':
+        dist = dist * 0.8684;
+        break;
+    default:
+        assert(0);
+        break;
+    }
+
+    return (dist);
+}
+
+std::string remove_bom(std::string str)
+{
+    if (str.size() >= 3)
+    {
+        if (((uint8_t)str[0] == UTF8_BOM0) && ((uint8_t)str[1] == UTF8_BOM1) && ((uint8_t)str[2] == UTF8_BOM2))
+        {
+            str.erase(0, 3);
+        }
+    }
+
+    return str;
 }
