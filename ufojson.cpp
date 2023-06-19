@@ -2174,13 +2174,13 @@ int wmain(int argc, wchar_t* argv[])
 
     ufo_timeline timeline;
 
-#if 1
     status = timeline.load_json("maj2.json", utf8_flag, "Maj2", true);
     if (!status)
         panic("Failed loading maj2.json");
     for (uint32_t i = 0; i < timeline.size(); i++)
         timeline[i].m_source_id = string_format("%s_%u", timeline[i].m_source.c_str(), i);
 
+#if 1
     status = timeline.load_json("hatch_udb.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading hatch_udb.json");
@@ -2212,11 +2212,11 @@ int wmain(int argc, wchar_t* argv[])
     status = timeline.load_json("eberhart.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading eberhart.json");
-#endif
-        
+
     status = timeline.load_json("johnson.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading johnson.json");
+#endif
 
     for (uint32_t i = 0; i < timeline.size(); i++)
     {

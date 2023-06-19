@@ -2,7 +2,8 @@
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "ufojson_core.h"
 
-#define TIMELINE_VERSION "1.22"
+#define TIMELINE_VERSION "1.26"
+#define COMPILATION_DATE "6/19/2023"
 
 // Note that May ends in a period.
 const char* g_months[12] =
@@ -1530,9 +1531,9 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
     std::map<int, int> year_histogram;
 
     if ((pDate_range_desc) && (strlen(pDate_range_desc)))
-        fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, %s, v" TIMELINE_VERSION " - Compiled 4/17/2023</a>\n\n", pDate_range_desc);
+        fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, %s, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n", pDate_range_desc);
     else
-        fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, v" TIMELINE_VERSION " - Compiled 4/17/2023</a>\n\n");
+        fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n");
 
     fputs(
         u8R"(An automated compilation by <a href="https://twitter.com/richgel999">Richard Geldreich, Jr.</a> using public data from <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e">Dr. Jacques Vallée</a>,
@@ -1551,6 +1552,7 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
 - Larry Hatch - Copyright (c) 1992-2002
 
 ## Update History:
+- v1.23-1.24: Added a handful of key historical events, such as Edward Tauss the head of CIA UFO disinformation in the 50's
 - v1.22: Fixing the date of Dr. Eric W. Davis's March, 2020 classified briefing to the Senate (I had it listed as March 2019) - info from NY Times. Basic locations added to Eberhart records using OpenAI.
 - v1.20: Split up into 5 parts, to work around iPhone web browser limits. Minor spelling and grammer fixes throughout timeline.
 - v1.15: Eberhart records now have basic locations, thanks to OpenAI's Davinci-3 AI model. They aren't perfect, but it's a good start to geocoding them.

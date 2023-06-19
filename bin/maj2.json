@@ -2480,7 +2480,7 @@
 		
 		{
 			"date" : "1/7/1948",
-			"desc" : "Maysville, KN: The local Highway Patrol are notified that an UFO has been sighted high up in the sky and they notify Godman AFB of the sighting...At 1:45 pm T. Sgt. Quinton Blackwell visually scanned the skiessouth of Godman AFB and picked out a dim light in the hazy sky. By the time base commander Col. Guy Hixarrived at 2:20 pm the UFO looked like “an ice cream cone” through binoculars. About 20 minutes later 4 National Guard aircraft flew into the vicinity with Capt. Thomas Mantell in one of the F-51s.",
+			"desc" : "Maysville, KN: The local Highway Patrol are notified that an UFO has been sighted high up in the sky and they notify Godman AFB of the sighting...At 1:45 pm T. Sgt. Quinton Blackwell visually scanned the skies south of Godman AFB and picked out a dim light in the hazy sky. By the time base commander Col. Guy Hixarrived at 2:20 pm the UFO looked like “an ice cream cone” through binoculars. About 20 minutes later 4 National Guard aircraft flew into the vicinity with Capt. Thomas Mantell in one of the F-51s.",
 			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based)",
 			"type" : "ufo sighting",
 			"location" : "Maysville, KN"
@@ -2488,8 +2488,10 @@
 		
 		{
 			"date" : "1/7/1948",
-			"desc" : "Top Secret Report (100–203–79,p.12,sec. k.) Capt. Thomas Mantell, a Nat. Guard pilot, was killed trying to chase an UFO up to 30,000 ft. His last message to the tower was, “it appears to be metallic object....oftremendous size.directly ahead and slightly above....I am trying to close for a better look.” The F-51 exploded in mid-air and disintegrated before it struck the ground. The aircraft’s metal was hit with fragments before it collided with the ground. State Police estimated the saucer to be 250 ft. diam.",
-			"ref" : "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
+			"desc" : "Top Secret Report (100–203–79,p.12,sec. k.) Capt. Thomas Mantell, a Nat. Guard pilot, was killed trying to chase an UFO up to 30,000 ft. His last message to the tower was, “it appears to be metallic object....of tremendous size.directly ahead and slightly above....I am trying to close for a better look.” The F-51 exploded in mid-air and disintegrated before it struck the ground. The aircraft’s metal was hit with fragments before it collided with the ground. State Police estimated the saucer to be 250 ft. diam. (On Mantell's online obituary, Jim Marrs added: A man by the name of Richard T. Miller claims he was in the Scott AFB operations room in Belleville, Illinois during the chase and he states that Capt. Mantell's last words were, \"My God, I see people in this thing!\")",
+			"ref" : [
+            "[Pea Research](https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based) ([\"Above Top Secret\" by Timothy Good](https://archive.org/details/abovetopsecretwo00good/page/n7/mode/2up) p481)",
+            "[Grave][(https://www.findagrave.com/memorial/14958603/thomas-francis-mantell)" ],
 			"type" : "ufological event",
 			"location" : "Maysville, KN"
 		},						
@@ -7869,9 +7871,88 @@
             "type" : "radar sightings",
             "ref" : [ "[Radar Tracks Object - nipcap.org](https://web.archive.org/web/20050227234151/http://www.nicap.org/whitesands470701.htm)",
             "[Frank Kaufmann (aka Steve McKenzie) - roswellfiles.com](http://www.roswellfiles.com/Witnesses/Kaufmann.htm)" ]
+        },
+        
+        {
+            "date" : "8/1/1952",
+            "desc" : "In a document declassifed on 2/20/2000, Edward Tauss, acting chief of OSI's Weapons and Equipment Division, reported for the group that most UFO sightings could be easily explained. Nevertheless, he recommended that the Agency continue monitoring the problem, in coordination with ATIC. He also urged that CIA conceal its interest from the media and the public, \"in view of their probable alarmist tendencies\" to accept such interest as confirming the existence of UFOs. Tauss used the phrase \"interplanetary aspects and alien origin\". On 5/29/2023, ex-CIA (GS-15, 30 years) Officer John Ramirez mentioned that Ed Tauss was in charge of the CIA's UFO disinformation program, which started in 1952.",
+            "location" : "Washington, DC",
+            "type" : "declassified document",
+            "ref" : [
+                "[CIA Reading Room](https://www.cia.gov/readingroom/docs/DOC_0005515936.pdf)",
+                "[Interview between John Ramirez and Holly Wood](https://youtu.be/bI4VKmY03nE?list=FL-kvdFF-6XoQqmANxWYoP2A)",
+                "[NRO Historian Gerald K. Haines - \"CIA's Role in the Study of UFOs, 1947-90\"](https://apps.dtic.mil/sti/pdfs/ADA525986.pdf)" ]
+        },
+        
+        {
+            "date" : "6/5/2023",
+            "desc" : "Intelligence Officials say U.S. Has Retrieved Craft of Non-Human Origin, by Leslie Kean and Ralph Blumenthal. A former intelligence official turned whistleblower has given Congress and the Intelligence Community Inspector General extensive classified information about deeply covert programs that he says possess retrieved intact and partially intact craft of non-human origin. The information, he says, has been illegally withheld from Congress, and he filed a complaint alleging that he suffered illegal retaliation for his confidential disclosures, reported here for the first time. Other intelligence officials, both active and retired, with knowledge of these programs through their work in various agencies, have independently provided similar, corroborating information, both on and off the record. The whistleblower, David Charles Grusch, 36, a decorated former combat officer in Afghanistan, is a veteran of the National Geospatial-Intelligence Agency (NGA) and the National Reconnaissance Office (NRO). He served as the reconnaissance office’s representative to the Unidentified Aerial Phenomena Task Force from 2019-2021. From late 2021 to July 2022, he was the NGA’s co-lead for UAP analysis and its representative to the task force.",
+            "location": "US",
+            "type" : "article",
+            "ref" : [ "[The Debrief](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)",
+            "[UFO ‘whistleblower’ says government has ‘intact’ non-human craft](https://www.yahoo.com/entertainment/ufo-whistleblower-says-government-intact-144702119.html)" ]
+        },
+        
+        {
+			"date" : "12/7/1941",
+			"desc" : "The attack on Pearl Harbor was a surprise military strike by the Imperial Japanese Navy Air Service upon the United States against the U.S. naval base at Pearl Harbor in Honolulu, Hawaii, just before 8:00 a.m. (local time) on Sunday. The United States was a neutral country at the time; the attack led to its formal entry into World War II on the side of the Allies the next day. The Japanese military leadership referred to the attack as the Hawaii Operation and Operation AI and as Operation Z during its planning. (Author Moira McGhee wrote in her book \"Alien Gene\" that the Pearl Harbor attacks were being observed by one or more UFO's.)",
+			"ref" : [ "[Wikipedia](https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor)" ],
+			"type" : "attack",
+			"location" : "[U.S. Naval Base at Pearl Harbor in Honolulu, Hawaii](https://www.google.com/maps/place/Naval+Station+Pearl+Harbor,+Joint+Base+Pearl+Harbor-Hickam,+HI/@21.3537311,-157.9730976)"
+		},
+        
+        {
+            "date" : "3/22/1989",
+            "desc" : "Video of John Lear with Bob Lazar near Groom Lake",
+            "ref" : "[archive.org video](https://archive.org/details/john-lear-bob-lazar-at-groom-lake)",
+            "type" : "videotaped statement",
+            "location" : "Tikaboo Peak, Nevada, off Highway 375"
+        },
+        
+        {
+            "date" : "8/1/1954",
+            "desc" : "A 1954 letter addressed to broadcaster Frank Edwards, found in the BSRA/BSRF archives at the [Archives for the Unexplained in Sweden](https://afu.info/). It was composed by Edward W. Hermann, Manager, Agency and Advertiser Service, McGraw Hill. The physical letter was scanned by AFU staff, and was marked item #540801. The letter covers Pan-American airline pilot UFO sightings of 8-10 flying discs, which were not reported to the press. It also mentions that Aviation Week was trying to get any news out of Edwards AFB about 5 UFO's landing there earlier that year, but all they received was \"utter silence to our wires\".",
+            "ref" : "[archive.org letter PDF](https://archive.org/details/540801-letter-from-edward-w-hermann-to-frank-edwards-437)",
+            "type" : "letter",
+            "location" : "Washington DC"
+        },
+        
+        {
+            "date" : "12/29/1987",
+            "desc" : "Statement released by ex-CIA pilot John Lear. It appeared in a physical letter sent to the BSRF, which was found in the BSRA/BSRF (Borderland Sciences Research Foundation) archives at the [Archives for the Unexplained in Sweden](https://afu.info/). Lear's statement was likely uploaded to the \"ParaNet\" BBS system sometime in early 1988. It mentions MJ-12 and is very much a reflection of 1980's ufology.",
+            "location" : "Las Vegas, NV",
+            "type" : "statement",
+            "ref" : "[archive.org](https://archive.org/details/john-lear-statement-1987)"
+        },
+        
+        {
+            "date" : "11/9/1989",
+            "desc" : "The fall of the Berlin Wall (German: Mauerfall), during the Peaceful Revolution, was a pivotal event in world history which marked the destruction of the Berlin Wall and the figurative Iron Curtain and one of the series of events that started the fall of communism in Central and Eastern Europe, preceded by the Solidarity Movement in Poland. The fall of the inner German border took place shortly afterwards. An end to the Cold War was declared at the Malta Summit three weeks later and the German reunification took place in October the following year.",
+            "type" : "historical event",
+            "location" : "Berlin, Germany",
+            "ref" : "[Wikipedia](https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall)"
+            
+        },
+        
+        {
+            "date" : "7/29/1978",
+            "desc" : "Leonard Stringfield, who was US Army Air Force intelligence during WW2, gave his first major presentation on Crash Retrievals at the 1978 MUFON Symposium. Rich Hoffman (one of the organizers) and Stringfield said he was threatened several times, had to move hotel rooms, and a security team showed up. It has never been explained who threatened him.",
+            "type" : "proceedings",
+            "location" : "Dayton, OH",
+            "ref" : "[Link to Symposium PDF](http://www.noufors.com/Documents/1978%20Mufon%20Symposium.pdf)"
+        },
+        
+        {
+            "date" : "9/1966",
+            "desc" : "Air Force members, including Capt. David Schindele, from the Minot base experienced an incident in the Minot missile field in which a flying object took “off alert” all 10 of the nuclear-tipped missiles, causing them to be unlaunchable. About a dozen military members topside at the missile launch control facility observed the mysterious flying object with bright flashing lights hovering near the perimeter fence on that September night. Schindele, a Minuteman ICBM launch control officer and deputy missile combat crew commander, was at a launch control center near Mohall, where the incident occurred.",
+            "type" : "article",
+            "location" : "Minot, North Dakota",
+            "ref" : [ "[Minot Daily News](https://www.minotdailynews.com/news/local-news/2023/06/former-missile-officer-ufo-whistleblower-demonstrates-tremendous-courage/)",
+                "[Archived link](https://archive.ph/2NXea)" ]
         }
+     
 
-		
+
 	]
 
 }
