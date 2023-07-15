@@ -2487,7 +2487,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A strange "aerial construction" bearing lights and making engine noises flew low over this town. Local people also described it as a giant bird covered with large scales producing a metallic noise. Although not an actual landing, this is the first instance of close observation of an unknown object at low altitude in the nineteenth century.  
 **Type:** ufo sighting  
 **Reference:** Fort 638; Anatomy 11 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_1  
+**Source:** ValléeMagonia, **ID:** Magonia_1  
 
 ### <a name="1506EDAF"></a> Event 175 (1506EDAF)
 **Date:** 7/25/1868  
@@ -2713,7 +2713,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** At King's Sutton an object resembling a haystack flew on an irregular course. Sometimes high, sometimes very low it was accompanied by fire and dense smoke. It produced the same effect as a tornado, felling trees and walls. It suddenly vanished.  
 **Type:** ufo sighting  
 **Reference:** Fort 189 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_2  
+**Source:** ValléeMagonia, **ID:** Magonia_2  
 
 ### <a name="3F71A602"></a> Event 196 (3F71A602)
 **Date:** 12/7/1872  
@@ -2991,7 +2991,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Two very large "wheels" were seen spinning in the air and slowly coming to the surface of the sea. Estimated diameter: 40 m. Distance between the objects: 150 m. Speed: 80 km/h/ Duration: 35 min. Witnesses aboard the ship "Vultur"  
 **Type:** ufo sighting  
 **Reference:** Round up 17; Anatomy 12 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_4  
+**Source:** ValléeMagonia, **ID:** Magonia_4  
 
 ### <a name="748493D4"></a> Event 221 (748493D4)
 **Date:** 5/15/1879  
@@ -3025,7 +3025,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A strange being dressed in tight-fitting clothes and shining helmet soared over the heads of two sentries, who fired without result. The apparition stunned them with something described as "blue fire."  
 **Type:** ufo sighting  
 **Reference:** FSR 61, 3; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_3  
+**Source:** ValléeMagonia, **ID:** Magonia_3  
 
 ### <a name="640DD831"></a> Event 225 (640DD831)
 **Date:** 1880  
@@ -3033,7 +3033,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A 14-year-old boy saw a luminous ball descending from the sky and hovering near him. He felt somehow "drawn" to it, but succeeded in backing away in spite of his terror.  
 **Type:** ufo sighting  
 **Reference:** Lor. III 2O6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_5  
+**Source:** ValléeMagonia, **ID:** Magonia_5  
 
 ### <a name="99FDFF6D"></a> Event 226 (99FDFF6D)
 **Date:** 3/22/1880  
@@ -3070,7 +3070,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Four men walking near Galisteo Junction were surprised as they heard voices coming from a "strange balloon," which flew over them. It was shaped like a fish and seemed to be guided by a large fanlike device. There were eight to ten figures aboard. Their language was not understood. The object flew low over Galisteo Junction and rose rapidly toward the east.  
 **Type:** ufo sighting  
 **Reference:** FSR 65, 3 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_6  
+**Source:** ValléeMagonia, **ID:** Magonia_6  
 
 ### <a name="B1FB52DA"></a> Event 230 (B1FB52DA)
 **Date:** 3/26/1880  
@@ -3217,7 +3217,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** The two sons of the Prince of Wales, one of them the future king of England, were cruising aboard "La Bacchante" when an object resembling a fully lighted ship was seen ("a phantom vessel all aglow").  
 **Type:** ufo sighting  
 **Reference:** Fort 637; Anatomy 12 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_7  
+**Source:** ValléeMagonia, **ID:** Magonia_7  
 
 ### <a name="8576608A"></a> Event 245 (8576608A)
 **Date:** 6/11/1881  
@@ -3482,7 +3482,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A luminous object circled the harbor. Altitude: 5-6 m. Illuminated the whole town. Duration: 1 1/2 min, as a bluish-green flame. Then plunged into the sea. Made several circles above the ferry-boat pier.  
 **Type:** ufo sighting  
 **Reference:** LDLN 48; Anatomy 14 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_8  
+**Source:** ValléeMagonia, **ID:** Magonia_8  
 
 ### <a name="86D39F95"></a> Event 271 (86D39F95)
 **Date:** 11/2/1885  
@@ -3592,7 +3592,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A huge sphere of fire was observed rising out of the ocean by witnesses aboard the "Siberian." It rose to an altitude of 16 m, flew against the wind, and came close to the ship, then "dashed oft" toward the southeast. Duration: 5 min.  
 **Type:** ufo sighting  
 **Reference:** LDLN 48; Anatomy 14 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_9  
+**Source:** ValléeMagonia, **ID:** Magonia_9  
 
 ### <a name="B0EE8657"></a> Event 283 (B0EE8657)
 **Date:** 11/12/1887  
@@ -4010,7 +4010,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Author Aleister Crowley was walking in the mountains when he suddenly saw two little men. He made a gesture to them, but they did not seem to pay attention and disappeared among the rocks.  
 **Type:** ufo sighting  
 **Reference:** Magic Without Tears, by A. Crowley ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_10  
+**Source:** ValléeMagonia, **ID:** Magonia_10  
 
 ### <a name="9E192F15"></a> Event 325 (9E192F15)
 **Date:** 7/1/1896  
@@ -4700,7 +4700,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Approximate date. Robert Hibbard was caught by an anchor dropped from an unknown flying machine 22 km north of the town. He was dragged over 10 m and fell as his clothes were torn.  
 **Type:** ufo sighting  
 **Reference:** FSR 66, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_11  
+**Source:** ValléeMagonia, **ID:** Magonia_11  
 
 ### <a name="5F0D93CF"></a> Event 396 (5F0D93CF)
 **Date:** 3/26/1897  
@@ -4744,7 +4744,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** The majority of the population observed an object arriving from the southeast. It looked like a huge light, flew northwestward slowly, came to low altitude. A crowd gathered at a street corner to watch it.  
 **Type:** ufo sighting  
 **Reference:** 185 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_12  
+**Source:** ValléeMagonia, **ID:** Magonia_12  
 
 ### <a name="DB0F12F6"></a> Event 401 (DB0F12F6)
 **Date:** 3/28/1897  
@@ -4787,7 +4787,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** The whole town saw an object fly under the cloud ceiling. It came down slowly, then flew away very fast to the southeast. When directly over the town it swept the ground with its powerful light. It was seen to rise up at fantastic speed until barely discernible, then to come down again and sweep low over the witnesses. At one point it remained stationary for 5 min at the edge of a low cloud, which it illuminated. All could clearly see the silhouette of the craft.  
 **Type:** ufo sighting  
 **Reference:** FSR 66, 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_13  
+**Source:** ValléeMagonia, **ID:** Magonia_13  
 
 ### <a name="82835346"></a> Event 406 (82835346)
 **Date:** 4/1/1897  
@@ -5143,7 +5143,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** On the property of Z. Thacker, 19 km north of Carlinville, an unknown object landed. Before the three witnesses could reach it, the craft, which was shaped like a cigar with a dome, rose slowly and left majestically toward the north. Witnesses: Edward Teeples, William Street and Franklin Metcalf.  
 **Type:** ufo sighting  
 **Reference:** 186; Anatomy 12 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_14  
+**Source:** ValléeMagonia, **ID:** Magonia_14  
 
 ### <a name="3FB761BB"></a> Event 445 (3FB761BB)
 **Date:** 4/12/1897  
@@ -5152,7 +5152,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A large crowd of miners saw an unknown object land 3 km north of Green Ridge and 4 km south of Girard. The night operator of the Chicago-and-Alton Railroad, Paul McCramer, stated that he came sufficiently close to the craft to see a man emerge from it to repair the machinery. Traces were found over a large area. The object itself was elongated like a ship with a roof and a double canopy. It left toward the north.  
 **Type:** ufo sighting  
 **Reference:** 186,187 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_15  
+**Source:** ValléeMagonia, **ID:** Magonia_15  
 
 ### <a name="2DC05C4C"></a> Event 446 (2DC05C4C)
 **Date:** 4/12/1897  
@@ -5275,7 +5275,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** An object landed 2 km south of Gas City on the property of John Roush, terrifying the farmers and causing the horses and cattle to stampede. Six occupants of the ship came out and seemed to make some repairs. Before the crowd could approach the object, it rose rapidly and flew toward the east.  
 **Type:** ufo sighting  
 **Reference:** 188 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_16  
+**Source:** ValléeMagonia, **ID:** Magonia_16  
 
 ### <a name="D9F7CF27"></a> Event 461 (D9F7CF27)
 **Date:** 4/14/1897  
@@ -5283,7 +5283,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Joseph Singler, captain of the "Sea Wing," was fishing with S. H. Davis, of Detroit, when they saw on the lake what they thought was a ship, about 13 m long, with a canopy. A man, about 25 years old, wearing a hunting jacket and a cap, was fishing from the deck of the object. Near him were a woman and a 10-year old child. When the "Sea Wing" came close to the craft, a large, colored balloon rose from the object, which flew up with it to an altitude of about 150 m and circled "like a hawk" before flying away.  
 **Type:** ufo sighting  
 **Reference:** 189 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_17  
+**Source:** ValléeMagonia, **ID:** Magonia_17  
 
 ### <a name="D5BD5083"></a> Event 462 (D5BD5083)
 **Date:** 4/14/1897  
@@ -5466,7 +5466,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A large object was seen to fly slowly toward the north. It seemed ready to land and five men (F. G. Ellis, James Evans, David Evans, Joe Croaskey, Benjamin Buland) drove toward it. About 7 km north of Linn Grove, they found the craft on the ground, came within 700 m of it but it "spread its four giant wings and rose towards the North." Two strange figures aboard the craft made efforts to conceal themselves. Witnesses were surprised at the length of their hair. Most residents of Linn Grove saw the craft in flight.  
 **Type:** ufo sighting  
 **Reference:** 190 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_18  
+**Source:** ValléeMagonia, **ID:** Magonia_18  
 
 ### <a name="7693B0EA"></a> Event 484 (7693B0EA)
 **Date:** 4/15/1897  
@@ -5475,7 +5475,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A flying object coming closer and closer to the ground followed a train, as reported by the engineer, Joe Wright  
 **Type:** ufo sighting  
 **Reference:** FSR 66,4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_19  
+**Source:** ValléeMagonia, **ID:** Magonia_19  
 
 ### <a name="94CB46A6"></a> Event 485 (94CB46A6)
 **Date:** 4/15/1897  
@@ -5484,7 +5484,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A passenger train on the Wabash line, going toward Quincy, was followed by a low-flying object for 15 min between Perry Springs and Hersman. All the passengers saw the craft, which had a red and white light. After Hersman it flew ahead of the train and disappeared rapidly, although the train was then running at 65 km/h.  
 **Type:** ufo sighting  
 **Reference:** 190 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_20  
+**Source:** ValléeMagonia, **ID:** Magonia_20  
 
 ### <a name="9B0C4A10"></a> Event 486 (9B0C4A10)
 **Date:** 4/15/1897  
@@ -5492,7 +5492,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Two farm workers, Adolph Winkle and John Hulle, saw a strange craft in a field. They had a discussion with its occupants, a woman and two men, and were told the ship-had flown from Quincy to Springfield in 30 min and that the crew. was making electrical repairs.  
 **Type:** ufo sighting  
 **Reference:** FSR 65,1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_21  
+**Source:** ValléeMagonia, **ID:** Magonia_21  
 
 ### <a name="E012F3EF"></a> Event 487 (E012F3EF)
 **Date:** 4/15/1897  
@@ -5633,7 +5633,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Approximate date. While working in his field, Haney Savidge saw an aerial craft land near him. Six people emerged from it and spoke to him for a few minutes before leaving again.  
 **Type:** ufo sighting  
 **Reference:** 191 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_22  
+**Source:** ValléeMagonia, **ID:** Magonia_22  
 
 ### <a name="5510B59B"></a> Event 505 (5510B59B)
 **Date:** 4/16/1897  
@@ -5774,7 +5774,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** At least a dozen farmers saw an object maneuver in the sky for an hour before it landed. A strange man near 3 m tall, almost naked and suffering from the heat, was the pilot of the craft. "His talk, while musical, seemed to be a repetition of bellowings." One farmer went near him and received a blow that broke his hip.  
 **Type:** ufo sighting  
 **Reference:** 196 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_23  
+**Source:** ValléeMagonia, **ID:** Magonia_23  
 
 ### <a name="573790EA"></a> Event 522 (573790EA)
 **Date:** 4/17/1897  
@@ -5878,7 +5878,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Alexander Hamilton was awakened by a noise among the cattle and went out with his son and his tenant. They saw an elongated cigarshaped object, about 100 m long with a transparent cabin underneath showing narrow reddish bands, hovering 10 m above ground. They approached within 50 m of it. It was illuminated and equipped with a searchlight. Inside it were "six of the strangest beings" the witness had seen, also described as "hideous." They spoke a language no witness could understand. A cow was dragged away by the object with the help of a strong red cable; it was found butchered in a field the next day.  
 **Type:** ufo sighting  
 **Reference:** Anatomy 16; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_24  
+**Source:** ValléeMagonia, **ID:** Magonia_24  
 
 ### <a name="895AB38A"></a> Event 534 (895AB38A)
 **Date:** 4/19/1897  
@@ -5975,7 +5975,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Capt. James Hooton was hunting in the vicinity of Homan when he heard the noise of a steam engine and found an object in a clearing. It looked like a cylinder with pointed ends, lateral wheels, and horizontal blade over it. Hooton spoke with a man who wore dark glasses and walked behind the craft. There were three or four occupants. The witness was told this was indeed "The Airship" and that it used compressed air for propulsion. Hooton saw the wheels spin as the craft rose and flew away.  
 **Type:** ufo sighting  
 **Reference:** FSR 66, 4; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_25  
+**Source:** ValléeMagonia, **ID:** Magonia_25  
 
 ### <a name="6442DAF5"></a> Event 545 (6442DAF5)
 **Date:** 4/20/1897  
@@ -6070,7 +6070,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** John M. Barclay was intrigued when his dog barked furiously and a high-pitched noise was heard. He went out, saw a flying object circling 5 m above ground. Elongated with protrusions and blinding lights, it went dark when it landed. Barclay was met by a man who told him his purpose was peaceful and requested some common hardware items to repair the craft. He paid with a ten-dollar bill and took off "like a bullet out of a gun."  
 **Type:** ufo sighting  
 **Reference:** 192; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_26  
+**Source:** ValléeMagonia, **ID:** Magonia_26  
 
 ### <a name="5DB24CDD"></a> Event 556 (5DB24CDD)
 **Date:** 4/22/1897  
@@ -6079,7 +6079,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Frank Nichols, who lived 3 km east of Josserand and was one of its most respected citizens, was awakened by a machine noise. Looking outside, he saw a heavy, lighted object land in his wheat field. He walked toward it, was stopped by two men who asked permission to draw water from his well. He then had a discussion with a half-dozen men, the crew of the strange machine. He was told how it worked but could not follow the explanation.  
 **Type:** ufo sighting  
 **Reference:** 193; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_27  
+**Source:** ValléeMagonia, **ID:** Magonia_27  
 
 ### <a name="D9B2DE25"></a> Event 557 (D9B2DE25)
 **Date:** 4/22/1897  
@@ -6140,7 +6140,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Judge Lawrence A. Byrne of Texarkana, Arkansas, was surveying a tract of land when he saw a peculiar object anchored on the ground. "It was manned by three men who spoke a foreign language, but judging from their looks one would take them to be Japanese."  
 **Type:** ufo sighting  
 **Reference:** Farish, in Allende Letters - Award Special, 1968 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_28  
+**Source:** ValléeMagonia, **ID:** Magonia_28  
 
 ### <a name="EFAC1BA0"></a> Event 565 (EFAC1BA0)
 **Date:** 4/23/1897  
@@ -6201,7 +6201,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** People returning from church observed a heavy object being dragged along the ground by a rope attached to a flying craft. The rope got caught in a railroad track. The craft was too high for its structure to be visible but protrusions and a light could be distinguished. After about 10 min a man came down along the rope cut the end free, and went back aboard the craft, which flew away toward the northeast. The man was small and dressed in a lightblue uniform.  
 **Type:** ufo sighting  
 **Reference:** 194; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_29  
+**Source:** ValléeMagonia, **ID:** Magonia_29  
 
 ### <a name="2857072E"></a> Event 573 (2857072E)
 **Date:** 4/25/1897  
@@ -6252,7 +6252,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Approximate date. A lawyer was surprised to see a lighted object fly over. His horse was scared and nearly toppled the carriage. When the main light was turned off, a number of smaller lights became visible on the underside of the dark object, which supported an elongated canopy. It went down toward a hill to the south, 5 km from Aquila. When the witness was on his way back one hour later he saw the object rising. It reached the altitude of the cloud ceiling and flew to the northeast at a fantastic speed with periodic flashes of light.  
 **Type:** ufo sighting  
 **Reference:** 195 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_30  
+**Source:** ValléeMagonia, **ID:** Magonia_30  
 
 ### <a name="92241555"></a> Event 579 (92241555)
 **Date:** 4/26/1897  
@@ -6378,7 +6378,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Two policemen, Sumpter and McLenore, were riding northwest of Hot Springs when they saw a bright light in the sky. About 7 km farther they saw the light again coming down to the ground. One km farther the horses refused to walk. Two men were seen carrying lights. The lawmen took their rifles, called the strangers, and were told that they crossed the country with a flying craft. The silhouette of the machine, about 2O m long, could be seen in the clearing. There was a woman with an umbrella nearby. It was raining, and the younger of the men was filling a large container with water. The elder man had a beard and suggested that the policemen fly with them "to a place where it does not rain." The same witness went back through the same spot 40 min later and found nothing.  
 **Type:** ufo sighting  
 **Reference:** FSR 66, 4; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_31  
+**Source:** ValléeMagonia, **ID:** Magonia_31  
 
 ### <a name="4FC9D56E"></a> Event 593 (4FC9D56E)
 **Date:** 5/6/1897  
@@ -7008,7 +7008,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Three persons aboard the "Fort Salisbury," including Second Officer A. H. Raymer, saw a huge, dark object bearing lights in the sea ahead. It was observed sinking slowly. Estimated length: 200 m.  
 **Type:** ufo sighting  
 **Reference:** Fort 641; Anatomy 20 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_32  
+**Source:** ValléeMagonia, **ID:** Magonia_32  
 
 ### <a name="68C44DD5"></a> Event 656 (68C44DD5)
 **Date:** 10/28/1902  
@@ -7110,7 +7110,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Tom Darby, with his brother and mother, saw two whitish-blue objects about 400 m away, from a point situated 3 km north of Rolling Prairie. The objects hovered 2 or 3 m above ground, flew toward a barn, came closer to each other, and were hidden from view by a hill.  
 **Type:** ufo sighting  
 **Reference:** Hartle 164 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_33  
+**Source:** ValléeMagonia, **ID:** Magonia_33  
 
 ### <a name="7FAAB9C4"></a> Event 667 (7FAAB9C4)
 **Date:** 1904  
@@ -7460,7 +7460,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** The English ship "Mohican," piloted by Capt. Urghart, was going to Philadelphia when it was surrounded by a thick, luminous cloud which "magnetized" everything on board. The compass was observed to swing wildly. When seamen tried to move some chains on the bridge, they found that they were glued to the metal floor. Suddenly the cloud rose and was seen above the sea for some time.  
 **Type:** ufo sighting  
 **Reference:** 197 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_34  
+**Source:** ValléeMagonia, **ID:** Magonia_34  
 
 ### <a name="0891DDDC"></a> Event 702 (0891DDDC)
 **Date:** 2/4/1908  
@@ -7550,7 +7550,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Unexplained explosion in the taiga, equivalent to a thermonuclear blast, sometimes interpreted as the crash of an interstellar vehicle.  
 **Type:** ufo sighting  
 **Reference:** Anatomy 18; Challenge 99 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_35  
+**Source:** ValléeMagonia, **ID:** Magonia_35  
 
 ### <a name="497D0B8C"></a> Event 711 (497D0B8C)
 **Date:** 6/30/1908  
@@ -8016,7 +8016,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Mr. Lethbridge was walking along a road near the mountains when he saw on the grass a large tubelike machine. Aboard were two men wearing furs and talking excitedly in a language the witness could not understand. The grass was found depressed at the site after the object had flown off.  
 **Type:** ufo sighting  
 **Reference:** 198; Anatomy 21 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_36  
+**Source:** ValléeMagonia, **ID:** Magonia_36  
 
 ### <a name="42010464"></a> Event 758 (42010464)
 **Date:** 5/18/1909  
@@ -8215,7 +8215,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** An elongated object following a west to east trajectory flew over the town. It gave off a strong light and was seen by two fishermen to plunge into the sea 6 km away from the coast, after a steady flight of about 9 min.  
 **Type:** ufo sighting  
 **Reference:** Anatomy 21 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_37  
+**Source:** ValléeMagonia, **ID:** Magonia_37  
 
 ### <a name="C6A246F1"></a> Event 777 (C6A246F1)
 **Date:** 6/16/1909  
@@ -8723,7 +8723,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Several witnesses among them the vicar, the Mayor, and a policeman -saw a cigar-shaped object hovering at 30 m altitude. A man appeared at a lateral door and was heard shouting some words in an unknown language. The opening closed, and the object accelerated and was lost to sight.  
 **Type:** ufo sighting  
 **Reference:** Stuart 24 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_38  
+**Source:** ValléeMagonia, **ID:** Magonia_38  
 
 ### <a name="95840FC5"></a> Event 829 (95840FC5)
 **Date:** 1/12/1910  
@@ -9410,7 +9410,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Gustav Herwagen opened the door of his house and saw in a field a shining cigarshaped object with illuminated windows. Near it were four or five dwarfs 1.20 m tall, clad in light clothing. He approached them, but they went aboard the object as soon as they appeared to be aware of his presence. A door closed, and the craft took off silently, climbing vertically.  
 **Type:** ufo sighting  
 **Reference:** Nachrichten April, 62 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_39  
+**Source:** ValléeMagonia, **ID:** Magonia_39  
 
 ### <a name="63531413"></a> Event 901 (63531413)
 **Date:** 6/1914  
@@ -9462,7 +9462,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** William J. Kiehl and seven other persons saw a spherical craft on the surface of the water. On its deck were two small men wearing green-purple clothes. They seemed to be busy with a hose, plunging it into the water. On the opposite side were three men dressed in light brown, wearing square masks down to their shoulders. Seeing the witnesses, they reentered the craft except for one dwarf, wearing shoes with a curved, pointed tip, who remained outside while the craft rose 3 m above the water and shot upward, leaving a short trail.  
 **Type:** ufo sighting  
 **Reference:** 199 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_40  
+**Source:** ValléeMagonia, **ID:** Magonia_40  
 
 ### <a name="1A448038"></a> Event 907 (1A448038)
 **Date:** 8/1914  
@@ -9721,7 +9721,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** During severe fighting in the Dardanelles a peculiar cloud engulfed a British regiment which was never seen again. This was observed by 22 men of the First Field Company, NZ Army Corps and stated in an affidavit.  
 **Type:** ufo sighting  
 **Reference:** Spaceview 45; LDLN 82; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_41  
+**Source:** ValléeMagonia, **ID:** Magonia_41  
 
 ### <a name="2D442AD7"></a> Event 935 (2D442AD7)
 **Date:** 9/4/1915  
@@ -10022,7 +10022,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** John Boback, 17, was walking along the railroad tracks between Youngstown and Mt. Braddock when he saw a saucer-shaped object with a platform and rows of lights, sitting in a field 30 m to his left. He watched the object for 1-2 min until it took off with a high-pitched sound, rising gradually like a slow plane. Its size was that of an average car. The top of the object was a dome with elongated windows through which figures could be seen.  
 **Type:** ufo sighting  
 **Reference:** Hartle 157 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_42  
+**Source:** ValléeMagonia, **ID:** Magonia_42  
 
 ### <a name="18C515B9"></a> Event 968 (18C515B9)
 **Date:** 10/1917  
@@ -10425,7 +10425,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Undocumented report of an "abduction" by two beings.  
 **Type:** ufo sighting  
 **Reference:** Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_43  
+**Source:** ValléeMagonia, **ID:** Magonia_43  
 
 ### <a name="701BEEF3"></a> Event 1010 (701BEEF3)
 **Date:** 1921  
@@ -10521,7 +10521,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** William C. Lamb was following strange tracks when he heard a high-pitched sound and saw a circular object intercepting starlight. It became brilliantly lighted and landed in a hollow. Soon afterword, a creature over 2.4 m tall was seen flying from the direction where the object had landed. It left tracks in the snow, which Lamb followed without results.  
 **Type:** ufo sighting  
 **Reference:** Anatomy 22 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_44  
+**Source:** ValléeMagonia, **ID:** Magonia_44  
 
 ### <a name="EB4281DA"></a> Event 1021 (EB4281DA)
 **Date:** 2/22/1922  
@@ -10571,7 +10571,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** John Morris and William James saw an object fall into the ocean so slowly that it was thought to be a plane. A boat was sent out, but nothing was found.  
 **Type:** ufo sighting  
 **Reference:** Fort 639 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_45  
+**Source:** ValléeMagonia, **ID:** Magonia_45  
 
 ### <a name="E260DA39"></a> Event 1027 (E260DA39)
 **Date:** 9/9/1922  
@@ -11291,7 +11291,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Levis Brosseau, 2O was returning home when he saw a dark object with a yellow light and his horse became very nervous. Within 6 m of the object four or five dwarfish figures were running back and forth. He heard their pointed, childlike voices, then saw the dark object take off with a machinelike sound and a rush of air. Estimated size of object: 15 m diameter, 5 m high.  
 **Type:** ufo sighting  
 **Reference:** GEPA Dec., 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_46  
+**Source:** ValléeMagonia, **ID:** Magonia_46  
 
 ### <a name="129D81DC"></a> Event 1098 (129D81DC)
 **Date:** 6/12/1929  
@@ -11334,7 +11334,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Five persons among them Einar Rostivold, saw a huge ball of light giving off fiery colors, 25 km from Robsart. It landed slowly, vanished gradually after illuminating the whole countryside for 30 min.  
 **Type:** ufo sighting  
 **Reference:** Fate Jan., 58 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_47  
+**Source:** ValléeMagonia, **ID:** Magonia_47  
 
 ### <a name="41BC30B2"></a> Event 1103 (41BC30B2)
 **Date:** 9/1929  
@@ -11927,7 +11927,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A man observed a faint violet light in a field between this town and Morrestown. Walking to it, he found an ovoid object 3 m in diameter and 2 m thick with a circular opening similar to a vault door. Pushing it, he found the room full of violet light and observed many instruments, no occupant. Smell of ammonia.  
 **Type:** ufo sighting  
 **Reference:** APRO Jul., 64 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_48  
+**Source:** ValléeMagonia, **ID:** Magonia_48  
 
 ### <a name="0193BBB4"></a> Event 1162 (0193BBB4)
 **Date:** Summer 1933  
@@ -13199,7 +13199,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** (Or following year.) Two persons saw a strange "frog-man" 1 m tall with a round head, no neck, and a hump in front of the body. The mouth was a large, straight slit, the eyes were like smaller slits. The skin was brown-green, compared to pegamoid, hands normal. The creature walked in a peculiar "but elegant" fashion, the head waving up and down while the legs moved "carefully." When pursued, the creature accelerated very fast, with feet "fluttering." About 100 m away it vanished completely'.  
 **Type:** ufo sighting  
 **Reference:** Personal ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_49  
+**Source:** ValléeMagonia, **ID:** Magonia_49  
 
 ### <a name="FB2F148E"></a> Event 1296 (FB2F148E)
 **Date:** 10/1938  
@@ -15242,7 +15242,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Navarro Ocampo, driving between Rosario and Cordoba, saw a large, saucer-shaped object on the ground 500 m to the left of the road. It glowed with a bluish-green light, made a whistling sound, rose to 100 m altitude, then left at fantastic speed. A strange metal block is said to have been found at the spot.  
 **Type:** ufo sighting  
 **Reference:** GEPA Dec., 68 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_50  
+**Source:** ValléeMagonia, **ID:** Magonia_50  
 
 ### <a name="D4604A7A"></a> Event 1525 (D4604A7A)
 **Date:** 9/1943  
@@ -16321,7 +16321,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A mysterious man appeared at windows, as if in search of someone. He stunned witnesses by pointing at them a device that "made consciousness dissolve" and left a strange cloying smell behind  
 **Type:** ufo sighting  
 **Reference:** FSR 61, 3; Magonia ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_51  
+**Source:** ValléeMagonia, **ID:** Magonia_51  
 
 ### <a name="2BEDEC0C"></a> Event 1650 (2BEDEC0C)
 **Date:** 8/30/1944  
@@ -17142,7 +17142,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** An American soldier saw a disk-shaped object come down rapidly, oscillate, and land. The site could not be found in the dark. The event took place 35 km northwest of the town.  
 **Type:** ufo sighting  
 **Reference:** Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_52  
+**Source:** ValléeMagonia, **ID:** Magonia_52  
 
 ### <a name="963FD17C"></a> Event 1747 (963FD17C)
 **Date:** 1/1945  
@@ -17587,7 +17587,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A man out hunting observed an elongated object flying very slowly, tilted toward the earth. It crashed into some trees at the end of a clearing. The enormous craft seemed undamaged as it rested briefly on the ground, then lifted again with a humming sound, started to spin, released a shower of fine silvery threads, and rose straight up, disappearing in seconds.  
 **Type:** ufo sighting  
 **Reference:** FS May., 59 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_53  
+**Source:** ValléeMagonia, **ID:** Magonia_53  
 
 ### <a name="DEAD8729"></a> Event 1803 (DEAD8729)
 **Date:** 3/1945  
@@ -17595,7 +17595,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Aboard the US attack transport "Delarof," 14 sailors saw a dark sphere rise out of the ocean, follow a curved trajectory, and fly away after circling their ship.  
 **Type:** ufo sighting  
 **Reference:** Evidence 30 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_54  
+**Source:** ValléeMagonia, **ID:** Magonia_54  
 
 ### <a name="C2D578F0"></a> Event 1804 (C2D578F0)
 **Date:** 3/1945  
@@ -22318,7 +22318,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Coral Lorenzen saw a light rise from the ground in Mexican territory. It took a definite spherical shape and vanished in less than ten seconds among the stars.  
 **Type:** ufo sighting  
 **Reference:** Lor. I 4 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_55  
+**Source:** ValléeMagonia, **ID:** Magonia_55  
 
 ### <a name="5305ABC9"></a> Event 2319 (5305ABC9)
 **Date:** 6/10/1947  
@@ -22500,7 +22500,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** John A. Petsche, electrical worker and another witness independently saw a disk-shaped object, which seemed to land near Tintown.  
 **Type:** ufo sighting  
 **Reference:** Lor. I 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_58  
+**Source:** ValléeMagonia, **ID:** Magonia_58  
 
 ### <a name="A92D2DF8"></a> Event 2337 (A92D2DF8)
 **Date:** 6/17/1947  
@@ -22661,7 +22661,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Harold A. Dahl and others allegedly saw six tire-shaped objects, 30 m in diameter, metallic with dark openings, over Puget Sound. One of the objects exploded, showering the witnesses with metal. Officially regarded as hoax.  
 **Type:** ufo sighting  
 **Reference:** Ruppelt ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_56  
+**Source:** ValléeMagonia, **ID:** Magonia_56  
 
 ### <a name="AF76579E"></a> Event 2354 (AF76579E)
 **Date:** 6/21/1947  
@@ -22670,7 +22670,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Eight disk-shaped objects the size of a house, were seen flying at 1000 km/h. A civilian woman stated that the objects fell with a deadleaf motion and landed before ten witnesses on the shore of the Saint Joe River, in Idaho.  
 **Type:** ufo sighting  
 **Reference:** Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_57  
+**Source:** ValléeMagonia, **ID:** Magonia_57  
 
 ### <a name="FA3E0927"></a> Event 2355 (FA3E0927)
 **Date:** 6/21/1947  
@@ -24073,7 +24073,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A Navy lieutenant was flying at 9000 m toward the south when he saw two circular objects diving at "unconceivable" speed. They were gray, about 3 m in diameter, and appeared to land 40 km south of the Grand Canyon.  
 **Type:** ufo sighting  
 **Reference:** Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_59  
+**Source:** ValléeMagonia, **ID:** Magonia_59  
 
 ### <a name="3EBC6DD7"></a> Event 2486 (3EBC6DD7)
 **Date:** 6/30/1947  
@@ -29870,7 +29870,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** An Air Force major observed a metallic object, reflecting sunlight oscillate, go down to ground level, and rise again. Simultaneously it was observed by a captain in Rodgers Dry Lake.  
 **Type:** ufo sighting  
 **Reference:** Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_60  
+**Source:** ValléeMagonia, **ID:** Magonia_60  
 
 ### <a name="7009837B"></a> Event 3009 (7009837B)
 **Date:** 7/8/1947  
@@ -31972,7 +31972,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A group of survey workers ran away as they heard a hissing noise and saw a disk land 50 m away. Jose C. Higgins saw two figures through, a window. Later three beings in shiny clothes and translucent suits, with oversized bald heads, huge round eyes, no eyelashes or eyebrows, and a metal box on their back, emerged from the craft. They were over 2 m. tall. They drew the solar system and pointed to Uranus as if to suggest that was their point of origin.  
 **Type:** ufo sighting  
 **Reference:** Round-up 163; FSR 61, 6 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_61  
+**Source:** ValléeMagonia, **ID:** Magonia_61  
 
 ### <a name="DCE447A9"></a> Event 3213 (DCE447A9)
 **Date:** 7/23/1947  
@@ -32999,7 +32999,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Two boys and their father saw a sky-blue object 100 m away and 25 m above ground. Treetops under it were spinning wildly, although the object itself did not spin. It made a swishing sound. Shape: inverted plate, 7 m diameter and 3.5 m thick. There was a red flame on one side of the top.  
 **Type:** ufo sighting  
 **Reference:** Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_62  
+**Source:** ValléeMagonia, **ID:** Magonia_62  
 
 ### <a name="99C24BA4"></a> Event 3316 (99C24BA4)
 **Date:** 8/13/1947  
@@ -33080,7 +33080,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** R. L. Johannis saw a disk on the ground and two dwarfs less than 1 m tall, wearing dark blue coveralls with red collars and belts. They had oversized heads, greenish faces, huge, salient dark eyes without eyelashes or eyebrows, but surrounded by a ringlike muscle. They wore something similar to crash helmets. The center of their belts projected a "vapor," and the witness suffocated, feeling a strong electrical discharge. The creature had greenish hands with eight talonlike fingers.  
 **Type:** ufo sighting  
 **Reference:** Humanoids 2; Magonia; FRS 67, 1 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_63  
+**Source:** ValléeMagonia, **ID:** Magonia_63  
 
 ### <a name="35A5C400"></a> Event 3325 (35A5C400)
 **Date:** 8/14/1947  
@@ -34779,7 +34779,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Mr. Galbraith twice saw an object land. The first time, it was a disk-shaped craft with a humanoid figure-the second time, cigar shape with three figures.  
 **Type:** ufo sighting  
 **Reference:** Quincy ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_64  
+**Source:** ValléeMagonia, **ID:** Magonia_64  
 
 ### <a name="92C05B4B"></a> Event 3509 (92C05B4B)
 **Date:** 1948  
@@ -36782,7 +36782,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** An object swept over a road at 10 m altitude.  
 **Type:** ufo sighting  
 **Reference:** Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_65  
+**Source:** ValléeMagonia, **ID:** Magonia_65  
 
 ### <a name="C2AAA4E5"></a> Event 3736 (C2AAA4E5)
 **Date:** 7/29/1948  
@@ -37031,7 +37031,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Two boys were playing outside when a round dull gray object 70 cm in diameter, 30 cm thick, landed near them like a balloon with a metallic noise. It spun, went up, hovered, maneuvered to avoid Phone lines and trees, and flew away to the northeast. An FBI man from St. Paul found an area 70 cm in diameter where the ground showed signs of extreme pressure.  
 **Type:** ufo sighting  
 **Reference:** Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_66  
+**Source:** ValléeMagonia, **ID:** Magonia_66  
 
 ### <a name="1B4307FF"></a> Event 3763 (1B4307FF)
 **Date:** 8/11/1948  
@@ -37139,7 +37139,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** A farmer observed a silvery sphere of large dimension rise from a wooded area and hover above his farm, dropping a silvery substance that disintegrated before touching the ground.  
 **Type:** ufo sighting  
 **Reference:** Atic ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_67  
+**Source:** ValléeMagonia, **ID:** Magonia_67  
 
 ### <a name="F4CE9CB3"></a> Event 3774 (F4CE9CB3)
 **Date:** 8/29/1948  
@@ -38878,7 +38878,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** C. A. V. an oil company employee, 30, was driving to Lima when he saw a shiny disk at ground level. He walked toward it for 10 min. Three figures came out as he was 20 m away. They looked like mummies, had joined legs and one large foot. They "slid" along the ground. They were covered with a strange "towely" skin, asked the witness where they were, had a lengthy discussion with him, and took him for a trip in their craft.  
 **Type:** ufo sighting  
 **Reference:** Lor. III 122 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_68  
+**Source:** ValléeMagonia, **ID:** Magonia_68  
 
 ### <a name="6E2C613F"></a> Event 3976 (6E2C613F)
 **Date:** 2/1949  
@@ -39059,7 +39059,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Alain Berard saw a large, bright object land near his farm with a green lightning flash. It became dark. As he approached the craft, the witness saw three figures with stocky short legs, apparently without heads. Frightened, he fired at them three times. A moment later the object took off vertically.  
 **Type:** ufo sighting  
 **Reference:** Oltre il Cielo, Vol. I ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_69  
+**Source:** ValléeMagonia, **ID:** Magonia_69  
 
 ### <a name="9927E26A"></a> Event 3998 (9927E26A)
 **Date:** 2/17/1949  
@@ -41801,7 +41801,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Two prospectors are said to have observed a disk-shaped object land. Two dwarfs emerged but were lost in the sand dunes when pursued. The object disappeared.  
 **Type:** ufo sighting  
 **Reference:** Humanoids 52 ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_70  
+**Source:** ValléeMagonia, **ID:** Magonia_70  
 
 ### <a name="E7287441"></a> Event 4309 (E7287441)
 **Date:** 8/19/1949  
@@ -42165,7 +42165,7 @@ This website is created automatically using a [C++](https://en.wikipedia.org/wik
 **Description:** Don Bushnell, plant superintendent with Southwestern Porcelain Steel Corp., saw an object fall in front of his car as his radio was blocked. He applied the brakes; object vanished.  
 **Type:** ufo sighting  
 **Reference:** KeyhoeS ([Vallee](https://web.archive.org/web/20120415100852/http://www.ufoinfo.com/magonia/magonia.shtml))  
-**Source:** ValléeMagnonia, **ID:** Magnonia_71  
+**Source:** ValléeMagonia, **ID:** Magonia_71  
 
 ### <a name="6A6C2113"></a> Event 4347 (6A6C2113)
 **Date:** Fall 1949  

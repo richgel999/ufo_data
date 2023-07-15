@@ -2143,13 +2143,13 @@ int wmain(int argc, wchar_t* argv[])
     uprintf("Success\n");
         
     uprintf("Convert Trace:\n");
-    if (!convert_magnonia("trace.txt", "trace.json", "Trace", " [Trace Cases](https://www.thenightskyii.org/trace.html)"))
-        panic("convert_magnonia() failed!");
+    if (!convert_magonia("trace.txt", "trace.json", "Trace", " [Trace Cases](https://www.thenightskyii.org/trace.html)"))
+        panic("convert_magonia() failed!");
     uprintf("Success\n");
 
-    uprintf("Convert Magnonia:\n");
-    if (!convert_magnonia("magnonia.txt", "magnonia.json"))
-        panic("convert_magnonia() failed!");
+    uprintf("Convert Magonia:\n");
+    if (!convert_magonia("magonia.txt", "magonia.json"))
+        panic("convert_magonia() failed!");
     uprintf("Success\n");
     
     uprintf("Convert Hall:\n");
@@ -2193,7 +2193,7 @@ int wmain(int argc, wchar_t* argv[])
     if (!status)
         panic("Failed loading trace.json");
 
-    status = timeline.load_json("magnonia.json", utf8_flag, nullptr, false);
+    status = timeline.load_json("magonia.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading magnolia.json");
 
