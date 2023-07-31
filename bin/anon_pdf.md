@@ -2639,9 +2639,7 @@ Bigelow was also giving money to John Petersen at the time who was developing �
 
 Note: The triangle antigravity craft patent submitted by Salvatore Pais and Naval Air Station Patuxent River in 2017 utilized a similar concept and discussed specific frequencies used to interact with the quantum vacuum and generate anti-gravitic capabilities (see 2 November 2017).
 
-
-
-*   https://patentimages.storage.googleapis.com/1b/f6/40/5712193f6a971f/US20170313446 A1.pdf
+*   [https://patentimages.storage.googleapis.com/1b/f6/40/5712193f6a971f/US20170313446A1.pdf](https://patentimages.storage.googleapis.com/1b/f6/40/5712193f6a971f/US20170313446A1.pdf)
 
 **(PUBLIC DOMAIN)** - Late 1990s — Author Nick Cook claims he interviews former head of Lockheed Martin Skunk Works Jack Gordon. While leaving Plant 42 in Palmdale, Cook allegedly sees a large chart illustrating the lineage of every Skunk Works aircraft since the XP-80. Past the DarkStar was something called “Astra,” an ultra high speed reconnaissance craft that looked triangular in shape. It looked like some triangular UAP sightings in the UK and Belgium in the early 1990s. When pressed, Gordon was flustered and denied the Astra was anything but an old airliner.
 
