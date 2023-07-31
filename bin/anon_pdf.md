@@ -4312,7 +4312,7 @@ Note: In October 2017, TTSA co-founder Tom DeLonge stated on a podcast that reco
 
 
 
-**(PUBLIC DOMAIN)** - 28 October 2018 — Eric Davis states on a radio broadcast the the Del, Rio TX UAP crash was a real event and was a successful crash retrieval. “Del Rio, Texas, that was a 1950s case, that was another one (crash retrieval), and the other ones I won’t bring up because those are still classified. But um…and they have not been investigated to my knowledge; I’m sorry, that have not been revealed or published to my knowledge.” Davis states “we” have crash retrievals and USG/private laboratories were not advanced enough to understand what the technology was.
+**(PUBLIC DOMAIN)** - 28 October 2018 — Eric Davis states on a radio broadcast that the Del Rio TX UAP crash was a real event and was a successful crash retrieval. “Del Rio, Texas, that was a 1950s case, that was another one (crash retrieval), and the other ones I won’t bring up because those are still classified. But um…and they have not been investigated to my knowledge; I’m sorry, that have not been revealed or published to my knowledge.” Davis states “we” have crash retrievals and USG/private laboratories were not advanced enough to understand what the technology was.
 
 *   [https://silvarecord.com/2018/10/28/dr-eric-davis-confirms-del-rio-texas-ufo-event-was-a-successful-crash-retrieval-2/](https://silvarecord.com/2018/10/28/dr-eric-davis-confirms-del-rio-texas-ufo-event-was-a-successful-crash-retrieval-2/)
 
