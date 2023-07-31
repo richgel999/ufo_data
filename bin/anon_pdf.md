@@ -2914,7 +2914,6 @@ Note: In 2021, former AATIP head Lue Elizondo was asked about Zodiac, to which h
 
 
 **(PUBLIC DOMAIN)** - 20 February 2000 — Jacques Vallee states millionaire Henry Dakin owns a
-
 building that offers low rent to paranormal groups and projects. Joe Firmage’s ISSO is there, which houses former NASA official Creon Levitt who works on “free energy” space propulsion concepts. Vallee also states “some Russian genius” showed up with stories of a device that could propel itself without visible support.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
@@ -2941,7 +2940,6 @@ building that offers low rent to paranormal groups and projects. Joe Firmage’s
 
 
 **(PUBLIC DOMAIN)** - November 2000 — Paul Czysz, WPAFB veteran and former
-
 McDonelll-Douglas exotic technology employee, states a friend of his in Ann Arbor, MI figured out a way to tap into zero-point energy and control it. Czysz states this is very difficult to do, even in the advanced projects he was aware of. Czysz states the friend was “terrified that someone would kill him” for this knowledge, and the fact that he could control it. Czysz states as of 2000, he hadn’t seen the man in five years and they don’t know where he is.
 
 *   [https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument](https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument)
@@ -3007,7 +3005,6 @@ Note: Thomas Townsend Brown served on the initial board of governors for U.S. ci
 
 *   [http://www.cufos.org/UFOI_and_Selected_Documents/UFOI/067%20OCTOBER%201971.pdf](http://www.cufos.org/UFOI_and_Selected_Documents/UFOI/067%20OCTOBER%201971.pdf)
 *   [https://www.wired.com/2003/08/pwr-antigravity/](https://www.wired.com/2003/08/pwr-antigravity/)
-
 *   [https://en.wikipedia.org/wiki/Thomas_Townsend_Brown#Legacy](https://en.wikipedia.org/wiki/Thomas_Townsend_Brown#Legacy)
 
 
@@ -3177,9 +3174,7 @@ ever made their way into the hands of Congress, and unknown how many of them are
 U.S. Army and NASA computers over the previous two years. McKinnon claims an image held at the Johnson Space Center’s Building 8 showed a “cigar shaped”object floating above the northern hemisphere in low-Earth orbit. McKinnon also stated he found an Excel document on a NASA server titled “non-terrestrial officers” that had the ranks and names of unknown USAF personnel. Another sheet had tabs for “material transfers between ships,” and when McKinnon tried to search the names of the ships, he did not find any corroboration in the PUBLIC DOMAIN. “ McKinnon used the program Landsearch to search files and folders on every machine. “
 
 *   [https://web.archive.org/web/20160306030249/https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/](https://web.archive.org/web/20160306030249/https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/)
-
 *   [https://web.archive.org/web/20061024221521/http://bbcworld.com/content/clickonline_archive_18_2006.asp?pageid=665&co_pageid=4](https://web.archive.org/web/20061024221521/http://bbcworld.com/content/clickonline_archive_18_2006.asp?pageid=665&co_pageid=4)
-
 
 
 **(PUBLIC DOMAIN)** - 27 November 2002 — The Commission on the Future of the U.S. Aerospace Industry delivers its final report to Congress; it recommends a series of public policy reforms to enable the aerospace industry to create superior technology.
@@ -3206,7 +3201,6 @@ aluminum-titanium alloy not from Earth. In 1992, Green used resources at General
 **(PUBLIC DOMAIN)** - 7 May 2003 — Former Airman First Class Charles J Hall releases a book stating he worked at Nellis AFB between 1965 and 1967 and while there was observed by “tall whites,” entities who were taller than normal humans and presumed to be extraterrestrial in origin. Hall claims Nellis has a hangar entrance for deep space craft to the northwest of Dog Bone Lake and tunnel entrances to the northwest in Pintwater Range.
 
 *   [https://www.bibliotecapleyades.net/vida_alien/esp_hall02.htm](https://www.bibliotecapleyades.net/vida_alien/esp_hall02.htm)
-
 *   [https://books.google.com/books/about/Millennial_Hospitality.html?id=JSO8Hy9z-BYC&source=%20kp_book_description](https://books.google.com/books/about/Millennial_Hospitality.html?id=JSO8Hy9z-BYC&source=%20kp_book_description)
 
 Note: The term “tall whites” shows up in claims from Iranian officials that “tall whites” control America in 2014, and tangentially from former Israeli space official Haim Eshed who states the US, Israel and ET have a cooperation agreement and there is a shared operating facility on Mars; Eshed states the “Galactic Federation” says people are not ready to know this.
@@ -3328,7 +3322,6 @@ Fitts also claims AMS violated fiduciary and control practices by “installing 
 
 *   [https://drstevengreer.com/cseti-papers/the-unacknowledged-threat/](https://drstevengreer.com/cseti-papers/the-unacknowledged-threat/)
 *   [http://www.doe.carleton.ca/~nagui/Appnotes/AttachToMail/PDF/Maynard%20Interview.PDF](http://www.doe.carleton.ca/~nagui/Appnotes/AttachToMail/PDF/Maynard%20Interview.PDF)
-
 *   [https://ia803008.us.archive.org/4/items/HiddenTruthForbiddenKnowledgeStevenM.Greer/Hidden%20Truth%20Forbidden%20Knowledge%20Steven%20M.%20Greer.pdf](https://ia803008.us.archive.org/4/items/HiddenTruthForbiddenKnowledgeStevenM.Greer/Hidden%20Truth%20Forbidden%20Knowledge%20Steven%20M.%20Greer.pdf) (p92)
 
 Note: To more deeply probe the connections between wealthy entrepreneurial families and funding of possibly rogue UAP projects, one would want to look at linkages between: (1) all members of those families, (2) all front companies linked to those families and (3) all meetings held by those families and the aerospace world. If intermediary funding mechanisms are used one would also want to look for linkages between those families and organizations that may fund aerospace related projects. See possible example: the Lindbergh Foundation (see 3 December 1999).
@@ -3338,7 +3331,6 @@ Note: USAF Project Outgrowth (see June 1972) referenced Atlantic Research Corpor
 Note: Mohsen Paul Sarfarazi, a materials scientist who has worked at Atlantic Research Corporation, Army’s Ballistic Research Laboratory and several universities, claims some negative entities use humans as a power source. Sarfarazi is an acclaimed materials scientist who studied plasma physics and the crystalline structure of materials for various applications. After retirement he began speaking in the PUBLIC DOMAIN about “negative” entities affecting human minds and personal communications from other positive entities.
 
 *   [https://everything-imaginable.simplecast.com/episodes/dr-mohsen-paul-sarfarazi-artificially-intelligent-negative-aliens-using-humans-as-power-source-kbpyzC2H](https://everything-imaginable.simplecast.com/episodes/dr-mohsen-paul-sarfarazi-artificially-intelligent-negative-aliens-using-humans-as-power-source-kbpyzC2H)
-
 *   [https://www.academia.edu/42735164/Negative_Aliens_Reverse_Consciousness_NARC_Gender_Archetypes_Mind_Control_Programming_An_Overview](https://www.academia.edu/42735164/Negative_Aliens_Reverse_Consciousness_NARC_Gender_Archetypes_Mind_Control_Programming_An_Overview)
 
 
@@ -3673,7 +3665,7 @@ Pandolfi was sued by FOX TV producer Robert Kiviat for allegedly running a disin
 A response to the JASON paper from the author of the AAWSAP paper, Robert Baker of GravWave LLC, accuses the JASON analysis of making several serious errors including a failure to review all available peer-reviewed literature. When asked if JASON had a “preconceived agenda to discredit HFGW research,” Baker and GravWave responded: “it is difficult to believe otherwise.”
 
 *   [https://irp.fas.org/agency/dod/jason/gravwaves.pdf](https://irp.fas.org/agency/dod/jason/gravwaves.pdf)
-*   [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf]
+*   [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf)
 *   [http://www.gravwave.com/docs/JASON%20Report.pptx](http://www.gravwave.com/docs/JASON%20Report.pptx)
 
 
