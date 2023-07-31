@@ -3730,7 +3730,6 @@ The briefing mentions various forms of electromagnetic energy generators and ant
 *   [https://siriusdisclosure.com/wp-content/uploads/2012/12/Energy1.pdf](https://siriusdisclosure.com/wp-content/uploads/2012/12/Energy1.pdf)
 
 Note: It is a general theme among claims of “suppressed UAP technologies” that coordinated
-
 suppression is happening, but rarely are specific case studies presented. Large organizations are mentioned in 30 August 1996 entry and mid-1990s entry, but no specifics are given.
 
 
@@ -3743,7 +3742,6 @@ suppression is happening, but rarely are specific case studies presented. Large 
 
 
 **(PUBLIC DOMAIN)** - 8 May 2009 — A Department of Homeland Security black sedan visits a UAP witness twice after a sighting in Georgia. The witness “Derek Jones” sees a large triangular UAP and four smaller spherical UAP above his backyard. When “Jones” attempts to photograph it, the device fails. When he points a flashlight at the triangle, it responds with a beam of blue-white light on him for 3 seconds, causing burning and later, hair loss and lumps on his legs, groin and back diagnosed as
-
 non-malignant lymphoma. The same day the DHS personnel first interview “Jones,” he hears low-flying helicopters near his property. One of the men is armed and they produce no identification.
 
 They tell him not to mention the sighting to anyone, and take detailed notes and diagrams of Jones’ description of the triangle. “Jones” reported the license plate to Bigelow Aerospace Advanced Space Studies (BAASS), a contractor for the Defense Intelligence Agency’s Advanced Aerospace Weapon Systems Applications Program (AAWSAP). BAASS tracks the license plate to a DHS carpool.
@@ -3882,7 +3880,6 @@ Wade claims high powered radar units accidentally or purposefully may have inter
 
 
 **(PUBLIC DOMAIN)** - July 2011 — A ufological periodical claims in 1998, researchers at a facility in Africa managed by AFRICOM security made contact with an entity from a parallel-universe and received messages and predictions from it for five years. Among the claims were that dolphins were the most
-
 “clever” intelligences on Earth. Col. John Alexander claims he was involved in telepathic experiments and wild dolphins in the Bahamas; something he also told Jacques Vallee in 1988.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/12/jacques-vallee-and-secret-onion.html](https://ufos-scientificresearch.blogspot.com/2016/12/jacques-vallee-and-secret-onion.html)
@@ -3986,18 +3983,16 @@ A.H. also claims an underground base is maintained for testing ET technology in 
 
 
 **(PUBLIC DOMAIN)** - 24 December 2013 — Ret. Army Lt. Col. Thomas Bearden claims to have seen experiments where energy extraction from the quantum vacuum “was possible.” But modern electrodynamic theory doesn’t allow for this to happen.
-
 Bearden states he and others have built electromechanical devices that demonstrate that technology and says “certain powers” would rather keep ZPE/quantum vacuum technology privately known instead of in the public.
 
 *   [https://youtu.be/eNU3MLqyzPk](https://youtu.be/eNU3MLqyzPk)
 
 
 
-**(PUBLIC DOMAIN)** - 2014 — In 2014, the DOD declassifies a lengthy file on Project Pandora and Project Bizarre, a program focused on the Cold War secrets of USSR and if microwaves can affect the mind and body to dangerous, harmful degrees.        In the files of the program said to end in 1979 is the alleged “Eisenhower Briefing Document,” which claims a secretive “MJ-12” controlled UAP crash recoveries and reverse engineered them. The CIA/ARPA version of the document has written notes stating “cannot be authenticated.”
+**(PUBLIC DOMAIN)** - 2014 — In 2014, the DOD declassifies a lengthy file on Project Pandora and Project Bizarre, a program focused on the Cold War secrets of USSR and if microwaves can affect the mind and body to dangerous, harmful degrees. In the files of the program said to end in 1979 is the alleged “Eisenhower Briefing Document,” which claims a secretive “MJ-12” controlled UAP crash recoveries and reverse engineered them. The CIA/ARPA version of the document has written notes stating “cannot be authenticated.”
 
 *   [https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave](https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave)
 *   [http://ufotrail.blogspot.com/2019/12/cold-war-embassy-games.html](http://ufotrail.blogspot.com/2019/12/cold-war-embassy-games.html)
-
 *   [https://web.archive.org/web/20140728030142/https://www.dod.mil/pubs/foi/operation_and_plans/Exercises_and_Projects/175.pdf](https://web.archive.org/web/20140728030142/https://www.dod.mil/pubs/foi/operation_and_plans/Exercises_and_Projects/175.pdf) (rg - verify TODO)
 
 
@@ -4653,7 +4648,6 @@ Kobitz also tells Coulthart he was taken in a room at Wright-Patterson AFB after
 *   [https://youtu.be/9sBE2pfPdlo](https://youtu.be/9sBE2pfPdlo)
 
 Note: Kobitz is listed in the directory of the “Wingship Program,” a 1990s era program where
-
 USG coordinated with Russia to build a Wing-in-Ground craft. In 2021, DARPA put out a Request for Information for new approaches for the wingship program.
 
 *   [https://imgur.com/a/tYbWkBa](https://imgur.com/a/tYbWkBa)
@@ -4764,11 +4758,8 @@ the new physics would have to be involved.” Puthoff claims something “is mis
 
 
 **(PUBLIC DOMAIN)** - May/June 2022 — Australian journalist Ross Coulthart stated the following when asked about secretive UAP R&D work being done in the USG/USG contractor space: “A large number of the scientists are working on what's euphemistically called 'the program' in or around Huntsville, Alabama..that city has become the focus of a very intense espionage effort by overseas spy services. It had been reported to me by not one but two sources that there've been deliberate attempts to cause injury to people who are working on the periphery of that program and there was concern that some of the people are not being adequately protected….there's a concern that basically scientists working in
-
 essentially research related to ongoing antigravitics research are suffering harassment from overseas intelligence services."
-
-“In Huntsville, Alabama, USA there’s a very black program underway that was previously run by a Chinese-American scientist called Ning Li…there is a very active anti-gravity program…I’m told there is equally an extraordinarily aggressive and nasty Chinese counterintelligence operation underway, to try to find out as much as possible through harassment and simple things like poison.        There’s an espionage
-
+“In Huntsville, Alabama, USA there’s a very black program underway that was previously run by a Chinese-American scientist called Ning Li…there is a very active anti-gravity program…I’m told there is equally an extraordinarily aggressive and nasty Chinese counterintelligence operation underway, to try to find out as much as possible through harassment and simple things like poison. There’s an espionage
 battle underway as we speak.”
 
 *   [https://youtu.be/JB3e_nnMa7M?t=1781](https://youtu.be/JB3e_nnMa7M?t=1781)
@@ -4776,7 +4767,6 @@ battle underway as we speak.”
 
 
 **(PUBLIC DOMAIN)** - 9 May 2022 — Five witnesses on board the USS Ronald Reagan say they see a large, fiery orange UAP hovering 100 feet above the flight deck. QM3 Karol Olesiak states it reminded him of a “burning bush,” and states the Office of the Watch and Conning Officer were not alarmed by the object. SN Derek Smith states the surface of the UAP was “swirling.”
-
 Another witness, an anonymous Boatswain’s Mate of the Watch was in contact with all witnesses and saw the object himself, stating it was “translucent” like a “lava lamp,” “almost like viscous, but in the air, and it moved.” The BMOW corroborated Olesiak’s statement that the superior officers weren’t concerned by it and concluded they knew information “above my pay grade.” When the BMOW wrote the sighting into his log, he was told by his chief to “rip it out.”
 
 *   [https://thedebrief.org/incident-aboard-the-uss-ronald-reagan-navy-witnesses-describe-2004-encounter-with-uap/](https://thedebrief.org/incident-aboard-the-uss-ronald-reagan-navy-witnesses-describe-2004-encounter-with-uap/)
@@ -4828,7 +4818,6 @@ In 2020, Eskridge stated she was planning to present novel foundational work reg
 
 
 **(PUBLIC DOMAIN)** - 12 August 2022 — Academic Dr. David Clarke publishes a clear photograph of the alleged “Calvine UFO,” a large diamond UAP referenced in a British Ministry of Defence (MOD) report from 1990 sighted in Calvine, Scotland. Clarke suggests press at the time were subject to a
-
 “D-Notice,” which prevents publication of sensitive materials in the UK. He cites a paragraph in a “UK Restricted” minute from the author of Project Condign Ron Haddow, which states: “The remaining ASTRA/AURORA photos and 35mm slides are also on this last file. There was a Press ‘D’ Notice issued at the time.”
 
 *   [https://www.uapmedia.uk/articles/calvinerevealed](https://www.uapmedia.uk/articles/calvinerevealed)
