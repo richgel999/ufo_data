@@ -3096,7 +3096,6 @@ Boeing denies it is funding the project with company money, and then states it c
 
 
 **(PUBLIC DOMAIN)** - 29 July 2002 — Jane’s Defense Weekly reports Boeing Project GRASP documents it obtains state “if gravity modification is real, it will alter the entire aerospace business.” GRASP’s objective is to explore anti-gravity and evaluate Eugene Podkletnov’s experiments. Boeing
-
 states this technology could impact space launch systems, artificial gravity on spacecraft, aircraft propulsion and fuelless electricity generation.
 
 GRASP documents also state the work could be engineered into a radical weapon; high-power experiments using an “impulse gravity generator” can produce a beam of “gravity-like” energy that can exert instantaneous force of 1,000g on any object, enough to vaporize it. Boeing GRASP documents state its examination of Podkletnov’s work show a gravity beam laboratory in Russia can already repel objects up to 200 kilometers away, something that could be used as a ballistic missile shield or anti-satellite weapon.
@@ -4552,7 +4551,6 @@ Elizondo states the man told him AATIP got further than the 1980s program, but d
 Neither the Department of Energy (DOE) nor its agency the National Nuclear Security Administration (NNSA) are mentioned as having contributed. This may be a meaningful omission, and may indicate classified aerospace programs or commercial aerospace programs linked to that agency, its offices, facilities or contractors were responsible for some of the 144 UAP cases analyzed.
 
 In particular, one NNSA contractor, Triad National Security LLC based in Los Alamos, NM, filed a patent for aerospace vehicles that traveled inside self-generated “air-buoyant structures” made of low density aerogel or vapor-expanded material to achieve “buoyancy in air.” The patent was published two weeks before the UAPTF report was delivered to Congress and matches the description of at least one high-profile UAP case where a USN pilot told Lt. Ryan Graves he witnessed a “sphere encasing a cube” in 2014 over the Atlantic Ocean east of Virginia. The Triad National Security LLC patent states an
-
 air-buoyant structure around a craft could be spherical, cylindrical, torus, pill or lattice shaped. Triad’s website states its primary client is the NNSA and it is comprised of three partners: Battelle Memorial Institute, The Texas A&M University System and the University of California.
 
 *   [https://documents2.theblackvault.com/documents/odni/DEOM-2021-00006.pdf](https://documents2.theblackvault.com/documents/odni/DEOM-2021-00006.pdf)
