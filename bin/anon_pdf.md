@@ -168,7 +168,6 @@ Twining is specifically talking about the “flying disc” phenomena seen by ci
 *   [https://www.documentcloud.org/documents/20797978-twining-memo](https://www.documentcloud.org/documents/20797978-twining-memo) (p2)
 
 **(PUBLIC DOMAIN)** - 1952 — CIA Project Moonstruck allegedly studies long range use of frequencies for the purpose of stimulation of the brains of
-
 targets. It is claimed these implants were placed in subjects during abductions; unknown if related to UAP phenomenon.
 
 *   [https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/](https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/)
