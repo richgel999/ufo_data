@@ -2568,7 +2568,7 @@ Note: In the early 2000s, a NASA spokeswoman in a conversation between George Sc
 
 Li reportedly left NASA in 1999 to found the company AC Gravity LLC. AC Gravity was awarded a DOD grant for $448,970 in 2001 to continue anti-gravity research, ending in 2002. No results from the DOD research were ever made public, though the company still existed as of 2021. Ning Li passed away on 27 July 2021.
 
-*   [https://www.sciencedirect.com/science/article/abs/pii/S0921453497014627?via%](https://www.google.com/url?q=http://www.sciencedirect.com/science/article/abs/pii/S0921453497014627?via%253Dihub%26!&sa=D&source=editors&ust=1690698544370968&usg=AOvVaw0DMs9tmeFXxDJajD_9H-qj)3Dihub#!
+*   [https://www.sciencedirect.com/science/article/abs/pii/S0921453497014627?via%3Dihub#!](https://www.sciencedirect.com/science/article/abs/pii/S0921453497014627?via%3Dihub#!)
 *   [https://en.wikipedia.org/wiki/Ning_Li_(physicist)](https://en.wikipedia.org/wiki/Ning_Li_(physicist)) (physicist)
 
 Note: In 2008, AATIP scientist Robert Baker who specialized in high frequency gravitational waves (HFGW) stated he hadn’t heard from Li in “several years.” She was working on HFGWs and superconductors for the US Army at Redstone Arsenal with AC Gravity, and Baker states she “never presented them with a final report” on the contract. Baker did not know where Li went or why she didn’t finish her contract. Baker also states he is working with Fangyu Li of Chongqing University on HFGW research at this time.
