@@ -514,7 +514,6 @@ Note: Given Blue Book scientific advisor J. Allen Hynek later said (see 1979) th
 **(PUBLIC DOMAIN)** - Late 1956 — The General Physics Laboratory of the Aeronautical Research Laboratories/Aerospace Research Laboratories (ARL) at Wright-Patterson AFB hires physicist Joshua N. Goldberg to administer multiple contracts related to relativistic theories of gravitation. Goldberg works here until 1963, before joining the University of Cincinnati for a year and moving on to other universities. Curiously, fellow anti-gravity researcher Louis Witten joined the University of Cincinnati after his contracted work for Wright-Patterson ended in 1968 (see 1955).
 
 Goldberg states in his CV he worked for the Armour Research Foundation in Chicago, IL for four years before being recruited to ARL, working on applied research for industry and government. It is
-
 unclear if Goldberg or ARL worked on UAP-related research but the many possible linkages in the PUBLIC DOMAIN are interesting. Hubert Goenner of Goettingen, a former participant of RIAS (see 1955), writes ARL may have also studied Soviet efforts in anti-gravity.
 
 *   [https://artsandsciences.syracuse.edu/media/documents/JNGoldbergCV-1995-1.pdf](https://artsandsciences.syracuse.edu/media/documents/JNGoldbergCV-1995-1.pdf)
@@ -559,9 +558,9 @@ Lusar claims Germany began developing saucer technology in 1941 with scientists 
 *   [https://archive.org/details/huntforzeropoint0000cook/page/50/mode/1up](https://archive.org/details/huntforzeropoint0000cook/page/50/mode/1up) (page 50)
 *   [https://www.abebooks.com/first-edition/German-Secret-Weapons-World-2-Lusar/30771110705/bd](https://www.abebooks.com/first-edition/German-Secret-Weapons-World-2-Lusar/30771110705/bd)
 
-Note: Author Nick Cook evaluated the claims in Lusar’s book and finds mixed corroboration, particularly the existence of Schriever and Belluzzo. Schreiver worked for Heinkel Aircraft Company, the developer of the world’s first jet-powered fighter, the He 280; Belluzo was an industry minster in Italian Prime Minister Benito Mussolini’s cabinet and once wrote of
-
 disc-shaped “flying bomb” technology passed on to Germany.
+
+Note: Author Nick Cook evaluated the claims in Lusar’s book and finds mixed corroboration, particularly the existence of Schriever and Belluzzo. Schreiver worked for Heinkel Aircraft Company, the developer of the world’s first jet-powered fighter, the He 280; Belluzo was an industry minster in Italian Prime Minister Benito Mussolini’s cabinet and once wrote of
 
 Schriever also made comments to West German media in 1950 that a flying machine he worked on at a Heinkel facility at Marienehe would have changed the course of the war.
 
@@ -824,7 +823,6 @@ On 28 July 1980 RT states he was visited by a man dressed in black who offered t
 *   [https://www.earthfiles.com/2005/03/07/part-3-ufo-crashretrievals-status-report-iii-amassing-the-evidence/](https://www.earthfiles.com/2005/03/07/part-3-ufo-crashretrievals-status-report-iii-amassing-the-evidence/)
 
 **(PUBLIC DOMAIN)** - 1968 — M.S. Cahn and G.M. Andrew of Northrop Norair publish a paper on Electroaerodynamics in Supersonic Flow, suggesting Northrop was researching methods to reduce the
-
 drag of an aircraft by creating an electrostatic field around the craft. “Dan Marckus,” a pseudonym for a source in the British aerospace industry, states in 2002 that the Pentagon pulled the paper and “made it disappear.” Marckus suggested the B-2 Spirit utilized an electrostatic field around the aircraft to reduce drag, something that still has not been publicly admitted.
 
 *   [https://arc.aiaa.org/doi/abs/10.2514/6.1968-24](https://arc.aiaa.org/doi/abs/10.2514/6.1968-24)
@@ -977,7 +975,6 @@ Jenkins states the next day he saw a Top Secret teletype that chemical analysis 
 
 
 **(PUBLIC DOMAIN)** - 11 October 1973 — Civilians Charles Hickson and Calvin Parker claim they see an oval UAP and are taken aboard the craft by “robots” for examination near the Pascagoula River in
-
 Mississippi. Hickson refused to take a polygraph, but former Project Blue Book advisor J. Allen Hynek stated the testimony was sincere.
 
 Parker claims his father once worked for the Atomic Energy Commission near Area 51, and the sighting occurred near a shipyard managed by Ingalls Shipbuilding, then owned by Litton Industries, creator of advanced space suits for the USAF and NASA. The appearance of the alleged entities Hickson and Parker saw may match the description of advanced experimental suits Litton was designing at the time. Was this event a military test of some kind using “UAP abduction” as a cover?
@@ -1050,7 +1047,6 @@ The UAP then moves away from Romeo-29 vertically at high speed. An F-106 attempt
 *   [https://www.ufohastings.com/index.php/articles/ufos-are-stalking-and-intercepting-dummy-nuclear-warheads-during-test-flights#note_2](https://www.ufohastings.com/index.php/articles/ufos-are-stalking-and-intercepting-dummy-nuclear-warheads-during-test-flights#note_2)
 
 Note: This is a remarkable admission by the Army and suggests that while the Air Force continued to rely on conclusions from Project Blue Book to debunk UAP, other elements of
-
 USG were tracking and making records of UAP events.
 
 
@@ -1201,7 +1197,6 @@ Note: Other claims from Stringfield’s alleged sources include:
 *   Navy specialist James Mitchell claims he had a role to handle confidential film and saw a photo of a small humanoid allegedly killed in a skirmish with USG in Arizona.
 *   “Mrs. S.I.” claims her husband Carl was Air Force Police at WPAFB and around 1973 was called to duty in a secret area where he was driven to and blindfolded; he was allegedly ordered to stand guard as scientist viewed three small humanoid bodies.
 *   “General T” claimed he saw a TS document that indicated a landing occurred at Nellis AFB in 1968; it allegedly said a large UAP hovered over Nellis for three days; three
-
 small humanoids ejected from the craft, one of which landed on base grounds; a Colonel with a security detachment greeted the humanoid; a beam of light was shot at the Colonel and he was paralyzed by the humanoid who was described as short and stocky; the security detail allegedly fired but their weapons jammed. Leonard Stringfield knew the name of the Gen. and claims to have confirmed his existence at another base not disclosed.
 
 *   “A.K.” claims he witnessed a UAP landing at Ft. Riley in November 1964.
@@ -1396,7 +1391,6 @@ He claimed he and other classmates observed unusual activity at the USAF site, w
 Two to three months later after this breach, all Army personnel were restricted to their quarters and windows were blacked out; a small group went to a crawl space in the attic above their bunks and removed some of the roof’s shingles to look out, seeing an “intense twinkling light descending in rapid, jerking movements,” that was changing colors, diminish in intensity and take a shape, before dropping to the ground; “it was in no way a conventional craft,” it was relayed to him; the object was disc shaped with a small bulge on top, the air shimmered around the craft as if it were hot, and no occupants were seen; USAF personnel surrounded the object when it landed; the next morning the area was clear.
 
 DR states in 1971 he was warned by a Col. not to mention anything about UAP and Big Springs
-
 Base.
 
 *   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p151
@@ -1512,9 +1506,7 @@ Note: Declassified documents show OES regularly monitored space debris and UAP, 
 **(PUBLIC DOMAIN)** - July 1982 — Head of the US Army’s remote viewing program Skip Atwater discovers intelligence information generated by contractor SRI International and a remote viewer, Pat Price, in 1973. Price believed there were “underground” bases in which UAP emanated from. Atwater attempted to corroborate these claims and did, using Army personnel outside of USG work hours.
 
 The unofficial Project 8200 claimed to view UAP associated underground locations at Mt.
-
 Hayes, AK, Mt. Ziel, Australia, Mt. Nyangani, Zimbabwe, and Mt. Perdido, Spain. The unofficial project
-
 claimed these four locations — and possibly others — were integral in working together to communicate with space based platforms associated with UAP.
 
 *   [https://archive.org/details/rv-project-8200/RV+Project+8200+(1982-07-28).mp4](https://archive.org/details/rv-project-8200/RV+Project+8200+(1982-07-28).mp4)
@@ -1545,7 +1537,6 @@ Note: Hathaway was one of the scientists tasked with writing a Defense Intellige
 *   [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)
 
 Note: The head of INSCOM at the time was Gen. Albert Stubblebine, who utilized the Monroe Institute to train his officers in ways to improve their psychic performance. In 1984, Maj. Gen. Harry Soyster replaces Stubblebine, a former VP of Intelligence Systems at BDM Intl. and
-
 eventual Chairman of Psi-Tech (in 1992). BDM Intl. hosted the ATP Group meetings to determine UAP R&D and reverse engineering opportunities in 1985.
 
 
@@ -1752,7 +1743,6 @@ Pharis Williams also spoke at a UAP technology conference in June 2001 where it 
 
 
 **(PUBLIC DOMAIN)** - 23 October 1988 — Kit Green meets Jacques Vallee at the Detroit airport, they spoke for a “long time” over dinner, at his house, etc. Green assures Vallee “there was indeed an MJ12,” which had employed the list of scientists ufologists believed including Menzel and it reported to Truman
-
 and Eisenhower. But Green states it had nothing to do with UAP, it was a “vast program” to study impacts and possible reactions against a psychological warfare attack directed at the US.
 
 *   [https://ufos-scientificresearch.blogspot.com/2018/04/christopher-kit-canfield-green-further.html](https://ufos-scientificresearch.blogspot.com/2018/04/christopher-kit-canfield-green-further.html)
@@ -1767,9 +1757,7 @@ and Eisenhower. But Green states it had nothing to do with UAP, it was a “vast
 
 
 **(PUBLIC DOMAIN)** - 12 November 1988 — Aerospace researcher Michael Schratt claims this was the date of a test of a diamond shaped “lifting body” at Norton Air Force Base in California. Schratt claims
-
 U.S. Senators Alan Cranston and California Congressman George Brown Jr. was there to see the F-117A demonstrated, but there was also allegedly an exhibit to garner support for black budget aerospace programs. An anonymous engineer claims to have been in attendance and have seen a football,
-
 diamond-shaped craft covered in tiles like those used on the Space Shuttle. It was an unmanned aerial vehicle capable of launching nuclear missiles, he claimed.
 
 *   [https://www.earthfiles.com/2007/11/20/do-black-budget-trillions-support-a-secret-american-space-program/](https://www.earthfiles.com/2007/11/20/do-black-budget-trillions-support-a-secret-american-space-program/)
@@ -1862,7 +1850,6 @@ Note: BDM has several linkages to UAP besides employing Shapiro (see 26 Septembe
 
 
 **(PUBLIC DOMAIN)** - 1990 — Sgt. Dan Sherman, while working on an NSA project with a USAF ELINT cover, claims he is told that there is another level of secrecy above Special Access Program for certain projects. He claims certain black SAPs are actually covers for “alien” projects known as Level 1; grey projects; grey matter or slant missions. He is told within grey projects there is as expected
-
 need-to-know inside that.
 
 Sherman is told by a Cpt. White that he is only aware of one being Project Preserve Destiny, to establish intuitive communications with NHI. But he assumes there are other grey projects.
@@ -1960,7 +1947,6 @@ The scientist referred to a special group of scientists that worked with the Pre
 
 
 **(PUBLIC DOMAIN)** - 1991 — USS Nimitz Petty Officer Kevin Thomas claims he sees a “huge black triangle” lifting out of the ocean when he was accidentally left on deck after the ship was ordered to darken the ship and clear the decks. Thomas says it had no water dripping off it, made no sound and it
-
 shortly after flew up vertically out of sight. Thomas says he was interviewed by people in civilian clothes why he was outside and what he saw; Thomas said he didn’t tell them he saw the triangle because he was concerned he would be disciplined.
 
 *   [https://twitter.com/NickMadrid16/status/1583797906527510530?s=20](https://twitter.com/NickMadrid16/status/1583797906527510530?s=20)
@@ -1997,7 +1983,6 @@ Mary mentioned bodies were flown to LANL periodically from late 1945 to 1957, ad
 *   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p370
 
 **(PUBLIC DOMAIN)** - 22 May 1991 — Jacques Vallee states Prince Hans-Adam II, head of state of Liechtenstein, funded a study to determine how many Americans had been abducted by aliens and gave
-
 $200,000 to Robert Bigelow for it. Adam II is deeply Catholic, Vallee added, and stated Adam II believed ET controlled humanity’s efforts to conquer space. Hans-Adam grew paranoid and refused to invest another $1.25 million, telling Hal he was “afraid” of the consequences.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/04/uap-research-has-been-well-funded-in.html](https://ufos-scientificresearch.blogspot.com/2019/04/uap-research-has-been-well-funded-in.html)
@@ -2062,7 +2047,6 @@ The scientists claim NHI can work unseen to humans; create incisions and perform
 
 
 **(PUBLIC DOMAIN)** - 30 December 1991 — Manager of KGFL Radio in Roswell, NM, George Roberts, states he did an interview with WW “Mac” Brazel in July 1947 who claimed he found debris on his property; the next morning he got a call from someone in the offices of Sen. Clinton Anderson or
-
 Dennis Chavez who told him if he released the information, his station’s license would be in jeopardy. Roberts did not release the story.
 
 *   [http://www.roswellproof.com/Roberts.html](http://www.roswellproof.com/Roberts.html)
@@ -2181,7 +2165,6 @@ Note: The MJ-12 conspiracy rose to prominence in the 1980s and 1990s when a seri
 1940s. The theory alleged that a “group” of key figures kept true UAP study, crash recovery, reverse engineering, analytics and communications processes secret and outside of Congressional oversight through the usage of illegal security controls, possibly through illegal use of unacknowledged Special Access Program (SAP) protocols.
 
 The allegation of a group existing, possibly not by this name, is corroborated by VADM Thomas
-
 R. Wilson’s alleged testimony (see 16 October 2002) and an unnamed DOD official’s recent comments to Politico (see 16 May 2022).
 
 
