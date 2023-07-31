@@ -42,7 +42,7 @@ Note: Twining’s letter also led to the creation of Project Sign, whose sightin
 
 **(PUBLIC DOMAIN)** - 24 September 1947 — DCI Roscoe H. Hillenkoetter allegedly writes a letter to Air Materiel Command designating T-2 and the Air Intelligence branch of the Navy Bureau of Aeronautics as “national assets.” Hillenkoetter states he does not plan to duplicate this within the CIA.
 
-*   [https://www.academia.edu/43868466/UFOs and Intelligence A Timeline By George M Eberhart](https://www.academia.edu/43868466/UFOs and Intelligence A Timeline By George M Eberhart)
+*   [https://www.academia.edu/43868466/UFOs%20and%20Intelligence%20A%20Timeline%20By%20George%20M%20Eberhart](https://www.academia.edu/43868466/UFOs%20and%20Intelligence%20A%20Timeline%20By%20George%20M%20Eberhart)
 
 **(PUBLIC DOMAIN)** - October 1947 — Pilot Selman E. Graves states he witnessed the recovery of a crashed craft and two humanoid “bodies” in Paradise Valley, AZ. Graves states the federal government sponsored a state government project that relocated a nearby road and bulldozed the land to cover up the crash site.
 
