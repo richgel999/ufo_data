@@ -2482,7 +2482,7 @@ Note: In 2009 an alleged witness “Stein” told ufologist Linda Moulton Howe t
 
 UAP, surveilled him, and threatened him and his family.
 
-*   [https://www.earthfiles.com/2021/11/26/part-19-army-cia-unit-studied-the-real-ufo-bluebook-cases-3/](https://www.earthfiles.com/2021/11/26/part-19-army-cia-unit-studied-the-real-ufo-bluebook-cases-3/)
+*   [https://www.earthfiles.com/2021/11/26/part-19-army-cia-unit-studied-the-real-ufo-blue-book-cases-3/](https://www.earthfiles.com/2021/11/26/part-19-army-cia-unit-studied-the-real-ufo-blue-book-cases-3/)
 
 
 
