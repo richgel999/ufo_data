@@ -777,7 +777,7 @@ Hynek also noted Quintanilla’s deception in a book written six years later.
 
 Note: A 4 February 1948 memo from USAF Capt. Richard W. Guess states USAF commanders are charged with evaluating incidents, but they’re to be passed to local FBI offices. FBI seems to have had an ongoing relationship with USAF where UAP data was passed between local offices and USAF. One example of this is on 15 May 1952 where FBI Director J. Edgar Hoover writes AFOSI about flying discs seen above an AEC facility in South Carolina.
 
-*   [http://www.nicap.org/docs/480204investigation reporting.pdf](http://www.nicap.org/docs/480204investigation reporting.pdf)
+*   [http://www.nicap.org/docs/480204investigation_reporting.pdf](http://www.nicap.org/docs/480204investigation_reporting.pdf)
 *   [https://ia801301.us.archive.org/view_archive.php?archive=/8/items/bluebook/1950s.zip&file=1950s%2F1952-05-9613233-Ellenton-SouthCarolina.pdf](https://ia801301.us.archive.org/view_archive.php?archive=/8/items/bluebook/1950s.zip&file=1950s%2F1952-05-9613233-Ellenton-SouthCarolina.pdf)
 *   [https://vault.fbi.gov/UFO/UFO%20Part%2010%20of%2016](https://vault.fbi.gov/UFO/UFO%20Part%2010%20of%2016)
 
