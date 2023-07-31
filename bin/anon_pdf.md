@@ -1,4 +1,4 @@
-(rg: This documented was converted from the [original PDF](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another) 
+(rg: This document was converted from the [original PDF](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another) 
 to Microsoft Word using Adobe Acrobat Pro v2023.003.20244, then imported into Google Docs, and then converted to Markdown format using
 DocPress.It. I then manually verified and fixed each URL vs. the original PDF. Any changes or additions to the original URL's are noted by my initials below.)
 
