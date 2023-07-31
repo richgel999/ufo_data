@@ -2461,7 +2461,6 @@ Note: The term Project Snowbird (Proword: Cetus) shows up in a disputed Project 
 *   [https://web.archive.org/web/20190320103153/https://siriusdisclosure.com/evidence/project-aquarius-documents/](https://web.archive.org/web/20190320103153/https://siriusdisclosure.com/evidence/project-aquarius-documents/)
 
 Note: In 2009 an alleged witness “Stein” told ufologist Linda Moulton Howe that he was intimidated by Wackenhut officials who told him not to talk about offensive weapons that attempted to shoot down saucers. The Wackenhut “types” told Stein not to talk publicly about
-
 UAP, surveilled him, and threatened him and his family.
 
 *   [https://www.earthfiles.com/2021/11/26/part-19-army-cia-unit-studied-the-real-ufo-blue-book-cases-3/](https://www.earthfiles.com/2021/11/26/part-19-army-cia-unit-studied-the-real-ufo-blue-book-cases-3/)
@@ -2506,7 +2505,6 @@ UAP, surveilled him, and threatened him and his family.
 *   [https://patents.justia.com/patent/5929732](https://patents.justia.com/patent/5929732)
 
 Note: Magnetic monopoles have not been proven to exist in the scientific PUBLIC DOMAIN
-
 and the technology matches the devices some UAP “experiencers” claim UAP occupants possess.
 
 Note: Bushman also claimed before his death he worked on UAP R&D at Lockheed using debris and craft retrievals (see August 2014).
@@ -2702,9 +2700,7 @@ The source also alleged he worked hand in hand with a different race of human-li
 
 
 **(PUBLIC DOMAIN)** - 22 August 1998 — CSETI, an organization that collects testimony from hundreds of military witnesses, states it believes a covert entity utilizing an “Unacknowledged Special Access Program” security framework manages some aspects of the UAP matter and is (1) global in scope,
-
 (2) has multiple levels of sub-compartmentalization, (3) exists in the privatized
-
 contracting/work-for-others sector, (4) runs parallel to and separate from conventional intelligence projects and black projects and uses some for cover, (5) draws personnel from technology corporations and the intelligence community/military, (6) has access that’s based on project-controlled inclusion and not government oversight, (7) is funded by black budget monies and non-governmental capital, (8) maintains secrecy using force and illegal means, (9) has no oversight from the heads of USG agencies/offices it draws monies and personnel from and (10) has zero oversight from Special Access Program oversight mechanisms.
 
 It is stated this covert entity possesses advanced technologies often mistaken for UAP, including “materialization/dematerialization,” faster than light travel and antigravity propulsion that is a threat to conventional military and constitutional chain of command. One intelligence source tells CSETI the “program” has considered the usage of manmade advanced craft in a “false indications and warnings scenario” in which the manmade UAP attack conventional military assets to make it appear there is an attack by hostile extraterrestrial life forms. The “program” is also allegedly considering the usage of technologies that “hoax” paranormal experiences in the consciousnesses of government/military targets, with adverse psychological effects. CSETI states this has already occurred and alien abduction scenarios are testing by assets of the “program.”
