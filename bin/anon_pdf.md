@@ -54,7 +54,7 @@ DuBose states he requested Roswell Army Air Field to send the material to Fort W
 
 **(PUBLIC DOMAIN)** - October 1947 — An “unknown missile” allegedly crashes this month in Mexico near Guadeloupe. The State Department is said to begin negotiations with the Mexican government to obtain the crashed object.
 
-*   Majic Eyes Only, p 81
+*   _[Majic Eyes Only](https://www.amazon.com/Majic-Eyes-Only-Ryan-Wood/dp/0977205908), p 81_
 *   [https://www.amazon.com/Majic-Eyes-Only-Ryan-Wood/dp/0977205908](https://www.amazon.com/Majic-Eyes-Only-Ryan-Wood/dp/0977205908), p 81
 
 **(PUBLIC DOMAIN)** - 16 December 1947 — Army Lt. Col. Harry H. Pretty writes to the Dep. Dir. of Intelligence (Deputy G-2, U.S. Army) in Berlin that Nazi aircraft designers Reimar Horten and Walter Horten were located in Gottingen, Germany, and although they were responsible for the Horten Ho 299 flying wing design, an investigation determined no flying saucer design “ever existed nor was projected by any of the German air research institutions.”
@@ -65,7 +65,7 @@ DuBose states he requested Roswell Army Air Field to send the material to Fort W
 
 **(PUBLIC DOMAIN)** - 1948 — An anonymous retired Col. states a UAP crash occurred this year near Laredo, TX. he states when he arrived it was under a canopy and witnesses were sworn to secrecy.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p7
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p7_
 
 **(PUBLIC DOMAIN)** - 31 January 1948 — The Research and Development Board, a key recipient of UAP data at the time (see 23 September 1947) attempts to debunk flying saucers as a “mirage” the result of “mass self-hypnosis.” The RDB statement circulates in newspapers.
 
@@ -84,7 +84,7 @@ DuBose states he requested Roswell Army Air Field to send the material to Fort W
 
 **(PUBLIC DOMAIN)** - 1949 — Scientist Albert Collins claims he worked on electromagnetic propulsion at Cal-Berkeley and analyzed samples that were taken away by the Army. The metal was thin, light and could not be dented or cut; it could fold and return to shape.
 
-Collins claims in 1949, Rand Corporation and the CIA solicited assistance on sample analysis from a Vatican representative; he claims he saw project names Archangel, Blue Book, Black Book, White Book and Yellow Book, adding that he heard LANL was analyzing green fireballs (this last claim has been confirmed as Project Twinkle).
+Collins claims in 1949, Rand Corporation and the CIA solicited assistance on sample analysis from a Vatican representative; he claims he saw project names **Archangel**, **Blue Book**, **Black Book**, **White Book** and **Yellow Book**, adding that he heard LANL was analyzing green fireballs (this last claim has been confirmed as **Project Twinkle**).
 
 He claims he heard rumors of autopsies of “midget people” at Los Alamos, experiments at Holloman AFB and Kirtland AFB, metal-like wood tested in Berkley he was not involved with, and flying disc landings on military bases in California and New Mexico. Collins also states a friend told him Archangel determined UAP occupants were extraterrestrial, biological, gas-breathing intelligent animals with larger craniums than humans. He claims this friend told him the occupants had cells similar to plants that were responsive to sunlight and were able to make right or wrong judgements like humans.
 
@@ -101,7 +101,7 @@ He claims he heard rumors of autopsies of “midget people” at Los Alamos, exp
 
 **(PUBLIC DOMAIN)** - 1950 — Source “LH” at Bell Laboratories states a source of his, a former NASA employee, had access to information regarding a crash retrieval in 1950. He claims the employee had access to technical material about a head-band transceiver worn by some UAP occupants; LH states the source believes he has been under surveillance and one of his colleagues at NASA involved in security risk related to UAP “disappeared.”
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p180
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p180_
 
 **(PUBLIC DOMAIN)** - 27 March 1950 — Radio broadcaster Henry J. Taylor announces flying saucers are USAF/Navy secret weapons. It is later claimed the entire story was disinformation planted by the CIA Office of Policy Coordination Political and Psychological Warfare Staff headed by Joseph Bryan III to confuse the American public. Taylor later admitted to the Senate Foreign Relations Committee he didn’t know the origin of UAP.
 
@@ -127,7 +127,7 @@ He claims he heard rumors of autopsies of “midget people” at Los Alamos, exp
 
 >**_Note_**: This is at a time when USAF public messaging is debunking UAP cases.
 
-**(PUBLIC DOMAIN)** - 1951 — USAF Maj. Dewey Fournet, while serving on Project Blue Book, conducted his own FOIA-exempt extragovernment investigation of undersea and aerial UAP with assistance from the Navy dubbed Operation Interloper. Fournet used his access and USG resources and all but three case files (up to 28) remain lost because they were held in personal archives. Interloper briefed the CIA in 1953 but its findings never reached Congress or the public.
+**(PUBLIC DOMAIN)** - 1951 — USAF Maj. Dewey Fournet, while serving on **Project Blue Book**, conducted his own FOIA-exempt extragovernment investigation of undersea and aerial UAP with assistance from the Navy dubbed Operation Interloper. Fournet used his access and USG resources and all but three case files (up to 28) remain lost because they were held in personal archives. Interloper briefed the CIA in 1953 but its findings never reached Congress or the public.
 
 *   [https://www.nicap.org/docs/bethune_nicapfile_02.pdf](https://www.nicap.org/docs/bethune_nicapfile_02.pdf)
 *   [https://www.ufoexplorations.com/_files/ugd/aa4aac_a0261f418177495ca81a5c831721b607.pdf](https://www.ufoexplorations.com/_files/ugd/aa4aac_a0261f418177495ca81a5c831721b607.pdf)
@@ -144,13 +144,13 @@ ignorance of them could lead to a “worse Pearl Harbor than we have ever experi
 *   [http://www.nicap.org/articles/MirarchiArticle.htm](http://www.nicap.org/articles/MirarchiArticle.htm)
 *   [https://sohp.us/collections/ufos-a-history/pdf/GROSS-1951.pdf](https://sohp.us/collections/ufos-a-history/pdf/GROSS-1951.pdf)
 
-**(PUBLIC DOMAIN)** - 1952 — Former Naval officer and consultant to Lockheed-Vega and Glenn L. Martin Co. Thomas Townsend Brown proposes Project Winterhaven to the US military.
+**(PUBLIC DOMAIN)** - 1952 — Former Naval officer and consultant to Lockheed-Vega and Glenn L. Martin Co. Thomas Townsend Brown proposes **Project Winterhaven** to the US military.
 
 Brown proposes using Stanford Research Institute (SRI), University of Chicago, The Franklin Institute, the Glenn L. Martin Co’s Research Institute for Advanced Studies (RIAS), Lear Inc., Jansky & Bailey, Brush Development Co., and Hancock Manufacturing Co. to create flying disc craft for the US military that can travel in excess of 1,800 mph in all levels of atmosphere. This is a peculiar hypothetical framework as it didn’t involve several major aerospace contractors and instead chose to subcontract to several entities outside of US aerospace. It is allegedly rejected.
 
 *   [https://www.thomastownsendbrown.com/hydro/winterhaven.pdf](https://www.thomastownsendbrown.com/hydro/winterhaven.pdf)
 
->**_Note_**: According to author Nick Cook, Air Force Office of Special Investigations (AFOSI) and Office of Naval Research (ONR) documents show an interest of USAF Maj. Gen. Victor E. Bertrandias’s visit to the Townsend Brown Foundation when it was proposing Project Winterhaven. ONR’s Willoughby M. Cady writes that Townsend Brown’s claims of gravitational anomalies are not well documented, and suggested the Navy and Air Force not pursue the disc designs.
+>**_Note_**: According to author Nick Cook, Air Force Office of Special Investigations (AFOSI) and Office of Naval Research (ONR) documents show an interest of USAF Maj. Gen. Victor E. Bertrandias’s visit to the Townsend Brown Foundation when it was proposing **Project Winterhaven**. ONR’s Willoughby M. Cady writes that Townsend Brown’s claims of gravitational anomalies are not well documented, and suggested the Navy and Air Force not pursue the disc designs.
 >*   [https://archive.org/details/huntforzeropoint0000cook/page/33/mode/1up](https://archive.org/details/huntforzeropoint0000cook/page/33/mode/1up) (p33)
 
 >**_Note_**: In 1955, Brown worked for French aerospace company SNCASO and ran his flying disc designs in a vacuum, where they performed even better than in atmosphere. SNCASO merged with Sud-Est a year later and canceled Brown’s contract.
@@ -165,28 +165,28 @@ Brown proposes using Stanford Research Institute (SRI), University of Chicago, T
 > 
 > *   [https://www.documentcloud.org/documents/20797978-twining-memo](https://www.documentcloud.org/documents/20797978-twining-memo) (p2)
 
-**(PUBLIC DOMAIN)** - 1952 — CIA Project Moonstruck allegedly studies long range use of frequencies for the purpose of stimulation of the brains of
+**(PUBLIC DOMAIN)** - 1952 — CIA **Project Moonstruck** allegedly studies long range use of frequencies for the purpose of stimulation of the brains of
 targets. It is claimed these implants were placed in subjects during abductions; unknown if related to UAP phenomenon.
 
 *   [https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/](https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/)
 
 **(PUBLIC DOMAIN)** - 1952 — A disputed, possibly hoaxed report for disinformation purposes, detail an annual report for MAJIC EYES ONLY ACTIVITIES that mention the recovery of the ejection craft in 1947 with five bodies, and the ejection craft were cylinders that ejected from the collision of larger UAP discs and possibly an experimental US craft; it states the occupants are “human or human like” and share the same biological needs.
 
-The term ULATT EXPLOITATION is used; the application of R&D at AEC facilities is mentioned; efforts to duplicate a “water drive and plastic core elements” found in an UAP engine are being conducted at Los Alamos, Oak Ridge and Langley, with the engine kept at Holloman are also mentioned, as are autopsies of recovered occupants that fall in a Project Grey Suit within Projects 612 and 621.
+The term ULATT EXPLOITATION is used; the application of R&D at AEC facilities is mentioned; efforts to duplicate a “water drive and plastic core elements” found in an UAP engine are being conducted at Los Alamos, Oak Ridge and Langley, with the engine kept at Holloman are also mentioned, as are autopsies of recovered occupants that fall in a **Project Grey Suit** within **Projects 612 and 621**.
 
-Tissue samples of technicians in contact with occupants suggest the transfer of a highly contagious disease, their samples were kept at Fort Detrick, MD; and a crash recovery team from Project Moon Dust and Project Stork were sent to a crash site near the Texas-Mexico border at El Indio-Guerrero in December 1950 to respond to a crash with debris taken to AEC at Sandia.
+Tissue samples of technicians in contact with occupants suggest the transfer of a highly contagious disease, their samples were kept at Fort Detrick, MD; and a crash recovery team from **Project Moon Dust** and **Project Stork** were sent to a crash site near the Texas-Mexico border at El Indio-Guerrero in December 1950 to respond to a crash with debris taken to AEC at Sandia.
 
 *   [https://majesticdocuments.com/pdf/mj12_fifthannualreport.pdf](https://majesticdocuments.com/pdf/mj12_fifthannualreport.pdf)
 
 **(PUBLIC DOMAIN)** - 1952 — A family friend of McDonnell Douglas engineer John Schuessler states he was a guard at Wright Patterson Air Force Base in 1952 and saw a craft covered by a tarp taken into a tight security area at the base. He also stated he saw bodies recovered from a “UFO” told to him they were from the Southwest; the bodies were “little people.” He stated “everything delivered had to pass by me.”
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p8
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p8_
 
 **(PUBLIC DOMAIN)** - 1952 — A source “ZO” states a colleague of his at Rocketdyne told him he attended a meeting on celestial navigation at another aircraft company in 1952, where one USAF officer told them he was at the scene of one crash retrieval where a piece of metal was broken from the ship and later studied. He said the piece was impervious to diamond saws and torches, and a small body, badly burned, was recovered.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p181
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p181_
 
-**(PUBLIC DOMAIN)** - 19 February 1952 — The USAF Scientific Advisory Board Secretariat suggests Project Twinkle, which analyzed UAP at the AEC’s Los Alamos National Lab, Sandia Base, White Sands Proving Ground and Holloman AFB, not be declassified because the phenomena could not be debunked by natural explanations.
+**(PUBLIC DOMAIN)** - 19 February 1952 — The USAF Scientific Advisory Board Secretariat suggests **Project Twinkle**, which analyzed UAP at the AEC’s Los Alamos National Lab, Sandia Base, White Sands Proving Ground and Holloman AFB, not be declassified because the phenomena could not be debunked by natural explanations.
 
 *   [https://documents2.theblackvault.com/documents/projectbluebook/ProjectTwinkle-November1951.pdf](https://documents2.theblackvault.com/documents/projectbluebook/ProjectTwinkle-November1951.pdf) (p22)
 
@@ -201,13 +201,13 @@ Tissue samples of technicians in contact with occupants suggest the transfer of 
 
 **(PUBLIC DOMAIN)** - 24 April 1952 — A special study group within Air Force Intelligence assesses nine undersea UAP with the Office of Naval Intelligence. ONI received the reports from U.S. Navy submarines that encountered the undersea UAPs over an undisclosed timeframe prior to the report. The incidents have never been released by ONI, and FOIA requests into the USAF special study group, AFOIN-X(SG), have been denied.
 
-The group is rumored to have included a Col. Kieling, USAF civil service intelligence specialist Dr. Stefan T. Possony as acting chief, and Lt. Col. F. Sterling as military chief and likely operated outside of Project Blue Book as a flexible study group to take on special ad hoc tasks. AFOIN-X(SG) findings were therefore not shared in open Congressional hearings or with the public.
+The group is rumored to have included a Col. Kieling, USAF civil service intelligence specialist Dr. Stefan T. Possony as acting chief, and Lt. Col. F. Sterling as military chief and likely operated outside of **Project Blue Book** as a flexible study group to take on special ad hoc tasks. AFOIN-X(SG) findings were therefore not shared in open Congressional hearings or with the public.
 
 *   [https://archive.org/details/needtoknow00good/page/145/mode/1up](https://archive.org/details/needtoknow00good/page/145/mode/1up)
 *   [http://textfiles.com/ufo/cufon5.txt](http://textfiles.com/ufo/cufon5.txt)
 *   [https://archive.org/details/needtoknow00good/page/176/mode/1up](https://archive.org/details/needtoknow00good/page/176/mode/1up)
 
->**_Note_**: USAF Capt. Edward J. Ruppelt stated AFOIN was conducting a more complete investigation of UAP in the field than Project Blue Book. AFOIN offices doing UAP work included the Technical Capabilities Branch of the Evaluation Division (AFOIV-TC) and the Collection Control Branch of the Collection Division (AFOIC-CC).
+>**_Note_**: USAF Capt. Edward J. Ruppelt stated AFOIN was conducting a more complete investigation of UAP in the field than **Project Blue Book**. AFOIN offices doing UAP work included the Technical Capabilities Branch of the Evaluation Division (AFOIV-TC) and the Collection Control Branch of the Collection Division (AFOIC-CC).
 >*   [https://web.archive.org/web/20211206115818/http://www.nicap.org/match/papers/PentagoReportNotNews.htm](https://web.archive.org/web/20211206115818/http://www.nicap.org/match/papers/PentagoReportNotNews.htm)
 
 **(PUBLIC DOMAIN)** - 20 May 1953 — An anonymous Air Force official claims a UAP crash occurred near Garrison, UT on the Desert Research Experimental Station (DRES). The source claims the craft was buried.
@@ -219,14 +219,14 @@ The group is rumored to have included a Col. Kieling, USAF civil service intelli
 *   [https://scholarship.rice.edu/bitstream/handle/1911/110197/wrc15848_transcript.pdf?sequence=3&](https://scholarship.rice.edu/bitstream/handle/1911/110197/wrc15848_transcript.pdf?sequence=3&)
 *   [https://www.texasmonthly.com/arts-entertainment/unidentified-scholarly-subject/](https://www.texasmonthly.com/arts-entertainment/unidentified-scholarly-subject/)
 
-**(PUBLIC DOMAIN)** - 2 December 1952 — CIA OSI Chief Philip Grandin Strong meets with MIT Provost Julius A. Stratton and professor Max Millikan to discuss UAP sightings and a means of studying them through Project Lincoln. Lincoln was an already established air defense project at MIT for the USAF, specifically analyzing photographic reconnaissance and surveillance.
+**(PUBLIC DOMAIN)** - 2 December 1952 — CIA OSI Chief Philip Grandin Strong meets with MIT Provost Julius A. Stratton and professor Max Millikan to discuss UAP sightings and a means of studying them through **Project Lincoln**. Lincoln was an already established air defense project at MIT for the USAF, specifically analyzing photographic reconnaissance and surveillance.
 
-The December 1952 memo suggests Lincoln had an interest in flying saucer cases beginning in mid-1952, and CIA OSI sought “full backing” of the DCI for MIT to formally study UAP. Unfortunately, no further Lincoln UAP documentation exists, and Lincoln summary reports do not mention UAP despite Stratton’s interest. USAF Capt. Edward J. Ruppelt later writes that Project Lincoln’s Beacon Hill Group recommended he set up “sound detection apparatus” in areas of UAP activity, suggesting the MIT scientists were doing actual UAP work under contract.
+The December 1952 memo suggests Lincoln had an interest in flying saucer cases beginning in mid-1952, and CIA OSI sought “full backing” of the DCI for MIT to formally study UAP. Unfortunately, no further Lincoln UAP documentation exists, and Lincoln summary reports do not mention UAP despite Stratton’s interest. USAF Capt. Edward J. Ruppelt later writes that **Project Lincoln’s Beacon Hill Group** recommended he set up “sound detection apparatus” in areas of UAP activity, suggesting the MIT scientists were doing actual UAP work under contract.
 
 *   [https://www.governmentattic.org/12docs/USAF-BeaconHillReport_1952.pdf](https://www.governmentattic.org/12docs/USAF-BeaconHillReport_1952.pdf)
 *   [https://www.cia.gov/readingroom/docs/DOC_0000015345.pdf](https://www.cia.gov/readingroom/docs/DOC_0000015345.pdf)
 
->**_Note_**: Project Lincoln may just be one example how the CIA/USAF/AEC “exported” UAP study to universities and private nonprofits (like Battelle, mentioned in the 9 January 1953 entry). Such analysis that may have been done at MIT is not mentioned in any updates to Congress or the American people, and Stratton’s interest contradicts the findings of the Robertson Panel, Blue Book, and Condon Committee that UAPs do not warrant further study.
+>**_Note_**: Project Lincoln may just be one example how the CIA/USAF/AEC “exported” UAP study to universities and private nonprofits (like Battelle, mentioned in the 9 January 1953 entry). Such analysis that may have been done at MIT is not mentioned in any updates to Congress or the American people, and Stratton’s interest contradicts the findings of the Robertson Panel, **Blue Book**, and Condon Committee that UAPs do not warrant further study.
 
 **(PUBLIC DOMAIN)** - 9 December 1952 — USAF Col. Donald L. Bower forbids Capt. Edward J. Ruppelt from visiting CIA Office of Scientific Intelligence to share information on compelling UAP data. CIA held the “Robertson Panel” the next month without these key cases.
 
@@ -240,7 +240,7 @@ The December 1952 memo suggests Lincoln had an interest in flying saucer cases b
 
 He states he saw the humanoids lying on a fabric to prevent freeze burn from dry ice underneath, with heads disproportionately larger than their bodies, with brown skin, no hair, and wearing tight fitting dark suits; one humanoid appeared to be female. He states he heard that the UAP was picked up by special tracking equipment on Mt. Palomar, CA before the crash.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p15
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p15_
 
 **(PUBLIC DOMAIN)** - 1953 — An anonymous radar technician at Fort Monmouth, NJ in 1953, “Mr. T,” states he was summoned to see a special film at the base theater; with no briefing, he was shown a film of a desert scene with a silver disc object embedded in the sand with a dome at the top, and the bottom was a hatch or a door; in the next scene the source claims he saw 10-15 military personnel in fatigues with no ID patches standing around the craft.
 
@@ -248,7 +248,7 @@ The next scene showed the interior of the craft, a panel with levers all colored
 
 Two weeks later Mr. T was approached by an intelligence officer on the base and told to “forget the movie you saw, it was a hoax.” Mr. T states the film was shot by an inexperienced camera man with poor coloring and texture. A friend of the man who was also a radar specialist told him years later that he too saw the same film under similar conditions.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p10
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p10_
 
 **(PUBLIC DOMAIN)** - 1953 — A source “H.J.” says he was in the Army at Fort Polk, LA in 1953 when they saw an egg shaped UAP crash land into soft sandy soil. A special detachment and ambulance were detached.
 
@@ -256,7 +256,7 @@ The object had no windows or lights and had a fin at its equator that was rotati
 
 *   [https://www.earthfiles.com/2005/02/07/final-part-3-ufo-crashretrievals-status-report-v-is-the-cover-up-lid-lifting/](https://www.earthfiles.com/2005/02/07/final-part-3-ufo-crashretrievals-status-report-v-is-the-cover-up-lid-lifting/)
 
-**(PUBLIC DOMAIN)** - 9 January 1953 — A contractor to the USAF Air Technical Intelligence Center, Battelle Memorial Institute’s Dr. Howard C. Cross proposes that the ongoing Project Stork assist the Air Force to reassure the public that “everything is well under control” with respect to the UFO “problem.”
+**(PUBLIC DOMAIN)** - 9 January 1953 — A contractor to the USAF Air Technical Intelligence Center, Battelle Memorial Institute’s Dr. Howard C. Cross proposes that the ongoing **Project Stork** assist the Air Force to reassure the public that “everything is well under control” with respect to the UFO “problem.”
 
 *   [https://pbs.twimg.com/media/EcRd7A8WoAIaXL1?format=jpg&name=900x900](https://pbs.twimg.com/media/EcRd7A8WoAIaXL1?format=jpg&name=900x900)
 *   [https://pbs.twimg.com/media/EcRhgjPX0AAezWX?format=jpg&name=900x900](https://pbs.twimg.com/media/EcRhgjPX0AAezWX?format=jpg&name=900x900)
@@ -291,24 +291,24 @@ Edward J. Ruppelt allegedly said “it’s a raw deal, but we can’t buck the C
 
 Werner states his job was to determine from the angle of the impact how fast the vehicle was going at the time of impact; he states the vehicle had no landing gear but also had no dents or even scratches; afterwards he was told by a USAF Col. To write his report in longhand, not to type or reproduce it, and not to reveal what he saw; Werner states he was given a telephone number to call when the report was complete and it was handed off to an airman. Werner’s diary reviewed by Ray Fowler corroborated this showing he wrote he went on “special assignment” that day and “got picked up at Indian Springs AFB…for a job I can’t write or talk about.”
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p14
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p14_
 
-**(PUBLIC DOMAIN)** - 26 August 1953 — USAF issues Air Force Regulation 200-2, which restricts UAP reporting procedures and supersedes AFL 200-5. All confirmed UAP reports must now be sent to Air Force Intelligence, and reports by USAF personnel do not go to Project Blue Book. Fewer credible unidentifieds are sent to Blue Book and are therefore kept out of future updates to Congress and the American people.
+**(PUBLIC DOMAIN)** - 26 August 1953 — USAF issues Air Force Regulation 200-2, which restricts UAP reporting procedures and supersedes AFL 200-5. All confirmed UAP reports must now be sent to Air Force Intelligence, and reports by USAF personnel do not go to **Project Blue Book**. Fewer credible unidentifieds are sent to **Blue Book** and are therefore kept out of future updates to Congress and the American people.
 
 *   [http://www.nicap.org/directives/AFR%20200-2,%20Aug%20%2026,1953.pdf](http://www.nicap.org/directives/AFR%20200-2,%20Aug%20%2026,1953.pdf)
 
-**(PUBLIC DOMAIN)** - 18 December 1953 — Lockheed Martin test pilots Roy Wimmer, Charlie Grugan and flight engineers R. L. Thoren and Joe Ware, see a flying saucer over the Pacific Ocean while flying a Navy Super Constellation WV-2. The crew follows the object for five minutes and noticed it exhibited anomalous acceleration characteristics. After landing, the sighting was corroborated by another Lockheed Martin employee on the ground. Despite the USG contractor sending the case file to USAF Air Technical Intelligence Center at Wright-Patterson AFB, it was never included in any declassified Project Blue Book documentation and is not listed as an Unidentified ever analyzed by ATIC.
+**(PUBLIC DOMAIN)** - 18 December 1953 — Lockheed Martin test pilots Roy Wimmer, Charlie Grugan and flight engineers R. L. Thoren and Joe Ware, see a flying saucer over the Pacific Ocean while flying a Navy Super Constellation WV-2. The crew follows the object for five minutes and noticed it exhibited anomalous acceleration characteristics. After landing, the sighting was corroborated by another Lockheed Martin employee on the ground. Despite the USG contractor sending the case file to USAF Air Technical Intelligence Center at Wright-Patterson AFB, it was never included in any declassified **Project Blue Book** documentation and is not listed as an Unidentified ever analyzed by ATIC.
 
 *   [https://www.reddit.com/r/ufo/comments/uil3ae/lockheed_martin_documents_pertaining_to_1952_ufo/](https://www.reddit.com/r/ufo/comments/uil3ae/lockheed_martin_documents_pertaining_to_1952_ufo/)
 *   [https://www.nicap.org/bluebook/bluelist.htm](https://www.nicap.org/bluebook/bluelist.htm)
 
->**_Note_**: Blue Book scientific advisor J. Allen Hynek said often the Project had poor organization. It is unknown if this case was lost, purposefully ignored or forwarded to a higher-level investigation like AFOIN-X(SG), but is a relevant example of obfuscation because a UAP was observed by 5 trained USG contractor personnel and omitted from updates to Congress and the American public.
+>**_Note_**: **Blue Book** scientific advisor J. Allen Hynek said often the Project had poor organization. It is unknown if this case was lost, purposefully ignored or forwarded to a higher-level investigation like AFOIN-X(SG), but is a relevant example of obfuscation because a UAP was observed by 5 trained USG contractor personnel and omitted from updates to Congress and the American public.
 
 **(PUBLIC DOMAIN)** - 1954 — Army Col. John Alexander states former Douglas engineer Bob Wood tells him he believed the SOM1-01 manual was created in 1954 with the intention it be leaked to Soviet spies as part of a disinformation campaign. The intent would be to get the Soviets to commit resources to UAP crash recoveries.
 
 Alexander states Hal Puthoff told him the real MJ-12 group was involved in Continuity of Government in the 1950s, a plan that hardened secret underground bases and constructed some such as Mount Weather and Greenbrier in White Sulphur Springs, WV.
 
-*   [UFOs: Myths, Conspiracies and Realities](https://www.amazon.com/UFOs-Conspiracies-John-Alexander-Ph-D/dp/125000201X), Alexander, p198
+*   _[UFOs: Myths, Conspiracies and Realities](https://www.amazon.com/UFOs-Conspiracies-John-Alexander-Ph-D/dp/125000201X), Alexander, p198_
 
 >**_Note_**: The SOM1-01 manual states it was allegedly taken from Kirtland AFB Building 21 Unit KB-88; it describes a recovery and disposal effort of extraterrestrial entities and technology; it claims an **Operation Majestic-12** was established by special classified presidential order on 24 September 1947 and is a Top Secret Research and Development - Intelligence Group; goals of MJ12 are the recovery of materials/devices of extraterrestrial manufacture, recovery of entities and remains of entities, establishment of Special Teams to accomplish this, establishment of special secure facilities to receive, process, analyze and study these materials, and the establishment of covert operation with CIA to recover craft/entities that are inside foreign territory.
 >
@@ -356,7 +356,7 @@ KA states later he was told by a stranger in a neighborhood drugstore that he sh
 
 **(PUBLIC DOMAIN)** - 1955 — The Air Force issues a statement saying it has a “research and development contract” with the Avro Company of Canada. This is later confirmed to have been Project Silverbug, a variant of the Avrocar, a failed attempt at a flying saucer that was underpowered and unstable when it was tested by Canadian company Avro.
 
-John Frost and Avro Special Projects Group, though, worked on a Project Y, Project 1794 and Project PV 704 that were said to explore development of flying disc technology that could travel Mach 3 and Mach 4 at 100,000 feet, far faster than other fighters at the time.
+John Frost and Avro Special Projects Group, though, worked on a **Project Y**, **Project 1794** and **Project PV 704** that were said to explore development of flying disc technology that could travel Mach 3 and Mach 4 at 100,000 feet, far faster than other fighters at the time.
 
 *   [https://archive.org/details/huntforzeropoint0000cook/page/74/mode/1up](https://archive.org/details/huntforzeropoint0000cook/page/74/mode/1up)
 *   [https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf](https://documents.theblackvault.com/documents/SilverBug/AFD-070114-006.pdf)
@@ -373,13 +373,13 @@ Witten states while at RIAS he got a contract from Areas A and C at Wright-Patte
 *   [https://journals.aps.org/pr/abstract/10.1103/PhysRev.115.206](https://journals.aps.org/pr/abstract/10.1103/PhysRev.115.206)
 *   [https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.34.442](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.34.442)
 
-**(PUBLIC DOMAIN)** - 1955 — An environmental systems VP in Van Nuys claims as early as 1955 he worked in a UAP group at Douglas Aircraft in Santa Monica; he claims he worked there with “Wheaten” (now at Lockheed, in the submarine division), Ted Gordon, “Klemperer” and Dave Crook. The VP states they were asked by Douglas management to assess cases from Project Blue Book including films and photos that led them to conclude UAP used “multi-dimensional physics.” The group was asked to forget this conclusion. He claims the Douglas group found a site in the “Owen Valley” where thousands of UAP went in and out of solid ground.
+**(PUBLIC DOMAIN)** - 1955 — An environmental systems VP in Van Nuys claims as early as 1955 he worked in a UAP group at Douglas Aircraft in Santa Monica; he claims he worked there with “Wheaten” (now at Lockheed, in the submarine division), Ted Gordon, “Klemperer” and Dave Crook. The VP states they were asked by Douglas management to assess cases from **Project Blue Book** including films and photos that led them to conclude UAP used “multi-dimensional physics.” The group was asked to forget this conclusion. He claims the Douglas group found a site in the “Owen Valley” where thousands of UAP went in and out of solid ground.
 
 *   [https://ufos-scientificresearch.blogspot.com/2010/01/aerospace-companies-and-ufos-3.html](https://ufos-scientificresearch.blogspot.com/2010/01/aerospace-companies-and-ufos-3.html)
 
 **(PUBLIC DOMAIN)** - 1955 — “Mrs. G” working in the Foreign Materials Division at WPAFB in the 1940s and 1950s developed cancer and before her death claimed in 1955 she was assigned to catalog all incoming UAP material, approximately 1,000 items, including items from the interior of a recovered UAP brought to the base; all items were photographed and tagged. Mrs. G. Also witnessed the transfer of two dead humanoids, 4-5 feet tall, larger heads and slanted eyes.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p19
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p19_
 
 **(PUBLIC DOMAIN)** - 1 March 1955 — Documents provided by former Douglas Aircraft engineer William Tompkins suggest Douglas was studying “unconventional” propulsion systems based in part on collection of UAP materials in the open source. Tompkins claims that he worked in a secret Douglas think tank called Advanced Design, tasked with helping the US Navy develop a secret space fleet using antigravity technology.
 
@@ -405,7 +405,7 @@ fleet. Tompkins also claims before the end of WWII, Nazi Germany had aligned its
 *   [https://www.sunrisepage.com/roswell/files/government/usaf/1949_Second_Progress_Report_AF33(038)-3736.pdf](https://www.sunrisepage.com/roswell/files/government/usaf/1949_Second_Progress_Report_AF33(038)-3736.pdf)
 *   [https://www.osti.gov/servlets/purl/1028202](https://www.osti.gov/servlets/purl/1028202)
 
-**(PUBLIC DOMAIN)** - 15 October 1955 — Sen. Richard Russell sees two circular flying discs while traveling by train in the Soviet Union. The CIA classified this Top Secret and did not share the case with the Air Force, Project Blue Book, or the Condon Committee, and it was withheld from Congressional committees in 1960 and 1966 and withheld from the public until it was declassified in 2019.
+**(PUBLIC DOMAIN)** - 15 October 1955 — Sen. Richard Russell sees two circular flying discs while traveling by train in the Soviet Union. The CIA classified this Top Secret and did not share the case with the Air Force, **Project Blue Book**, or the Condon Committee, and it was withheld from Congressional committees in 1960 and 1966 and withheld from the public until it was declassified in 2019.
 
 *   [https://www.cia.gov/readingroom/docs/CURRENT%20INTELLIGENCE%20BULL%5B15721996%5D.pdf](https://www.cia.gov/readingroom/docs/CURRENT%20INTELLIGENCE%20BULL%5B15721996%5D.pdf) (p4-5)
 
@@ -429,12 +429,12 @@ Gray’s name also appears on disputed “TS/MAJIC EYES ONLY” documentation, s
 *   [https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.8550&rep=rep1&type=](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.627.8550&rep=rep1&type=)
 *   [https://www.trumanlibrary.gov/photograph-records/97-1869](https://www.trumanlibrary.gov/photograph-records/97-1869)
 
-**(PUBLIC DOMAIN)** - 1956 — Testimony of USAF Gen. Bernard Schriever states when he was with the Development Planning Office, he worked very closely with the Technical Intelligence Office at Wright Field (which became the Foreign Technology Division). Schriever states Project West Wing was
+**(PUBLIC DOMAIN)** - 1956 — Testimony of USAF Gen. Bernard Schriever states when he was with the Development Planning Office, he worked very closely with the Technical Intelligence Office at Wright Field (which became the Foreign Technology Division). Schriever states **Project West Wing** was
 set up on the “West Coast” funded through the technical intelligence operation out of Wright Field, staffed with people from Ramo-Wooldridge. West Wing analyzed foreign intelligence from the Soviet Union and foreign technology from the Soviet Union.
 
 *   [https://www.si.edu/media/NASM/NASM-NASM_AudioIt-000003014DOCS.pdf](https://www.si.edu/media/NASM/NASM-NASM_AudioIt-000003014DOCS.pdf)
 
->**_Note_**: FTD swept up UAP information in its Project Moon Dust, and personnel from Ramo-Wooldridge later joined TRW and after that Aerospace Corp. Aerospace spun out of
+>**_Note_**: FTD swept up UAP information in its **Project Moon Dust**, and personnel from Ramo-Wooldridge later joined TRW and after that Aerospace Corp. Aerospace spun out of
 >TRW’s Space Technologies Laboratories in 1960 and took West Wing with it. TRW also has alleged linkages to UAP crash recoveries (see Richard Dolan’s claims), while Aerospace Corp has linkages as well (see Ross Coulthart’s claims).
 
 **(PUBLIC DOMAIN)** - 24 January 1956 — Wright-Patterson AFB monitored a reported “landing” of a flying saucer in the Kataghan province of Afghanistan. USAF attempted an overflight for aerial view, search and confirmation of info, and to determine if Afghanistan authorities were hauling the recovered craft to Kabul. Neither USAF ATIC nor Battelle amended their conclusion that a lack of physical evidence meant UAP were not advanced craft, and CIA OSI did not update their conclusions. Subsequent Congressional inquiries in the 1960s relied on conclusions that were out of date and continued to not include physical debris.
@@ -445,7 +445,7 @@ set up on the “West Coast” funded through the technical intelligence operati
 
 *   [https://archive.org/details/reportonunidenti00rupp/page/45/mode/1up](https://archive.org/details/reportonunidenti00rupp/page/45/mode/1up) (p45)
 
-**(PUBLIC DOMAIN)** - 25 February 1956 — The Special Weapons Study Unit of Aviation Studies International, Ltd. delivers an examination of electrogravitics systems (the link between electromagnetism and gravity to produce antigravity) to Wright-Patterson Air Force Base. The report refers to a Project Winterhaven that suggested a “saucer” could create a local gravitational field and serve as a USAF interceptor with Mach 3 capability. It was declassified in 1995. Winterhaven was allegedly based on the designs of Thomas Townsend Brown.
+**(PUBLIC DOMAIN)** - 25 February 1956 — The Special Weapons Study Unit of Aviation Studies International, Ltd. delivers an examination of electrogravitics systems (the link between electromagnetism and gravity to produce antigravity) to Wright-Patterson Air Force Base. The report refers to a **Project Winterhaven** that suggested a “saucer” could create a local gravitational field and serve as a USAF interceptor with Mach 3 capability. It was declassified in 1995. Winterhaven was allegedly based on the designs of Thomas Townsend Brown.
 
 It states Glenn Martin Co. (see 20 November 1955) could be achieved in six years but it would need a “Manhattan Project” environment to achieve it; Clarke Electronics, General Electric, Bell Labs, Convair, Lear Inc., Sperry-Rand, Curtiss-Wright, Lockheed, Boeing and North American are all mentioned as working on antigravity “rigs.”
 
@@ -454,7 +454,7 @@ It states Glenn Martin Co. (see 20 November 1955) could be achieved in six years
 **(PUBLIC DOMAIN)** - April 1956 — USMC Maj. Darrell L. Ritter, ONR Capt. Sidney Sherby and ONR Projects Officer Cmdr. George W. Hoover receive an annotated copy of Morris K. Jessup’s The
 Case for the UFO (1955), with annotations from three different persons who claim to know about UFO intelligences, deep space origin, underwater bases, force fields, and more. Sherby and Hoover reprint the annotated version with government contractor Varo Manufacturing and prints 25 copies.
 
-ONR’s link to Jessup is curious because in this same year, Jessup claims to have been receiving letters from someone known as “Carlos Miguel Allende,” who claims that an 1943 experiment in the Philadelphia Navy Yard rendered a destroyer (the USS Eldridge or USS Engstrom) invisible and personnel on board showed side effects. The project is soon allegedly linked to the work of Thomas Townsend Brown, who earlier that year proposed a Project Winterhaven to the US military to use electrogravitics for aerospace purposes.
+ONR’s link to Jessup is curious because in this same year, Jessup claims to have been receiving letters from someone known as “Carlos Miguel Allende,” who claims that an 1943 experiment in the Philadelphia Navy Yard rendered a destroyer (the USS Eldridge or USS Engstrom) invisible and personnel on board showed side effects. The project is soon allegedly linked to the work of Thomas Townsend Brown, who earlier that year proposed a **Project Winterhaven** to the US military to use electrogravitics for aerospace purposes.
 
 The “Philadelphia experiment,” as it becomes known, allegedly utilized electrogravitics for naval stealth purposes. It is unknown what the extent of the experiment produced, whether it was successful, and if cloaking was achieved.
 
@@ -463,7 +463,7 @@ The “Philadelphia experiment,” as it becomes known, allegedly utilized elect
 *   [https://www.de173.com/carlos-miguel-allende-carl-allen/](https://www.de173.com/carlos-miguel-allende-carl-allen/)
 *   [https://www.de173.com/the-varo-edition/](https://www.de173.com/the-varo-edition/)
 
->**_Note_**: The timing of the Philadelphia experiment rumor coming out four years after Brown’s proposal of Project Winterhaven and months after Wright-Patterson’s examination of Winterhaven is curious.
+>**_Note_**: The timing of the Philadelphia experiment rumor coming out four years after Brown’s proposal of **Project Winterhaven** and months after Wright-Patterson’s examination of Winterhaven is curious.
 
 **(PUBLIC DOMAIN)** - April 1956 — Author Morris K. Jessup states he received two strange letters from an alleged Carlos Miguel Allende who claims the USS Eldridge or the USS Engstrom were subject to an experiment at the Philadelphia Navy Yard. Allende claims he witnessed it, and the ship and its crew became invisible temporarily, before experiencing side effects. Allende later tells APRO the “Philadelphia Experiment” was a hoax, but then states the CIA “coerced” him into saying it was a hoax.
 
@@ -483,7 +483,7 @@ admits that Maj. Lawrence J. Tacker’s book was reviewed under the regulation, 
 
 *   [https://files.afu.se/Downloads/Documents/USA%20-%20Congress/1956%20-%20Congressional%20Sub-Committee%20on%20Government%20Information.pdf](https://files.afu.se/Downloads/Documents/USA%20-%20Congress/1956%20-%20Congressional%20Sub-Committee%20on%20Government%20Information.pdf)
 
->**_Note_**: Given Blue Book scientific advisor J. Allen Hynek later said (see 1979) the USAF and CIA wanted to cool down public reaction, the Air Force’s reluctance to distribute its largest study to date fits with that strategy. See 5 May 1955 entry for information on how the report also withheld key information on physical evidence; metallurgical studies performed by USAF contractor Battelle.
+>**_Note_**: Given **Blue Book** scientific advisor J. Allen Hynek later said (see 1979) the USAF and CIA wanted to cool down public reaction, the Air Force’s reluctance to distribute its largest study to date fits with that strategy. See 5 May 1955 entry for information on how the report also withheld key information on physical evidence; metallurgical studies performed by USAF contractor Battelle.
 
 **(PUBLIC DOMAIN)** - 5 July 1956 — Alleged unnamed U.S. Navy pilots at Naval Air Station Los Alamitos tell news reporters they have orders to shoot down hostile UAP. Pilots claim this order is standard for flights over the Pacific. This information does not seem to have been shared with Congress over the next decade of hearings or briefings, and contradicts the official Air Force stance at the time that no physical evidence of UAP existed or was sought after.
 
@@ -523,7 +523,7 @@ unclear if Goldberg or ARL worked on UAP-related research but the many possible 
 
 *   [https://www.earthfiles.com/2022/06/06/project-aquarius-top-secret-mj12-orcon-funded-by-cia-to-study-ufo-iac-sightings-and-contacts-with-alien-life-forms/](https://www.earthfiles.com/2022/06/06/project-aquarius-top-secret-mj12-orcon-funded-by-cia-to-study-ufo-iac-sightings-and-contacts-with-alien-life-forms/)
 
-**(PUBLIC DOMAIN)** - 1958 — Before the creation of NASA and the start of the Mercury program, the Air Force sponsors a project named “Man-In-Space-Soonest” (MISS). MISS contracts Lockheed to build a spacecraft for a single astronaut, but it is canceled when manned spaceflight is turned over to NASA at the orders of President Eisenhower. Interestingly, USAF still contracts Lockheed to build the
+**(PUBLIC DOMAIN)** - 1958 — Before the creation of NASA and the start of the Mercury program, the Air Force sponsors a project named **“Man-In-Space-Soonest” (MISS)**. MISS contracts Lockheed to build a spacecraft for a single astronaut, but it is canceled when manned spaceflight is turned over to NASA at the orders of President Eisenhower. Interestingly, USAF still contracts Lockheed to build the
 MISS craft and the USAF hires Itek Corp. to build a high-powered camera system for the craft.
 
 *   [https://www.thespacereview.com/article/4448/1](https://www.thespacereview.com/article/4448/1)
@@ -539,9 +539,8 @@ Lusar claims Germany began developing saucer technology in 1941 with scientists 
 *   [https://archive.org/details/huntforzeropoint0000cook/page/50/mode/1up](https://archive.org/details/huntforzeropoint0000cook/page/50/mode/1up) (page 50)
 *   [https://www.abebooks.com/first-edition/German-Secret-Weapons-World-2-Lusar/30771110705/bd](https://www.abebooks.com/first-edition/German-Secret-Weapons-World-2-Lusar/30771110705/bd)
 
-disc-shaped “flying bomb” technology passed on to Germany.
-
 >**_Note_**: Author Nick Cook evaluated the claims in Lusar’s book and finds mixed corroboration, particularly the existence of Schriever and Belluzzo. Schreiver worked for Heinkel Aircraft Company, the developer of the world’s first jet-powered fighter, the He 280; Belluzo was an industry minster in Italian Prime Minister Benito Mussolini’s cabinet and once wrote of
+>disc-shaped “flying bomb” technology passed on to Germany.
 >
 >Schriever also made comments to West German media in 1950 that a flying machine he worked on at a Heinkel facility at Marienehe would have changed the course of the war.
 >
@@ -561,7 +560,7 @@ disc-shaped “flying bomb” technology passed on to Germany.
 >
 >Vesco claims he obtained this information from British Intelligence Objectives Subcommittee (BIOS) and US-UK administered Combined Intelligence Objectives Subcommittee (CIOS); others who have access to BIOS/CIOS say no evidence of the Kugelblitz or Feuerball exist in the records.
 
-**(PUBLIC DOMAIN)** - 1958 — Alleged USAF Project Orion used drugs and hypnosis in participants, one of which, John Lilly, came to believe he was in psychic contact with extraterrestrials of the “Earth Coincidence Control Office.”
+**(PUBLIC DOMAIN)** - 1958 — Alleged USAF **Project Orion** used drugs and hypnosis in participants, one of which, John Lilly, came to believe he was in psychic contact with extraterrestrials of the “Earth Coincidence Control Office.”
 
 *   [https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/](https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/)
 
@@ -596,14 +595,14 @@ disc-shaped “flying bomb” technology passed on to Germany.
 
 Their heads were intact, they had high brows, long blond hair, and eyes that looked Asiatic, with small noses, small mouths and think lips, with no facial hair; the skin did not have keratin granules and their lymphatic system had taken the place of their circulatory system; eyes were light blue and did not look different from humans and their hands were slender and human like, while their feet were flat; he was sworn to secrecy for ten years and claims the corpses were at WPAFB FTD/TDETR as of 1959.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p165
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p165_
 
->**_Note_**: FTD (TDETR) is in correspondence between Maj. Hector Quintanilla and J. Allen Hynek; it appears to be a code for Project Blue Book.
+>**_Note_**: FTD (TDETR) is in correspondence between Maj. Hector Quintanilla and J. Allen Hynek; it appears to be a code for **Project Blue Book**.
 >*   [https://documents.theblackvault.com/bluebookdesk/hynekcorrespondence.pdf](https://documents.theblackvault.com/bluebookdesk/hynekcorrespondence.pdf)
 
 **(PUBLIC DOMAIN)** - 19 May 1960 — Residents in Ekuk, AK see a 25 foot silver round object hover near electrical wires and suck up trash cans before dragging them on the ground in a swirling motion.
 
-USAF Thomas M. Conrow interviews witnesses and says there is “no logical explanation,” but Project Blue Book classifies the UAP as a weather balloon to debunk the sighting. Records show the UAP traveled against the wind.
+USAF Thomas M. Conrow interviews witnesses and says there is “no logical explanation,” but **Project Blue Book** classifies the UAP as a weather balloon to debunk the sighting. Records show the UAP traveled against the wind.
 
 *   [https://archive.org/details/hynekuforeport00alle/page/146/mode/2up](https://archive.org/details/hynekuforeport00alle/page/146/mode/2up)
 *   [https://www.nicap.org/bb/BB_Unknowns.pdf](https://www.nicap.org/bb/BB_Unknowns.pdf) (p284)
@@ -645,7 +644,7 @@ USAF Thomas M. Conrow interviews witnesses and says there is “no logical expla
 
 *   [https://majesticdocuments.com/wp-content/uploads/2022/08/kennedy_ciadirector_1.pdf](https://majesticdocuments.com/wp-content/uploads/2022/08/kennedy_ciadirector_1.pdf)
 
-**(PUBLIC DOMAIN)** - 13 November 1961 — USAF document “AFCIN-1E-0 Draft Policy” written by Lt. Col. Norman M. Rosner to Col. Betz writes that intelligence team personnel are needed to support Air Force Projects Moon Dust, Blue Fly and “UFO,” and other quick reaction projects. The document gives the 1127th Field Activities Group at Ft. Belvoir responsibility for UAP “collection
+**(PUBLIC DOMAIN)** - 13 November 1961 — USAF document “AFCIN-1E-0 Draft Policy” written by Lt. Col. Norman M. Rosner to Col. Betz writes that intelligence team personnel are needed to support Air Force **Projects Moon Dust**, **Blue Fly and “UFO,”** and other quick reaction projects. The document gives the 1127th Field Activities Group at Ft. Belvoir responsibility for UAP “collection
 responsibilities,” and importantly, divorces these responsibilities from Moon Dust and Blue Fly, described as projects to locate, retrieve and deliver foreign space vehicles.
 
 The document also distinguishes crashed UAP from Soviet/Bloc vehicles, and describes the need for quick reaction recovery teams. For decades after, the USAF continued to rely on the conclusions of Special Report No. 14 to debunk UAP, which stated no compelling physical evidence had ever been recovered from UAP, despite debris collection teams existing.
@@ -654,7 +653,7 @@ The document also distinguishes crashed UAP from Soviet/Bloc vehicles, and descr
 *   [https://1.bp.blogspot.com/-eSTVEVMkTUM/VzAB6HTXdyI/AAAAAAAAApk/t7PzIKMoZSYU8eSm1zYWoSJdrPh7odimgCLcB/s1600/BLOG%2B50%2B-%2BB.png](https://1.bp.blogspot.com/-eSTVEVMkTUM/VzAB6HTXdyI/AAAAAAAAApk/t7PzIKMoZSYU8eSm1zYWoSJdrPh7odimgCLcB/s1600/BLOG%2B50%2B-%2BB.png)
 *   [https://2.bp.blogspot.com/-Ro21GyILirI/VzAB7flzgBI/AAAAAAAAAps/V0eJqGYupU8U8xJCfl4HY_8mkiYG5bD7wCLcB/s1600/blog%2B50%2B-%2BC.png](https://2.bp.blogspot.com/-Ro21GyILirI/VzAB7flzgBI/AAAAAAAAAps/V0eJqGYupU8U8xJCfl4HY_8mkiYG5bD7wCLcB/s1600/blog%2B50%2B-%2BC.png)
 
-**(PUBLIC DOMAIN)** - 1962 — Ufologist Richard H. Hall claims a “former Project Blue Book chief,” possibly Lt. Col. Robert J. Friend, tells him gun-camera films from jet encounters with UAP are regularly sent to the CIA’s National Photographic Interpretation Center. The source alleges key evidence is being held by NPIC and the existence of the films are not acknowledged.
+**(PUBLIC DOMAIN)** - 1962 — Ufologist Richard H. Hall claims a “former **Project Blue Book** chief,” possibly Lt. Col. Robert J. Friend, tells him gun-camera films from jet encounters with UAP are regularly sent to the CIA’s National Photographic Interpretation Center. The source alleges key evidence is being held by NPIC and the existence of the films are not acknowledged.
 
 *   [https://www.amazon.com/Uninvited-Guests-Documented-Sightings-Encounters/dp/0943358329](https://www.amazon.com/Uninvited-Guests-Documented-Sightings-Encounters/dp/0943358329) (p179)
 *   (p99-101)
@@ -670,7 +669,7 @@ When he returned to Myrtle Beach AFB he was debriefed by his Brig. Gen. and was 
 *   [https://archive.org/details/aliensfromspacer00keyh/page/86/mode/2up](https://archive.org/details/aliensfromspacer00keyh/page/86/mode/2up)
 *   [https://babel.hathitrust.org/cgi/pt?id=mdp.39015006091691&view=1up&seq=118&skin=2021](https://babel.hathitrust.org/cgi/pt?id=mdp.39015006091691&view=1up&seq=118&skin=2021)
 
-**(PUBLIC DOMAIN)** - January 1963 — USAF Sgt. Dan Sherman is told that in this month, the first “embryo” was produced under Project Preserve Destiny that aimed to develop people with “intcomm” (intuitive communications) abilities to community with non-human intelligence.
+**(PUBLIC DOMAIN)** - January 1963 — USAF Sgt. Dan Sherman is told that in this month, the first “embryo” was produced under **Project Preserve Destiny** that aimed to develop people with “intcomm” (intuitive communications) abilities to community with non-human intelligence.
 
 *   [https://www.amazon.com/Above-Black-Preserve-Government-Cover-Up/dp/0966097807](https://www.amazon.com/Above-Black-Preserve-Government-Cover-Up/dp/0966097807)
 
@@ -692,7 +691,7 @@ When he returned to Myrtle Beach AFB he was debriefed by his Brig. Gen. and was 
 
 AK states there were no smells, vibrations or power coming from it and he was not aware of any life inside the craft; he went back to his barracks later that night and was not aware of any bodies recovered.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p30
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p30_
 
 **(PUBLIC DOMAIN)** - Late 1964 — USAF Lt. Col. Philip E. Moore states that while at Walker AFB, NM, he was on duty in one of the 579th Strategic Missile Squadron’s underground Atlas ICBM launch control capsules. Moore was at 579 Site 7 when he and his commander Maj. Dan Gilbert got a call from 579 Site 6 or Site 8, south-southeast of Roswell, NM, that a UAP was hovering over their location. It would hover, rapidly leave, and then return. The hovering was reported by crew as “instantaneous” movement from Site 6 to Site 8 and back, repeatedly.
 
@@ -700,7 +699,7 @@ Though Moore states he was never told not to talk about it, in 2005, he stated: 
 
 *   [https://www.ufohastings.com/index.php/articles/three-former-u-s-air-force-icbm-launch-officers-speak-out-about-ufos](https://www.ufohastings.com/index.php/articles/three-former-u-s-air-force-icbm-launch-officers-speak-out-about-ufos)
 
-**(PUBLIC DOMAIN)** - 17 May 1965 — Jacques Vallee states a Martin Marietta engineer visited him and became upset when someone present saw some of his papers they should not have.
+**(PUBLIC DOMAIN)** - 17 May 1965 — Jacques Vallée states a Martin Marietta engineer visited him and became upset when someone present saw some of his papers they should not have.
 
 *   [https://ufos-scientificresearch.blogspot.com/2010/01/aerospace-companies-and-ufos-2.html](https://ufos-scientificresearch.blogspot.com/2010/01/aerospace-companies-and-ufos-2.html)
 
@@ -718,23 +717,23 @@ Additional testimony from launch officer John F. Earnshaw states security person
 
 This matches what witnesses say they saw crashed in Kecksburg, PA on 9 December 1965, a bell shaped object. John Podesta stated in 2003 that it was questionable how the “unexplained crash” records were not released by NASA.
 
-*   [Majic Eyes Only](https://www.amazon.com/Majic-Eyes-Only-Ryan-Wood/dp/0977205908), p160
+*   _[Majic Eyes Only](https://www.amazon.com/Majic-Eyes-Only-Ryan-Wood/dp/0977205908), p160_
 
 **(PUBLIC DOMAIN)** - 18 January 1966 — Two surveyors are taking readings at China Lake Naval Ordnance Test Station (now Naval Air Weapons Station China Lake) see a UAP flying straight at them from the north. It passes overhead less than 150 feet, dives smoothly, turns east and comes within 10 feet of the ground before flying over the horizon. The surveyors say it is traveling at 150mph, dull black, quiet and its presence interfered with their radio. They also have a theodolite and notice the gravity reference indicator exhibits an “odd” change.
 
-*   “A Professional Observation,” IUR 7, no. 2, March 1982
+*   _“A Professional Observation,” IUR 7, no. 2, March 1982_
 *   [http://www.cufos.org/iurdvd.html](http://www.cufos.org/iurdvd.html)
 
-**(PUBLIC DOMAIN)** - 3 April 1966 — Rep. Gerald R. Ford states the Air Force assured him an upcoming scientific study on UAP (what would become the Condon Committee) would not be connected “in any way” with the Air Force. Ford was dissatisfied with Project Blue Book and was seeking an independent analysis.
+**(PUBLIC DOMAIN)** - 3 April 1966 — Rep. Gerald R. Ford states the Air Force assured him an upcoming scientific study on UAP (what would become the Condon Committee) would not be connected “in any way” with the Air Force. Ford was dissatisfied with **Project Blue Book** and was seeking an independent analysis.
 
 This assurance was later revealed to be untrue, as the USAF provided Condon with an “informal liaison” to assist with “certain technical activities” to analyze cases, a declassified memo shows.
 
 *   [https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf](https://www.fordlibrarymuseum.gov/library/document/0054/4525586.pdf) (p12)
 *   [https://archive.org/details/CIAUFO/U.S.%20AIR%20FORCE%20CONTRACT%20WITH%20THE%20UNIVERSITY%20OF%20COLORADO%20TO%20REPORT%20ON%20THE%20UFO/mode/1up](https://archive.org/details/CIAUFO/U.S.%20AIR%20FORCE%20CONTRACT%20WITH%20THE%20UNIVERSITY%20OF%20COLORADO%20TO%20REPORT%20ON%20THE%20UFO/mode/1up)
 
-**(PUBLIC DOMAIN)** - 5 April 1966 — USAF Maj. Hector Quintanilla tells the House Armed Services Committee that Project Blue Book had “no radar cases which are unexplained.”
+**(PUBLIC DOMAIN)** - 5 April 1966 — USAF Maj. Hector Quintanilla tells the House Armed Services Committee that **Project Blue Book** had “no radar cases which are unexplained.”
 
-Declassified records show this is a lie, as the Project was cataloging at least one radar “unknown” per month in its first year alone. Blue Book scientific advisor J. Allen Hynek later corroborated this, providing several radar unidentifieds such as 1951 Goose Bay, 1956 Lakenheath and 1957 Shreveport.
+Declassified records show this is a lie, as the Project was cataloging at least one radar “unknown” per month in its first year alone. **Blue Book** scientific advisor J. Allen Hynek later corroborated this, providing several radar unidentifieds such as 1951 Goose Bay, 1956 Lakenheath and 1957 Shreveport.
 
 Hynek also noted Quintanilla’s deception in a book written six years later.
 
@@ -754,7 +753,7 @@ Hynek also noted Quintanilla’s deception in a book written six years later.
 >*   [https://ia801301.us.archive.org/view_archive.php?archive=/8/items/bluebook/1950s.zip&file=1950s%2F1952-05-9613233-Ellenton-SouthCarolina.pdf](https://ia801301.us.archive.org/view_archive.php?archive=/8/items/bluebook/1950s.zip&file=1950s%2F1952-05-9613233-Ellenton-SouthCarolina.pdf)
 >*   [https://vault.fbi.gov/UFO/UFO%20Part%2010%20of%2016](https://vault.fbi.gov/UFO/UFO%20Part%2010%20of%2016) (p19)
 
-**(PUBLIC DOMAIN)** - 23 July 1966 — Jacques Vallee states he and colleagues received a letter from an aerospace engineer asking them to send their 20 best cases to a “mysterious group of scientists” from Wright Field. This was not Project Blue Book but something else.
+**(PUBLIC DOMAIN)** - 23 July 1966 — Jacques Vallée states he and colleagues received a letter from an aerospace engineer asking them to send their 20 best cases to a “mysterious group of scientists” from Wright Field. This was not **Project Blue Book** but something else.
 
 *   [https://ufos-scientificresearch.blogspot.com/2010/01/aerospace-companies-and-ufos-2.html](https://ufos-scientificresearch.blogspot.com/2010/01/aerospace-companies-and-ufos-2.html)
 
@@ -773,11 +772,11 @@ Pickett and his business partner Harold Baker claim they were invited to MacDill
 
 **(PUBLIC DOMAIN)** - 1967 — Source “AF” claims his brother Pete saw a saucer in a hangar at Naval Air Base in Yuma, AZ in 1967; he states Pete took photos, got into trouble and went AWOL and fled to Mexico. AF later states Pete was approached by an “agency” and wants to avoid attention.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p177
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p177_
 
-**(PUBLIC DOMAIN)** - 1967 — McDonnell Douglas Corporation physicist Robert M. Wood states he is assigned the task of exploring breakthroughs in gravity propulsion. The project includes laboratory evaluation of hypotheses, field observations and examination of UAP literature. Four full-time and three part-time employees make up the project code-named BITBR (Boys in the Back Room).
+**(PUBLIC DOMAIN)** - 1967 — McDonnell Douglas Corporation physicist Robert M. Wood states he is assigned the task of exploring breakthroughs in gravity propulsion. The project includes laboratory evaluation of hypotheses, field observations and examination of UAP literature. Four full-time and three part-time employees make up the project code-named **BITBR (Boys in the Back Room)**.
 
-Wood meets James E. McDonald and USAF Project Blue Book advisor J. Allen Hynek through his work. Wood recommends BITBR be canceled in 1969 due to little technological payoff.
+Wood meets James E. McDonald and USAF **Project Blue Book** advisor J. Allen Hynek through his work. Wood recommends BITBR be canceled in 1969 due to little technological payoff.
 
 *   [https://majesticdocuments.com/about/investigation-team/dr-robert-m-wood/](https://majesticdocuments.com/about/investigation-team/dr-robert-m-wood/)
 *   [https://documents.theblackvault.com/documents/MUFON/Journals/2008/October_2008.pdf](https://documents.theblackvault.com/documents/MUFON/Journals/2008/October_2008.pdf)
@@ -819,7 +818,7 @@ drag of an aircraft by creating an electrostatic field around the craft. “Dan 
 
 *   [https://www.amazon.com/UFO-Encyclopedia-3rd-Jerome-Clark/dp/0780816595](https://www.amazon.com/UFO-Encyclopedia-3rd-Jerome-Clark/dp/0780816595) (p804)
 
-**(PUBLIC DOMAIN)** - March 1968 — The Defense Intelligence Agency monitors a crashed “circular metal disc” recovered in Nepal. Four months later, a State Dept. cable subject line “Moon Dust” (referring to a covert USAF Project Moon Dust at the time to recover space debris) writes to the DIA, 1127th at Ft. Belvoir, WPAFB, Andrews AFB and MacDill AFB that a diplomatic visit to Kathmandu was a “fishing expedition” for info on “space objects.”
+**(PUBLIC DOMAIN)** - March 1968 — The Defense Intelligence Agency monitors a crashed “circular metal disc” recovered in Nepal. Four months later, a State Dept. cable subject line “Moon Dust” (referring to a covert USAF **Project Moon Dust** at the time to recover space debris) writes to the DIA, 1127th at Ft. Belvoir, WPAFB, Andrews AFB and MacDill AFB that a diplomatic visit to Kathmandu was a “fishing expedition” for info on “space objects.”
 
 Another cable shows the Royal Nepali Army showed photos of four space objects to U.S. officials, and Nepal’s defense secretary asked the U.S. if it had determined the origin of one object. A possible cover story of a crashed satellite is given, despite NORAD and NASA data showing the Cosmos 208 satellite launched in March 1968 was a success.
 
@@ -828,19 +827,19 @@ Another cable shows the Royal Nepali Army showed photos of four space objects to
 *   [https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-022A](https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1968-022A)
 
 >**_Note_**: The presence of the 1127th on the cable corroborates the USAF document “AFCIN-1E-0 Draft Policy” dated 13 November 1961 that states the 1127th Field Activities Group at Ft.
->Belvoir had responsibility for recovery of foreign space vehicles under Projects Moon Dust, Blue Bly and UFO. That document distinguishes UAP recovery from crashed Soviet/Bloc vehicles and describes the need for quick reaction teams. The above cable suggests the 1127th monitored and possibly attempted to retrieve the circular metal disc in Nepal.
+>Belvoir had responsibility for recovery of foreign space vehicles under **Projects Moon Dust**, **Blue Bly and UFO**. That document distinguishes UAP recovery from crashed Soviet/Bloc vehicles and describes the need for quick reaction teams. The above cable suggests the 1127th monitored and possibly attempted to retrieve the circular metal disc in Nepal.
 
 >**_Note_**: The presence of MacDill AFB on the cable is potentially significant because the location is linked to rumors of housing four reverse engineered flying disc craft with tail fins witnessed by ret. USAF pilot Warren Botz in 1966 and journalist Jack D. Pickett in 1967. Curiously, 18 years earlier, a NACA (predecessor to NASA) employee saw a disc with tail fin in Oregon cataloged by **Project Grudge**.
 >*   [https://manmade-ufos.com/usaf-flying-saucer](https://manmade-ufos.com/usaf-flying-saucer)
 >*   [https://www.nicap.org/docs/1949_05_24_US_OR_Rogue%20River%20Oregon%20NACA%20BB%20Rivera-Heaphy%20CU.pdf](https://www.nicap.org/docs/1949_05_24_US_OR_Rogue%20River%20Oregon%20NACA%20BB%20Rivera-Heaphy%20CU.pdf)
 >*   [http://www.nicap.org/reports/490524rogue.htm](http://www.nicap.org/reports/490524rogue.htm) (alt linked added by rg)
 
-**(PUBLIC DOMAIN)** - 15 November 1968 — The Condon Committee, funded by the USAF, releases an extensive report on 90 UAP sightings to the National Academy of Sciences and later to the American public. It concludes “nothing has come from the study of UFOs” in the last two decades and further study “cannot be justified.” Project Blue Book scientific advisor J. Allen Hynek later wrote the Committee ignored key evidence and could not explain over a quarter of the cases examined.
+**(PUBLIC DOMAIN)** - 15 November 1968 — The Condon Committee, funded by the USAF, releases an extensive report on 90 UAP sightings to the National Academy of Sciences and later to the American public. It concludes “nothing has come from the study of UFOs” in the last two decades and further study “cannot be justified.” **Project Blue Book** scientific advisor J. Allen Hynek later wrote the Committee ignored key evidence and could not explain over a quarter of the cases examined.
 
 *   [https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf](https://documents2.theblackvault.com/documents/ntis/CondonReport-Complete.pdf) (p15)
 *   [https://archive.org/details/ufoexperience00jall/page/220/mode/2up](https://archive.org/details/ufoexperience00jall/page/220/mode/2up) (p221)
 
-**(PUBLIC DOMAIN)** - 1969 — A former intelligence officer tells Jacques Vallee the National Bureau of Standards (now the National Institute of Standards and Technology, NIST) once conducted an investigation into UAP as early as 1943 under Hugh L Dryden, which also looked into German research into jet aircraft. They were already aware UAP interfered with combustion engines due to EM effects.
+**(PUBLIC DOMAIN)** - 1969 — A former intelligence officer tells Jacques Vallée the National Bureau of Standards (now the National Institute of Standards and Technology, NIST) once conducted an investigation into UAP as early as 1943 under Hugh L Dryden, which also looked into German research into jet aircraft. They were already aware UAP interfered with combustion engines due to EM effects.
 
 Dryden later joined NACA and then NASA; Dryden told the House Appropriations Committee that someone named “Doolittle” told him UAP didn’t exist.
 
@@ -858,7 +857,7 @@ He claims DISC includes the security division of NASA and includes awareness amo
 
 *   [http://www.whale.to/b/torbitt.html#I.%20%20Permindex%20and%20Its%20Five%20Subsidiaries](http://www.whale.to/b/torbitt.html#I.%20%20Permindex%20and%20Its%20Five%20Subsidiaries)
 
-**(PUBLIC DOMAIN)** - 5 April 1970 — Internal McDonnell Douglas documents state Project Skylite was a pitched effort to replicate UAP observables that didn’t materialize. The term “DFO” or “Douglas Flying Object” is given as a reference to the concept of creating a craft that mimics UAP behavior. Bob Wood, Chan Thomas, Paul Wilson, Joe Brown and Stanton Friedman are all names attached to the proposed project that ultimately received no funding.
+**(PUBLIC DOMAIN)** - 5 April 1970 — Internal McDonnell Douglas documents state **Project Skylite** was a pitched effort to replicate UAP observables that didn’t materialize. The term “DFO” or “Douglas Flying Object” is given as a reference to the concept of creating a craft that mimics UAP behavior. Bob Wood, Chan Thomas, Paul Wilson, Joe Brown and Stanton Friedman are all names attached to the proposed project that ultimately received no funding.
 
 *   [https://thesaucersthattimeforgot.blogspot.com/2021/09/skylite-project-to-mimic-ufos.html](https://thesaucersthattimeforgot.blogspot.com/2021/09/skylite-project-to-mimic-ufos.html)
 
@@ -868,7 +867,7 @@ projects at Camp Hero in Montauk, NY, which allegedly did some experiments at Br
 >**_Note_**: Brookhaven is linked to claims of a UAP crash on 24 November 1992 with little corroborating information. A MUFON report at the time suggested a video showed a large fire of an unknown object, large parts being driven away on flatbeds, special access by Brookhaven personnel, county police turned away by men in black jumpsuits and multiple eyewitness testimony of lights flying erratically over the crash site.
 >*   [https://www.abovetopsecret.com/forum/thread465182/pg1](https://www.abovetopsecret.com/forum/thread465182/pg1)
 
-**(PUBLIC DOMAIN)** - January 1971 — Alleged AIL-Eaton contractor Preston Nichols claims experiments in consciousness manifestation began at Camp Hero, culminating with the “Montauk Chair,” which could change thought into reality. Nichols claims Project Phoenix III worked on time travel aspects of consciousness manifestation, and teleportation to other locations began in 1982. Nichols claims Project Rainbow began in 1983 and accidentally manifested an entity that destroyed some of the base and its personnel, thereby ending psychic operations at Camp Hero.
+**(PUBLIC DOMAIN)** - January 1971 — Alleged AIL-Eaton contractor Preston Nichols claims experiments in consciousness manifestation began at Camp Hero, culminating with the “Montauk Chair,” which could change thought into reality. Nichols claims **Project Phoenix III** worked on time travel aspects of consciousness manifestation, and teleportation to other locations began in 1982. Nichols claims **Project Rainbow** began in 1983 and accidentally manifested an entity that destroyed some of the base and its personnel, thereby ending psychic operations at Camp Hero.
 
 *   [https://www.de173.com/the-montauk-project/](https://www.de173.com/the-montauk-project/)
 
@@ -884,21 +883,21 @@ projects at Camp Hero in Montauk, NY, which allegedly did some experiments at Br
 >*   [https://de173.com/montauk-project-questioning-character/](https://de173.com/montauk-project-questioning-character/)
 >*   [https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/](https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/)
 
->**_Note_**: Lawyer Andrew Basiago claims he was experimented on in a DARPA Project Pegasus that utilized the “Montauk chair” to view different scenes in time. He has provided no evidence of these claims.
+>**_Note_**: Lawyer Andrew Basiago claims he was experimented on in a DARPA **Project Pegasus** that utilized the “Montauk chair” to view different scenes in time. He has provided no evidence of these claims.
 >*   [https://www.scribd.com/doc/294419690/Affidavit-of-Andrew-D-Basiago](https://www.scribd.com/doc/294419690/Affidavit-of-Andrew-D-Basiago)
 
 **(PUBLIC DOMAIN)** - June/July 1971 — U.S. Navy Yeoman Third Class James M. Kopf is on the USS John F. Kennedy in the Caribbean Sea completing an Operational Readiness Exercise when communications messages begin coming in garbled. Ship radar, compasses and electrical systems then stop working. Kopf and others go outside and see a large, pulsating orange sphere sitting silently above the ship. It lasts for about 20 minutes. Two days later, commanding officer Capt. Ferdinand B. Koch tells the crew certain events are to be considered classified.
 
 *   [https://archive.org/details/needtoknow00good/page/284/mode/2up](https://archive.org/details/needtoknow00good/page/284/mode/2up)
 
-**(PUBLIC DOMAIN)** - May 1972 — Project Blue Book scientific advisor J. Allen Hynek writes that Blue Book was a “cover up” and that the UAP problem was “glossed over.” Hynek said he felt his hands were tied, and if he complained, the USAF and Pentagon would pull his access to case files as retribution.
+**(PUBLIC DOMAIN)** - May 1972 — **Project Blue Book** scientific advisor J. Allen Hynek writes that **Blue Book** was a “cover up” and that the UAP problem was “glossed over.” Hynek said he felt his hands were tied, and if he complained, the USAF and Pentagon would pull his access to case files as retribution.
 
-Hynek also writes he suspected Blue Book was a “front” for a more classified investigation, stating he was told to drop one case and told by higher-ups “not to pursue the matter further.” This is significant because for decades the USAF used Blue Book’s conclusions to debunk UAP to the American public and Congressional inquiries.
+Hynek also writes he suspected **Blue Book** was a “front” for a more classified investigation, stating he was told to drop one case and told by higher-ups “not to pursue the matter further.” This is significant because for decades the USAF used **Blue Book’s** conclusions to debunk UAP to the American public and Congressional inquiries.
 
 *   [https://archive.org/details/ufoexperience00jall/page/206/mode/2up](https://archive.org/details/ufoexperience00jall/page/206/mode/2up) (p207)
 *   [https://archive.org/details/ufoexperience00jall/page/208/mode/2up](https://archive.org/details/ufoexperience00jall/page/208/mode/2up) (p208)
 
-**(PUBLIC DOMAIN)** - June 1972 — An ad hoc group with Franklin Mead, Senior Aerospace Engineer with the Air Force Aerospace Research Laboratories, is editor of a technical report on Project Outgrowth at the Air Force Rocket Propulsion Library at Edwards Air Force Base. An entire chapter of the report is devoted to Antigravity Propulsion, utilizing the concepts of gravitational screens and a unified field theory.
+**(PUBLIC DOMAIN)** - June 1972 — An ad hoc group with Franklin Mead, Senior Aerospace Engineer with the Air Force Aerospace Research Laboratories, is editor of a technical report on **Project Outgrowth** at the Air Force Rocket Propulsion Library at Edwards Air Force Base. An entire chapter of the report is devoted to Antigravity Propulsion, utilizing the concepts of gravitational screens and a unified field theory.
 
 Hardware described is “theoretical,” but specifies that it is worth it to determine which materials/metamaterials might change the amplitude and direction of gravitational fields. “No new or radical change in fundamental physics \[is\] required,” it writes.
 
@@ -908,11 +907,11 @@ Hardware described is “theoretical,” but specifies that it is worth it to de
 
 *   [https://www.remoteviewed.com/rvhistorymap.html](https://www.remoteviewed.com/rvhistorymap.html)
 
-**(PUBLIC DOMAIN)** - 7 October 1972 — Jacques Vallee states Hal Puthoff mentioned a former colleague of Puthoff’s at the NSA told him a “fresh study” of UAP was secretly underway. Puthoff subsequently put Vallee in touch with Howell McConnell; on 21 February 1973, Puthoff mentioned he met officials in Washington in a position to discover the “true state of affairs.” Puthoff stated by late 1973 he identified the leader of a CIA UAP group that monitored the field.
+**(PUBLIC DOMAIN)** - 7 October 1972 — Jacques Vallée states Hal Puthoff mentioned a former colleague of Puthoff’s at the NSA told him a “fresh study” of UAP was secretly underway. Puthoff subsequently put Vallee in touch with Howell McConnell; on 21 February 1973, Puthoff mentioned he met officials in Washington in a position to discover the “true state of affairs.” Puthoff stated by late 1973 he identified the leader of a CIA UAP group that monitored the field.
 
 *   [https://www.abovetopsecret.com/forum/thread1074447/pg4](https://www.abovetopsecret.com/forum/thread1074447/pg4)
 
-**(PUBLIC DOMAIN)** - 28 October 1972 — Jacques Vallee writes that that NSA official Howell McConnell told him he’d heard an office at WPAFB conducted secret analyses of UAP even after Blue Book ended; he stated he heard the office confiscates evidence.
+**(PUBLIC DOMAIN)** - 28 October 1972 — Jacques Vallée writes that that NSA official Howell McConnell told him he’d heard an office at WPAFB conducted secret analyses of UAP even after **Blue Book** ended; he stated he heard the office confiscates evidence.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
 
@@ -942,7 +941,7 @@ Jenkins states the next day he saw a Top Secret teletype that chemical analysis 
 
 
 **(PUBLIC DOMAIN)** - 11 October 1973 — Civilians Charles Hickson and Calvin Parker claim they see an oval UAP and are taken aboard the craft by “robots” for examination near the Pascagoula River in
-Mississippi. Hickson refused to take a polygraph, but former Project Blue Book advisor J. Allen Hynek stated the testimony was sincere.
+Mississippi. Hickson refused to take a polygraph, but former **Project Blue Book** advisor J. Allen Hynek stated the testimony was sincere.
 
 Parker claims his father once worked for the Atomic Energy Commission near Area 51, and the sighting occurred near a shipyard managed by Ingalls Shipbuilding, then owned by Litton Industries, creator of advanced space suits for the USAF and NASA. The appearance of the alleged entities Hickson and Parker saw may match the description of advanced experimental suits Litton was designing at the time. Was this event a military test of some kind using “UAP abduction” as a cover?
 
@@ -959,7 +958,7 @@ Parker claims his father once worked for the Atomic Energy Commission near Area 
 
 >**_Note_**: Northrop Grumman acquired Litton Industries in 2000, but any UAP work could have spun off from Litton earlier. For example, Litton split some operations off into Western Atlas in 1994. It is unknown if Litton did any work for advanced UAP related projects, where that work would have been housed.
 
-**(PUBLIC DOMAIN)** - 27 October 1973 — Hal Puthoff tells Jacques Vallee there was a “secret” UAP project that called him from time to time to see if RV could help find UAP bases; he added “they have an official charter,” and said it was run by someone named “David M.” Hal later said the unit was being disbanded because of “current events.” Puthoff later told him a “biologist” was in charge of the effort at the CIA that David M used to run, states a Mary S. was involved too.
+**(PUBLIC DOMAIN)** - 27 October 1973 — Hal Puthoff tells Jacques Vallée there was a “secret” UAP project that called him from time to time to see if RV could help find UAP bases; he added “they have an official charter,” and said it was run by someone named “David M.” Hal later said the unit was being disbanded because of “current events.” Puthoff later told him a “biologist” was in charge of the effort at the CIA that David M used to run, states a Mary S. was involved too.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
 
@@ -976,32 +975,32 @@ Parker claims his father once worked for the Atomic Energy Commission near Area 
 
 **(PUBLIC DOMAIN)** - 1974 — A Sgt. X claims he was told by a retired US Army official at Camp San Luis Obispo that information of a crashed saucer and recovered occupants would be released by the USG within three months; Leonard Stringfield claims he heard other sources tell him that an announcement was expected in late 1974, possibly by President Gerald Ford and the President of France Giscard d’Estaing; Walter Andrus of MUFON stated he was told to join Allen Hynek of CUFOS in Chicago in a press conference if official word was made; it never occurred.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p153
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p153_
 
 **(PUBLIC DOMAIN)** - 1974 — Kit Green states that as early as 1974 with CIA life sciences, he worked with Uri Geller and nuclear scientists at Lawrence Livermore National Laboratory; these individuals saw orbs in their homes, entities, etc.
 
 *   [https://ufos-scientificresearch.blogspot.com/2018/04/kit-green-in-phenomena-book-by-annie.html](https://ufos-scientificresearch.blogspot.com/2018/04/kit-green-in-phenomena-book-by-annie.html)
 
-**(PUBLIC DOMAIN)** - 11 February 1974 — Jacques Vallee states he met Kit Green and discussed Green’s connections in the Executive branch and IC that were interested in UAP; Vallee noted he could not tell J. Allen Hynek because Puthoff asked Vallee not to share anything.
+**(PUBLIC DOMAIN)** - 11 February 1974 — Jacques Vallée states he met Kit Green and discussed Green’s connections in the Executive branch and IC that were interested in UAP; Vallee noted he could not tell J. Allen Hynek because Puthoff asked Vallee not to share anything.
 
 *   [https://www.abovetopsecret.com/forum/thread1074447/pg4](https://www.abovetopsecret.com/forum/thread1074447/pg4)
 
 **(PUBLIC DOMAIN)** - March 1974 — A large self-illuminated object hovers above the Romeo-29 launch facility at the Malmstrom AFB Romeo Flight missile alert facility near Brady, MT. A missile launch officer with the 564th Strategic Missile Squadron reports a nuclear missile countdown is started, and the officer flips the “inhibit” switch to turn the system offline. The system then restarts spontaneously and the missile again goes into launch mode; the officer’s next “inhibit” order doesn’t work. Fortunately, the launch code is false and the missile remains in its pad.
 
-The UAP then moves away from Romeo-29 vertically at high speed. An F-106 attempts to intercept but is unsuccessful and Malmstrom AFB radar tracks the UAP. Electronics in Romeo-29 are fried from an electric surge. This event occurred at a time when the USAF was referring Congress and the American public to the findings of Project Blue Book, which concluded UAP were not a national security threat. The Romeo-29 event very clearly was a threat to national security and nuclear war.
+The UAP then moves away from Romeo-29 vertically at high speed. An F-106 attempts to intercept but is unsuccessful and Malmstrom AFB radar tracks the UAP. Electronics in Romeo-29 are fried from an electric surge. This event occurred at a time when the USAF was referring Congress and the American public to the findings of **Project Blue Book**, which concluded UAP were not a national security threat. The Romeo-29 event very clearly was a threat to national security and nuclear war.
 
 *   [https://www.ufohastings.com/index.php/articles/ufo-activated-one-of-his-icbms-twice](https://www.ufohastings.com/index.php/articles/ufo-activated-one-of-his-icbms-twice)
 
-**(PUBLIC DOMAIN)** - April 1974 — An employee at government contractor GEC-Marconi claims a break-in occurred one night that month. A guard on duty allegedly suffers a nervous breakdown after claiming to see a non-human being in the secure facility looking through files. A blue light emanated from its helmet and it dematerialized before the guard’s eyes. The employee overhears her supervisor say “We have no way of keeping these beings out. We just don’t know what to do next. If they can get in here, they can get in anywhere.” It is unknown if this event was investigated by British or U.S. authorities considering GEC-Marconi was a key contractor for the USG’s Strategic Defense Initiative “Star Wars program” over the next decade.
+**(PUBLIC DOMAIN)** - April 1974 — An employee at government contractor GEC-Marconi claims a break-in occurred one night that month. A guard on duty allegedly suffers a nervous breakdown after claiming to see a non-human being in the secure facility looking through files. A blue light emanated from its helmet and it dematerialized before the guard’s eyes. The employee overhears her supervisor say “We have no way of keeping these beings out. We just don’t know what to do next. If they can get in here, they can get in anywhere.” It is unknown if this event was investigated by British or U.S. authorities considering GEC-Marconi was a key contractor for the USG’s **Strategic Defense Initiative** “Star Wars program” over the next decade.
 
 *   [https://mysteriousuniverse.org/2013/12/an-extraterrestrial-007/](https://mysteriousuniverse.org/2013/12/an-extraterrestrial-007/) (rg - paywall link)
 *   [https://web.archive.org/web/20140217025840/https://mysteriousuniverse.org/2013/12/an-extraterrestrial-007/](https://web.archive.org/web/20140217025840/https://mysteriousuniverse.org/2013/12/an-extraterrestrial-007/) (rg - alt non-paywall URL)
 
-**(PUBLIC DOMAIN)** - 2 June 1974 — Hal Puthoff relays a message from Kit Green to Jacques Vallee: there is a group of 12 highly placed people in government who have decided to create a focus for the study of UAP.
+**(PUBLIC DOMAIN)** - 2 June 1974 — Hal Puthoff relays a message from Kit Green to Jacques Vallée: there is a group of 12 highly placed people in government who have decided to create a focus for the study of UAP.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
 
-**(PUBLIC DOMAIN)** - 16 June 1974 — Jacques Vallee states he sat down with Kit Green and wondered if their discussions on UAP were a “cover” for the CIA’s “newest gadgets” and he was being disinformed by Green.
+**(PUBLIC DOMAIN)** - 16 June 1974 — Jacques Vallée states he sat down with Kit Green and wondered if their discussions on UAP were a “cover” for the CIA’s “newest gadgets” and he was being disinformed by Green.
 
 *   [https://www.abovetopsecret.com/forum/thread1074447/pg3#pid19545714](https://www.abovetopsecret.com/forum/thread1074447/pg3#pid19545714)
 
@@ -1010,14 +1009,14 @@ The UAP then moves away from Romeo-29 vertically at high speed. An F-106 attempt
 *   [https://www.ufohastings.com/storage/files/image/2012-11-18/sask-star-phoenix-1974_07-17.png](https://www.ufohastings.com/storage/files/image/2012-11-18/sask-star-phoenix-1974_07-17.png)
 *   [https://www.ufohastings.com/index.php/articles/ufos-are-stalking-and-intercepting-dummy-nuclear-warheads-during-test-flights#note_2](https://www.ufohastings.com/index.php/articles/ufos-are-stalking-and-intercepting-dummy-nuclear-warheads-during-test-flights#note_2)
 
->**_Note_**: This is a remarkable admission by the Army and suggests that while the Air Force continued to rely on conclusions from Project Blue Book to debunk UAP, other elements of
+>**_Note_**: This is a remarkable admission by the Army and suggests that while the Air Force continued to rely on conclusions from **Project Blue Book** to debunk UAP, other elements of
 >USG were tracking and making records of UAP events.
 
 
 
 
 
-**(PUBLIC DOMAIN)** - 10 December 1974 — Jacques Vallee states Kit Green “reluctantly” told him there was a group of 15 engineers in the Midwest (Vallee assumed McDonnell in St. Louis) that was secretly doing UAP research for the CIA under the cover of “aeronautical research.”
+**(PUBLIC DOMAIN)** - 10 December 1974 — Jacques Vallée states Kit Green “reluctantly” told him there was a group of 15 engineers in the Midwest (Vallee assumed McDonnell in St. Louis) that was secretly doing UAP research for the CIA under the cover of “aeronautical research.”
 
 *   [https://www.abovetopsecret.com/forum/thread1074447/pg3#pid19545714](https://www.abovetopsecret.com/forum/thread1074447/pg3#pid19545714)
 
@@ -1028,18 +1027,18 @@ The UAP then moves away from Romeo-29 vertically at high speed. An F-106 attempt
 
 He also states he witnessed a CR in northern New Mexico in 1962, a silver disc that skidded in the ground; he states bodies were small, dressed in silver skin-tight suits and taken to Holloman AFB along with the craft; segments of the craft were then taken to Los Alamos afterwards. A CIA source told ufologist Robert Barry a CR took place in NM the same year.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p155
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p155_
 
 **(PUBLIC DOMAIN)** - 28 March 1975 — Sen. Barry Goldwater writes to a researcher and states UAP information was “still classified above Top Secret” at the time. Goldwater reiterates he was denied access to a room at WPAFB where some information is stored, and states he heard there is a plan to release some if not all of the information in the “near future.”
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p91
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p91_
 
-**(PUBLIC DOMAIN)** - April 1975 — Air Force Archives at Maxwell AFB, AL withdraw Project Blue Book files from public access. Some documents deemed embarrassing to the USAF are allegedly destroyed, and redactions are made on the original paper files.
+**(PUBLIC DOMAIN)** - April 1975 — Air Force Archives at Maxwell AFB, AL withdraw **Project Blue Book** files from public access. Some documents deemed embarrassing to the USAF are allegedly destroyed, and redactions are made on the original paper files.
 
 *   [https://www.nicap.org/bb/BB_Unknowns.pdf](https://www.nicap.org/bb/BB_Unknowns.pdf) (p6)
 
 
-**(PUBLIC DOMAIN)** - 13 April 1975 — J. Allen Hynek states Donald Rumsfeld told him at the White House he did “not” have a need to know if there was a secret UAP study somewhere after Blue Book.
+**(PUBLIC DOMAIN)** - 13 April 1975 — J. Allen Hynek states Donald Rumsfeld told him at the White House he did “not” have a need to know if there was a secret UAP study somewhere after **Blue Book**.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
 
@@ -1062,9 +1061,9 @@ M.S. claims Gen. T showed him a TS document about a UAP landing at Nellis AFB in
 
 Leonard Springfield claims he corroborated the existence of Gen. T. At WPAFB through the Accounting and Finance Section records. Stringfield also claims another Intelligence source corroborated the 1968 Nellis AFB incident.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p27
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p27_
 
-**(PUBLIC DOMAIN)** - 1977 — Attorney Daniel P. Sheehan at the request of Congressional Research Service researcher Marcia S. Smith claims to visits the Madison Building at the Library of Congress to look at “classified sections of Project Blue Book.” Sheehan claims to see photos of a flying disc embedded in snow surrounded by USAF personnel wearing parkas. Symbols are present on the side of the crashed disc. If true, this contradicts findings of Blue Book delivered to Congress and the American people stating a lack of physical evidence was a key reason why UAP were not worthy of future study.
+**(PUBLIC DOMAIN)** - 1977 — Attorney Daniel P. Sheehan at the request of Congressional Research Service researcher Marcia S. Smith claims to visits the Madison Building at the Library of Congress to look at “classified sections of **Project Blue Book**.” Sheehan claims to see photos of a flying disc embedded in snow surrounded by USAF personnel wearing parkas. Symbols are present on the side of the crashed disc. If true, this contradicts findings of **Blue Book** delivered to Congress and the American people stating a lack of physical evidence was a key reason why UAP were not worthy of future study.
 
 *   [https://web.archive.org/web/20150703123417/http:/www.presidentialufo.com/old_site/marcia_smith_story.htm](https://web.archive.org/web/20150703123417/http:/www.presidentialufo.com/old_site/marcia_smith_story.htm)
 
@@ -1086,7 +1085,7 @@ Woods regains consciousness at dawn, after four hours have passed, and he, his t
 
 
 
-**(PUBLIC DOMAIN)** - 1978 — Journalist/ufologist John Keel states the CIA had a covert investigation of UAP contactees in the 1960s named Project Windfall; he claimed it was enmeshed in bureaucratic confusion.
+**(PUBLIC DOMAIN)** - 1978 — Journalist/ufologist John Keel states the CIA had a covert investigation of UAP contactees in the 1960s named **Project Windfall**; he claimed it was enmeshed in bureaucratic confusion.
 
 *   [https://www.scribd.com/document/230363655/General-Douglas-MacArthur-Ufologist-by-John-A-Keel](https://www.scribd.com/document/230363655/General-Douglas-MacArthur-Ufologist-by-John-A-Keel)
 
@@ -1094,13 +1093,13 @@ Woods regains consciousness at dawn, after four hours have passed, and he, his t
 
 **(PUBLIC DOMAIN)** - 1978 — A USAF technician tells Randall Clement that he worked at an underground facility in Colorado Springs, CO and saw the remains of a dismembered and charred alien humanoid.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p85
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p85_
 
 **(PUBLIC DOMAIN)** - 1978 — USAF officer in Detroit allegedly tells a college student he heard a coded message to another base in Ohio about a crash near the Ohio-Michigan border with two dead bodies and one still alive, retrieved.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p86
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p86_
 
-**(PUBLIC DOMAIN)** - 5 January 1978 — A McDonnell-Douglas engineer tells Jacques Vallee in private he is compiling a new close encounter database; Douglas has an ongoing secret project, well funded, with the blessing and official monitoring of the CIA and they’re discretely connected with major UAP groups. Robert M. Wood headed a project at Douglas at the time.
+**(PUBLIC DOMAIN)** - 5 January 1978 — A McDonnell-Douglas engineer tells Jacques Vallée in private he is compiling a new close encounter database; Douglas has an ongoing secret project, well funded, with the blessing and official monitoring of the CIA and they’re discretely connected with major UAP groups. Robert M. Wood headed a project at Douglas at the time.
 
 *   [https://ufos-scientificresearch.blogspot.com/2010/01/aerospace-companies-and-ufos-2.html](https://ufos-scientificresearch.blogspot.com/2010/01/aerospace-companies-and-ufos-2.html)
 
@@ -1123,7 +1122,7 @@ Retired USAF Maj. George Filer III claims he was there, the recovery team acted 
 *   [https://web.archive.org/web/20110521172805/http://www.nicap.org/images/fortdix3.gif](https://web.archive.org/web/20110521172805/http://www.nicap.org/images/fortdix3.gif)
 *   [http://www.paradigmresearchgroup.org/Webpages/The%20Trentonian%20-%20Close%20encounters%20of%20the%20local%20kind.htm](http://www.paradigmresearchgroup.org/Webpages/The%20Trentonian%20-%20Close%20encounters%20of%20the%20local%20kind.htm)
 
->**_Note_**: In 2002 the National Institute for Discovery Science (NIDS), which had several personnel who would later support the DIA’s AAWSAP/AATIP programs, suggested the Ft. Dix body recovery was a hoax. NIDS Dept. Dir. Colm Kelleher states interviews of several former key McGuire AFB officials found no corroboration of the incident. NIDS suggests the Incident/Complaint form may have been hoaxed.
+>**_Note_**: In 2002 the National Institute for Discovery Science (NIDS), which had several personnel who would later support the DIA’s **AAWSAP**/**AATIP** programs, suggested the Ft. Dix body recovery was a hoax. NIDS Dept. Dir. Colm Kelleher states interviews of several former key McGuire AFB officials found no corroboration of the incident. NIDS suggests the Incident/Complaint form may have been hoaxed.
 >*   [https://centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN73.pdf](https://centerforinquiry.org/wp-content/uploads/sites/29/docs/SUN/SUN73.pdf)
 
 
@@ -1136,7 +1135,7 @@ other State Dept. cables are declassified by the Defense Intelligence Agency and
 *   [https://archive.org/details/clearintentgover00fawc/page/194/mode/2up](https://archive.org/details/clearintentgover00fawc/page/194/mode/2up)
 *   [http://www.noufors.com/Documents/Downloads%20from%20Paul%20Dean,%20UK/DEPT%20](https://www.google.com/url?q=http://www.noufors.com/Documents/Downloads%2520from%2520Paul%2520Dean%252C%2520UK/DEPT&sa=D&source=editors&ust=1690698544026088&usg=AOvVaw2LC2aSTLhHLQ7d6daQthUm) OF%20STATE%20BULK.pdf
 
-**(PUBLIC DOMAIN)** - 8 June 1978 — Jacques Vallee writes that a call from someone at McDonnell-Douglas told him “they” have an ongoing secret project, well funded, blessed with official
+**(PUBLIC DOMAIN)** - 8 June 1978 — Jacques Vallée writes that a call from someone at McDonnell-Douglas told him “they” have an ongoing secret project, well funded, blessed with official
 monitoring of the CIA and they’re “discreetly” connected to major civilian UAP groups; they seem to be looking for “exotic alloys.”
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
@@ -1172,7 +1171,7 @@ Hinners decides not to mention, though, that NASA elected eight months earlier t
 
 
 
-**(PUBLIC DOMAIN)** - 8 December 1978 — The United Nations votes 33/426 to establish an agency or department of the UN to study UAP, failing to pass the draft resolution. Former Project Blue Book consultants J. Allen Hynek and Jacques Vallee speak to the UN Special Political Committee, which is not interested in the formal study of UAP. Public records on these meetings show no sitting element of the DOD or U.S. intelligence community spoke in support of the resolution, despite the fact that the Air Force, Navy and NORAD are all on record having monitored UAP events over the prior decade.
+**(PUBLIC DOMAIN)** - 8 December 1978 — The United Nations votes 33/426 to establish an agency or department of the UN to study UAP, failing to pass the draft resolution. Former **Project Blue Book** consultants J. Allen Hynek and Jacques Vallée speak to the UN Special Political Committee, which is not interested in the formal study of UAP. Public records on these meetings show no sitting element of the DOD or U.S. intelligence community spoke in support of the resolution, despite the fact that the Air Force, Navy and NORAD are all on record having monitored UAP events over the prior decade.
 
 *   [https://wikileaks.org/plusd/cables/1978USUNN05784_d.html](https://wikileaks.org/plusd/cables/1978USUNN05784_d.html)
 
@@ -1203,7 +1202,7 @@ Hinners decides not to mention, though, that NASA elected eight months earlier t
 >*   [https://www.ufohastings.com/storage/files/image/2010-10-11/minot_afb_1966-08-25_02.jpg](https://www.ufohastings.com/storage/files/image/2010-10-11/minot_afb_1966-08-25_02.jpg)
 >*   [https://www.ufohastings.com/storage/files/image/2010-10-11/minot_afb_1966-08-25_03.jpg](https://www.ufohastings.com/storage/files/image/2010-10-11/minot_afb_1966-08-25_03.jpg)
 
->**_Note_**: A NORAD log released through FOIA in 1977 also shows 33 different UAP nuclear incidents occurred over a two-week period in 1975, which is the sort of information Rep. Stratton was seeking. These events contradict the conclusions of Project Blue Book given to Congress and the American people at the time, which state UAP are not a threat to national security.
+>**_Note_**: A NORAD log released through FOIA in 1977 also shows 33 different UAP nuclear incidents occurred over a two-week period in 1975, which is the sort of information Rep. Stratton was seeking. These events contradict the conclusions of **Project Blue Book** given to Congress and the American people at the time, which state UAP are not a threat to national security.
 >*   [https://files.abovetopsecret.com/images/member/17f7ee96ee7e.gif](https://files.abovetopsecret.com/images/member/17f7ee96ee7e.gif)
 >*   [https://files.abovetopsecret.com/images/member/97c8c30ee9f4.gif](https://files.abovetopsecret.com/images/member/97c8c30ee9f4.gif)
 >*   [https://files.abovetopsecret.com/images/member/484a10c214d8.gif](https://files.abovetopsecret.com/images/member/484a10c214d8.gif)
@@ -1216,11 +1215,11 @@ Hinners decides not to mention, though, that NASA elected eight months earlier t
 
 
 
-**(PUBLIC DOMAIN)** - 1979 — Project Blue Book scientific advisor J. Allen Hynek states the CIA’s Robertson Panel was concerned of public reaction to UAP, and “handed down” the “unwritten law of the Air Force…don’t rock the boat, play it down, cool it, don’t get the public excited.” Hynek states the USAF purposefully debunked interesting cases as balloons, stars, etc, findings that then made their way to Congress and the public.
+**(PUBLIC DOMAIN)** - 1979 — **Project Blue Book** scientific advisor J. Allen Hynek states the CIA’s Robertson Panel was concerned of public reaction to UAP, and “handed down” the “unwritten law of the Air Force…don’t rock the boat, play it down, cool it, don’t get the public excited.” Hynek states the USAF purposefully debunked interesting cases as balloons, stars, etc, findings that then made their way to Congress and the public.
 
 *   [https://www.youtube.com/watch?v=tGMGOdKOPKk&t=1372s](https://www.youtube.com/watch?v=tGMGOdKOPKk&t=1372s) (22:52)
 
-**(PUBLIC DOMAIN)** - 1979 — Jacques Vallee states he is “convinced” the USG is still very much involved with UAP, but not limited to collection; it extends into close monitoring of UAP organizations, the staging of false sightings and the leaking of “false” documents.
+**(PUBLIC DOMAIN)** - 1979 — Jacques Vallée states he is “convinced” the USG is still very much involved with UAP, but not limited to collection; it extends into close monitoring of UAP organizations, the staging of false sightings and the leaking of “false” documents.
 
 *   [https://ufos-scientificresearch.blogspot.com/2009/09/what-was-jacques-thinking-post-1979_10.html](https://ufos-scientificresearch.blogspot.com/2009/09/what-was-jacques-thinking-post-1979_10.html)
 
@@ -1237,7 +1236,7 @@ Hinners decides not to mention, though, that NASA elected eight months earlier t
 
 **(PUBLIC DOMAIN)** - 1979 — Durward ‘Buddy’ Hack, CPO Radar Observer, claims to have accidentally entered a door of a large hangar that was unguarded at Naval Air Station in Sunnyvale, CA in 1950 and saw a large, round saucer with a row of windows. Haak disappeared with no trace on a flight out of San Diego in 1952, and the story was relayed by his family in 1979.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p86
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p86_
 
 
 **(PUBLIC DOMAIN)** - February 1979 — Rep. Horace Buckley’s Mississippi House Resolution No. 14 calls for a complete U.S. Senate investigation into UAP. It dies in committee. Lawmakers did not have
@@ -1265,7 +1264,7 @@ FBI monitors interest in the phenomena from Sen. Harrison Schmitt; documentation
 
 Thompson told this to Leonard Stringfield two days after Stringfield asked Weaver about UAP; Weaver gave him the information of Thompson. Thompson stated he heard about the transfer to Hampton Roads from a source in Canada that was now unreachable.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p86
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p86_
 *   [https://www.militarytownadvisor.com/blog/2016/11/7/202/hampton-roads-military-bases/](https://www.militarytownadvisor.com/blog/2016/11/7/202/hampton-roads-military-bases/)
 
 
@@ -1285,7 +1284,7 @@ semi-trailer covered by a tarp, it looked disc like with a dome; pieces of stran
 
 After he cleaned up the site and it was evacuated, he was soon “abruptly” transferred to embassy duty in Central America for several months; the informant also states he viewed UAP “artifacts” and bodies at Grafford AFB in Nevada on Thanksgiving weekend in 1973 or 1974 before being abruptly transferred to Guantanamo Base in Cuba for several months.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p369
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p369_
 
 
 
@@ -1319,7 +1318,7 @@ The letter also claims crashed UAP are stored at the Manzano Nuclear Weapons Sto
 *   [https://youtu.be/Y3xK5O7Iqo0?t=2272](https://youtu.be/Y3xK5O7Iqo0?t=2272)
 *   [https://files.afu.se/Downloads/Books/Digitized_by_AFU/Quest_Publications/Quest_Publications_002-Document_Series-Number_2.pdf#page=10](https://files.afu.se/Downloads/Books/Digitized_by_AFU/Quest_Publications/Quest_Publications_002-Document_Series-Number_2.pdf#page=10) (p15)
 
->**_Note_**: Doty states he was ordered to create the disinformation. It is unconfirmed, but diaries written by former Blue Book contractor Jacques Vallee state Brigadier Gen. Peter J. Hennessy was the “top guy” above Doty. After Hennessy retired, he was a VP at Battelle.
+>**_Note_**: Doty states he was ordered to create the disinformation. It is unconfirmed, but diaries written by former **Blue Book** contractor Jacques Vallée state Brigadier Gen. Peter J. Hennessy was the “top guy” above Doty. After Hennessy retired, he was a VP at Battelle.
 
 *   [https://www.reddit.com/r/UFOs/comments/ow175o/the_air_force_general_that_oversaw_richard_doty/](https://www.reddit.com/r/UFOs/comments/ow175o/the_air_force_general_that_oversaw_richard_doty/)
 
@@ -1346,7 +1345,7 @@ Two to three months later after this breach, all Army personnel were restricted 
 DR states in 1971 he was warned by a Col. not to mention anything about UAP and Big Springs
 Base.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p151
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p151_
 
 
 **(PUBLIC DOMAIN)** - 1980s Undefined — The fake USG document AFOSI counterintelligence officer Richard C. Doty delivers to Bennewitz makes its way to the American public and is the subject of various books and media. Doty redirects attention away from AFOSI’s surveillance of U.S. citizens interested in UAP by claiming “NASA” investigated Bennewitz. It was later admitted the NSA investigated Bennewitz and Doty changed the description in the fake document.
@@ -1354,7 +1353,7 @@ Base.
 *   [https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad%20Sparks_and_Barry_Greenwood](https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad%20Sparks_and_Barry_Greenwood) (p122)
 *   [https://archive.org/details/projectbetastory0000bish/page/120/mode/2up](https://archive.org/details/projectbetastory0000bish/page/120/mode/2up)
 
->**_Note_**: AFOSI’s actions against U.S. citizens reduced trust in government among the domestic population over time, fueled anti-government conspiracy theories in popular media, and caused great confusion over who and what controlled access to UAP information after Project Blue Book.
+>**_Note_**: AFOSI’s actions against U.S. citizens reduced trust in government among the domestic population over time, fueled anti-government conspiracy theories in popular media, and caused great confusion over who and what controlled access to UAP information after **Project Blue Book**.
 
 
 
@@ -1371,7 +1370,7 @@ Sunn Classic Pictures was established in 1971 by the Schick Razor Company, of wh
 
 Frawley was a knight of the Sovereign Military Order of Malta (SMOM), a Roman Catholic order with ties to the CIA and former CIA directors who served as knights including William Casey and John McCone. Frawley was also connected to the American Security Council as a member and donor, a military lobbying organization with membership of James Angleton, Nathan Twining and Douglas MacArthur, among others. Of note, Col. Philip Corso, who claimed UAP programs quietly encouraged film production for disclosure purposes, was a Shickshinny Knight of Malta, a breakaway group from SMOM.
 
-Sunn also produced In Search of Noah’s Ark in 1976 at a time when the CIA was investigating Mt. Ararat as a location of the Ark (and mention Ararat in the film), The Amazing World of Psychic Phenomena about psi and TK during the predecessor programs of Project Star Gate and The Outer Space Connection, a film about the ancient alien hypothesis.
+Sunn also produced In Search of Noah’s Ark in 1976 at a time when the CIA was investigating Mt. Ararat as a location of the Ark (and mention Ararat in the film), The Amazing World of Psychic Phenomena about psi and TK during the predecessor programs of **Project Star Gate** and The Outer Space Connection, a film about the ancient alien hypothesis.
 
 *   [https://www.latimes.com/archives/la-xpm-1998-nov-05-me-39615-story.html](https://www.latimes.com/archives/la-xpm-1998-nov-05-me-39615-story.html)
 *   [https://gnosticwarrior.com/secrets-and-shickshiny-knights.html](https://gnosticwarrior.com/secrets-and-shickshiny-knights.html)
@@ -1379,7 +1378,7 @@ Sunn also produced In Search of Noah’s Ark in 1976 at a time when the CIA was 
 
 
 
-**(PUBLIC DOMAIN)** - 1981 — Lawyer Andrew Basiago claims he served in a DARPA Project Pegasus in the 1970s which utilized time travel technologies to view different segments of human history. Basiago claims beginning in 1981-1983, he and William B. Stillings worked in a building at 999 N. Sepulveda Boulevard in El Segundo, CA operated by Hughes Aircraft. Basiago claims there is a “jump room” at this location that allowed for full teleportation of humans to a network of different jump rooms.
+**(PUBLIC DOMAIN)** - 1981 — Lawyer Andrew Basiago claims he served in a DARPA **Project Pegasus** in the 1970s which utilized time travel technologies to view different segments of human history. Basiago claims beginning in 1981-1983, he and William B. Stillings worked in a building at 999 N. Sepulveda Boulevard in El Segundo, CA operated by Hughes Aircraft. Basiago claims there is a “jump room” at this location that allowed for full teleportation of humans to a network of different jump rooms.
 
 *   [https://www.bibliotecapleyades.net/marte/esp_marte_78.htm](https://www.bibliotecapleyades.net/marte/esp_marte_78.htm)
 
@@ -1387,7 +1386,7 @@ Sunn also produced In Search of Noah’s Ark in 1976 at a time when the CIA was 
 
 
 
->**_Note_**: Basiago reiterates these claims in public media and in a signed affidavit alleging Project Pegasus gave the DOD foreknowledge of the 9/11 attacks. Basiago claims knowledge of the “Montauk chair” (see 1971) and suggests programs utilize “time viewing” technology for intelligence purposes and a secret space program utilizes teleportation technology far advanced beyond those in the open source.
+>**_Note_**: Basiago reiterates these claims in public media and in a signed affidavit alleging **Project Pegasus** gave the DOD foreknowledge of the 9/11 attacks. Basiago claims knowledge of the “Montauk chair” (see 1971) and suggests programs utilize “time viewing” technology for intelligence purposes and a secret space program utilizes teleportation technology far advanced beyond those in the open source.
 >*   [https://www.scribd.com/doc/294419690/Affidavit-of-Andrew-D-Basiago](https://www.scribd.com/doc/294419690/Affidavit-of-Andrew-D-Basiago)
 
 >**_Note_**: In the open source, quantum teleportation was first proposed in 1993 and achieved in 1997. Most recently, researchers have teleported information between atoms dozens of kilometers apart and have transferred information between clouds of gas atoms. A recent study at University of California also suggested human brains were ready for teleportation due to a unique natural behavior of the hippocampus. Still, Basiago’s claims are astounding and suggest teleportation technology in the black is hundreds of years ahead of open source, if true, though they may very well be false claims.
@@ -1414,7 +1413,7 @@ Sunn also produced In Search of Noah’s Ark in 1976 at a time when the CIA was 
 
 **(PUBLIC DOMAIN)** - 1982 — A USAF Capt. states while stationed at Fort Hood, in the late 1960s a pilot had to make a forced landing over a restricted air corridor at Gray AAF/Robert Gray Field. The pilot saw a huge section of land separating like giant sliding doors with vegetation intact revealing a huge corridor inside; the pilot was blindfolded and taken into the jeep inside the underground complex, inside a long corridor and interrogated by two men. He was blindfolded again where his aircraft was refused for him and was told not to speak of the incident.
 
-In 1973, two witnesses saw a square UAP with lights and were approached by Chinook helicopters, who took up a tight formation around the UAP. The UAPs and helicopters disappeared out of sight; the next day, the witness called Fort Hood and was told there was a routine recon training mission in the area. Another researcher told the men who flew the helicopter were code named BLUEBOYS and it was a special group involved in UAP work. Another son of a man who allegedly worked underground beneath Fort Hood stated the technology involved is “science fiction.”
+In 1973, two witnesses saw a square UAP with lights and were approached by Chinook helicopters, who took up a tight formation around the UAP. The UAPs and helicopters disappeared out of sight; the next day, the witness called Fort Hood and was told there was a routine recon training mission in the area. Another researcher told the men who flew the helicopter were code named **BLUEBOYS** and it was a special group involved in UAP work. Another son of a man who allegedly worked underground beneath Fort Hood stated the technology involved is “science fiction.”
 
 *   [https://www.earthfiles.com/2005/03/13/part-4-ufo-crashretrievals-status-report-iii-amassing-the-evidence/](https://www.earthfiles.com/2005/03/13/part-4-ufo-crashretrievals-status-report-iii-amassing-the-evidence/)
 *   [https://www.earthfiles.com/2005/03/22/part-5-ufo-crashretrievals-status-report-iii-amassing-the-evidence/](https://www.earthfiles.com/2005/03/22/part-5-ufo-crashretrievals-status-report-iii-amassing-the-evidence/)
@@ -1447,7 +1446,7 @@ Green never named the individual but it was revealed he passed away in 1997, and
 
 
 
-**(PUBLIC DOMAIN)** - 6 April 1982 — NASA scientist Richard F. Haines tells Jacques Vallee he visited Vandenberg AFB and came back “certain” there was a secret government project to study UAP.
+**(PUBLIC DOMAIN)** - 6 April 1982 — NASA scientist Richard F. Haines tells Jacques Vallée he visited Vandenberg AFB and came back “certain” there was a secret government project to study UAP.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
 
@@ -1465,7 +1464,7 @@ claimed these four locations — and possibly others — were integral in workin
 
 
 
-**(PUBLIC DOMAIN)** - 29 September 1982 — Hal Puthoff tells Jacques Vallee that he had a friend at Sandia whose uncle-in-law was said to have studied a crashed saucer in the 1950s and duplicated an antigravity device; Hal states the uncle-in-law was found hanged with his hands tied behind his back and his lab in shambles. The man placed his plans in a bank safe but when his family tried to access it, the bank told them “government men bearing official identification” had opened the box and confiscated the contents.
+**(PUBLIC DOMAIN)** - 29 September 1982 — Hal Puthoff tells Jacques Vallée that he had a friend at Sandia whose uncle-in-law was said to have studied a crashed saucer in the 1950s and duplicated an antigravity device; Hal states the uncle-in-law was found hanged with his hands tied behind his back and his lab in shambles. The man placed his plans in a bank safe but when his family tried to access it, the bank told them “government men bearing official identification” had opened the box and confiscated the contents.
 
 Hal states his friend from Sandia is “panicking” and his house has been burglarized several times; this man was studying an alleged energy machine “Johnson’s motor,” and the models were taken apart by whoever broke into his house.
 
@@ -1482,7 +1481,7 @@ Reported effects included the deformation of a molybdenum rod, transmutation of 
 
 >**_Note_**: It is possible the Hutchison effect was accidentally tapping into quantum vacuum energy, or the zero point energy field. Uncontrolled, this energy could be used as a weapon; controlled, it could be a stable power source.
 
->**_Note_**: Hathaway was one of the scientists tasked with writing a Defense Intelligence Reference Document for the 2009 AAWSAP/AATIP program.
+>**_Note_**: Hathaway was one of the scientists tasked with writing a Defense Intelligence Reference Document for the 2009 **AAWSAP**/**AATIP** program.
 >*   [https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/](https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/)
 
 >**_Note_**: The head of INSCOM at the time was Gen. Albert Stubblebine, who utilized the Monroe Institute to train his officers in ways to improve their psychic performance. In 1984, Maj. Gen. Harry Soyster replaces Stubblebine, a former VP of Intelligence Systems at BDM Intl. and
@@ -1490,11 +1489,11 @@ Reported effects included the deformation of a molybdenum rod, transmutation of 
 
 
 
-**(PUBLIC DOMAIN)** - 1983 — Projects Phoenix, Phoenix II and Rainbow allegedly occur at Camp Hero in Montauk, NY. Remote viewer of interest to the CIA Uri Geller claims the projects utilized radio, microwaves and EHF to determine if the behavior of different population groups could be affected.
+**(PUBLIC DOMAIN)** - 1983 — Projects **Phoenix**, **Phoenix II** and **Rainbow** allegedly occur at Camp Hero in Montauk, NY. Remote viewer of interest to the CIA Uri Geller claims the projects utilized radio, microwaves and EHF to determine if the behavior of different population groups could be affected.
 
 *   [https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/](https://www.urigeller.com/timeline-cias-interest-paranormal-human-consciousness/)
 
->**_Note_**: CIA documentation shows remote viewing programs Center Lane, Grill Flame, Gondola Wish, Sun Streak, Scanate and Star Gate were run by contractor SRI International in the 1970s and 1980s. No documentation exists for experiments allegedly conducted at Montauk, however.
+>**_Note_**: CIA documentation shows remote viewing programs **Center Lane**, **Grill Flame**, **Gondola Wish**, **Sun Streak**, **Scanate** and **Star Gate** were run by contractor SRI International in the 1970s and 1980s. No documentation exists for experiments allegedly conducted at Montauk, however.
 >*   [https://www.cia.gov/readingroom/collection/stargate](https://www.cia.gov/readingroom/collection/stargate)
 
 
@@ -1507,7 +1506,7 @@ Sarbacher states his work with RDB was limited but he heard “certain materials
 
 
 
-**(PUBLIC DOMAIN)** - 11 March 1984 — Kit Green tells Jacques Vallee he once interviewed a soldier that specialized in nuclear security testing whose group used helicopters designed to appear as flying saucers.
+**(PUBLIC DOMAIN)** - 11 March 1984 — Kit Green tells Jacques Vallée he once interviewed a soldier that specialized in nuclear security testing whose group used helicopters designed to appear as flying saucers.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/little-snippets-from-jacques-vallees.html](https://ufos-scientificresearch.blogspot.com/2016/10/little-snippets-from-jacques-vallees.html)
 
@@ -1572,7 +1571,7 @@ Mills also states he heard secondhand that a similar situation occurred with Pea
 
 
 
-**(PUBLIC DOMAIN)** - 20 May 1985 — BDM Intl’s McLean Secure Facility hosts the “Advance Theoretical Physics Conference,” under DOE supervision, to determine if UAP evidence supports an R&D program, to collect new data and obtain “direct contact” between the group and UAP occupants. The meetings are classified using DOE controls: Top Secret/Restricted Data Sigmas as Required. Leaked meeting notes write that security for the group be “totally legal.” Astronomer Jacques Vallee writes that alleged participants were from Los Alamos National Laboratory, CIA, NSA, INSCOM, McDonnell Douglas, BDM, Lockheed and OUSD(R&E). To this date, DOE has not released any records of these meetings through FOIA to the American public, nor did it provide any information to the GAO report requested by Rep. Steven Schiff in 1995.
+**(PUBLIC DOMAIN)** - 20 May 1985 — BDM Intl’s McLean Secure Facility hosts the “Advance Theoretical Physics Conference,” under DOE supervision, to determine if UAP evidence supports an R&D program, to collect new data and obtain “direct contact” between the group and UAP occupants. The meetings are classified using DOE controls: Top Secret/Restricted Data Sigmas as Required. Leaked meeting notes write that security for the group be “totally legal.” Astronomer Jacques Vallée writes that alleged participants were from Los Alamos National Laboratory, CIA, NSA, INSCOM, McDonnell Douglas, BDM, Lockheed and OUSD(R&E). To this date, DOE has not released any records of these meetings through FOIA to the American public, nor did it provide any information to the GAO report requested by Rep. Steven Schiff in 1995.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/06/the-advanced-theoretical-physics.html](https://ufos-scientificresearch.blogspot.com/2019/06/the-advanced-theoretical-physics.html)
 *   [https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo_7.html](https://www.blueblurrylines.com/2019/03/the-us-governments-cash-landrum-ufo_7.html)
@@ -1593,7 +1592,7 @@ Mills also states he heard secondhand that a similar situation occurred with Pea
 *  [https://www.reaganfoundation.org/ronald-reagan/white-house-diaries/diary-entry-06111985/](https://www.reaganfoundation.org/ronald-reagan/white-house-diaries/diary-entry-06111985/)
 
 
-**(PUBLIC DOMAIN)** - 6 July 1985 — Ret. USAF Col. Richard Niemtzow tells Jacques Vallee there is a secret project to study UAP within USG. They meet in Toulouse, France.
+**(PUBLIC DOMAIN)** - 6 July 1985 — Ret. USAF Col. Richard Niemtzow tells Jacques Vallée there is a secret project to study UAP within USG. They meet in Toulouse, France.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
 
@@ -1612,7 +1611,7 @@ Mills also states he heard secondhand that a similar situation occurred with Pea
 
 
 
-**(PUBLIC DOMAIN)** - 22 June 1986 — Former Bechtel Corp contractor James McCampbell tells Jacques Vallee he met a military contact with the Wild Weasels who used F-4 planes with EM detection equipment that detected UAP during the Vietnam War and continued that role in the US as of the 1980s.
+**(PUBLIC DOMAIN)** - 22 June 1986 — Former Bechtel Corp contractor James McCampbell tells Jacques Vallée he met a military contact with the Wild Weasels who used F-4 planes with EM detection equipment that detected UAP during the Vietnam War and continued that role in the US as of the 1980s.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/little-snippets-from-jacques-vallees.html](https://ufos-scientificresearch.blogspot.com/2016/10/little-snippets-from-jacques-vallees.html)
 
@@ -1626,7 +1625,7 @@ The GAO states the Defense Investigative Service was not allowed to conduct semi
 
 
 
-**(PUBLIC DOMAIN)** - 10 November 1986 — Pathfinder Partners, a national security VC fund, co-founder Steve Millard hosts a UAP study group in Silicon Valley that includes Jacques Vallee,
+**(PUBLIC DOMAIN)** - 10 November 1986 — Pathfinder Partners, a national security VC fund, co-founder Steve Millard hosts a UAP study group in Silicon Valley that includes Jacques Vallée,
 
 Eisenhower/JFK Admin Assistant Secretary of State for Security and consular Affairs John Hanes III, robotics expert Charlie Rosen and attorney Bruce Garrett, Gen. Johnny Johnson former head of communications for the White House, and former Deputy Chief of Naval Operations RADM Bill Houser. Houser states he will ask Naval Intelligence to study UAP photos from Costa Rico.
 
@@ -1680,14 +1679,14 @@ SAIC, citing Williams, suggests a five-dimensional theory of thermodynamics coul
 
 >**_Note_**: Pharis Williams has several indirect ties to UAP research. Los Alamos colleague Oke Shannon told a journalist in 2019 “if we were to build an anti-gravitational device, it would be built on the principles involved in \[Williams’\] theory.” Shannon attended the 1985 “Advanced Theoretical Physics Conference” under DOE supervision led by USAF Col. John Alexander to determine if UAP evidence supported an R&D program. The meetings were held at BDM Intl’s McLean Secure Facility and classified using DOE controls (see second note under 28 April 2006). Shannon’s name was also mentioned on the alleged meeting notes between Dr. Eric Davis and VADM Thomas R. Wilson where a secret UAP program was discussed (see 16 October 2002).
 >
->Pharis Williams also spoke at a UAP technology conference in June 2001 where it was mentioned his research was sponsored at the time by Hal Puthoff. Williams was still employed at Los Alamos at the time; Puthoff became involved in AATIP eight years later.
+>Pharis Williams also spoke at a UAP technology conference in June 2001 where it was mentioned his research was sponsored at the time by Hal Puthoff. Williams was still employed at Los Alamos at the time; Puthoff became involved in **AATIP** eight years later.
 >*   [https://devoidlives.com/15854/you-cant-always-get-what-you-want/](https://devoidlives.com/15854/you-cant-always-get-what-you-want/)
 >*   [https://www.osti.gov/biblio/1248828](https://www.osti.gov/biblio/1248828)
 >*   [https://www.scientificexploration.org/sites/default/files/docs/program_20th_annual.pdf](https://www.scientificexploration.org/sites/default/files/docs/program_20th_annual.pdf)
 
 
 
-**(PUBLIC DOMAIN)** - 23 October 1988 — Kit Green meets Jacques Vallee at the Detroit airport, they spoke for a “long time” over dinner, at his house, etc. Green assures Vallee “there was indeed an MJ12,” which had employed the list of scientists ufologists believed including Menzel and it reported to Truman
+**(PUBLIC DOMAIN)** - 23 October 1988 — Kit Green meets Jacques Vallée at the Detroit airport, they spoke for a “long time” over dinner, at his house, etc. Green assures Vallee “there was indeed an MJ12,” which had employed the list of scientists ufologists believed including Menzel and it reported to Truman
 and Eisenhower. But Green states it had nothing to do with UAP, it was a “vast program” to study impacts and possible reactions against a psychological warfare attack directed at the US.
 
 *   [https://ufos-scientificresearch.blogspot.com/2018/04/christopher-kit-canfield-green-further.html](https://ufos-scientificresearch.blogspot.com/2018/04/christopher-kit-canfield-green-further.html)
@@ -1716,7 +1715,7 @@ diamond-shaped craft covered in tiles like those used on the Space Shuttle. It w
 
 
 
-**(PUBLIC DOMAIN)** - January 1989 — Bill English claims he sees a memo from USAF Col. Wendelle Stevens which details Project Blue Book officials J. Allen Hynek and Lt. Col. Robert Friend had an awareness of crash recoveries, body recovery, human mutilation of military officials, entities that eat liquid chlorophyll, language similar to Sanskrit.
+**(PUBLIC DOMAIN)** - January 1989 — Bill English claims he sees a memo from USAF Col. Wendelle Stevens which details **Project Blue Book** officials J. Allen Hynek and Lt. Col. Robert Friend had an awareness of crash recoveries, body recovery, human mutilation of military officials, entities that eat liquid chlorophyll, language similar to Sanskrit.
 
 *   [https://www.earthfiles.com/2005/02/04/part-2-ufo-crashretrievals-status-report-v-is-the-cover-up-lid-lifting/](https://www.earthfiles.com/2005/02/04/part-2-ufo-crashretrievals-status-report-v-is-the-cover-up-lid-lifting/)
 
@@ -1734,7 +1733,7 @@ Years later, Caviness came across an incident report in ufology media that state
 
 **(PUBLIC DOMAIN)** - 15 May 1989 — Robert Lazar speaks publicly on KLAS-TV in Las Vegas, NV for the first time. Lazar claims he was employed at S-4, a facility near Groom Lake/Area 51 adjacent to Papoose Lake. Lazar claims the site has concealed aircraft hangers in a mountain side and nine flying saucers are stored there, where scientists are working to reverse engineer their antigravity propulsion systems. Lazar claims one saucer was found on an archeological dig, and another is metallic in appearance. Lazar claims the power plants inside the craft are so advanced they defy conventional understanding and do not use circuits or electricity.
 
-Lazar also claims his employer is EG&G, and he is made aware of an alleged Project Galileo, an antigravity and propulsion project and Project Looking Glass, an alleged technological project to see back in time.
+Lazar also claims his employer is EG&G, and he is made aware of an alleged **Project Galileo**, an antigravity and propulsion project and **Project Looking Glass**, an alleged technological project to see back in time.
 
 *   [https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/](https://www.otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/)
 *   [https://www.8newsnow.com/news/local-news/i-team-the-man-who-sent-shock-waves-through-ufo-circles-30-years-ago/](https://www.8newsnow.com/news/local-news/i-team-the-man-who-sent-shock-waves-through-ufo-circles-30-years-ago/)
@@ -1747,7 +1746,7 @@ The paper adds that “undocumented” simulations were performed on UAP in the 
 
 *   [https://documents.theblackvault.com/documents/ufos/fastwalkers/a209227.pdf](https://documents.theblackvault.com/documents/ufos/fastwalkers/a209227.pdf)
 
->**_Note_**: On 6 January 1967, Project Blue Book scientific advisor J. Allen Hynek told a crowd at the Goddard Space Flight Center that NORAD and SAC radar had tracked UAP. Beginning in 1957 with the establishment of NORAD’s command headquarters at Ent AFB in Colorado Springs, CO, every continental U.S. military radar UAP case in Project Blue Book files is a NORAD case because the subordinate USAF Air Defense Command belongs to NORAD.
+>**_Note_**: On 6 January 1967, **Project Blue Book** scientific advisor J. Allen Hynek told a crowd at the Goddard Space Flight Center that NORAD and SAC radar had tracked UAP. Beginning in 1957 with the establishment of NORAD’s command headquarters at Ent AFB in Colorado Springs, CO, every continental U.S. military radar UAP case in **Project Blue Book** files is a NORAD case because the subordinate USAF Air Defense Command belongs to NORAD.
 >*   [https://archive.org/details/encyclopediaofuf0000unse/page/412/mode/2up](https://archive.org/details/encyclopediaofuf0000unse/mode/2up)
 >*   [https://archive.org/details/area51uncensored0000jaco/page/10/mode/2up](https://archive.org/details/area51uncensored0000jaco/page/10/mode/2up)
 
@@ -1759,14 +1758,14 @@ The paper adds that “undocumented” simulations were performed on UAP in the 
 
 
 
-**(PUBLIC DOMAIN)** - 11 July 1989 — Hal Puthoff tells Jacques Vallee “nobody with any brains seems to be tracking this,” but Vallee disagrees with him.
+**(PUBLIC DOMAIN)** - 11 July 1989 — Hal Puthoff tells Jacques Vallée “nobody with any brains seems to be tracking this,” but Vallee disagrees with him.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
 
 
 
 
-**(PUBLIC DOMAIN)** - 17 September 1989 — Jacques Vallee writes there is a “large disinformation campaign” surrounding UAP but he still cannot find exactly what it is covering up. Vallee writes that Art Lundahl of NPIC, Kit Green, Adm. William Houser and Gen. Tommy Johnson all told him they didn’t think a black project was active, but it is unknown if they were obfuscating or unaware.
+**(PUBLIC DOMAIN)** - 17 September 1989 — Jacques Vallée writes there is a “large disinformation campaign” surrounding UAP but he still cannot find exactly what it is covering up. Vallee writes that Art Lundahl of NPIC, Kit Green, Adm. William Houser and Gen. Tommy Johnson all told him they didn’t think a black project was active, but it is unknown if they were obfuscating or unaware.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html](https://ufos-scientificresearch.blogspot.com/2016/10/was-there-secret-us-government-research.html)
 
@@ -1780,7 +1779,7 @@ On that same date, a commodities broker claims he saw helicopters transporting a
 “Joseph Z.” wrote Leonard Stringfield and claimed he had access to classified government records; per three Pentagon computer systems the next day, Z claims no weapons were deployed, NAVSYCOM had been tracking a polar-orbiting satellite with a decaying orbit and considered a radiation hazard; Office of Foreign Technology requested US Coast Guard helicopters to provide illumination from
 above; command/control aircraft circled above; remnants were transported to a nearby parking lot and loaded onto flatbeds, and taken to Brookhaven National Laboratories via William Floyd Parkway; local police were instructed to reroute traffic at 4:22am on 29 September 1989 because of the potential radiation hazard; radioisotope elements were removed from the wreckage at Brookhaven and placed in secure storage for disposal as waste, and remaining wreckage were transported to an undisclosed location for examination by the Office of Foreign Technology on 30 October 1989. Phil Imbrogno states published NASA data showed no Soviet satellite tracking reports in that area on that day.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p449
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p449_
 
 **(PUBLIC DOMAIN)** - October 1989 — NASA mission specialist Bob Oechsler meets retired RADM Sumner Shapiro under the pretext he is interested in working with the “group” that manages UAP information. Oechsler gets the intro to Shapiro from Bobby Ray Inman, former NSA Director and CIA Deputy Director and Board member of SAIC and Wackenhut at the time. When Oechsler meets Shapiro he is retired as former director of Naval Intelligence, and works as an executive with BDM Intl.
 
@@ -1795,7 +1794,7 @@ Shapiro tells Oechsler parties in the US are in possession of extraterrestrial s
 **(PUBLIC DOMAIN)** - 1990 — Sgt. Dan Sherman, while working on an NSA project with a USAF ELINT cover, claims he is told that there is another level of secrecy above Special Access Program for certain projects. He claims certain black SAPs are actually covers for “alien” projects known as Level 1; grey projects; grey matter or slant missions. He is told within grey projects there is as expected
 need-to-know inside that.
 
-Sherman is told by a Cpt. White that he is only aware of one being Project Preserve Destiny, to establish intuitive communications with NHI. But he assumes there are other grey projects.
+Sherman is told by a Cpt. White that he is only aware of one being **Project Preserve Destiny**, to establish intuitive communications with NHI. But he assumes there are other grey projects.
 
 Sherman states he is taken to a facility a half an hour from Fort Meade, MD, but that his transportation is blacked out and he is never told exactly where it is. He then claims he is “taught” intcomm in classes that consisted of listening to tones and trying to repeat them by mentally humming them (not verbal).
 
@@ -1817,7 +1816,7 @@ Sherman states he is taken to a facility a half an hour from Fort Meade, MD, but
 
 
 
-**(PUBLIC DOMAIN)** - 1990 — Lt. Col. Ron Blackburn of Lockheed Martin Skunk Works and co-founder of the ATP Group, tells Jacques Vallee he was directly involved in the construction of
+**(PUBLIC DOMAIN)** - 1990 — Lt. Col. Ron Blackburn of Lockheed Martin Skunk Works and co-founder of the ATP Group, tells Jacques Vallée he was directly involved in the construction of
 TRESTLE while at Air Force Weapons Laboratory (AFWL). TRESTLE was a large EMP simulator that could create an EMP without a nuclear blast. McDonnell Douglas was awarded the contract for the construction of the TRESTLE and BDM was awarded a subcontract for electromagnetic analysis, timing and control equipment.
 
 BDM and BDMMSC (BDM Management Services Company) were also awarded contracts for operation and management of the TRESTLE. BDM produced at least ten papers on subjects like EMP hardening, EMP simulation and EMP effects on aerospace vehicles, many of which were produced under Department of Energy contracts.
@@ -1830,7 +1829,7 @@ BDM and BDMMSC (BDM Management Services Company) were also awarded contracts for
 
 
 
-**(PUBLIC DOMAIN)** - 1990 — A ret. physicist who claims to have worked closely with Oppenheimer, Einstein and Teller states in 1990 that he worked on a special project at Edwards AFB in the late 1960s/early 1970s on Project Blue Heaven. The source states a flying saucer and its crew landed at Edwards AFB and its occupants were carted off to a secure building for evaluation. The disc was kept in a big hangar with armed guards with possibly hundreds of people working on it.
+**(PUBLIC DOMAIN)** - 1990 — A ret. physicist who claims to have worked closely with Oppenheimer, Einstein and Teller states in 1990 that he worked on a special project at Edwards AFB in the late 1960s/early 1970s on **Project Blue Heaven**. The source states a flying saucer and its crew landed at Edwards AFB and its occupants were carted off to a secure building for evaluation. The disc was kept in a big hangar with armed guards with possibly hundreds of people working on it.
 
 The source states the occupants had eyes of one color, a nose, a mouth, and teeth that looks like they were made there. They were dressed in a silvery looking material with elements not of Earth, and their blood looked like oil. The bodies were light brown, and the researchers came to the conclusion because there were no deterioration, to leave them alone because another craft might come and rejuvenate/reactivate them. The craft had no seams, no rivets, no welding with a dome at the top.
 
@@ -1878,7 +1877,7 @@ The scientist referred to a special group of scientists that worked with the Pre
 
 *   [https://external-preview.redd.it/zGD0Hd7GWp2rYN1Ir8FwypnSdpdPvsX1njClXoi6r0c.jpg?auto=webp&s=54ad11a7f2ed327bc59160f4c761e38d590356a4](https://external-preview.redd.it/zGD0Hd7GWp2rYN1Ir8FwypnSdpdPvsX1njClXoi6r0c.jpg?auto=webp&s=54ad11a7f2ed327bc59160f4c761e38d590356a4)
 
-**(PUBLIC DOMAIN)** - 1991 — Senior staff counsel to Sen. Robert Byrd, Dick D’Amato, tells Jacques Vallee: “what that stealthy group is doing is a felony…for a government employee to knowingly disseminate false information to the public is an offense that should send him to jail. The Government can’t spend appropriated money on projects that Congress doesn’t know about; it’s an even greater offense if they spend private money to do it…whatever the secret project, it must be controlled by an incredible level of fear because nobody dares talk about it. I find no leaks anywhere.”
+**(PUBLIC DOMAIN)** - 1991 — Senior staff counsel to Sen. Robert Byrd, Dick D’Amato, tells Jacques Vallée: “what that stealthy group is doing is a felony…for a government employee to knowingly disseminate false information to the public is an offense that should send him to jail. The Government can’t spend appropriated money on projects that Congress doesn’t know about; it’s an even greater offense if they spend private money to do it…whatever the secret project, it must be controlled by an incredible level of fear because nobody dares talk about it. I find no leaks anywhere.”
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/04/more-on-c-richard-damato-and-black-uap.html](https://ufos-scientificresearch.blogspot.com/2019/04/more-on-c-richard-damato-and-black-uap.html)
 
@@ -1916,14 +1915,14 @@ shortly after flew up vertically out of sight. Thomas says he was interviewed by
 
 Mary mentioned bodies were flown to LANL periodically from late 1945 to 1957, adding it was rumored they were human experiments for biological and nuclear medicine research, bodies with deformed heads and limbs and small bodies, with abnormal eyes and grey/yellow flesh that had been charred. Mary believed they could have been civilians exposed to an atomic explosion in Nevada, and that they were flown on special transport planes with refrigerator units to keep them from decomposing.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p314
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p314_
 
 
 **(PUBLIC DOMAIN)** - 12 April 1991 — Carolyn Brazil claims her uncle, Ralph Scheibly, who worked for the Raymond Concrete Pile Company in the Bay Area, was on a government project in New Mexico or Arizona in 1946 or 1947; Scheibly states at dusk they heard a loud explosion nearby; when they went to investigate they saw the wreckage of a “strange craft” like looking through a fog; they saw three small beings outside the craft, one crawling away from the debris; soon after, military people came to the scene and took over the site; all witnesses were rounded up, driven to a small building where the live alien was delivered in a separate vehicle, separated, and told they witnessed a secret US project that failed and was told not to talk about the incident; the uncle claims he was brainwashed for several hours before being released and he was mad about the cover-up until his death in 1952.
 
-*   [Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p370
+*   _[Retrievals of the Third Kind presented at MUFON 1978, Leon Stringfield](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf), p370_
 
-**(PUBLIC DOMAIN)** - 22 May 1991 — Jacques Vallee states Prince Hans-Adam II, head of state of Liechtenstein, funded a study to determine how many Americans had been abducted by aliens and gave
+**(PUBLIC DOMAIN)** - 22 May 1991 — Jacques Vallée states Prince Hans-Adam II, head of state of Liechtenstein, funded a study to determine how many Americans had been abducted by aliens and gave
 $200,000 to Robert Bigelow for it. Adam II is deeply Catholic, Vallee added, and stated Adam II believed ET controlled humanity’s efforts to conquer space. Hans-Adam grew paranoid and refused to invest another $1.25 million, telling Hal he was “afraid” of the consequences.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/04/uap-research-has-been-well-funded-in.html](https://ufos-scientificresearch.blogspot.com/2019/04/uap-research-has-been-well-funded-in.html)
@@ -1939,9 +1938,9 @@ $200,000 to Robert Bigelow for it. Adam II is deeply Catholic, Vallee added, and
 
 **(PUBLIC DOMAIN)** - July 1991 — A ret. USAF Col. tells ufologist Tim Cooper early UAP were thought to be German, used nuclear power in a way not understood and were composed of metals and plastics not known on Earth. The USAF panicked when it recovered flying discs in the Mojave Desert and New Mexico, he claimed, and transported them to Muroc AFB and Langley; they were lifting bodies that looked like inverted bathtubs that looked like a “pod” or short-range recon probe. Von Braun, Condon, Oppenheimer and Teller worked on scientific research of the crash retrievals he claimed.
 
-The Col. had “no comment” on “who” helped them and suggests it was ET, but doesn’t explain. He states there were other USAF projects besides Blue Book that were UAP related including Project Black Book or Project Black Sky that used advanced cameras and sensors on high altitude aircraft like the X-2, X-15 and U-2, plus cameras on rockets that were launched from White Sands and the Cape to look for UAP. He also claims he heard of a USAF Project White Book that looked into historical UAP sightings including some from the Vatican back to the 15th century; allegedly the Vatican has UAP sighting photos going back to 1915 of all shapes and sizes rumored to be locked in a vault room inside the Vatican Basilica and even the USAF could not get access.
+The Col. had “no comment” on “who” helped them and suggests it was ET, but doesn’t explain. He states there were other USAF projects besides **Blue Book** that were UAP related including **Project Black Book** or **Project Black Sky** that used advanced cameras and sensors on high altitude aircraft like the X-2, X-15 and U-2, plus cameras on rockets that were launched from White Sands and the Cape to look for UAP. He also claims he heard of a USAF Project White Book that looked into historical UAP sightings including some from the Vatican back to the 15th century; allegedly the Vatican has UAP sighting photos going back to 1915 of all shapes and sizes rumored to be locked in a vault room inside the Vatican Basilica and even the USAF could not get access.
 
-He states Talon Gold and Teal Ruby were programs for satellite recon objectives and led to the foundation of the NRO, and raw UAP data was processed by the Technical Reconnaissance Squadrons at NORAD at Ent AFB.
+He states **Talon Gold** and **Teal Ruby** were programs for satellite recon objectives and led to the foundation of the NRO, and raw UAP data was processed by the Technical Reconnaissance Squadrons at NORAD at Ent AFB.
 
 *   [https://www.earthfiles.com/2004/05/16/part-8-ufo-crashretrievals-the-inner-sanctum-status-report-vi-july-1991-by-leonard-h-stringfield/](https://www.earthfiles.com/2004/05/16/part-8-ufo-crashretrievals-the-inner-sanctum-status-report-vi-july-1991-by-leonard-h-stringfield/)
 
@@ -1997,7 +1996,7 @@ Dennis Chavez who told him if he released the information, his station’s licen
 
 **(PUBLIC DOMAIN)** - 1992 — USAF Staff Sgt. Dan Sherman claims he spent 1992-1995 in the USAF training as an ELINT analyst at the NSA, which he claims was a cover as an Intuitive Communicator between humans and extraterrestrials. Sherman claims he was told in 1947, the USG had contact with a Star Visitor Race, the Zetas/Greys; a program was begun in 1960 with the assistance of the Zetas to “genetically manage” a select number of humans to communicate with ET intuitively.
 
-Sherman claims it was called Project Preserve Destiny, and that there are programs above Waived Unacknowledged Special Access Programs known as “grey programs” that consist of human-ET collaborative efforts. Sherman claims these grey programs are given black project covers. Sherman claims at Andrews AFB he was taught to interface with ET and relay those messages to his superiors. He claims an ET he communicated with told him changes were coming to Earth, souls exist, God exists and Star Visitors were influencing Earth civilizations for a long period of time before present day.
+Sherman claims it was called **Project Preserve Destiny**, and that there are programs above Waived Unacknowledged Special Access Programs known as “grey programs” that consist of human-ET collaborative efforts. Sherman claims these grey programs are given black project covers. Sherman claims at Andrews AFB he was taught to interface with ET and relay those messages to his superiors. He claims an ET he communicated with told him changes were coming to Earth, souls exist, God exists and Star Visitors were influencing Earth civilizations for a long period of time before present day.
 
 *   [https://www.drboylan.com/sherman2.html](https://www.drboylan.com/sherman2.html)
 *   [https://www.goodreads.com/en/book/show/910527.Above_Black](https://www.goodreads.com/en/book/show/910527.Above_Black)
@@ -2007,7 +2006,7 @@ Sherman claims it was called Project Preserve Destiny, and that there are progra
 
 **(PUBLIC DOMAIN)** - 9 March 1992 — Maj. Ed Dames also claims aerospace company Alien Technology Transfer asked government contractor Psi-Tech to “do some anti-gravity work.” Some of the vehicles in their possession, he claims, have “very nice technologies” that the people building the B-2 bombers (Northrop Grumman) “would like to have.” Dames claims Psi-Tech “transfer\[s\] the technology.” Dames claims remote viewers were also used to attempt to view the development of the UAP technology by the occupants.
 
-Dames also claims Psi-Tech personnel had an in-house project for ten years on a UAP “site,” suggesting this data was gathered by remote viewers in DIA/USAF/CIA projects before the company was founded. It is possible this site was Iron Mountain in New Mexico, which Jacques Vallee claims he was taken to by Dames, Ron Blackburn and others in 1990 and Maj. Gen. Albert Stubblebine referred to during the ATP Group meetings. Other members of Psi-Tech include David Morehouse, Col. John Alexander, Lyn Buchanan, Paul H. Smith, Mel Riley, Joni Dourif, Dane Spotts, Courtney Brown and Aaron Donahue.
+Dames also claims Psi-Tech personnel had an in-house project for ten years on a UAP “site,” suggesting this data was gathered by remote viewers in DIA/USAF/CIA projects before the company was founded. It is possible this site was Iron Mountain in New Mexico, which Jacques Vallée claims he was taken to by Dames, Ron Blackburn and others in 1990 and Maj. Gen. Albert Stubblebine referred to during the ATP Group meetings. Other members of Psi-Tech include David Morehouse, Col. John Alexander, Lyn Buchanan, Paul H. Smith, Mel Riley, Joni Dourif, Dane Spotts, Courtney Brown and Aaron Donahue.
 
 *   [https://web.archive.org/web/20010123091700/http://www.psitech.net/transcripts/treativ.htm](https://web.archive.org/web/20010123091700/http://www.psitech.net/transcripts/treativ.htm)
 *   [https://files.afu.se/Downloads/Documents/0%20-%20UFO%20Researchers/Grant%20Cameron/Advanced%20Theoretical%20Physics%20WG/Oke%20Shannon/pdf/ATPWG%20-%20notes%20by%20Oke%20Shannon%20-%20SSN%20redacted.pdf](https://files.afu.se/Downloads/Documents/0%20-%20UFO%20Researchers/Grant%20Cameron/Advanced%20Theoretical%20Physics%20WG/Oke%20Shannon/pdf/ATPWG%20-%20notes%20by%20Oke%20Shannon%20-%20SSN%20redacted.pdf)
@@ -2040,7 +2039,7 @@ Riconosciuto claims this knowledge was gained from working at Lear in Reno, NV a
 
 
 
-**(PUBLIC DOMAIN)** - 22 May 1992 — Former consultant to Project Blue Book and eventual BAASS/AAWSAP subcontractor Jacques Vallee writes in his diary that he met with Richard D’Amato. D’Amato at the time was counsel to the Senate Appropriations Committee under Sen. Robert C. Byrd. D’Amato tells Vallee that he looked into triangular UAP like those seen in Belgium from 1989-1990. D’Amato believed the craft were human and the project that makes them was illegal. “No money was ever appropriated for it. Intelligence groups like AFOSI continue to cover, distort, destroy data and generally make it impossible for Congress to find out what’s going on,” D’Amato added.
+**(PUBLIC DOMAIN)** - 22 May 1992 — Former consultant to **Project Blue Book** and eventual **BAASS**/**AAWSAP** subcontractor Jacques Vallée writes in his diary that he met with Richard D’Amato. D’Amato at the time was counsel to the Senate Appropriations Committee under Sen. Robert C. Byrd. D’Amato tells Vallee that he looked into triangular UAP like those seen in Belgium from 1989-1990. D’Amato believed the craft were human and the project that makes them was illegal. “No money was ever appropriated for it. Intelligence groups like AFOSI continue to cover, distort, destroy data and generally make it impossible for Congress to find out what’s going on,” D’Amato added.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/03/c-richard-damato-and-black-ufo-programs.html](https://ufos-scientificresearch.blogspot.com/2019/03/c-richard-damato-and-black-ufo-programs.html)
 *   [https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/](https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/)
@@ -2102,7 +2101,7 @@ Notes made by someone inside OSTP state that Kit Green was involved in briefing 
 >R. Wilson’s alleged testimony (see 16 October 2002) and an unnamed DOD official’s recent comments to Politico (see 16 May 2022).
 
 
-**(PUBLIC DOMAIN)** - 1 August 1993 — The first public experiment for Project MARAUDER is conducted, a USAF Research Laboratory project to develop a plasma railgun. Two years earlier, journalist Danny Casolaro is found dead after investigating the use of Native American reservation land to test rail gun technology. Casolaro alleges Wackenhut Corp. and the Cabazon Indian Reservation used a joint venture to test the advanced weapon on sovereign land to circumvent U.S. law.
+**(PUBLIC DOMAIN)** - 1 August 1993 — The first public experiment for **Project MARAUDER** is conducted, a USAF Research Laboratory project to develop a plasma railgun. Two years earlier, journalist Danny Casolaro is found dead after investigating the use of Native American reservation land to test rail gun technology. Casolaro alleges Wackenhut Corp. and the Cabazon Indian Reservation used a joint venture to test the advanced weapon on sovereign land to circumvent U.S. law.
 
 *   [https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&RN=22057516](https://inis.iaea.org/search/searchsinglerecord.aspx?recordsFor=SingleRecord&RN=22057516)
 *   [https://archive.org/details/casolaro-notebooks/BcciAndMisc/](https://archive.org/details/casolaro-notebooks/BcciAndMisc/)
@@ -2128,7 +2127,7 @@ Notes made by someone inside OSTP state that Kit Green was involved in briefing 
 
 
 
-**(PUBLIC DOMAIN)** - December 1993 — Sgt. Dan Sherman (Daniel L. Sherman) provides a change of station orders form in which he claims represent his transfer from Project Preserve Destiny location 1 to Project Preserve Destiny location 2. His clearance is listed as TS/SCI/SBI as of 3 APR 1990.
+**(PUBLIC DOMAIN)** - December 1993 — Sgt. Dan Sherman (Daniel L. Sherman) provides a change of station orders form in which he claims represent his transfer from **Project Preserve Destiny** location 1 to **Project Preserve Destiny** location 2. His clearance is listed as TS/SCI/SBI as of 3 APR 1990.
 
 Sherman does not provide a description of PPD location 1, only that a Cpt. Stanley was his sole manager on site aware of PPD. All others who worked there worked on USAF ELINT. Sherman uses the same terminal he used for IC comms, and is told he is part of the “first wave” of intcomm personnel.
 
@@ -2150,7 +2149,7 @@ Sherman does not provide a description of PPD location 1, only that a Cpt. Stanl
 
 
 
-**(PUBLIC DOMAIN)** - 1994 — Later AATIP scientist Hal Puthoff states in a presentation in Stockholm that he pitched vacuum fluctuation energy technology to several oil companies in the early 1990s including Pennzoil, Texaco, Tenneco, Marathon and Coastal. Puthoff states the companies told him they would “welcome” vacuum energy technology because oil resources were believed to be dwindling.
+**(PUBLIC DOMAIN)** - 1994 — Later **AATIP** scientist Hal Puthoff states in a presentation in Stockholm that he pitched vacuum fluctuation energy technology to several oil companies in the early 1990s including Pennzoil, Texaco, Tenneco, Marathon and Coastal. Puthoff states the companies told him they would “welcome” vacuum energy technology because oil resources were believed to be dwindling.
 
 *   [https://youtu.be/jJKLFmCvr7k?t=1421](https://youtu.be/jJKLFmCvr7k?t=1421)
 
@@ -2160,14 +2159,14 @@ Sherman does not provide a description of PPD location 1, only that a Cpt. Stanl
 
 **(PUBLIC DOMAIN)** - 1994 — Grant Cameron states NPIC head Arthur Lundahl was rumored to have been the CIA briefing officer on UAP for at least three Presidents, used intelligence satellites to look for UAP and directed analysis of photographic evidence for the 1953 CIA Robertson Panel.
 
-*   2nd Annual UFO Crash Retrieval Conference, p98
+*   _2nd Annual UFO Crash Retrieval Conference_, p98
 
 
 **(PUBLIC DOMAIN)** - 1994 — Former New Mexico State Rep. J. Andrew Kissner states sources within White Sands Proving Ground and Naval Research Lab told him flying discs led to USG personnel deaths in 1947, that 2-4 flying discs were recovered that year, and the craft were processed and analyzed by the Atomic Energy Commission (AEC)’s Los Alamos National Laboratory and its Z Division at Sandia Base. Personnel from the JRDB, MIT, Brookhaven National Laboratory, RAND Corporation, NACA and the Rockefeller Institute also played “major roles” following the 1947 crashes, Kissner stated. He adds that Project Supremacy could have been UAP related, specifically the triangulated radar sites set up in New Mexico in late 1947; he states the 4062nd AISS group was at all three sites and responsible for UAP data collection per AFR 200-2.
 
 Kissner added his sources told him the custody of the flying discs was given to the AEC and its national laboratories by classified Presidential Executive Order in July 1948, with the National Security Council (NSC) serving as overall program coordinator with support from Air Force Systems Command, the Naval Research Laboratory, and the Research and Development Board. Kissner unfortunately did not reveal his sources, which were never vetted. In 1974, the AEC was reorganized into the Energy Research and Development Administration and in 1977, the ERDA was reorganized as part of the Department of Energy (DOE). One year after Kissner’s allegations, the DOE told the GAO it could find no records from 1947 related to UAP crashes.
 
-*   2nd Annual UFO Crash Retrieval Conference Proceedings, November 12-14, 2004 Las Vegas, Nevada
+*   _2nd Annual UFO Crash Retrieval Conference Proceedings_, November 12-14, 2004 Las Vegas, Nevada
 
 >**_Note_**: On 29 January 1947, Secretary of War Robert P. Patterson and Secretary of the Navy James V. Forrestal established the Armed Forces Special Weapons Project (AFSWP), an agency to manage nuclear weapons jointly staffed by the Army and Navy. AFSP and Los Alamos National Laboratory’s Z Division established operations at Sandia Base at that time in New Mexico. It is worth determining if these facilities were ever utilized for UAP research as well, like Kissner suggests, and if elements of UAP research are controlled by AFSP/AEC/ERDA/DOE legacy classification mechanisms.
 
@@ -2175,20 +2174,20 @@ Kissner added his sources told him the custody of the flying discs was given to 
 
 
 
-**(PUBLIC DOMAIN)** - 1994 — Jacques Vallee states a retired executive who served in the US Navy, Edward Dudgeon, tells him he served on the ship DE50 USS Engstrom in the Philadelphia Navy Yard. Dudgeon states he was in the Yard at the same time as the DE173 USS Eldridge, and the Navy was trying to make the ships “invisible to magnetic torpedoes by degaussing the vessels.” Dudgeon states this is a “big secret” not that Eldridge was involved in space/time experiments. Vallee concluded the Philadelphia experiment story was disinformation to protect a very legitimate experiment.
+**(PUBLIC DOMAIN)** - 1994 — Jacques Vallée states a retired executive who served in the US Navy, Edward Dudgeon, tells him he served on the ship DE50 USS Engstrom in the Philadelphia Navy Yard. Dudgeon states he was in the Yard at the same time as the DE173 USS Eldridge, and the Navy was trying to make the ships “invisible to magnetic torpedoes by degaussing the vessels.” Dudgeon states this is a “big secret” not that Eldridge was involved in space/time experiments. Vallee concluded the Philadelphia experiment story was disinformation to protect a very legitimate experiment.
 
 *   [https://ufos-scientificresearch.blogspot.com/2010/08/montauk-uncovered.html](https://ufos-scientificresearch.blogspot.com/2010/08/montauk-uncovered.html)
 
 
 
-**(PUBLIC DOMAIN)** - 1994 — John E Brandenburg, former consultant to the Deep Space Program Science Experiment with the Clementine spacecraft and former ORBITEC, Sandia, Mission Research Corporation and Aerospace Corporation engineer, claims he sees photographs of artificial structures on the dark side of the Moon in this year. Brandenburg claims he sees an image of a mile wide linear structure that looked artificial and “shouldn’t be there.” He states he was told when the Clementine mission was completed “not to interfere” with “an elite department team with the highest security clearance” that analyzed the images taken on the dark side of the Moon.
+**(PUBLIC DOMAIN)** - 1994 — John E Brandenburg, former consultant to the **Deep Space Program Science Experiment** with the Clementine spacecraft and former ORBITEC, Sandia, Mission Research Corporation and Aerospace Corporation engineer, claims he sees photographs of artificial structures on the dark side of the Moon in this year. Brandenburg claims he sees an image of a mile wide linear structure that looked artificial and “shouldn’t be there.” He states he was told when the Clementine mission was completed “not to interfere” with “an elite department team with the highest security clearance” that analyzed the images taken on the dark side of the Moon.
 
 *   [https://www.chinasona.org/Thiaoouba/Moon-backside-alien-structure-ET-base-far-side.html](https://www.chinasona.org/Thiaoouba/Moon-backside-alien-structure-ET-base-far-side.html)
 *   [https://www.sourcewatch.org/index.php/John_E._Brandenburg](https://www.sourcewatch.org/index.php/John_E._Brandenburg)
 
 
 
-**(PUBLIC DOMAIN)** - Early 1994 — Sgt. Dan Sherman claims while at PPD location 1 and performing regular USAF ELINT duties as a cover for periodic Project Preserve Destiny intcomm duties, he receives his first comm from a source alleging to be NHI. The comms were as follows:
+**(PUBLIC DOMAIN)** - Early 1994 — Sgt. Dan Sherman claims while at PPD location 1 and performing regular USAF ELINT duties as a cover for periodic **Project Preserve Destiny** intcomm duties, he receives his first comm from a source alleging to be NHI. The comms were as follows:
 
 “Prepare for information string.”
 
@@ -2200,7 +2199,7 @@ Sherman says the early comms were just numeric and he did not know who at NSA wa
 
 
 
-**(PUBLIC DOMAIN)** - 26 February 1994 — Jacques Vallee and Robert Emenegger talk about a new rumor that mentions Hynek saw autopsies, they say it is disinformation “managed from Washington.” Emenegger states Col. Phil Corso tried to give him a fake photo of an autopsy.
+**(PUBLIC DOMAIN)** - 26 February 1994 — Jacques Vallée and Robert Emenegger talk about a new rumor that mentions Hynek saw autopsies, they say it is disinformation “managed from Washington.” Emenegger states Col. Phil Corso tried to give him a fake photo of an autopsy.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/06/an-alleged-2001-national-institute-for.html](https://ufos-scientificresearch.blogspot.com/2019/06/an-alleged-2001-national-institute-for.html)
 
@@ -2235,10 +2234,10 @@ Residents on the ground corroborate this with reports to local police of multi-c
 
 **(PUBLIC DOMAIN)** - 26 September 1994 — Air Forces Monthly writes on 26 September 1994, an object crash landed on the runway at Boscombe Down, UK, and shortly after, an unmarked civilian registered (CIA?) Boeing 737 and anonymous DC-8 visited the facility and two days later flew to Air Force Plant 42 at Palmdale, CA. They wrote they believed the craft to be a triangular “ASTRA,” Advanced Stealth Technology Reconnaissance Aircraft, the Mach 5+ hypersonic replacement for the SR-71 aka Aurora.
 
-*   Majic Eyes Only, p213
+*   _[Majic Eyes Only](https://www.amazon.com/Majic-Eyes-Only-Ryan-Wood/dp/0977205908), p213_
 
 
-**(PUBLIC DOMAIN)** - 10 December 1994 — Jacques Vallee writes there are two UAP projects being funded by Laurance Rockefeller: one is ran by Steven Greer which collects testimony from government insiders and works on UAP communication projects, and the other is run by Marie Galbraith, charged with obtaining “the best data.” A later entry claims futurist John Petersen’s ideology (see 3 December 1999) is at play in the organizations: “the aliens are here, real good guys, we must be prepared, a revolution is coming, disclosure,” etc.
+**(PUBLIC DOMAIN)** - 10 December 1994 — Jacques Vallée writes there are two UAP projects being funded by Laurance Rockefeller: one is ran by Steven Greer which collects testimony from government insiders and works on UAP communication projects, and the other is run by Marie Galbraith, charged with obtaining “the best data.” A later entry claims futurist John Petersen’s ideology (see 3 December 1999) is at play in the organizations: “the aliens are here, real good guys, we must be prepared, a revolution is coming, disclosure,” etc.
 
 *   [https://www.reddit.com/r/UFOs/comments/oeeocd/jacques_vallee_on_stephen_greer_excerpts_from/](https://www.reddit.com/r/UFOs/comments/oeeocd/jacques_vallee_on_stephen_greer_excerpts_from/)
 
@@ -2259,7 +2258,7 @@ Sherman also suggests the black project that cloaked PPD had to do with noise ca
 
 
 
-**(PUBLIC DOMAIN)** - 31 March 1995 — Scientist Jacques Vallee states he ate lunch with John Petersen at the Garden Court and Petersen told him President Bill Clinton signed an Executive Order giving immunity to Gordon Cooper and Ingo Swann to talk about “what they knew.”
+**(PUBLIC DOMAIN)** - 31 March 1995 — Scientist Jacques Vallée states he ate lunch with John Petersen at the Garden Court and Petersen told him President Bill Clinton signed an Executive Order giving immunity to Gordon Cooper and Ingo Swann to talk about “what they knew.”
 
 *   [https://www.reddit.com/r/UFOs/comments/oeeocd/jacques_vallee_on_stephen_greer_excerpts_from/](https://www.reddit.com/r/UFOs/comments/oeeocd/jacques_vallee_on_stephen_greer_excerpts_from/)
 
@@ -2282,7 +2281,7 @@ Sherman also suggests the black project that cloaked PPD had to do with noise ca
 
 
 
-**(PUBLIC DOMAIN)** - 30 June 1995 — CIA cancels the Star Gate remote viewing program. It encapsulates all previous work done by Gondola Wish (Army INSCOM 1977-1999) with F. Holmes “Skip” Atwater and Murray Watt, Grill Flame (Army INSCOM/AMSAA) with Joe McMoneagle, Ken Bell, Mel Riley, Fernand Guavin, Atwater, Rob Cowart, Tom McNear, Gemma Foreman, Hartleigh Trent and Wat, Center Lane (Army INSCOM) with McMoneagle, Atwater, McNear and Foreman, Dragoon Absorb (Army INSCOM and DIA) with Charlene Shufelt, Paul H. Smith, Lyn Buchanan, Bill Ray, Atwater and McNear, Sun Streak (DIA) with Schufelt, Atwater, Ray, Smith, Buchanan, Gabrielle Pettingell, Riley, David Morehouse, Greg S, Angela D, Gene Lessman, Guavin and Ed Dames, and finally Star Gate (DIA and CIA) with Smith, Buchanan, Pettingell, Riley, Greg S, Angela D, Robin D and Morehouse.
+**(PUBLIC DOMAIN)** - 30 June 1995 — CIA cancels the Star Gate remote viewing program. It encapsulates all previous work done by **Gondola Wish** (Army INSCOM 1977-1999) with F. Holmes “Skip” Atwater and Murray Watt, **Grill Flame** (Army INSCOM/AMSAA) with Joe McMoneagle, Ken Bell, Mel Riley, Fernand Guavin, Atwater, Rob Cowart, Tom McNear, Gemma Foreman, Hartleigh Trent and Wat, **Center Lane** (Army INSCOM) with McMoneagle, Atwater, McNear and Foreman, **Dragoon Absorb** (Army INSCOM and DIA) with Charlene Shufelt, Paul H. Smith, Lyn Buchanan, Bill Ray, Atwater and McNear, **Sun Streak** (DIA) with Schufelt, Atwater, Ray, Smith, Buchanan, Gabrielle Pettingell, Riley, David Morehouse, Greg S, Angela D, Gene Lessman, Guavin and Ed Dames, and finally Star Gate (DIA and CIA) with Smith, Buchanan, Pettingell, Riley, Greg S, Angela D, Robin D and Morehouse.
 
 *   [https://www.remoteviewed.com/rvhistorymap.html](https://www.remoteviewed.com/rvhistorymap.html)
 
@@ -2317,7 +2316,7 @@ Ufologist Grant Cameron later says Bill and Hillary Clinton traveled to Laurence
 
 
 
-**(PUBLIC DOMAIN)** - 7 January 1996 — Robert Bigelow tells Jacques Vallee he is interviewing to hire experts in the area of consciousness on 7 January 1996, including Ron Blackburn and “De Angelo” from SAIC and Larry Lemke, a NASA Ames engineer.
+**(PUBLIC DOMAIN)** - 7 January 1996 — Robert Bigelow tells Jacques Vallée he is interviewing to hire experts in the area of consciousness on 7 January 1996, including Ron Blackburn and “De Angelo” from SAIC and Larry Lemke, a NASA Ames engineer.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html](https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html)
 
@@ -2350,7 +2349,7 @@ Jim Whinnery, Emily Williams Cook, Oak Ridge National Laboratory engineer Theodo
 
 **(PUBLIC DOMAIN)** - 7 August 1996 — NASA holds a press conference declaring “Life on Mars,” stating that rock 84001 shows biological signs of past life. NASA Administrator Daniel Goldin states “It’s an unbelievable day…if this discovery is confirmed, it will surely be one of the most stunning insights into our universe that science has ever uncovered.” Confirmation of 84001 never came, however, and the issue was dropped. Over the following decades, Goldin appeared in several public media programs discussing the possibility of alien life.
 
-Goldin was appointed NASA Administrator on 1 April 992 by President George HW Bush and prior to that, Goldin worked at the Space and Technology Group of TRW for 25 years in Redondo Beach, CA; at TRW STG, Goldin managed advanced projects, some subject to Special Access Program security measures. STG, for example, worked with Hughes Aircraft as the prime contractors for the MILSTAR Program, a global, secure, nuclear-survivable space-based communication system.
+Goldin was appointed NASA Administrator on 1 April 992 by President George HW Bush and prior to that, Goldin worked at the Space and Technology Group of TRW for 25 years in Redondo Beach, CA; at TRW STG, Goldin managed advanced projects, some subject to Special Access Program security measures. STG, for example, worked with Hughes Aircraft as the prime contractors for the **MILSTAR Program**, a global, secure, nuclear-survivable space-based communication system.
 
 *   [https://www.gao.gov/assets/nsiad-86-45s-15.pdf](https://www.gao.gov/assets/nsiad-86-45s-15.pdf)
 *   [https://www.planetary.org/profiles/daniel-goldin](https://www.planetary.org/profiles/daniel-goldin)
@@ -2382,9 +2381,9 @@ CSETI also listed private entities believed to be involved in UAP work: Northrup
 
 
 
-**(PUBLIC DOMAIN)** - 30 August 1996 — USAF Master Sgt. Dan Morris, alleged NRO operative, states: “I became part of a group that would investigate, gather the information, and in the beginning it was still under the Blue Book, Snowbird and different covert programs. I would go interview people who claimed they had seen something and try to convince them they hadn’t seen something or that they were hallucinating. Well, if that didn’t work, another team would come in and give all the threats. And threaten them and their family and so on and so forth. And they would be in charge of discrediting them, making them look foolish and so on and so forth. Now if that didn’t work, then there was another team that put an end to that problem, one way or another.”
+**(PUBLIC DOMAIN)** - 30 August 1996 — USAF Master Sgt. Dan Morris, alleged NRO operative, states: “I became part of a group that would investigate, gather the information, and in the beginning it was still under the **Blue Book**, **Snowbird** and different covert programs. I would go interview people who claimed they had seen something and try to convince them they hadn’t seen something or that they were hallucinating. Well, if that didn’t work, another team would come in and give all the threats. And threaten them and their family and so on and so forth. And they would be in charge of discrediting them, making them look foolish and so on and so forth. Now if that didn’t work, then there was another team that put an end to that problem, one way or another.”
 
->**_Note_**: The term Project Snowbird (Proword: Cetus) shows up in a disputed Project Aquarius document that alleges Snowbird began in 1972 and it was related to the test flight of recovered ET spacecraft in Nevada. It was allegedly operated by USAF/NASA/CIA/MJ12 according to that document.
+>**_Note_**: The term **Project Snowbird** (Proword: Cetus) shows up in a disputed **Project Aquarius** document that alleges **Snowbird** began in 1972 and it was related to the test flight of recovered ET spacecraft in Nevada. It was allegedly operated by USAF/NASA/CIA/MJ12 according to that document.
 >*   [https://web.archive.org/web/20190320103153/https://siriusdisclosure.com/evidence/project-aquarius-documents/](https://web.archive.org/web/20190320103153/https://siriusdisclosure.com/evidence/project-aquarius-documents/)
 
 >**_Note_**: In 2009 an alleged witness “Stein” told ufologist Linda Moulton Howe that he was intimidated by Wackenhut officials who told him not to talk about offensive weapons that attempted to shoot down saucers. The Wackenhut “types” told Stein not to talk publicly about
@@ -2407,14 +2406,14 @@ CSETI also listed private entities believed to be involved in UAP work: Northrup
 
 
 
-**(PUBLIC DOMAIN)** - 1 January 1997 — USAF Sgt. Dan Sherman claims he was recruited into Project Preserve Destiny run by the National Security Agency (NSA). Sherman claims under cover of ELINT training, he worked in Preserve Destiny on establishing communications with non-human entities. Sherman states he was assigned a classified cover mission that obfuscated his actual mission. Sherman’s accounts have never been verified but this structure was confirmed to be in use by the NSA’s “Core Secrets” programs including Sentry Eagle.
+**(PUBLIC DOMAIN)** - 1 January 1997 — USAF Sgt. Dan Sherman claims he was recruited into **Project Preserve Destiny** run by the National Security Agency (NSA). Sherman claims under cover of ELINT training, he worked in **Preserve Destiny** on establishing communications with non-human entities. Sherman states he was assigned a classified cover mission that obfuscated his actual mission. Sherman’s accounts have never been verified but this structure was confirmed to be in use by the NSA’s “Core Secrets” programs including Sentry Eagle.
 
 *   [https://exonews.org/nsa-document-supports-whistleblower-claim-alien-ufo-communication-program/](https://exonews.org/nsa-document-supports-whistleblower-claim-alien-ufo-communication-program/)
 
 
 
 
-**(PUBLIC DOMAIN)** - 13 January 1997 — Col. Phil Corso tells Jacques Vallee he may have been the subject of disinformation, as alleged analyses he received from Walter Reed Hospital showing autopsies of UAP occupants with scaly skin “didn’t seem right.”
+**(PUBLIC DOMAIN)** - 13 January 1997 — Col. Phil Corso tells Jacques Vallée he may have been the subject of disinformation, as alleged analyses he received from Walter Reed Hospital showing autopsies of UAP occupants with scaly skin “didn’t seem right.”
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/06/an-alleged-2001-national-institute-for.html](https://ufos-scientificresearch.blogspot.com/2019/06/an-alleged-2001-national-institute-for.html)
 
@@ -2461,7 +2460,7 @@ The workshop occurred at a time when Salvatore Pais, later inventor of the Navy�
 *   [https://ntrs.nasa.gov/citations/19990023204](https://ntrs.nasa.gov/citations/19990023204)
 *   [https://ntrs.nasa.gov/citations/19990064092](https://ntrs.nasa.gov/citations/19990064092)
 
->**_Note_**: In the early 2000s, a NASA spokeswoman in a conversation between George Schmidt and author Nick Cook in Huntsville, AL, stated Huntsville was where big picture interstellar vision came together. But “breakthrough physics” which would lead to the creation of a “device” capable of high speed interstellar travel was managed by NASA Glenn Research Center at Lewis Field. She stated Marc Mills was in charge of the Breakthrough Propulsion Physics
+>**_Note_**: In the early 2000s, a NASA spokeswoman in a conversation between George Schmidt and author Nick Cook in Huntsville, AL, stated Huntsville was where big picture interstellar vision came together. But “breakthrough physics” which would lead to the creation of a “device” capable of high speed interstellar travel was managed by NASA Glenn Research Center at Lewis Field. She stated Marc Mills was in charge of the **Breakthrough Propulsion Physics**
 >(BPP) program at the time.
 >*   [https://archive.org/details/huntforzeropoint0000cook/page/99/mode/1up](https://archive.org/details/huntforzeropoint0000cook/page/99/mode/1up)
 
@@ -2474,7 +2473,7 @@ Li reportedly left NASA in 1999 to found the company AC Gravity LLC. AC Gravity 
 *   [https://www.sciencedirect.com/science/article/abs/pii/S0921453497014627?via%3Dihub#!](https://www.sciencedirect.com/science/article/abs/pii/S0921453497014627?via%3Dihub#!)
 *   [https://en.wikipedia.org/wiki/Ning_Li_(physicist)](https://en.wikipedia.org/wiki/Ning_Li_(physicist))
 
->**_Note_**: In 2008, AATIP scientist Robert Baker who specialized in high frequency gravitational waves (HFGW) stated he hadn’t heard from Li in “several years.” She was working on HFGWs and superconductors for the US Army at Redstone Arsenal with AC Gravity, and Baker states she “never presented them with a final report” on the contract. Baker did not know where Li went or why she didn’t finish her contract. Baker also states he is working with Fangyu Li of Chongqing University on HFGW research at this time.
+>**_Note_**: In 2008, **AATIP** scientist Robert Baker who specialized in high frequency gravitational waves (HFGW) stated he hadn’t heard from Li in “several years.” She was working on HFGWs and superconductors for the US Army at Redstone Arsenal with AC Gravity, and Baker states she “never presented them with a final report” on the contract. Baker did not know where Li went or why she didn’t finish her contract. Baker also states he is working with Fangyu Li of Chongqing University on HFGW research at this time.
 >
 >In 2019, Baker clarified he was on the Army’s oversight committee for Li’s contract and that Li never delivered a final report not due to nefarious reasons, but because she “didn’t quite get around to it.” Baker states he has communicated with Li since then and she “would play a role” in his current HFGW research.
 >*   [https://www.abovetopsecret.com/forum/thread331108/pg4](https://www.abovetopsecret.com/forum/thread331108/pg4)
@@ -2486,7 +2485,7 @@ Li reportedly left NASA in 1999 to found the company AC Gravity LLC. AC Gravity 
 
 
 
-**(PUBLIC DOMAIN)** - 3 August 1997 — National Reconnaissance Office (NRO) historian Gerald K. Haines publishes what claims to be an extensive report on the CIA’s role in the study of UAP between 1947-1990. Haines says Project Blue Book purposefully covered up NRO overflights of U-2 and SR-71, deeming them unidentifieds or natural phenomena, but provides no evidence. Blue Book head Robert J. Friend states the story is “laughable,” implying that Haines’ report was created to purposefully wash away
+**(PUBLIC DOMAIN)** - 3 August 1997 — National Reconnaissance Office (NRO) historian Gerald K. Haines publishes what claims to be an extensive report on the CIA’s role in the study of UAP between 1947-1990. Haines says **Project Blue Book** purposefully covered up NRO overflights of U-2 and SR-71, deeming them unidentifieds or natural phenomena, but provides no evidence. **Blue Book** head Robert J. Friend states the story is “laughable,” implying that Haines’ report was created to purposefully wash away
 the national security concerns of true UAP. Nonetheless, the news media picks up the NRO report and the concept that there is nothing to UAP circulates, and is promoted by CIA and NRO web properties.
 
 *   [https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf](https://www.cia.gov/readingroom/docs/DOC_0005517742.pdf)
@@ -2516,7 +2515,7 @@ Wilson claims there were 36 “MJ-12” members as of 1994, and this group exist
 *   (VII) Biological antigravity devices involving the human or animal element to achieve weightlessness based on the alleged claims of William Crookes and Russian mirror chamber research.
 *   [https://www.bibliotecapleyades.net/ciencia/secret_projects/project088.htm](https://www.bibliotecapleyades.net/ciencia/secret_projects/project088.htm)
 
-**(PUBLIC DOMAIN)** - 11 January 1998 — Bob Bigelow suggests to Jacques Vallee that he has an inner certainty that a dramatic development (a display by “the phenomenon” or a USG announcement) will happen soon. Bigelow is interested about the consciousness impacts such an event would have.
+**(PUBLIC DOMAIN)** - 11 January 1998 — Bob Bigelow suggests to Jacques Vallée that he has an inner certainty that a dramatic development (a display by “the phenomenon” or a USG announcement) will happen soon. Bigelow is interested about the consciousness impacts such an event would have.
 
 Bigelow was also giving money to John Petersen at the time who was developing “Day After” disclosure scenarios.
 
@@ -2531,7 +2530,7 @@ Bigelow was also giving money to John Petersen at the time who was developing �
 
 
 
-**(PUBLIC DOMAIN)** - August 1998 — Hal Puthoff (Earthtech), Bernard Haisch (Lockheed Martin) and Alfonso Ruedo (California State University) publish a paper for the Lockheed Martin Advanced Technology Center and California State University regarding zero-point energy of the quantum vacuum. The study specifically looked at one or more resonant frequencies that may be associated with quantum vacuum interaction for propulsion purposes. A later paper discloses the program is funded by NASA and independent of the Breakthrough Propulsion Physics program (see August 1997), and began in 1996.
+**(PUBLIC DOMAIN)** - August 1998 — Hal Puthoff (Earthtech), Bernard Haisch (Lockheed Martin) and Alfonso Ruedo (California State University) publish a paper for the Lockheed Martin Advanced Technology Center and California State University regarding zero-point energy of the quantum vacuum. The study specifically looked at one or more resonant frequencies that may be associated with quantum vacuum interaction for propulsion purposes. A later paper discloses the program is funded by NASA and independent of the **Breakthrough Propulsion Physics** program (see August 1997), and began in 1996.
 
 *   [https://www.researchgate.net/publication/2179675_Advances_in_the_proposed_electromagnetic_zero-point_field_theory_of_inertia](https://www.researchgate.net/publication/2179675_Advances_in_the_proposed_electromagnetic_zero-point_field_theory_of_inertia)
 *   [https://link.springer.com/chapter/10.1007/978-94-017-0990-3_21](https://link.springer.com/chapter/10.1007/978-94-017-0990-3_21)
@@ -2593,7 +2592,7 @@ Presently STAC-5 is privately sympathetic to the position of Collins Elite; he r
 
 “This writer remains greatly troubled by STAC decision to continue its relationship with contractors Jamison and Wylie who — according to STAC-5 — are still convinced that the “PARSONS TECHNIQUE” can assist in holding off the deception, infiltration and final invasion. This writer adheres to Collins Elite conclusion based on a reading of the original STAC Reports (I to XI) that any attempt to follow the path of Parsons will only result in a catastrophe of the type warned about in Parsons, von Karman and Goddard: A Door Unlocked.”
 
-“STAC-5 understands this but consistently feels the need to reiterate that situation has gone too far for STAC to back down. STAC-5 also informs that WPAFB sources have had some success using the “PARSONS TECHNIQUE” in achieving spontaneous brief laboratory manifestation of materials very similar to two of those that “fell” at Lincoln County, NM in 1947. STAC-5 is of opinion that if long-term manifestation and stability of materials can be achieved and precise originating point of materials can be determined then this will assist NASA-TZER mission to answer the critical questions posed in our 1991 briefing to STAC, Entry Points — And How Do We Keep Them Closed?”
+“STAC-5 understands this but consistently feels the need to reiterate that situation has gone too far for STAC to back down. STAC-5 also informs that WPAFB sources have had some success using the “PARSONS TECHNIQUE” in achieving spontaneous brief laboratory manifestation of materials very similar to two of those that “fell” at Lincoln County, NM in 1947. STAC-5 is of opinion that if long-term manifestation and stability of materials can be achieved and precise originating point of materials can be determined then this will assist NASA-TZER mission to answer the critical questions posed in our 1991 briefing to STAC, _Entry Points — And How Do We Keep Them Closed?_ ”
 
 “Until final outcome of STAC, NASA-TZER and WPAFB research in this area is known this writer recommends that Collins Elite continues to focus attention on planned disclosure to public of THE THEORY if STAC, NASA-TZER and WPAFB attempts to “close the door” are not satisfactory. This writer concludes that if this hypothetical stage is reached disclosure and intense indoctrination of faith and values at planetary level to radically and rapidly alter current population mindset is the only alternative that may prove successful in thwarting plans of enemy.”
 
@@ -2640,10 +2639,10 @@ The group was later told to fill out an incident form, and told it “never happ
 
 *   [https://www.ufohastings.com/index.php/articles/triangular-shaped-ufo-sighted-at-the-nellis-afb-nuclear-weapons-storage-area](https://www.ufohastings.com/index.php/articles/triangular-shaped-ufo-sighted-at-the-nellis-afb-nuclear-weapons-storage-area)
 
->**_Note_**: Former SSCI Staff Director and former Deputy Assistant Secretary of Defense for Intelligence Christopher K. Mellon published a slideshow from the Advanced Aerospace Threat Identification Program (AATIP) while it was run out of the OUSD(I&S) on his website. The ninth slide describes AATIP’s DoD Threat Scenario, which states: “the science exists for an enemy of the United States to manipulate both physical and cognitive environments in order to penetrate U.S. facilities, influence decision makers, and compromise national security…DoD controls several facilities where activities have been detected.” It is unknown if the 1998 Nellis AFB encounter is one example AATIP was referring to, but it seems probable similar events are driving that statement.
+>**_Note_**: Former SSCI Staff Director and former Deputy Assistant Secretary of Defense for Intelligence Christopher K. Mellon published a slideshow from the Advanced Aerospace Threat Identification Program (**AATIP**) while it was run out of the OUSD(I&S) on his website. The ninth slide describes **AATIP’s** DoD Threat Scenario, which states: “the science exists for an enemy of the United States to manipulate both physical and cognitive environments in order to penetrate U.S. facilities, influence decision makers, and compromise national security…DoD controls several facilities where activities have been detected.” It is unknown if the 1998 Nellis AFB encounter is one example **AATIP** was referring to, but it seems probable similar events are driving that statement.
 >*   [https://mindsublime.blogspot.com/2020/01/advanced-aerospace-threat-and.html](https://mindsublime.blogspot.com/2020/01/advanced-aerospace-threat-and.html)
 
->**_Note_**: Other AATIP slides published on History Channel’s Unidentified: Inside America’s UFO Investigation show correlations were being made between “reported events,” “military facilities” and “nuclear facilit\[ies\] or equipment” in the U.S. and abroad.
+>**_Note_**: Other **AATIP** slides published on History Channel’s Unidentified: Inside America’s UFO Investigation show correlations were being made between “reported events,” “military facilities” and “nuclear facilit\[ies\] or equipment” in the U.S. and abroad.
 >*   [https://preview.redd.it/0f0ad161jyf71.png?width=640&format=png&auto=webp&s=6a9e6971637fc3b20d3ab3935d8cc25c9db08190](https://preview.redd.it/0f0ad161jyf71.png?width=640&format=png&auto=webp&s=6a9e6971637fc3b20d3ab3935d8cc25c9db08190)
 >*   [https://preview.redd.it/fummqo71jyf71.png?width=640&format=png&auto=webp&s=719d42de27ed9ebe8f07f6ca71dcbf1dead03ae0](https://preview.redd.it/fummqo71jyf71.png?width=640&format=png&auto=webp&s=719d42de27ed9ebe8f07f6ca71dcbf1dead03ae0)
 
@@ -2651,7 +2650,7 @@ The group was later told to fill out an incident form, and told it “never happ
 
 
 
-**(PUBLIC DOMAIN)** - November 1998 — An allegedly leaked teletype is given to ufologist Tim Cooper from an anonymous “CIA official.” The document is sent to CIA’s “Weird Desk” among others, classified Top Secret “Jehovah” and discusses several items, including: the assassination of a Russian government source in charge of Project Kohtpoa (the Russian equivalent of USG SDI), tests in Kohtpoa had “hoped for positive contact but was not to be,” Russian source asking USG counterpart if results were
+**(PUBLIC DOMAIN)** - November 1998 — An allegedly leaked teletype is given to ufologist Tim Cooper from an anonymous “CIA official.” The document is sent to CIA’s “Weird Desk” among others, classified Top Secret “Jehovah” and discusses several items, including: the assassination of a Russian government source in charge of **Project Kohtpoa** (the Russian equivalent of USG SDI), tests in Kohtpoa had “hoped for positive contact but was not to be,” Russian source asking USG counterpart if results were
 similar at Area 51/Dreamland, and the statement that “MJ Group” was seeking new funding before the “China problem surfaces.” Alleged funding sources for a clandestine (and possibly illegal) UAP management group were the “33 investors” and the IMF. The accuracy of this document has never been verified.
 
 *   [https://majesticdocuments.com/pdf/jehovah.pdf](https://majesticdocuments.com/pdf/jehovah.pdf)
@@ -2678,9 +2677,9 @@ similar at Area 51/Dreamland, and the statement that “MJ Group” was seeking 
 
 
 
-**(PUBLIC DOMAIN)** - 23 January 1999 — An alleged “Burned memo” from MJ-1 to MJs 2-7 from the JFK era is sent to ufologist Tim Cooper from a source who claims he was a CIA CIA officer who worked for Jim Angleton. He states the memo did not officially exist but he took it from a fire; he also states he believes the files of Project Majestic and Project Jehovah will be pried loose and that the CIA monitors civilian UAP research to keep the community busy with disinformation. He also states the “burned memo” with directives was saved after a President Nixon SCEO ordered all MJ-12 documentation to be destroyed within the Agency.
+**(PUBLIC DOMAIN)** - 23 January 1999 — An alleged “Burned memo” from MJ-1 to MJs 2-7 from the JFK era is sent to ufologist Tim Cooper from a source who claims he was a CIA CIA officer who worked for Jim Angleton. He states the memo did not officially exist but he took it from a fire; he also states he believes the files of **Project Majestic** and **Project Jehovah** will be pried loose and that the CIA monitors civilian UAP research to keep the community busy with disinformation. He also states the “burned memo” with directives was saved after a President Nixon SCEO ordered all MJ-12 documentation to be destroyed within the Agency.
 
-The draft directives themselves state several things including that UAP questions from NSC, JC or President should not be disclosed unless UAP display overtly hostile intent and “full disclosure” is required by law; Project Artichoke and Project MK-ULTRA will be used in “population centers” to assist with MJ Project Spike and Project House Cleaning; and there is a “psyop” component of the MJ group.
+The draft directives themselves state several things including that UAP questions from NSC, JC or President should not be disclosed unless UAP display overtly hostile intent and “full disclosure” is required by law; **Project Artichoke** and **Project MK-ULTRA** will be used in “population centers” to assist with MJ **Project Spike** and **Project House Cleaning**; and there is a “psyop” component of the MJ group.
 
 *   [https://majesticdocuments.com/pdf/burnedmemo-s1-pgs3-9.pdf](https://majesticdocuments.com/pdf/burnedmemo-s1-pgs3-9.pdf)
 *   [https://majesticdocuments.com/pdf/burnedmemo-s1-pgs1-2.pdf](https://majesticdocuments.com/pdf/burnedmemo-s1-pgs1-2.pdf)
@@ -2694,13 +2693,13 @@ The draft directives themselves state several things including that UAP question
 
 
 
-**(PUBLIC DOMAIN)** - 7 July 1999 — An alleged CIA source tells ufologist Tim Cooper the UFO control group ceased to exist in government in 1969 and became privately funded and was identified as Jehovah in 1992 and at one time was called Zodiac. He claims the original MJ-12 was a consolidation of two Pentagon projects Majestic and Jehovah overseen by a group of twelve institutions within military, intelligence and science; the highest classification as of the letter was termed SACRED, a follow-on to terms TRINE and UMBRA, he claims.
+**(PUBLIC DOMAIN)** - 7 July 1999 — An alleged CIA source tells ufologist Tim Cooper the UFO control group ceased to exist in government in 1969 and became privately funded and was identified as **Jehovah** in 1992 and at one time was called **Zodiac**. He claims the original MJ-12 was a consolidation of two Pentagon projects **Majestic** and **Jehovah** overseen by a group of twelve institutions within military, intelligence and science; the highest classification as of the letter was termed SACRED, a follow-on to terms TRINE and UMBRA, he claims.
 
 He states Majestic was a government panel appointed by President Truman to look into extraterrestrial contact and ways of detecting non-terrestrial signals, while Jehovah was a DOD project to back engineer recovered UAP hardware and research the physics of how the craft worked. He states J Robert Oppenheimer was appointed by Vannevar Bush to head Jehovah until the AEC took away his clearance in 1954, and by 1960, the group concluded UAP were a threat to US defenses and could instigate mass paranoia if they gained control of US defenses. In 1960 the source claims Eisenhower approved a joint defense plan written by MJ-12 that in the event the US came under a nuclear attack by the USSR through “EBE deception,” the US would not retaliate with the proposed USAF SIOP.
 
 He also states in 1969, President Nixon was briefed by MJ-12 on UAP and all aspects of EBE problem since 1947, after which Nixon approved a SCEO that required intelligence community to purge all references to MJ-12 in their UAP files and to destroy documents that could connect MJ-12 to the JFK assassination. Recently, he claims the dilemma for those “in the know” is that extra-materialized entities (EMEs) have complete control over UAP and can appear anywhere as anything at any time; they have even deceived USG communication projects using remote viewing, he claims.
 
-Other projects mentioned by him are a CIA Project Environment, which he claims along with Project Medea looked at damage caused by EMEs near nuclear facilities. The prevailing belief of the group is based on materials found in connection with an EME/UAP that a “worldwide invasion” is expected to begin by 2030.
+Other projects mentioned by him are a CIA **Project Environment**, which he claims along with **Project Medea** looked at damage caused by EMEs near nuclear facilities. The prevailing belief of the group is based on materials found in connection with an EME/UAP that a “worldwide invasion” is expected to begin by 2030.
 
 *   [https://majesticdocuments.com/pdf/important_memo.pdf](https://majesticdocuments.com/pdf/important_memo.pdf)
 
@@ -2720,7 +2719,7 @@ non-profit, holds a board meeting with members including former CIA director R. 
 >*   [https://files.afu.se/Downloads/Books/Digitized_by_AFU/Aldrich,%20Jan%20-%20The%20Ghost%20Rockets%20File.pdf#page=137](https://files.afu.se/Downloads/Books/Digitized_by_AFU/Aldrich,%20Jan%20-%20The%20Ghost%20Rockets%20File.pdf#page=137) (page 137)
 >*   [https://www.crunchbase.com/person/john-l--petersen](https://www.crunchbase.com/person/john-l--petersen)
 
->**_Note_**: What makes TAI’s meeting significant is former government personnel were allegedly discussing how to shape the public’s perception of UAP on behalf of a USG client with media industry executives present. John L. Petersen, Chairman of the TAI board, denied Fitts’ allegations and Joe Firmage, another Board member, did not recall the meeting described in the minutes. AATIP scientist Hal Puthoff and AAWSAP contractor Bob Bigelow are also linked to TAI’s Petersen and Firmage, with Jacques Vallee noting the four were connected to a series of futurist talks on UAP in 1999.
+>**_Note_**: What makes TAI’s meeting significant is former government personnel were allegedly discussing how to shape the public’s perception of UAP on behalf of a USG client with media industry executives present. John L. Petersen, Chairman of the TAI board, denied Fitts’ allegations and Joe Firmage, another Board member, did not recall the meeting described in the minutes. **AATIP** scientist Hal Puthoff and **AAWSAP** contractor Bob Bigelow are also linked to TAI’s Petersen and Firmage, with Jacques Vallée noting the four were connected to a series of futurist talks on UAP in 1999.
 >*   [https://medium.com/@throwmasterjohn/jacques-vallees-details-interactions-with-joe-firmage-in-the-late-1990s-a87ecc3c20ca](https://medium.com/@throwmasterjohn/jacques-vallees-details-interactions-with-joe-firmage-in-the-late-1990s-a87ecc3c20ca)
 
 >**_Note_**: In 2017, [Catherine Austin Fitts](https://home.solari.com/) published a paper with a Michigan State University economist that found $21 trillion in unauthorized spending in the departments of Defense and Housing and Urban Development between 1998 and 2015. A university press release states the DODIG disabled key documents showing unsupported spending after the paper was published, and soon after, the DOD announced its first ever department-wide independent audit in its
@@ -2751,11 +2750,11 @@ The Electric Power Research Institute (EPRI)’s Tom Passell tells Plotkin ERAB 
 
 **(PUBLIC DOMAIN)** - 31 July 1999 — EarthTech and former CIA scientist Hal Puthoff emails former CIA Life Sciences Division analyst Kit Green and his life partner Kristin B Zimmerman about a story published in a UFO magazine by a pseudonym “Greg Halifax” about a UAP crash retrieval personnel member pseudonym “Sedge Masters.”
 
-The story refers to Masters having participated in a UAP crash retrievals group known as “Zodiac,” of which Puthoff states “we have reason to believe the set of stories are only slightly fictionalized versions of a source’s experiences writing up records for the archives at WPAFB.” Puthoff asks Green if he’s ever heard of Zodiac, “which is supposed to be the true name,” not MJ-12 or Majestic
+The story refers to Masters having participated in a UAP crash retrievals group known as “**Zodiac**,” of which Puthoff states “we have reason to believe the set of stories are only slightly fictionalized versions of a source’s experiences writing up records for the archives at WPAFB.” Puthoff asks Green if he’s ever heard of **Zodiac**, “which is supposed to be the true name,” not MJ-12 or Majestic
 
 12\. At the time, Green was the Chief Technology Officer of General Motors Asia Pacific, while Zimmerman was with GM Research and Development in the area of advanced design.
 
-The Sedge Masters story itself describes the “blackest of American covert operations” that deals directly with UAP, collated from several different sources, and states a UAP management program exists that falls outside of the normal range of program activities and only members of the intelligence community with specific psychological profiles are selected. It states the program was called Zodiac, and had different subdivisions corresponding with different zodiacal signs, including Aquarius. It states the CIA had control over Zodiac as of the 1980s and between 1947-1980s, Zodiac recovered eleven UAP craft of different sizes and quality, some of which included live occupants of Nordic, small hairy, and tall “grey aliens” and short “grey aliens” appearance. Locations of recoveries listed include New Mexico, off the coast of Denmark and the Midwest.
+The Sedge Masters story itself describes the “blackest of American covert operations” that deals directly with UAP, collated from several different sources, and states a UAP management program exists that falls outside of the normal range of program activities and only members of the intelligence community with specific psychological profiles are selected. It states the program was called **Zodiac**, and had different subdivisions corresponding with different zodiacal signs, including Aquarius. It states the CIA had control over **Zodiac** as of the 1980s and between 1947-1980s, **Zodiac** recovered eleven UAP craft of different sizes and quality, some of which included live occupants of Nordic, small hairy, and tall “grey aliens” and short “grey aliens” appearance. Locations of recoveries listed include New Mexico, off the coast of Denmark and the Midwest.
 
 In the story, an unnamed Col. tells a psychologist that during one crash recovery, a larger UAP “ship” appeared above the crash site and telepathically told the recovery team not to recover the craft. The team then experienced 90 minutes of missing time and were not able to share that information with staff at WPAFB until they were telepathically ‘released’ and able to do so; the psychologist states “the little gray bastards have thought control and empathy projection.” The story also states a file room at WPAFB has over 2 million accounts of UAP sightings by military personnel and US civilians, most of which were never investigated.
 
@@ -2764,17 +2763,17 @@ In the story, an unnamed Col. tells a psychologist that during one crash recover
 *   [https://ufos-scientificresearch.blogspot.com/2019/06/an-alleged-2001-national-institute-for.html](https://ufos-scientificresearch.blogspot.com/2019/06/an-alleged-2001-national-institute-for.html)
 *   [https://www.johnclarkson.com.au/images/downloads/DrGreen_Article.pdf](https://www.johnclarkson.com.au/images/downloads/DrGreen_Article.pdf)
 
->**_Note_**: Zodiac is described as a project “able to skirt the military chain of command with impunity, spend money earmarked for other projects, and generally do whatever it damn well pleased, all in the name of UFOs and their importance to National Security.”
+>**_Note_**: **Zodiac** is described as a project “able to skirt the military chain of command with impunity, spend money earmarked for other projects, and generally do whatever it damn well pleased, all in the name of UFOs and their importance to National Security.”
 
->**_Note_**: Ufologist Richard Dolan states he was able to figure out who actually wrote the Zodiac story, who was behind the pseudonym “Sedge Masters.” Dolan claims it is an attorney from defense contractor TRW, and that they may have actually spent time in Halifax, Canada, or may be from there (Halifax is mentioned as the location of a safehouse in the story). Dolan does not give the name of the TRW attorney he believes wrote the story and disclosed the name “Zodiac” for the first time publicly.
+>**_Note_**: Ufologist Richard Dolan states he was able to figure out who actually wrote the **Zodiac** story, who was behind the pseudonym “Sedge Masters.” Dolan claims it is an attorney from defense contractor TRW, and that they may have actually spent time in Halifax, Canada, or may be from there (Halifax is mentioned as the location of a safehouse in the story). Dolan does not give the name of the TRW attorney he believes wrote the story and disclosed the name “**Zodiac**” for the first time publicly.
 >*   [https://youtu.be/sEFKaa2mI7M?t=1070](https://youtu.be/sEFKaa2mI7M?t=1070)
 
->**_Note_**: TRW is mentioned again in the diaries of ufologist Jacques Vallee, who states that former CIA analyst Kit Green told him Eric Walker stated live aliens were retrieved, studied and “allowed to blend into” the human population. Walker was the dean of engineering at Harvard, former head of the JASONs, chairman of the Defense Science Board, senior advisor to the President and former chairman of TRW.
+>**_Note_**: TRW is mentioned again in the diaries of ufologist Jacques Vallée, who states that former CIA analyst Kit Green told him Eric Walker stated live aliens were retrieved, studied and “allowed to blend into” the human population. Walker was the dean of engineering at Harvard, former head of the JASONs, chairman of the Defense Science Board, senior advisor to the President and former chairman of TRW.
 >*   [https://www.reddit.com/r/UFOs/comments/odpva9/jacques_vallee_on_christopher_kit_green_i_of_ii/](https://www.reddit.com/r/UFOs/comments/odpva9/jacques_vallee_on_christopher_kit_green_i_of_ii/)
 
 >**_Note_**: TRW acquired BDM Intl. in 1997 (see October 1989 and see notes on ATP Group). Northrop Grumman acquired TRW in 2002.
 
->**_Note_**: In 2021, former AATIP head Lue Elizondo was asked about Zodiac, to which he replied he had come across the name of the organization, but that he could not comment on it further.
+>**_Note_**: In 2021, former **AATIP** head Lue Elizondo was asked about **Zodiac**, to which he replied he had come across the name of the organization, but that he could not comment on it further.
 >*   [https://www.reddit.com/r/UFOs/comments/niagdn/cant_seem_to_find_any_information_on_the_secret/](https://www.reddit.com/r/UFOs/comments/niagdn/cant_seem_to_find_any_information_on_the_secret/)
 
 
@@ -2786,13 +2785,13 @@ In the story, an unnamed Col. tells a psychologist that during one crash recover
 
 
 
-**(PUBLIC DOMAIN)** - 24 January 2000 — Jacques Vallee writes that Bob Bigelow calls him and tells him Jim West, president of tech company SARA, had the idea to engage Congress to stimulate the creation of a new Project Blue Book. John Alexander and others at NIDS are seemingly made aware of the effort, as is Kathleen Hollingsworth, an assistant to Congressman Dana Rohrabacher.
+**(PUBLIC DOMAIN)** - 24 January 2000 — Jacques Vallée writes that Bob Bigelow calls him and tells him Jim West, president of tech company SARA, had the idea to engage Congress to stimulate the creation of a new **Project Blue Book**. John Alexander and others at NIDS are seemingly made aware of the effort, as is Kathleen Hollingsworth, an assistant to Congressman Dana Rohrabacher.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 20 February 2000 — Jacques Vallee states millionaire Henry Dakin owns a
+**(PUBLIC DOMAIN)** - 20 February 2000 — Jacques Vallée states millionaire Henry Dakin owns a
 building that offers low rent to paranormal groups and projects. Joe Firmage’s ISSO is there, which houses former NASA official Creon Levitt who works on “free energy” space propulsion concepts. Vallee also states “some Russian genius” showed up with stories of a device that could propel itself without visible support.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
@@ -2800,7 +2799,7 @@ building that offers low rent to paranormal groups and projects. Joe Firmage’s
 
 
 
-**(PUBLIC DOMAIN)** - 8 May 2000 — Jacques Vallee states he, Eric Davis and Hal Puthoff discuss an “attorney friend” of a former TRW employee who gathered her testimony that claims she was part of a secret reverse-engineering project called Zodiac. Eric has compiled his own file but it is not verifiable yet. (Note: That attorney is later suggested to be former Hughes Aircraft counsel Jeffrey W Griffith, and the Zodiac participant is suggested to be Mary Elizabeth Elliot).
+**(PUBLIC DOMAIN)** - 8 May 2000 — Jacques Vallée states he, Eric Davis and Hal Puthoff discuss an “attorney friend” of a former TRW employee who gathered her testimony that claims she was part of a secret reverse-engineering project called **Zodiac**. Eric has compiled his own file but it is not verifiable yet. (Note: That attorney is later suggested to be former Hughes Aircraft counsel Jeffrey W Griffith, and the **Zodiac** participant is suggested to be Mary Elizabeth Elliot).
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -2812,7 +2811,7 @@ building that offers low rent to paranormal groups and projects. Joe Firmage’s
 
 
 
-**(PUBLIC DOMAIN)** - 9 May 2000 — Jacques Vallee states Hal Puthoff tells him about a “story” he heard regarding a SecDef black project audit. No timeframe is given. An unnamed Gen. who was Assistant SecDef at the time found a discrepancy of “only” a few million dollars and received a briefing; it was low-level maintenance work at a private contractor entrusted with keeping “some material” from prying eyes. He was told the material was from a crashed UFO but was not being tested at the moment. On 9 June 2001 John Petersen of the Arlington Institute tells Vallee the same story.
+**(PUBLIC DOMAIN)** - 9 May 2000 — Jacques Vallée states Hal Puthoff tells him about a “story” he heard regarding a SecDef black project audit. No timeframe is given. An unnamed Gen. who was Assistant SecDef at the time found a discrepancy of “only” a few million dollars and received a briefing; it was low-level maintenance work at a private contractor entrusted with keeping “some material” from prying eyes. He was told the material was from a crashed UFO but was not being tested at the moment. On 9 June 2001 John Petersen of the Arlington Institute tells Vallee the same story.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -2835,13 +2834,13 @@ McDonelll-Douglas exotic technology employee, states a friend of his in Ann Arbo
 
 
 
-**(PUBLIC DOMAIN)** - 24 February 2001 — A story is relayed to Jacques Vallee about cattle mutilations and a US Army black program. In 1977, Deputy Sheriff Jerry Simons under orders from Sheriff Darius Carter tracked three helicopters involved in a mutilation incident to Logan-Cache Airport. As Simmons tried to block a companion plane, he felt threatened by the helicopters and a man who got out of one of the helicopters. There was a US Army marking on the bottom of one helicopter but they were otherwise unmarked; the man proclaimed he had no identification and wasn’t going to provide anything, confidently smiling when the sheriff told him to stop the mutilations. Kit Green reacted to the report while Vallee heard it and suggested it was a USG black operation.
+**(PUBLIC DOMAIN)** - 24 February 2001 — A story is relayed to Jacques Vallée about cattle mutilations and a US Army black program. In 1977, Deputy Sheriff Jerry Simons under orders from Sheriff Darius Carter tracked three helicopters involved in a mutilation incident to Logan-Cache Airport. As Simmons tried to block a companion plane, he felt threatened by the helicopters and a man who got out of one of the helicopters. There was a US Army marking on the bottom of one helicopter but they were otherwise unmarked; the man proclaimed he had no identification and wasn’t going to provide anything, confidently smiling when the sheriff told him to stop the mutilations. Kit Green reacted to the report while Vallee heard it and suggested it was a USG black operation.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 3 March 2001 — Eric Davis tells Jacques Vallee the story of Zodiac, which allegedly involved real people like Dale Graff who ran RV experiments at WPAFB and Jerry Rosenberg of IDA. There are a reported ten Velobind volume at WPAFB with Roswell data concerning two crashed “manta ray” shaped craft, recovered bodies, foil material and a special study done by TRW. Eric has a file on Zodiac.
+**(PUBLIC DOMAIN)** - 3 March 2001 — Eric Davis tells Jacques Vallée the story of **Zodiac**, which allegedly involved real people like Dale Graff who ran RV experiments at WPAFB and Jerry Rosenberg of IDA. There are a reported ten Velobind volume at WPAFB with Roswell data concerning two crashed “manta ray” shaped craft, recovered bodies, foil material and a special study done by TRW. Eric has a file on **Zodiac**.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -2866,7 +2865,7 @@ Phillips also said he started a company Light City Technologies Inc. where he me
 
 
 
-**(PUBLIC DOMAIN)** - 5 May 2001 — Jacques Vallee meets with a group including Jim Westwood, an intelligence consultant who had done extensive work for Hal Puthoff. Westwood claims to know that the MJ-12 documents are disinformation and suggests Roswell was a counterintelligence exercise designed to flush out spies. Westwood tells him a month later that “Puthoff really wants to find the hardware,” despite Westwood believing none such hardware actually existed. Westwood states an Operation Shocker used disinformation including false UAP data to trick Soviet Russia to believe the US had capabilities it didn’t; double agents were used for this.
+**(PUBLIC DOMAIN)** - 5 May 2001 — Jacques Vallée meets with a group including Jim Westwood, an intelligence consultant who had done extensive work for Hal Puthoff. Westwood claims to know that the MJ-12 documents are disinformation and suggests Roswell was a counterintelligence exercise designed to flush out spies. Westwood tells him a month later that “Puthoff really wants to find the hardware,” despite Westwood believing none such hardware actually existed. Westwood states an **Operation Shocker** used disinformation including false UAP data to trick Soviet Russia to believe the US had capabilities it didn’t; double agents were used for this.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -2903,14 +2902,14 @@ Wright-Patterson. The cases typically involve slow leisurely movement or triangl
 
 
 
-**(PUBLIC DOMAIN)** - 17 December 2001 — Colm Keller tells Jacques Vallee he finds a rare Project Blue Book file that shows Howard Cross from Battelle reported he witnessed a UFO on 2 October 1951 some 14 months before he wrote the Pentacle Memorandum. Cross was involved in titanium metallurgy as far back as Vannevar Bush’s war research.
+**(PUBLIC DOMAIN)** - 17 December 2001 — Colm Keller tells Jacques Vallée he finds a rare **Project Blue Book** file that shows Howard Cross from Battelle reported he witnessed a UFO on 2 October 1951 some 14 months before he wrote the Pentacle Memorandum. Cross was involved in titanium metallurgy as far back as Vannevar Bush’s war research.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
 
-**(PUBLIC DOMAIN)** - 2002 — Author Nick Cook states Hal Puthoff (eventual AATIP scientist, see 25 March 2022) tells him the “evidence is pretty solid” that there are black budget aerospace programs that contravene white world understanding of the laws of physics. Puthoff states the most likely candidate for exotic propulsion is the perturbation of space-time by understanding the link between electromagnetism and gravity.
+**(PUBLIC DOMAIN)** - 2002 — Author Nick Cook states Hal Puthoff (eventual **AATIP** scientist, see 25 March 2022) tells him the “evidence is pretty solid” that there are black budget aerospace programs that contravene white world understanding of the laws of physics. Puthoff states the most likely candidate for exotic propulsion is the perturbation of space-time by understanding the link between electromagnetism and gravity.
 
 *   [https://archive.org/details/huntforzeropoint0000cook/mode/1up](https://archive.org/details/huntforzeropoint0000cook/mode/1up)
 
@@ -2918,7 +2917,7 @@ Wright-Patterson. The cases typically involve slow leisurely movement or triangl
 
 
 
-**(PUBLIC DOMAIN)** - 10 January 2002 — Richard Niemtzow tells Jacques Vallee he was recruited to join a secret McDonnell study on UAP but declined. This was in the 1970s.
+**(PUBLIC DOMAIN)** - 10 January 2002 — Richard Niemtzow tells Jacques Vallée he was recruited to join a secret McDonnell study on UAP but declined. This was in the 1970s.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -2931,14 +2930,14 @@ Wright-Patterson. The cases typically involve slow leisurely movement or triangl
 
 
 
-**(PUBLIC DOMAIN)** - 2 March 2002 — Kit Green tells Jacques Vallee there was a network of sensors he learned of while at CIA that monitored UAP but were camouflaged as environmental monitoring stations.
+**(PUBLIC DOMAIN)** - 2 March 2002 — Kit Green tells Jacques Vallée there was a network of sensors he learned of while at CIA that monitored UAP but were camouflaged as environmental monitoring stations.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
 
-**(PUBLIC DOMAIN)** - 5 March 2002 — Kit Green writes to Jacques Vallee and tells him he spoke with an Air Force physician, Brig. Gen. Donald Flickinger, MD. Flickinger told Green in 1994 that years earlier he saw “alien autopsy” materials when he was the first Air Force MD to make the rank of General Officer. Flickinger worked on manned spaceflight projects and after that, worked in the VIP health program in Green’s division of the CIA. Flickinger claims the autopsy materials were real, something Green also says: “I have never believed the notes were hoaxes.” Vallee writes this is credible evidence of a secret program with access to biological materials. Days later, Eric Davis says a Lt. Col. Dr. Robert Parvin Williams is alleged to have participated in an “alien dissection”; Puthoff also gives the names Dr. Robert Crowley and Col. John Grime.
+**(PUBLIC DOMAIN)** - 5 March 2002 — Kit Green writes to Jacques Vallée and tells him he spoke with an Air Force physician, Brig. Gen. Donald Flickinger, MD. Flickinger told Green in 1994 that years earlier he saw “alien autopsy” materials when he was the first Air Force MD to make the rank of General Officer. Flickinger worked on manned spaceflight projects and after that, worked in the VIP health program in Green’s division of the CIA. Flickinger claims the autopsy materials were real, something Green also says: “I have never believed the notes were hoaxes.” Vallee writes this is credible evidence of a secret program with access to biological materials. Days later, Eric Davis says a Lt. Col. Dr. Robert Parvin Williams is alleged to have participated in an “alien dissection”; Puthoff also gives the names Dr. Robert Crowley and Col. John Grime.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -2959,33 +2958,33 @@ He also states he knows the name and last location of a senior officer who had f
 *   [http://jnaudin.free.fr/lifters/main.htm](http://jnaudin.free.fr/lifters/main.htm)
 
 >**_Note_**: There are only so many anti gravity experts in the United States. Were any of them working on UAP-related projects using their public research as cover? Cameron referenced
->UFOs in a press release in 2004. Haisch has reference them before. Puthoff participated in the Pentagon’s AATIP program studying UAP and advised the ATP Group at BDM Intl. on UAP from the perspective of the CIA’s remote viewing program. Did any of these scientists listed above hold unexpected clearances during the last three decades when they would have worked on antigravity programs?
+>UFOs in a press release in 2004. Haisch has reference them before. Puthoff participated in the Pentagon’s **AATIP** program studying UAP and advised the ATP Group at BDM Intl. on UAP from the perspective of the CIA’s remote viewing program. Did any of these scientists listed above hold unexpected clearances during the last three decades when they would have worked on antigravity programs?
 
 >**_Note_**: Journalist Ross Coulthart publicly states (see May/June 2022) Huntsville, Alabama is a location where ongoing deep black antigravity work is being done. Unknown if it is a legal effort or done using a control/funding mechanism outside of government oversight. Several of those researchers listed above have worked in Huntsville (Campbell, Li, Cameron).
 
 
 
-**(PUBLIC DOMAIN)** - 6 May 2002 — Jacques Vallee writes that UFO research has almost certainly been privatized in the US outside of government circles. He asks an anonymous colleague at the NIDS offices on South Polaris in Las Vegas where the effort was thought to exist. “Lockheed?” he asks, to which the colleague responds: “No, I rather suspect the Carlisle Group.”
+**(PUBLIC DOMAIN)** - 6 May 2002 — Jacques Vallée writes that UFO research has almost certainly been privatized in the US outside of government circles. He asks an anonymous colleague at the NIDS offices on South Polaris in Las Vegas where the effort was thought to exist. “Lockheed?” he asks, to which the colleague responds: “No, I rather suspect the Carlisle Group.”
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 11 May 2002 — Col. John Alexander tells Jacques Vallee he believes the Holloman UAP landing was a false cover story for a malfunctioning A-12 prototype.
-
-*   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
-
-
-
-
-**(PUBLIC DOMAIN)** - 29 June 2002 — Commandant Jean Kisling tells Jacques Vallee that in the early 1950s he met “an older man with a long beard” on a private flight from New York to Paris. The man told Kisling he was with several colleagues to travel to Eastern European countries including the USSR to discuss UFOs. The man then allegedly told Kisling he was from a “secret Pentagon office” that had recovered “out of this world” material from a crash near the Mexican border close to El Paso. No other details were given.
+**(PUBLIC DOMAIN)** - 11 May 2002 — Col. John Alexander tells Jacques Vallée he believes the Holloman UAP landing was a false cover story for a malfunctioning A-12 prototype.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
 
-**(PUBLIC DOMAIN)** - 29 July 2002 — BBC News publishes a story that claims researchers at Boeing are using the work of Russian scientist Eugene Podkletnov (see 4 February 2020) to create an antigravity device. BBC reports the project is run in “top secret” by Boeing Phantom Works, and states documents they obtained show it occurs in a Project GRASP (Gravity Research Applied to Space Propulsion).
+**(PUBLIC DOMAIN)** - 29 June 2002 — Commandant Jean Kisling tells Jacques Vallée that in the early 1950s he met “an older man with a long beard” on a private flight from New York to Paris. The man told Kisling he was with several colleagues to travel to Eastern European countries including the USSR to discuss UFOs. The man then allegedly told Kisling he was from a “secret Pentagon office” that had recovered “out of this world” material from a crash near the Mexican border close to El Paso. No other details were given.
+
+*   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
+
+
+
+
+**(PUBLIC DOMAIN)** - 29 July 2002 — BBC News publishes a story that claims researchers at Boeing are using the work of Russian scientist Eugene Podkletnov (see 4 February 2020) to create an antigravity device. BBC reports the project is run in “top secret” by Boeing Phantom Works, and states documents they obtained show it occurs in a **Project GRASP** (Gravity Research Applied to Space Propulsion).
 
 Boeing denies it is funding the project with company money, and then states it cannot comment on GRASP or “black projects.”
 
@@ -2994,7 +2993,7 @@ Boeing denies it is funding the project with company money, and then states it c
 
 
 
-**(PUBLIC DOMAIN)** - 29 July 2002 — Jane’s Defense Weekly reports Boeing Project GRASP documents it obtains state “if gravity modification is real, it will alter the entire aerospace business.” GRASP’s objective is to explore anti-gravity and evaluate Eugene Podkletnov’s experiments. Boeing
+**(PUBLIC DOMAIN)** - 29 July 2002 — Jane’s Defense Weekly reports Boeing **Project GRASP** documents it obtains state “if gravity modification is real, it will alter the entire aerospace business.” GRASP’s objective is to explore anti-gravity and evaluate Eugene Podkletnov’s experiments. Boeing
 states this technology could impact space launch systems, artificial gravity on spacecraft, aircraft propulsion and fuelless electricity generation.
 
 GRASP documents also state the work could be engineered into a radical weapon; high-power experiments using an “impulse gravity generator” can produce a beam of “gravity-like” energy that can exert instantaneous force of 1,000g on any object, enough to vaporize it. Boeing GRASP documents state its examination of Podkletnov’s work show a gravity beam laboratory in Russia can already repel objects up to 200 kilometers away, something that could be used as a ballistic missile shield or anti-satellite weapon.
@@ -3005,13 +3004,13 @@ Boeing attempted to work with Podkletnov directly but were not allowed to due to
 
 
 
-**(PUBLIC DOMAIN)** - 1 September 2002 — Jacques Vallee states a “Brian and Tina in Arizona” tell him at a meeting at NARCAP head Dick Haines’ house that they saw a large collection of UFO and USO files at Norton AFB in March 1985. They claim many reports were from the Navy and showed objects coming out of the ocean. They were told they would be taken to see “something” in a hangar at Edwards AFB but it never materialized.
+**(PUBLIC DOMAIN)** - 1 September 2002 — Jacques Vallée states a “Brian and Tina in Arizona” tell him at a meeting at NARCAP head Dick Haines’ house that they saw a large collection of UFO and USO files at Norton AFB in March 1985. They claim many reports were from the Navy and showed objects coming out of the ocean. They were told they would be taken to see “something” in a hangar at Edwards AFB but it never materialized.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 16 October 2002 — EarthTech International employee Dr. Eric Davis, author of several AATIP products years later, allegedly meets with VADM Thomas R. Wilson in a car outside of EG&G Special Projects in Las Vegas. Davis transcribes the interaction where he was told the following: VADM Wilson found records of a UAP reverse engineering program using technology “not of this Earth,” it was protected by a special agreement between the DOD Special Access Program Oversight Committee (SAPOC)’s Senior Review Group (SRG) and a large defense contractor he would not disclose.
+**(PUBLIC DOMAIN)** - 16 October 2002 — EarthTech International employee Dr. Eric Davis, author of several **AATIP** products years later, allegedly meets with VADM Thomas R. Wilson in a car outside of EG&G Special Projects in Las Vegas. Davis transcribes the interaction where he was told the following: VADM Wilson found records of a UAP reverse engineering program using technology “not of this Earth,” it was protected by a special agreement between the DOD Special Access Program Oversight Committee (SAPOC)’s Senior Review Group (SRG) and a large defense contractor he would not disclose.
 
 Wilson states Gen. Michael Ward tells him to go to a special projects record group in OUSDAT files not belonging to usual SAP, but rather a group of special legacy holdover programs from before SAP restructuring efforts of the early 1990s. Wilson has this confirmed by OUSDAT officer Paul Kaminski, Director of SAPCO Brig. Gen. Mike Kostelnik and SecDef William J. Perry that the special records group exists and is UAP related. It is a special subset of waived carve-out SAPs obfuscated in the records by cover SAPs containing false descriptions. Wilson seemingly narrows down four UAP related SAPs and has these confirmed by Kaminski, Kostelnik and Perry, who tell him he has the correct contractor, only described as an undisclosed aerospace contractor, “one of the top ones in the US with intelligence in its portfolio.” Wilson states Perry wanted an investigation into cost overruns at the programs but was told to drop it by an undisclosed party.
 
@@ -3060,9 +3059,9 @@ Members of the commission include George W Bush senior advisor on science, space
 
 
 
-**(PUBLIC DOMAIN)** - 22 March 2003 — Stanford professor Peter Sturrock confides to Jacques Vallee that he believes Hal Puthoff’s work on zero point energy is full of “circular arguments.” Sturrock mentions Puthoff points to the significance of the ratio e/m but failed to see that he’s also redefining mass. Sturrock says he’s sent Bernard Haisch at Lockheed Martin six questions like that but Haisch never responded. Vallee says he fails to understand Puthoff’s argument as well.
+**(PUBLIC DOMAIN)** - 22 March 2003 — Stanford professor Peter Sturrock confides to Jacques Vallée that he believes Hal Puthoff’s work on zero point energy is full of “circular arguments.” Sturrock mentions Puthoff points to the significance of the ratio e/m but failed to see that he’s also redefining mass. Sturrock says he’s sent Bernard Haisch at Lockheed Martin six questions like that but Haisch never responded. Vallee says he fails to understand Puthoff’s argument as well.
 
-**(PUBLIC DOMAIN)** - 3 May 2003 — Kit Green tells Jacques Vallee that a rock from Socorro, NM that allegedly had traces of metal abrasions from the landing gear of a UFO was analyzed at NASA-Goddard as early as 1964. The metal consisted of zinc and iron in an unusual ratio. Green says the samples arrived in CIA possession in 1982 and re-analyzed at Los Alamos, to which it was concluded it was an
+**(PUBLIC DOMAIN)** - 3 May 2003 — Kit Green tells Jacques Vallée that a rock from Socorro, NM that allegedly had traces of metal abrasions from the landing gear of a UFO was analyzed at NASA-Goddard as early as 1964. The metal consisted of zinc and iron in an unusual ratio. Green says the samples arrived in CIA possession in 1982 and re-analyzed at Los Alamos, to which it was concluded it was an
 
 aluminum-titanium alloy not from Earth. In 1992, Green used resources at General Motors (while serving as executive director of materials research) to study the sample. Green’s work at GM corroborated the material was titanium and aluminum.
 
@@ -3084,7 +3083,7 @@ aluminum-titanium alloy not from Earth. In 1992, Green used resources at General
 >*   [https://www.jpost.com/omg/former-israeli-space-security-chief-says-aliens-exist-humanity-not-ready-651405](https://www.jpost.com/omg/former-israeli-space-security-chief-says-aliens-exist-humanity-not-ready-651405)
 
 
-**(PUBLIC DOMAIN)** - 11 June 2003 — NASA engineer Larry Lemke tells Lockheed scientist Bernard Haisch, as relayed to Jacques Vallee, that Lemke’s father worked on advanced hardware that “seemed to have come from beyond Earth.” Lemke and other unnamed sources tell Haisch that there are now four projects dealing with UAP matters, dispersed among USG contractor facilities.
+**(PUBLIC DOMAIN)** - 11 June 2003 — NASA engineer Larry Lemke tells Lockheed scientist Bernard Haisch, as relayed to Jacques Vallée, that Lemke’s father worked on advanced hardware that “seemed to have come from beyond Earth.” Lemke and other unnamed sources tell Haisch that there are now four projects dealing with UAP matters, dispersed among USG contractor facilities.
 
 **(PUBLIC DOMAIN)** - July 2003 — Civilian Dion Fuller claims he met “Lee” at an apartment complex in Pacific Beach, CA, after he had allegedly gone AWOL from nearby Camp Pendleton, stolen 25 pairs of night vision goggles, a pistol from Iraq, a DOD laptop and an entire truck; Fuller states Lee scrolled through allegedly classified files on the laptop in front of him marked TOP SECRET and soon after, Fuller claims three NCIS agents arrived and searched the premises, detained him for six days and threatened him before letting him go.
 
@@ -3092,17 +3091,17 @@ In the following months, Fuller claims he was followed by military-looking men w
 
 SE4JPL (white Toyota), 5BEA709 (Escape), 4EPW827 (black Acura), 809-E2G (Forerunner), 4AMP126 (white Toyota) and 4JPL825 (Xterra SE).
 
-Fuller later meets Richard Schowengerdt, founder of Project Chameleo, who claims he has successfully developed a technique to make men invisible; his research is more advanced than work by “Tachi” or Duke University; Schowengerdt’s research has been used in the field of electromagnetics working at the Navy Metrology Engineering Center (MEC), the Naval Sea Systems Command Technical Representative Office (NAVSEA TECHREP AEGIS), and with the Naval Reserve at the Miramar Naval Air Station and the Naval Air Station in Pt. Mugu.
+Fuller later meets Richard Schowengerdt, founder of **Project Chameleo**, who claims he has successfully developed a technique to make men invisible; his research is more advanced than work by “Tachi” or Duke University; Schowengerdt’s research has been used in the field of electromagnetics working at the Navy Metrology Engineering Center (MEC), the Naval Sea Systems Command Technical Representative Office (NAVSEA TECHREP AEGIS), and with the Naval Reserve at the Miramar Naval Air Station and the Naval Air Station in Pt. Mugu.
 
-As of 2015, he worked with Northrop Grumman working on the EA-18G Growler; his private experiments with electro-optical camouflage began in 1987 and took shape in 1993 with Project Chameleo, securing Patent No. 5,307,162 “Cloaking Using Optoelectronically Controlled Camouflage” in 1994. Fuller believes SAIC may be responsible for harassment by seemingly invisible individuals and this may be connected to the “MiLAB '' phenomena, i.e. fake alien abductions.
+As of 2015, he worked with Northrop Grumman working on the EA-18G Growler; his private experiments with electro-optical camouflage began in 1987 and took shape in 1993 with **Project Chameleo**, securing Patent No. 5,307,162 “Cloaking Using Optoelectronically Controlled Camouflage” in 1994. Fuller believes SAIC may be responsible for harassment by seemingly invisible individuals and this may be connected to the “MiLAB '' phenomena, i.e. fake alien abductions.
 
 Schowengerdt states the Chief of Naval Operations Strategic Studies Group visited him in 2005 to determine if his technology could be applied by the year 2025; during a presentation at a Military Sensing Symposium in Charleston, SC, he states he was giving a presentation for Army, Navy, Air Force and contractor personnel and halfway through, the moderator told him someone in the audience claimed he was revealing Top Secret information when he mentioned a “chameleonic” Future Soldier program; he states he wasn’t aware anything like that was operational; he was then detained by 3-4 personnel who made him prove the information was in the PUBLIC DOMAIN.
 
-Schowengerdt states as of 2005 he worked with the Defense Contract Management Agency in El Segundo, and his supervisor knew of Project Chameleo; he states this technology not only can render a craft or a person invisible but it can project a rendering of something else like a tree or an animal for psychological warfare purposes; he states it’s possible this sort of technology could be advanced in a black project through reverse engineered UAP R&D; he also states he believes information about the UAP issue has been “leaked” in a controlled manner since the 1950s.
+Schowengerdt states as of 2005 he worked with the Defense Contract Management Agency in El Segundo, and his supervisor knew of **Project Chameleo**; he states this technology not only can render a craft or a person invisible but it can project a rendering of something else like a tree or an animal for psychological warfare purposes; he states it’s possible this sort of technology could be advanced in a black project through reverse engineered UAP R&D; he also states he believes information about the UAP issue has been “leaked” in a controlled manner since the 1950s.
 
 When Schowengerdt hears of Fuller’s claims of invisible harassment, he suggests SAIC “may have stolen \[his\] idea…I really do,” adding he had a meeting with an individual from SAIC in 1995-96; he states SAIC had come up with similar chameleonic cloaking technology in isolation; he states SAIC had a contract with the Army at that time; he adds he wouldn’t be surprised if the technology is being experimented covertly on Americans; he states he gave the Navy a tour of his lab and they were impressed but as of 2005 he did not have a contract with them.
 
-*   [Chameleo: A Strange But True Story of Invisible Spies, Heroin Addiction, and Homeland Security](https://www.amazon.com/Chameleo-Invisible-Addiction-Homeland-Security-ebook/dp/B00ZDWEITO), p183
+*   _[Chameleo: A Strange But True Story of Invisible Spies, Heroin Addiction, and Homeland Security](https://www.amazon.com/Chameleo-Invisible-Addiction-Homeland-Security-ebook/dp/B00ZDWEITO), p183+_
 
 **(PUBLIC DOMAIN)** - 21 July 2003 — White House Army Signaling Agency specialist Stephen Lovekin states he received briefings concerning UAP while at Pentagon or at White House Com Center, states his colleagues discussed there were 3-5 “extraterrestrial” bodies recovered and one was alive; military was working with materials recovered including a metallic piece with symbols on it; states he
 was at Camp David and Eisenhower was concerned about losing control to the military industrial complex, states he heard from others Einsenhower was being kept out of information regarding UAP later in his term.
@@ -3111,13 +3110,13 @@ was at Camp David and Eisenhower was concerned about losing control to the milit
 
 
 
-**(PUBLIC DOMAIN)** - 19 August 2003 — Jacques Vallee meets with Kit Green and Kristin B Zimmerman in Detroit, MI. While at Wayne State University, Green shows Vallee a study he conducted where test subjects who believed they had communication with aliens were shown a series of slides, including one in which a photo of an “alien face” is inserted. Green claims the image was from Los Alamos National Lab. He says he was given the data “through Hal” from a series of analyses done at LANL on “live aliens” from 1950-51. Green didn’t know if the photo was real but Zimmerman admits they may have been “fed” classified materials and Green used the materials to perform research on unsuspecting subjects. Green also conducts General Motors research here, where he is employed.
+**(PUBLIC DOMAIN)** - 19 August 2003 — Jacques Vallée meets with Kit Green and Kristin B Zimmerman in Detroit, MI. While at Wayne State University, Green shows Vallee a study he conducted where test subjects who believed they had communication with aliens were shown a series of slides, including one in which a photo of an “alien face” is inserted. Green claims the image was from Los Alamos National Lab. He says he was given the data “through Hal” from a series of analyses done at LANL on “live aliens” from 1950-51. Green didn’t know if the photo was real but Zimmerman admits they may have been “fed” classified materials and Green used the materials to perform research on unsuspecting subjects. Green also conducts General Motors research here, where he is employed.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 23 August 2003 — Jacques Vallee writes that Hal Puthoff and John Petersen of the Arlington Institute “assure” him there is only one “black UFO operation” and that it likely has to do with hardware. Vallee is confused why there would be biological data in Kit’s hands and elsewhere if this were really the case. Vallee also states former DCI William Colby told Green he “deserve\[d\] to know,” but wouldn’t confirm alien biology outright.
+**(PUBLIC DOMAIN)** - 23 August 2003 — Jacques Vallée writes that Hal Puthoff and John Petersen of the Arlington Institute “assure” him there is only one “black UFO operation” and that it likely has to do with hardware. Vallee is confused why there would be biological data in Kit’s hands and elsewhere if this were really the case. Vallee also states former DCI William Colby told Green he “deserve\[d\] to know,” but wouldn’t confirm alien biology outright.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3131,13 +3130,13 @@ That general is later revealed in a 18 September 2003 entry to be Jack Sheehan, 
 
 
 
-**(PUBLIC DOMAIN)** - 14 September 2003 — Jacques Vallee states Hal Puthoff was a part of John Petersen and the Arlington Institute’s “semi-official” scenario exercise that included role playing in various situations of potential ET contact.
+**(PUBLIC DOMAIN)** - 14 September 2003 — Jacques Vallée states Hal Puthoff was a part of John Petersen and the Arlington Institute’s “semi-official” scenario exercise that included role playing in various situations of potential ET contact.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 2 October 2003 — Hal Puthoff admits to Jacques Vallee in a car that he wouldn’t tell Vallee everything about the secret black UFO program to protect one critical “deep throat” and in case Vallee is ever polygraphed. Puthoff states that the ATP Group in the 1980s, sponsored by BDM Corp. and led by Col John Alexander, was killed because “there was already another project.” Puthoff states it was “deeply black” and “somebody” didn’t want it exposed or duplicated.
+**(PUBLIC DOMAIN)** - 2 October 2003 — Hal Puthoff admits to Jacques Vallée in a car that he wouldn’t tell Vallee everything about the secret black UFO program to protect one critical “deep throat” and in case Vallee is ever polygraphed. Puthoff states that the ATP Group in the 1980s, sponsored by BDM Corp. and led by Col John Alexander, was killed because “there was already another project.” Puthoff states it was “deeply black” and “somebody” didn’t want it exposed or duplicated.
 
 Puthoff also shows Vallee the VADM Thomas Wilson notes on this date and states they were written by Eric Davis. Puthoff says to “join” the project you have to have something major to contribute. “What are our chances? We don’t even know who the major contractor is,” he says. Vallee believes Wilson may be polygraphed at his next job as President of ATK Missiles because he may have leaked privileged information to Davis. Vallee also states he is told that the program was inside government but under Nixon it was transferred to a private contractor to secure it.
 
@@ -3160,7 +3159,7 @@ An archived version of the company’s website also shows it was developing a no
 *   [https://www.wired.com/2003/08/pwr-antigravity/](https://www.wired.com/2003/08/pwr-antigravity/)
 
 
-**(PUBLIC DOMAIN)** - 6 March 2004 — Former NIDS consultant James Westwood tells Jacques Vallee there are four secret “iron post” sources that Hal Puthoff and Eric Davis deem to be unimpeachable and connected to the IC. They confirm the existence of one hidden project reverse engineering “alien”hardware. Westwood writes two are senior flag officers, one is defense industry/high OSD official and one is civilian high office of the Reagan/Clinton administrations. Two are VADM Thomas Wilson and Gen. Jack Sheehan, the other two are unnamed.
+**(PUBLIC DOMAIN)** - 6 March 2004 — Former NIDS consultant James Westwood tells Jacques Vallée there are four secret “iron post” sources that Hal Puthoff and Eric Davis deem to be unimpeachable and connected to the IC. They confirm the existence of one hidden project reverse engineering “alien”hardware. Westwood writes two are senior flag officers, one is defense industry/high OSD official and one is civilian high office of the Reagan/Clinton administrations. Two are VADM Thomas Wilson and Gen. Jack Sheehan, the other two are unnamed.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3171,12 +3170,12 @@ actually just dealing with recovered Nazi hardware. Bush Sr. told him it was “
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
-**(PUBLIC DOMAIN)** - 26 March 2004 — Jacques Vallee states Eric Davis received an envelope from a source inside DIA that contained notes about “fake” MJ-12 papers to mislead ufology and notes about a secret DIA project. The notes said DIA took over a collection project in 1961 and by the early 1980s, RADM E.A. Burkhalter Jr. and his deputy Col. Roy K. Jonkers were in charge of the UAP project. Eric Davis possessed an org chart dated 1981. Dr. Jack Vorona is listed as an assistant vice director for scientific and technical intelligence.
+**(PUBLIC DOMAIN)** - 26 March 2004 — Jacques Vallée states Eric Davis received an envelope from a source inside DIA that contained notes about “fake” MJ-12 papers to mislead ufology and notes about a secret DIA project. The notes said DIA took over a collection project in 1961 and by the early 1980s, RADM E.A. Burkhalter Jr. and his deputy Col. Roy K. Jonkers were in charge of the UAP project. Eric Davis possessed an org chart dated 1981. Dr. Jack Vorona is listed as an assistant vice director for scientific and technical intelligence.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)   
 
 
-**(PUBLIC DOMAIN)** - 28 March 2004 — Jacques Vallee writes that while at a meal with Kit Green, Hal Puthoff, Eric Davis and Kristin B Zimmerman, the group speculates that the four USG contractors who touch the “real” UAP project(s) are Lockheed Martin, the Aerospace Corporation, Raytheon which now owns Hughes, and Northrop-Grumman which now owns TRW.
+**(PUBLIC DOMAIN)** - 28 March 2004 — Jacques Vallée writes that while at a meal with Kit Green, Hal Puthoff, Eric Davis and Kristin B Zimmerman, the group speculates that the four USG contractors who touch the “real” UAP project(s) are Lockheed Martin, the Aerospace Corporation, Raytheon which now owns Hughes, and Northrop-Grumman which now owns TRW.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3205,13 +3204,13 @@ Fitts also claims AMS violated fiduciary and control practices by “installing 
 >*   [https://www.academia.edu/42735164/Negative_Aliens_Reverse_Consciousness_NARC_Gender_Archetypes_Mind_Control_Programming_An_Overview](https://www.academia.edu/42735164/Negative_Aliens_Reverse_Consciousness_NARC_Gender_Archetypes_Mind_Control_Programming_An_Overview)
 
 
-**(PUBLIC DOMAIN)** - 7 August 2004 — Kit Green tells Jacques Vallee that Andrew Basiago’s claims of time viewing and time travel under a Project Pegasus are exaggeration. Green says there was a project like what he’s describing but says it failed and it created delusions in its participants. Hal Puthoff says he had no evidence such a project existed at ARPA.
+**(PUBLIC DOMAIN)** - 7 August 2004 — Kit Green tells Jacques Vallée that Andrew Basiago’s claims of time viewing and time travel under a **Project Pegasus** are exaggeration. Green says there was a project like what he’s describing but says it failed and it created delusions in its participants. Hal Puthoff says he had no evidence such a project existed at ARPA.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 7 August 2004 — Former NIDS contractor Jim Westwood tells Jacques Vallee that Charles Bowsher, former Comptroller General under President Reagan, states he found a “crashed UFO program” during a large audit of classified programs. Bowsher uncovered it in 1984-85, which he called a “bizarre special access program coverup which surely violated every classification, executive order, regulation, and Congressional rule.” Bowsher considered turning it over to the Department of Justice for prosecution, but an unnamed powerful individual in the DOD squashed it. Bowsher said the program had to do with an “exotic, non-Earthly vehicle.”
+**(PUBLIC DOMAIN)** - 7 August 2004 — Former NIDS contractor Jim Westwood tells Jacques Vallée that Charles Bowsher, former Comptroller General under President Reagan, states he found a “crashed UFO program” during a large audit of classified programs. Bowsher uncovered it in 1984-85, which he called a “bizarre special access program coverup which surely violated every classification, executive order, regulation, and Congressional rule.” Bowsher considered turning it over to the Department of Justice for prosecution, but an unnamed powerful individual in the DOD squashed it. Bowsher said the program had to do with an “exotic, non-Earthly vehicle.”
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3223,7 +3222,7 @@ Cooper also claims a secret fund was organized and kept by the Military Office o
 
 Cooper also claims money was transferred from the top-secret fund to a location at Palm Beach, FL belonging to the Coast Guard called Peanut Island, a property near a facility owned by Joseph Kennedy. Cooper also claims Eisenhower set up Majority Twelve through NSC 5410 as cover, its names having changed to the Special Group under Kennedy, the 40 Committee under Nixon, Ford and Carter, and the PI-40 Committee under Reagan. Alleged Study Group members include Gordon Dean, Zbigniew Brzezinksi, Henry Kissinger and 34 others, and meetings were allegedly held at Marine Base Quantico, VA where the group was known as “Quantico II.” The meetings were held using the code name “The Country Club.”
 
-Cooper claims these meetings led to the creation of Project Joshua and Project Excalibur, and that Rand Corporation was involved in the construction of underground facilities, and that the illegal drug trade using smuggling operations from Zapata Oil assisted in funding.
+Cooper claims these meetings led to the creation of **Project Joshua** and **Project Excalibur**, and that Rand Corporation was involved in the construction of underground facilities, and that the illegal drug trade using smuggling operations from Zapata Oil assisted in funding.
 
 *   [https://www.cs.mcgill.ca/~abatko/interests/conspiracy/mj12/](https://www.cs.mcgill.ca/~abatko/interests/conspiracy/mj12/)
 
@@ -3231,11 +3230,11 @@ Cooper claims these meetings led to the creation of Project Joshua and Project E
 
 **(PUBLIC DOMAIN)** - 2004 — Gen. Roger Ramey is photographed holding a typed message at AAC Fort Worth, TX after the alleged Roswell crash; it is later digitized and increased in size in 2004 and states the following: RECOVERY OPERATION WITH ROSWELL DISK AT THE; JULY 4TH. THE VICTIMS OF THE WRECK YOU FORWARDED TO THE TEAM AT FORT WORTH, TEX; ESSOR ON THE “DISK” MUST HAVE SENT TO LOS ALAMOS A\*\*\*\*\*D; \*\*\*\*URGENT POWERS ARE NEEDED SITE TWO NM ROSWELL, N. MEX; MIDDAY 509TH TOLD NEWSPAPER MEANING OF STORY AND MISSION ONLY SHOW\*\*\*\*BY WEATHER BALLOONS WOULD MAKE \*\*\*\*509 HAS LAND SURVEYOR CREWS; TEMPLE.
 
-*   2nd Annual UFO Crash Retrieval Conference, p225
+*   _2nd Annual UFO Crash Retrieval Conference_, p225
 
 **(PUBLIC DOMAIN)** - 2004 — Jon Ferry, Marconi director, working on a cross-universe communication system and was considered an information leak having to do with a power source that was unlimited and self-sustaining.
 
-*   2nd Annual UFO Crash Retrieval Conference, p208
+*   _2nd Annual UFO Crash Retrieval Conference_, p208
 
 **(PUBLIC DOMAIN)** - 3 November 2004 — Gen. Wesley Clark says faster than light travel is possible in 2004.
 
@@ -3273,7 +3272,6 @@ Green said within 5-7 years, 25% of his patients died and he had no idea what ki
 
 
 **(PUBLIC DOMAIN)** - 1 November 2005 — Victor Martinez, a civilian who runs an internet message board for retired intelligence community people interested in UAP, receives what alleges to be a
-
 3,000-page report compiled by the Defense Intelligence Agency in the 1970s classified Top Secret.
 
 It claims: there were two UAP crash sites in New Mexico southwest of Corona and at Pelona Peak, one live entity was found and several dead were transferred to Los Alamos National Laboratory, while the craft was sent to Wright-Patterson AFB. The live entity allegedly helped USG establish communications with his home planet, “Serpo,” in which 12 trained Americans eventually went to “Serpo” from the Nevada Test Site.
@@ -3286,13 +3284,13 @@ A few months later, an anonymous UK Ministry of Defense official nicknamed “Ch
 
 
 
-**(PUBLIC DOMAIN)** - 5 December 2005 — A source “McGarity,” a friend of Col. John Alexander and former manager of operations at the Nevada Test Site at EG&G Special Projects, tells Jacques Vallee, Hal Puthoff and Eric Davis that there was a confidential project known as “Senior Soda” that built a ramjet disc. McGarity also states he saw a large triangular UAP on 23 October 1987 near the Archuleta Mesa that had markings on the underside of it. McGarity claimed Bob Lazar was a “simple technician” at Los Alamos with no clearance. McGarity also states the strange object in the Cash-Landrum case had been tracked as coming from the Gulf of Mexico.
+**(PUBLIC DOMAIN)** - 5 December 2005 — A source “McGarity,” a friend of Col. John Alexander and former manager of operations at the Nevada Test Site at EG&G Special Projects, tells Jacques Vallée, Hal Puthoff and Eric Davis that there was a confidential project known as “**Senior Soda**” that built a ramjet disc. McGarity also states he saw a large triangular UAP on 23 October 1987 near the Archuleta Mesa that had markings on the underside of it. McGarity claimed Bob Lazar was a “simple technician” at Los Alamos with no clearance. McGarity also states the strange object in the Cash-Landrum case had been tracked as coming from the Gulf of Mexico.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 6 December 2005 — Hal Puthoff tells Jacques Vallee of several workshops he attends that involve John Petersen and the Arlington Institute. Those in attendance “went much higher” than Petersen, and the participants were told the US, Russia and China all had custody of recovered “alien hardware.” Vallee wonders if this is true or just psychological warfare targeted at the participants.
+**(PUBLIC DOMAIN)** - 6 December 2005 — Hal Puthoff tells Jacques Vallée of several workshops he attends that involve John Petersen and the Arlington Institute. Those in attendance “went much higher” than Petersen, and the participants were told the US, Russia and China all had custody of recovered “alien hardware.” Vallee wonders if this is true or just psychological warfare targeted at the participants.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3305,13 +3303,13 @@ A few months later, an anonymous UK Ministry of Defense official nicknamed “Ch
 
 
 **(PUBLIC DOMAIN)** - 1 February 2006 — HyperTech Concepts’ Paul Czysz writes a paper to investigate the development of breakthrough aerospace planes for the Air Force Research Laboratory. Quantum vacuum propulsion techniques are described as feasible by 2050, the same technology explored
-in the AATIP DIRD of Hal Puthoff and in the DARPA/DSO QUEST program (see 19 January 2022). The author, Czysz, created one DIRD for AATIP about the use of advanced aerospace craft for space access.
+in the **AATIP** DIRD of Hal Puthoff and in the DARPA/DSO QUEST program (see 19 January 2022). The author, Czysz, created one DIRD for **AATIP** about the use of advanced aerospace craft for space access.
 
 *   [https://pubs.aip.org/aip/acp/article-abstract/813/1/1224/814050/Advanced-Technology-and-Breakthrough-Physics-for?redirectedFrom=fulltext](https://pubs.aip.org/aip/acp/article-abstract/813/1/1224/814050/Advanced-Technology-and-Breakthrough-Physics-for?redirectedFrom=fulltext)
 *   [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_06-DIRD_Space_Access-Where_Weve_Been_and_Where_We_Could_Go.pdf)
 
 
-**(PUBLIC DOMAIN)** - 28 March 2006 — Martin Tajmar and Clovis De Matos of ARC Seibersdorf in Austria report gravity-modification effects achieved from a rotating superconductor. The results are reported to the European Space Agency; Woods furthers research into the study of high frequency gravitational waves optics. The studies cite US Army Redstone Arsenal contractor Ning Li (1 August 1997) and AATIP contributor Robert Baker.
+**(PUBLIC DOMAIN)** - 28 March 2006 — Martin Tajmar and Clovis De Matos of ARC Seibersdorf in Austria report gravity-modification effects achieved from a rotating superconductor. The results are reported to the European Space Agency; Woods furthers research into the study of high frequency gravitational waves optics. The studies cite US Army Redstone Arsenal contractor Ning Li (1 August 1997) and **AATIP** contributor Robert Baker.
 
 *   [https://www.prweb.com/releases/2006/03/prweb364473.htm](https://www.prweb.com/releases/2006/03/prweb364473.htm)
 
@@ -3346,7 +3344,7 @@ Greer also names General Motors as a holder of exotic energy technology that is 
 
 
 
->**_Note_**: Former Lockheed Martin Skunk Works Sr. Tech Fellow Charles Chase runs the UnLAB at MIT. Chase worked in exotic propulsion, metamaterials and low observable technology at Lockheed and more recently received a DARPA/DSO QUEST grant to support vacuum fluctuation propulsion research, an area the AATIP program studied linked to UAP. In a presentation, Chase expressed scientific interest in the energy of thought and new ways to utilize human consciousness for aerospace purposes.
+>**_Note_**: Former Lockheed Martin Skunk Works Sr. Tech Fellow Charles Chase runs the UnLAB at MIT. Chase worked in exotic propulsion, metamaterials and low observable technology at Lockheed and more recently received a DARPA/DSO QUEST grant to support vacuum fluctuation propulsion research, an area the **AATIP** program studied linked to UAP. In a presentation, Chase expressed scientific interest in the energy of thought and new ways to utilize human consciousness for aerospace purposes.
 >*   [https://irp.fas.org/dia/aatip-list.pdf](https://irp.fas.org/dia/aatip-list.pdf)
 >*   [https://unlab.us/advanced-propulsion-and-energy-iii/](https://unlab.us/advanced-propulsion-and-energy-iii/)
 >*   [https://unlab.us/fundamental-research-grants/](https://unlab.us/fundamental-research-grants/)
@@ -3366,18 +3364,18 @@ Greer also names General Motors as a holder of exotic energy technology that is 
 
 
 
-**(PUBLIC DOMAIN)** - 27 September 2006 — Kit Green tells Jacques Vallee that a high ranking VP of BAE Systems is just one figure involved in the UAP issue that he’s looking into. Green says he’s looking
+**(PUBLIC DOMAIN)** - 27 September 2006 — Kit Green tells Jacques Vallée that a high ranking VP of BAE Systems is just one figure involved in the UAP issue that he’s looking into. Green says he’s looking
 at real players, not small time people any more. He suggests the issue causes delusion among high-level people but it’s still relevant to study them because those people have power.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - October 2006 — Lawrence Livermore National Laboratory physicist “Henry Deacon” (pseudonym) claims he is employed by a three-letter agency and that black budget physics is decades ahead of physics in the open source. Deacon claims Project Shiva Nova uses arrays of lasers and creates rips in the fabric of space-time; Deacon claims this lets “things” like beings, influences and “all kinds of weird stuff” come into our present reality.
+**(PUBLIC DOMAIN)** - October 2006 — Lawrence Livermore National Laboratory physicist “Henry Deacon” (pseudonym) claims he is employed by a three-letter agency and that black budget physics is decades ahead of physics in the open source. Deacon claims **Project Shiva Nova** uses arrays of lasers and creates rips in the fabric of space-time; Deacon claims this lets “things” like beings, influences and “all kinds of weird stuff” come into our present reality.
 
-Deacon claims USG knowledge of probable and possible futures is highly classified and attempts to meddle in space-time creates more issues; time loops, rips, etc. Deacon claims UAP occupants on Earth are time travelers, and that experiments at Montauk, NY were real, but that claims by Al Bielek and others may be disinformation or incorrect. Deacon states Montauk was a “real mess…they created a time split we’re still unable to mend…this also relates to Project Rainbow.” Deacon claims jump rooms exist and that they’re naturally occurring and a stable one exists between locations on Earth and Mars.
+Deacon claims USG knowledge of probable and possible futures is highly classified and attempts to meddle in space-time creates more issues; time loops, rips, etc. Deacon claims UAP occupants on Earth are time travelers, and that experiments at Montauk, NY were real, but that claims by Al Bielek and others may be disinformation or incorrect. Deacon states Montauk was a “real mess…they created a time split we’re still unable to mend…this also relates to **Project Rainbow**.” Deacon claims jump rooms exist and that they’re naturally occurring and a stable one exists between locations on Earth and Mars.
 
-Deacon corroborates testimony by Dan Burisch, who claims ET groups are concerned about affecting Earth’s current timeline for different outcomes they are interested in. Deacon claims Project Looking Glass may have been real and utilizes time viewing technology given to USG by ET. Deacon claims some ET groups are our own ancestors from different futures and nuclear weapons testing and high energy physics testing has created “time loops upon time loops, it’s all a mess.”
+Deacon corroborates testimony by Dan Burisch, who claims ET groups are concerned about affecting Earth’s current timeline for different outcomes they are interested in. Deacon claims **Project Looking Glass** may have been real and utilizes time viewing technology given to USG by ET. Deacon claims some ET groups are our own ancestors from different futures and nuclear weapons testing and high energy physics testing has created “time loops upon time loops, it’s all a mess.”
 
 Deacon states there are a number of parallel timelines, lots of branches; and to the USG knowledge, there are no paradoxes. If the past is changed, it creates a different timeline, a new branch of the original one.
 
@@ -3402,12 +3400,12 @@ Deacon states there are a number of parallel timelines, lots of branches; and to
 **(PUBLIC DOMAIN)** - 01 Jan 2007 — FAA dismisses disc at O’Hare International Airport in Chicago, IL as a “weather phenomenon” despite O’Hare Daily Record of Facility Operation showing FAA aware of multiple inbound calls about “disc” seen by employees and pilots over terminal. FAA tells the public it will not investigate.
 
 *   [https://www.chicagotribune.com/news/ct-xpm-2007-01-01-0701010141-story.html](https://www.chicagotribune.com/news/ct-xpm-2007-01-01-0701010141-story.html)
-*   Daily Record of Facility Operation, ORD
+*   _Daily Record of Facility Operation, ORD_
 *   [https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02ec731230e20001528e2c/1560472703346/NARCAP_TR-10.pdf](https://static1.squarespace.com/static/5cf80ff422b5a90001351e31/t/5d02ec731230e20001528e2c/1560472703346/NARCAP_TR-10.pdf)
 
 
 
-**(PUBLIC DOMAIN)** - 5 Jan 2007 — Hal Puthoff tells Jacques Vallee that he and Eric Davis are pursuing a Lockheed Martin technology for a jet hovercraft tested in the 1960s that looks like a flying disc.
+**(PUBLIC DOMAIN)** - 5 Jan 2007 — Hal Puthoff tells Jacques Vallée that he and Eric Davis are pursuing a Lockheed Martin technology for a jet hovercraft tested in the 1960s that looks like a flying disc.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3419,7 +3417,7 @@ Deacon states there are a number of parallel timelines, lots of branches; and to
 *   [https://arxiv.org/ftp/physics/papers/0611/0611167.pdf](https://arxiv.org/ftp/physics/papers/0611/0611167.pdf)
 
 
-**(PUBLIC DOMAIN)** - 27 May 2007 — Lockheed’s Bernard Haisch tells Jacques Vallee he is pursuing an experiment of zero point energy extraction at the University of Colorado sponsored by DARPA. He says the tests are negative thus far.
+**(PUBLIC DOMAIN)** - 27 May 2007 — Lockheed’s Bernard Haisch tells Jacques Vallée he is pursuing an experiment of zero point energy extraction at the University of Colorado sponsored by DARPA. He says the tests are negative thus far.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3431,13 +3429,13 @@ Deacon states there are a number of parallel timelines, lots of branches; and to
 *   [https://www.amazon.com/Dreamland-Slim-Case-Bruce-Burgess/dp/B000UFLPMM](https://www.amazon.com/Dreamland-Slim-Case-Bruce-Burgess/dp/B000UFLPMM)
 
 
-**(PUBLIC DOMAIN)** - 4 August 2007 — Hal Puthoff tells Jacques Vallee he thinks he knows where “the right people” hide with respect to the secret UFO hardware structure. Puthoff says he believes the government still provides a funding path and a security umbrella, but control of the technical items are in the private sector and the contractors can “trump” government requests. Hal says the contractors tell the relevant USG oversight it’s their way or the highway.
+**(PUBLIC DOMAIN)** - 4 August 2007 — Hal Puthoff tells Jacques Vallée he thinks he knows where “the right people” hide with respect to the secret UFO hardware structure. Puthoff says he believes the government still provides a funding path and a security umbrella, but control of the technical items are in the private sector and the contractors can “trump” government requests. Hal says the contractors tell the relevant USG oversight it’s their way or the highway.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 21 October 2007 — Bob Bigelow tells Jacques Vallee he received a letter from the DIA expressed interest in UAP research at Skinwalker Ranch. The letter says one of their personnel went to the ranch and saw something unexplained. The man who runs the project is a GS15 reporting to managers who are eager to move; Bob says any time he mentions a case the DIA contacts already have all the details and say it’s their job to look 20 to 30 years into the future.
+**(PUBLIC DOMAIN)** - 21 October 2007 — Bob Bigelow tells Jacques Vallée he received a letter from the DIA expressed interest in UAP research at Skinwalker Ranch. The letter says one of their personnel went to the ranch and saw something unexplained. The man who runs the project is a GS15 reporting to managers who are eager to move; Bob says any time he mentions a case the DIA contacts already have all the details and say it’s their job to look 20 to 30 years into the future.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3449,7 +3447,7 @@ Deacon states there are a number of parallel timelines, lots of branches; and to
 *   [https://archive.ph/TZuYJ](https://archive.ph/TZuYJ) (rg - archived backup)
 *   [https://web.archive.org/web/20230420211301/https://forgottenlanguages-full.forgottenlanguages.org/2016/06/the-art-of-jamming-gravitational-waves.html](https://web.archive.org/web/20230420211301/https://forgottenlanguages-full.forgottenlanguages.org/2016/06/the-art-of-jamming-gravitational-waves.html) (rg - archived backup)
 
->**_Note_**: This article was published on 18 June 2016, three years before it was publicly disclosed that AATIP commissioned a study on HFGW presumably for study of its relationship to UAP. This was also years before HFGW were linked to UAP in the PUBLIC DOMAIN by physicists.
+>**_Note_**: This article was published on 18 June 2016, three years before it was publicly disclosed that **AATIP** commissioned a study on HFGW presumably for study of its relationship to UAP. This was also years before HFGW were linked to UAP in the PUBLIC DOMAIN by physicists.
 >
 >Ning Li and Robert Baker were working on Li-Baker HFGW detectors in the late 2000s, but this had no overt linkage to UAP in the PUBLIC DOMAIN.
 >
@@ -3460,10 +3458,10 @@ Deacon states there are a number of parallel timelines, lots of branches; and to
 
 
 
-**(PUBLIC DOMAIN)** - 2008 — Dan Burisch claims to have been a microbiologist working at Papoose Lake Facility/S4 and claims to have been involved in a Project Aquarius investigating an extraterrestrial entity “J-Rod” and its neuropathy. Burisch claims he was a pro-tem member of Majestic-12, MJ-9, and dealt with “extraterrestrial human lineage and time travel information.”
+**(PUBLIC DOMAIN)** - 2008 — Dan Burisch claims to have been a microbiologist working at Papoose Lake Facility/S4 and claims to have been involved in a **Project Aquarius** investigating an extraterrestrial entity “J-Rod” and its neuropathy. Burisch claims he was a pro-tem member of Majestic-12, MJ-9, and dealt with “extraterrestrial human lineage and time travel information.”
 
-He claims Project Looking Glass involved a reverse engineered time viewing device, and that there were three extraterrestrial groups visiting Earth: the P45s, humans from approximately 45,000 years in the future that were pale and “grey alien” in appearance, having lived in an apocalyptic Earth; the P52s
-from 52,000 years in the future of similar appearance and the P52 Orions, who are human looking and spiritual. Burisch claims the P45s and P52 stayed on Earth after a catastrophe and the P52 Orions left Earth for the Moon and later Mars. Burisch claims the P45s are intent on justifying their history and want the catastrophe to occur, while the P52s and P52 Orions do not. Burisch also claims a Project Lotus is attempting to utilize ET technology to manipulate human DNA and RNA.
+He claims **Project Looking Glass** involved a reverse engineered time viewing device, and that there were three extraterrestrial groups visiting Earth: the P45s, humans from approximately 45,000 years in the future that were pale and “grey alien” in appearance, having lived in an apocalyptic Earth; the P52s
+from 52,000 years in the future of similar appearance and the P52 Orions, who are human looking and spiritual. Burisch claims the P45s and P52 stayed on Earth after a catastrophe and the P52 Orions left Earth for the Moon and later Mars. Burisch claims the P45s are intent on justifying their history and want the catastrophe to occur, while the P52s and P52 Orions do not. Burisch also claims a **Project Lotus** is attempting to utilize ET technology to manipulate human DNA and RNA.
 
 *   [https://www.bibliotecapleyades.net/dan_burisch/esp_dan_burisch_11.htm](https://www.bibliotecapleyades.net/dan_burisch/esp_dan_burisch_11.htm)
 *   [https://projectcamelot.org/dan_burisch_summary.html](https://projectcamelot.org/dan_burisch_summary.html)
@@ -3483,9 +3481,9 @@ from 52,000 years in the future of similar appearance and the P52 Orions, who ar
 
 
 
-**(PUBLIC DOMAIN)** - June 2008 — DARPA PE 0603286E is disclosed in the PUBLIC DOMAIN for the first time and contains several sub-projects, including Advanced Aerospace System Concepts or “Project AIR-01.” AASC is described as a program to examine and evaluate emerging aerospace technologies for military use and emerging aerospace threats and methods to counter them. The program continued to be funded until at least 2020, where it was mentioned in a budget document.
+**(PUBLIC DOMAIN)** - June 2008 — DARPA PE 0603286E is disclosed in the PUBLIC DOMAIN for the first time and contains several sub-projects, including Advanced Aerospace System Concepts or “**Project AIR-01**.” AASC is described as a program to examine and evaluate emerging aerospace technologies for military use and emerging aerospace threats and methods to counter them. The program continued to be funded until at least 2020, where it was mentioned in a budget document.
 
-The language in the AASC program description is similar to the DIA’s Advanced Aerospace Weapons Systems Application Program (AAWSAP), and coincidentally received DARPA funding the same year the DIA sought private sector bids for AAWSAP.
+The language in the AASC program description is similar to the DIA’s Advanced Aerospace Weapons Systems Application Program (**AAWSAP**), and coincidentally received DARPA funding the same year the DIA sought private sector bids for **AAWSAP**.
 
 *   [https://www.theblackvault.com/documentarchive/could-this-be-darpas-project-for-ufo-uap-research/](https://www.theblackvault.com/documentarchive/could-this-be-darpas-project-for-ufo-uap-research/)
 *   [https://documents2.theblackvault.com/documents/dod/FY17PE0603286E.pdf](https://documents2.theblackvault.com/documents/dod/FY17PE0603286E.pdf)
@@ -3493,7 +3491,7 @@ The language in the AASC program description is similar to the DIA’s Advanced 
 
 
 
->**_Note_**: It was later disclosed by AAWSAP personnel Luis Elizondo and James Lacatski that AAWSAP was UAP-related. Is it possible DARPA’s AASC is also UAP related and contains relevant tech developments?
+>**_Note_**: It was later disclosed by **AAWSAP** personnel Luis Elizondo and James Lacatski that **AAWSAP** was UAP-related. Is it possible DARPA’s AASC is also UAP related and contains relevant tech developments?
 >*   [https://www.mysterywire.com/ufo/aatip-aawsap-elizondo/](https://www.mysterywire.com/ufo/aatip-aawsap-elizondo/)
 >*   [https://twitter.com/LueElizondo/status/1524886105203564570?s=20&t=qzZzOt7A9ezYnL7gstHY6w](https://twitter.com/LueElizondo/status/1524886105203564570?s=20&t=qzZzOt7A9ezYnL7gstHY6w)
 >*   [https://www.coasttocoastam.com/guest/james-t-lacatski/](https://www.coasttocoastam.com/guest/james-t-lacatski/)
@@ -3508,19 +3506,19 @@ The language in the AASC program description is similar to the DIA’s Advanced 
 
 
 
-**(PUBLIC DOMAIN)** - 4 August 2008 — An anonymous poster on Above Top Secret claims a family friend was a senior Naval officer when he was growing up and he told him there is a “mountain of BS” out there regarding Montauk and Camp Hero and the primary aspect of the facility was the utilization of drugs to test subjects’ psi capabilities. He states there were rooms that were designed in a way to trigger bad trips when the subjects were on LSD because there was a belief that trauma could improve a user’s psi abilities. Of note, Operation Midnight Climax, a subproject of Project MK-ULTRA based on lessons learned in Project Artichoke, was a real declassified CIA program that drugged unknowing citizens with LSD to study the effects.
+**(PUBLIC DOMAIN)** - 4 August 2008 — An anonymous poster on Above Top Secret claims a family friend was a senior Naval officer when he was growing up and he told him there is a “mountain of BS” out there regarding Montauk and Camp Hero and the primary aspect of the facility was the utilization of drugs to test subjects’ psi capabilities. He states there were rooms that were designed in a way to trigger bad trips when the subjects were on LSD because there was a belief that trauma could improve a user’s psi abilities. Of note, **Operation Midnight Climax**, a subproject of **Project MK-ULTRA** based on lessons learned in **Project Artichoke**, was a real declassified CIA program that drugged unknowing citizens with LSD to study the effects.
 
 *   [https://www.abovetopsecret.com/forum/thread378150/pg1](https://www.abovetopsecret.com/forum/thread378150/pg1)
 *   [https://en.wikipedia.org/wiki/Operation_Midnight_Climax](https://en.wikipedia.org/wiki/Operation_Midnight_Climax)
 *   [https://youtu.be/RWsE8d9ynq0](https://youtu.be/RWsE8d9ynq0)
 
 
-**(PUBLIC DOMAIN)** - October 2008 — JASON Group’s Program Office, run out of the MITRE Corp., publishes a technical report evaluating the national security significance of high frequency gravitational waves (HFGW). The report concludes national security and aerospace applications of HFGW are not possible and wrong. Two years later, HFGW was the subject of a Defense Intelligence Reference Document produced for the Defense Intelligence Agency’s Advanced Aerospace Weapon Systems Applications Program (AAWSAP), which concluded HFGW could be used for interplanetary navigation. It is unknown but likely HFGW was deemed UAP-affiliated subject matter due to its inclusion in the AAWSAP program.
+**(PUBLIC DOMAIN)** - October 2008 — JASON Group’s Program Office, run out of the MITRE Corp., publishes a technical report evaluating the national security significance of high frequency gravitational waves (HFGW). The report concludes national security and aerospace applications of HFGW are not possible and wrong. Two years later, HFGW was the subject of a Defense Intelligence Reference Document produced for the Defense Intelligence Agency’s Advanced Aerospace Weapon Systems Applications Program (**AAWSAP**), which concluded HFGW could be used for interplanetary navigation. It is unknown but likely HFGW was deemed UAP-affiliated subject matter due to its inclusion in the **AAWSAP** program.
 
 It is possible JASON was tasked to debunk HFGW because the responsible party listed on the SF298 for MITRE’s contract was Dr. Ronald Pandolfi, of CIA. Ten years later (see 26 February 2019),
 Pandolfi was sued by FOX TV producer Robert Kiviat for allegedly running a disinformation scheme to frame public perception of the UAP issue.
 
-A response to the JASON paper from the author of the AAWSAP paper, Robert Baker of GravWave LLC, accuses the JASON analysis of making several serious errors including a failure to review all available peer-reviewed literature. When asked if JASON had a “preconceived agenda to discredit HFGW research,” Baker and GravWave responded: “it is difficult to believe otherwise.”
+A response to the JASON paper from the author of the **AAWSAP** paper, Robert Baker of GravWave LLC, accuses the JASON analysis of making several serious errors including a failure to review all available peer-reviewed literature. When asked if JASON had a “preconceived agenda to discredit HFGW research,” Baker and GravWave responded: “it is difficult to believe otherwise.”
 
 *   [https://irp.fas.org/agency/dod/jason/gravwaves.pdf](https://irp.fas.org/agency/dod/jason/gravwaves.pdf)
 *   [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_21-DIRD_High-Frequency_Gravitational_Wave_Communications.pdf)
@@ -3528,28 +3526,28 @@ A response to the JASON paper from the author of the AAWSAP paper, Robert Baker 
 
 
 
-**(PUBLIC DOMAIN)** - 2 October 2008 — Bob Bigelow tells Jacques Vallee that the AAWSAP project has officially kicked off, but the sponsor (DIA) hasn’t delivered any access that was promised. Opening certain doors, intros to potentially key personnel at contractors that may have worked on UAP in the past, etc. None of that happened as of that time.
+**(PUBLIC DOMAIN)** - 2 October 2008 — Bob Bigelow tells Jacques Vallée that the **AAWSAP** project has officially kicked off, but the sponsor (DIA) hasn’t delivered any access that was promised. Opening certain doors, intros to potentially key personnel at contractors that may have worked on UAP in the past, etc. None of that happened as of that time.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 17 October 2008 — The Mutual UFO Network (MUFON) forms the MUFON Advanced Technology Establishment (MATE) composed of Bob Wood, Charles Modlin, Robert Powell and Chuck Reever. MATE signs a contract with Bigelow Aerospace Advanced Space Studies (BAASS) to provide BAASS with technical papers on the subjects of UAP lift, power generation, human interface, alleged extraterrestrial implants, abductions, antigravity propulsion and using superconductors for propulsion.
+**(PUBLIC DOMAIN)** - 17 October 2008 — The Mutual UFO Network (MUFON) forms the MUFON Advanced Technology Establishment (MATE) composed of Bob Wood, Charles Modlin, Robert Powell and Chuck Reever. MATE signs a contract with Bigelow Aerospace Advanced Space Studies (**BAASS**) to provide **BAASS** with technical papers on the subjects of UAP lift, power generation, human interface, alleged extraterrestrial implants, abductions, antigravity propulsion and using superconductors for propulsion.
 
-Soon after, BAASS served as a contractor for the Pentagon’s Advanced Aerospace Weapon System Applications Program (AAWSAP), but it is unknown of the MATE studies on implants, etc. made its way into the hands of USG program managers at AAWSAP. It is also unknown if BAASS disclosed to MATE that they were a contractor for the USG.
+Soon after, **BAASS** served as a contractor for the Pentagon’s Advanced Aerospace Weapon System Applications Program (**AAWSAP**), but it is unknown of the MATE studies on implants, etc. made its way into the hands of USG program managers at **AAWSAP**. It is also unknown if **BAASS** disclosed to MATE that they were a contractor for the USG.
 
 *   [https://www.blueblurrylines.com/2020/03/the-pentagon-ufo-programs-secret-partner.html](https://www.blueblurrylines.com/2020/03/the-pentagon-ufo-programs-secret-partner.html)
 *   [https://app.box.com/s/x54czwgmwfd5fph50527xw9zvma1yy91](https://app.box.com/s/x54czwgmwfd5fph50527xw9zvma1yy91)
 *   [https://archive.ph/aQkoy](https://archive.ph/aQkoy) (rg - archived URL)
 
 
-**(PUBLIC DOMAIN)** - 29 October 2008 — Kit Green tells Jacques Vallee that funding for AAWSAP could reach $240 million. Kit claims the DIA sponsor could change and lose interest, but that won’t stop the project as it goes higher than that; several key Congressmen including Harry Reid want to see it go forward regardless. (Note: this did not happen, the program was cancelled, Reid’s request for SAP status was denied and little additional funding was found for the AATIP spinout).
+**(PUBLIC DOMAIN)** - 29 October 2008 — Kit Green tells Jacques Vallée that funding for **AAWSAP** could reach $240 million. Kit claims the DIA sponsor could change and lose interest, but that won’t stop the project as it goes higher than that; several key Congressmen including Harry Reid want to see it go forward regardless. (Note: this did not happen, the program was cancelled, Reid’s request for SAP status was denied and little additional funding was found for the **AATIP** spinout).
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 24 November 2008 — Jacques Vallee meets several potential co-sponsors for the AAWSAP program in Zurich, Switzerland, as requested by Bob Bigelow. Vallee is asked to revoke his French citizenship by Bigelow to help his clearance process move quicker but he declines. The European co-sponsor candidates are not named but Vallee mentions they had “access” to the “real” files in Europe and wanted to see how things went in the US before doing anything.
+**(PUBLIC DOMAIN)** - 24 November 2008 — Jacques Vallée meets several potential co-sponsors for the **AAWSAP** program in Zurich, Switzerland, as requested by Bob Bigelow. Vallee is asked to revoke his French citizenship by Bigelow to help his clearance process move quicker but he declines. The European co-sponsor candidates are not named but Vallee mentions they had “access” to the “real” files in Europe and wanted to see how things went in the US before doing anything.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3561,19 +3559,19 @@ Soon after, BAASS served as a contractor for the Pentagon’s Advanced Aerospace
 
 
 
-**(PUBLIC DOMAIN)** - 24 December 2008 — One unnamed BAASS project member tells Jacques Vallee he was “building a relationship” with an aerospace contractor attempting to get into the “back door.” This member believed the company had UAP hardware but said if he talks about it in the context of AAWSAP, someone from Washington, D.C. would force their way in the “front door” and the sources/materials would scatter/be moved elsewhere.
+**(PUBLIC DOMAIN)** - 24 December 2008 — One unnamed **BAASS** project member tells Jacques Vallée he was “building a relationship” with an aerospace contractor attempting to get into the “back door.” This member believed the company had UAP hardware but said if he talks about it in the context of **AAWSAP**, someone from Washington, D.C. would force their way in the “front door” and the sources/materials would scatter/be moved elsewhere.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 24 December 2008 — Hal Puthoff tells Jacques Vallee that the White House is interested in a meeting where long-term interaction with the phenomenon is discussed.
+**(PUBLIC DOMAIN)** - 24 December 2008 — Hal Puthoff tells Jacques Vallée that the White House is interested in a meeting where long-term interaction with the phenomenon is discussed.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
-**(PUBLIC DOMAIN)** - 23 January 2009 — Colm Kelleher tells Jacques Vallee that a member of the BAASS team is going to Area 51 to retrieve data from the days of **Project Grudge** and a rare “artifact” file that was kept away from Project Blue Book.
+**(PUBLIC DOMAIN)** - 23 January 2009 — Colm Kelleher tells Jacques Vallée that a member of the **BAASS** team is going to Area 51 to retrieve data from the days of **Project Grudge** and a rare “artifact” file that was kept away from **Project Blue Book**.
 
 Hal Puthoff also tells Vallee that ADM Edward Burkhalter, once Chief of Naval Intelligence, “doctored” authentic documents that referred to a MJ-12 project back in the 1950s designed to mislead Soviets about technology developments. Eric Davis had already discovered this through his contacts. The doctored documents were leaked to ufologists, who ran with the story of MJ-12 in ufology.
 
@@ -3593,7 +3591,7 @@ The briefing mentions various forms of electromagnetic energy generators and ant
 
 
 
-**(PUBLIC DOMAIN)** - 26 April 2009 — Colm Kelleher tells Vallee that the sponsor at DIA has still not delivered on any promises of introduction to legacy UAP programs, access, etc, that initially made those in AAWSAP feel like they would be building on top of existing research.
+**(PUBLIC DOMAIN)** - 26 April 2009 — Colm Kelleher tells Vallee that the sponsor at DIA has still not delivered on any promises of introduction to legacy UAP programs, access, etc, that initially made those in **AAWSAP** feel like they would be building on top of existing research.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
@@ -3602,7 +3600,7 @@ The briefing mentions various forms of electromagnetic energy generators and ant
 **(PUBLIC DOMAIN)** - 8 May 2009 — A Department of Homeland Security black sedan visits a UAP witness twice after a sighting in Georgia. The witness “Derek Jones” sees a large triangular UAP and four smaller spherical UAP above his backyard. When “Jones” attempts to photograph it, the device fails. When he points a flashlight at the triangle, it responds with a beam of blue-white light on him for 3 seconds, causing burning and later, hair loss and lumps on his legs, groin and back diagnosed as
 non-malignant lymphoma. The same day the DHS personnel first interview “Jones,” he hears low-flying helicopters near his property. One of the men is armed and they produce no identification.
 
-They tell him not to mention the sighting to anyone, and take detailed notes and diagrams of Jones’ description of the triangle. “Jones” reported the license plate to Bigelow Aerospace Advanced Space Studies (BAASS), a contractor for the Defense Intelligence Agency’s Advanced Aerospace Weapon Systems Applications Program (AAWSAP). BAASS tracks the license plate to a DHS carpool.
+They tell him not to mention the sighting to anyone, and take detailed notes and diagrams of Jones’ description of the triangle. “Jones” reported the license plate to Bigelow Aerospace Advanced Space Studies (**BAASS**), a contractor for the Defense Intelligence Agency’s Advanced Aerospace Weapon Systems Applications Program (**AAWSAP**). **BAASS** tracks the license plate to a DHS carpool.
 
 *   [https://threadreaderapp.com/thread/1493111594905051142.html](https://threadreaderapp.com/thread/1493111594905051142.html)
 *   [https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government/dp/B09HR54GQF](https://www.amazon.com/Skinwalkers-Pentagon-Insiders-Account-Government/dp/B09HR54GQF) (p99-105)
@@ -3610,18 +3608,18 @@ They tell him not to mention the sighting to anyone, and take detailed notes and
 *   [https://www.liberationtimes.com/home/why-the-defense-implications-within-skinwalkers-at-the-pentagon-are-profound](https://www.liberationtimes.com/home/why-the-defense-implications-within-skinwalkers-at-the-pentagon-are-profound)
 
 
-**(PUBLIC DOMAIN)** - 12 September 2009 — Eric Davis tells Jacques Vallee that a Lockheed designer Nathan C Price would be in position to know about Roswell materials and that they were likely held in Sunnyvale not the Skunk Works.
+**(PUBLIC DOMAIN)** - 12 September 2009 — Eric Davis tells Jacques Vallée that a Lockheed designer Nathan C Price would be in position to know about Roswell materials and that they were likely held in Sunnyvale not the Skunk Works.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
-**(PUBLIC DOMAIN)** - 29 November 2009 — Colm Kelleher tells Vallee that clearances have now been received but the Air Force “nor others” will talk to BAASS until a SAP is set up for AAWSAP.
+**(PUBLIC DOMAIN)** - 29 November 2009 — Colm Kelleher tells Vallee that clearances have now been received but the Air Force “nor others” will talk to **BAASS** until a SAP is set up for **AAWSAP**.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
 
 
 
 **(PUBLIC DOMAIN)** - January 2010 — U.S. Navy Petty Officer John Baughman sees a “Tic-Tac” shaped object from the flight deck of the USS Carl Vinson near Haiti. It was barely beneath the surface when he saw it, white and 20 feet in length, and quickly “darted” into the depths. “It was definitely a solid object, but when it descended, its forward end rapidly collapsed in on itself and disappeared.” Baughman told his work center supervisor about the UAP, to which he was not debriefed and was not told
-to file a report. The supervisor told him “everyone sees weird shit in the ocean.” The event likely did not make its way into Navy or UAPTF reporting channels or Congress prior to it being disclosed to a journalist in 2021.
+to file a report. The supervisor told him “everyone sees weird shit in the ocean.” The event likely did not make its way into Navy or **UAPTF** reporting channels or Congress prior to it being disclosed to a journalist in 2021.
 
 *   [https://medium.com/on-the-trail-of-the-saucers/new-navy-witness-says-he-saw-a-tic-tac-operating-underwater-92344d29ac1](https://medium.com/on-the-trail-of-the-saucers/new-navy-witness-says-he-saw-a-tic-tac-operating-underwater-92344d29ac1)
 
@@ -3655,10 +3653,10 @@ to file a report. The supervisor told him “everyone sees weird shit in the oce
 *   [https://www.earthfiles.com/2010/12/15/glowing-disc-over-hill-afb-utah/](https://www.earthfiles.com/2010/12/15/glowing-disc-over-hill-afb-utah/)
 
 
-**(PUBLIC DOMAIN)** - 2010 — In January 2010, Bigelow Aerospace Advanced Space Studies (BAASS) Director of Investigation Larry Grossman, a contractor for the Defense Intelligence Agency’s
-Advanced Aerospace Weapon Systems Applications Program (AAWSAP), claims to meet former AFOSI Col. Barry Hennessey. Hennessey tells Grossman AFOSI could not identify many nuclear base UAP overflights from the 1975 wave.
+**(PUBLIC DOMAIN)** - 2010 — In January 2010, Bigelow Aerospace Advanced Space Studies (**BAASS**) Director of Investigation Larry Grossman, a contractor for the Defense Intelligence Agency’s
+Advanced Aerospace Weapon Systems Applications Program (**AAWSAP**), claims to meet former AFOSI Col. Barry Hennessey. Hennessey tells Grossman AFOSI could not identify many nuclear base UAP overflights from the 1975 wave.
 
-Hennessey believes many AFOSI records for those cases were destroyed and suggested some UAP that flew over nuclear bases and interfered with launch controls were secret USG/USG contractor aircraft. In December 2010, BAASS directors James T. Lacatski, Colm Kelleher and Larry Grossman met the director of operations for the Office of Special Projects of AFOSI, Jack Angelo, at Joint Base Anacostia-Bolling. Angelo told BAASS it needed to be accepted into some Special Access Programs to obtain data on nuclear UAP overflights from 1975.
+Hennessey believes many AFOSI records for those cases were destroyed and suggested some UAP that flew over nuclear bases and interfered with launch controls were secret USG/USG contractor aircraft. In December 2010, **BAASS** directors James T. Lacatski, Colm Kelleher and Larry Grossman met the director of operations for the Office of Special Projects of AFOSI, Jack Angelo, at Joint Base Anacostia-Bolling. Angelo told **BAASS** it needed to be accepted into some Special Access Programs to obtain data on nuclear UAP overflights from 1975.
 
 *   [https://www.pearl-hifi.com/11_Spirited_Growth/01_Books/Skinwalkers_at_the_Pentagon.pdf](https://www.pearl-hifi.com/11_Spirited_Growth/01_Books/Skinwalkers_at_the_Pentagon.pdf) (p97-98, p94-97)
 *   [https://ufos-scientificresearch.blogspot.com/2019/09/identified-another-individual-from.html](https://ufos-scientificresearch.blogspot.com/2019/09/identified-another-individual-from.html) (p102)
@@ -3674,9 +3672,9 @@ Green took it to likely Diane Edmund Griffin at Johns Hopkins who declared it a 
 
 
 
-**(PUBLIC DOMAIN)** - February 2011 — On 7 February 2011 Bigelow Aerospace Advanced Space Studies (BAASS) director James T. Lacatski, a contractor for the Defense Intelligence Agency’s Advanced Aerospace Weapon Systems Applications Program (AAWSAP), allegedly visited the Washington, D.C. headquarters of the Department of Homeland Security (DHS) to secure funding for future fiscal years. Lacatski allegedly met DHS’s Jim Bell and Sacha Mover in a SCIF and briefed them on the program.
+**(PUBLIC DOMAIN)** - February 2011 — On 7 February 2011 Bigelow Aerospace Advanced Space Studies (**BAASS**) director James T. Lacatski, a contractor for the Defense Intelligence Agency’s Advanced Aerospace Weapon Systems Applications Program (**AAWSAP**), allegedly visited the Washington, D.C. headquarters of the Department of Homeland Security (DHS) to secure funding for future fiscal years. Lacatski allegedly met DHS’s Jim Bell and Sacha Mover in a SCIF and briefed them on the program.
 
-Some time later that month or next, a second meeting was held with Bell, Mover and DHS Under Secretary for Science and Technology Tara O’Toole, to which Mover told them the following story: his family members in rural Kentucky told him in 2007, a large group of them saw a low flying large UAP that hovered before moving off in “impossible” velocity. Within 24 hours, three large black SUVs pulled into the area, wearing black suits and dark glasses, Mover stated. The men told the crowd “you would be well advised not to talk about this incident in the future…it will be in your interests not to speak about this incident again” in a threatening tone. Three months later, the rural Kentucky community was mysteriously equipped with state of the art electrical transformers that upgraded the infrastructure of the town. Mover told BAASS to look into the event.
+Some time later that month or next, a second meeting was held with Bell, Mover and DHS Under Secretary for Science and Technology Tara O’Toole, to which Mover told them the following story: his family members in rural Kentucky told him in 2007, a large group of them saw a low flying large UAP that hovered before moving off in “impossible” velocity. Within 24 hours, three large black SUVs pulled into the area, wearing black suits and dark glasses, Mover stated. The men told the crowd “you would be well advised not to talk about this incident in the future…it will be in your interests not to speak about this incident again” in a threatening tone. Three months later, the rural Kentucky community was mysteriously equipped with state of the art electrical transformers that upgraded the infrastructure of the town. Mover told **BAASS** to look into the event.
 
 *   [https://www.pearl-hifi.com/11_Spirited_Growth/01_Books/Skinwalkers_at_the_Pentagon.pdf](https://www.pearl-hifi.com/11_Spirited_Growth/01_Books/Skinwalkers_at_the_Pentagon.pdf) (p150-153)
 
@@ -3686,11 +3684,11 @@ Some time later that month or next, a second meeting was held with Bell, Mover a
 
 **(PUBLIC DOMAIN)** - 15 February 2011 — Col. John Alexander states that “if five people know \[the reality of UAP\], Dr. Edward Teller is one,” adding that he had dinner with Teller and Hal Puthoff; Puthoff discussed zero point energy, Teller claimed he wasn’t involved in UAP analysis in the 40s.
 
-*   [UFOs: Myths, Conspiracies and Realities](https://www.amazon.com/UFOs-Conspiracies-John-Alexander-Ph-D/dp/125000201X), Alexander, p45.
+*   _[UFOs: Myths, Conspiracies and Realities](https://www.amazon.com/UFOs-Conspiracies-John-Alexander-Ph-D/dp/125000201X), Alexander, p45._
 
 **(PUBLIC DOMAIN)** - 15 February 2011 — Col. John Alexander states there was no black UAP project in the DOD or in the underground facilities run by the DOE, at LANL or at TA-33, as were claimed by some in the 1980s. Alexander states he worked at TA-33 and some interesting things happened there but “none of them involved UFOs.”
 
-*   [UFOs: Myths, Conspiracies and Realities](https://www.amazon.com/UFOs-Conspiracies-John-Alexander-Ph-D/dp/125000201X), Alexander, p145.
+*   _[UFOs: Myths, Conspiracies and Realities](https://www.amazon.com/UFOs-Conspiracies-John-Alexander-Ph-D/dp/125000201X), Alexander, p145._
 
 
 
@@ -3698,11 +3696,11 @@ Some time later that month or next, a second meeting was held with Bell, Mover a
 
 Duke claims the group established the belief that UAP are interdimensional and demonic when the FBI, AFOSI and other agencies began investigating physicist Jack Parsons for his links to Aleister Crowley and L. Ron Hubbard, and Parsons’ allegiance to the United States. Parsons was a principal founder of the NASA Jet Propulsion Laboratory and the Aerojet Engineering Corporation, and led the California branch of the Thelemite Ordo Templi Orientis (OTO) in the 1940s.
 
-Duke claims some in the US IC believed Parsons and his occult practices were responsible for some UAP sightings, alleging occult rituals were responsible for the channeling of specific UAP events or the “opening” of entry points where more UAP would enter afterward. Duke also claims early members of the Collins Elite were asked by some in the CIA Directorate of Plans in 1952 to determine if UAP had demonic origin. Some Project Blue Book cases at the time reminded some CIA officials of ghosts, demons, etc. Duke claims members eventually included AFOSI, NSA and CIA, and other agencies.
+Duke claims some in the US IC believed Parsons and his occult practices were responsible for some UAP sightings, alleging occult rituals were responsible for the channeling of specific UAP events or the “opening” of entry points where more UAP would enter afterward. Duke also claims early members of the Collins Elite were asked by some in the CIA Directorate of Plans in 1952 to determine if UAP had demonic origin. Some **Project Blue Book** cases at the time reminded some CIA officials of ghosts, demons, etc. Duke claims members eventually included AFOSI, NSA and CIA, and other agencies.
 
-Redfern states Duke and other sources informed him that CIA and Office of Naval Intelligence (ONI) personnel attempted to contact entities “Affa” and “Ponnar,” but those attempts allegedly failed. Officials were concerned with eschatalogical forecasts discussed in occult circles, but the forecasts never came to fruition. Duke also claims in the late 1960s, the work of Sidney Gottleib in the Technical Services Staff (CIA TSS) and work by Donald Ewen Cameron was taken up by scientists attached to the CIA’s Office of Research and Development, who attempted to harness “demonic powers” for espionage purposes under Operation Often.
+Redfern states Duke and other sources informed him that CIA and Office of Naval Intelligence (ONI) personnel attempted to contact entities “Affa” and “Ponnar,” but those attempts allegedly failed. Officials were concerned with eschatalogical forecasts discussed in occult circles, but the forecasts never came to fruition. Duke also claims in the late 1960s, the work of Sidney Gottleib in the Technical Services Staff (CIA TSS) and work by Donald Ewen Cameron was taken up by scientists attached to the CIA’s Office of Research and Development, who attempted to harness “demonic powers” for espionage purposes under **Operation Often**.
 
-Duke claims Operation Often and Collins Elite personnel used a cover story that they were US Army psychologists working on a project for the University of South Carolina to understand mental trauma in military personnel; the group’s actual goal was to analyze the nightmares of Paul Garratt after a near-death experience. Garratt told Often personnel after seeing a tunnel of bright light, he was taken to a colder place that was never-ending, flat, light blue and filled with naked screaming human beings; above them were hundreds of saucer-like UAP that “pulsed and throbbed” as if they were living and breathing. Garratt claimed he was in turmoil watching this and saw small “balls of light” fly from the bodies of the people into the saucers. Often personnel concluded the NDE suggested saucers might be harvesting human souls and they were demonic in nature.
+Duke claims **Operation Often** and Collins Elite personnel used a cover story that they were US Army psychologists working on a project for the University of South Carolina to understand mental trauma in military personnel; the group’s actual goal was to analyze the nightmares of Paul Garratt after a near-death experience. Garratt told Often personnel after seeing a tunnel of bright light, he was taken to a colder place that was never-ending, flat, light blue and filled with naked screaming human beings; above them were hundreds of saucer-like UAP that “pulsed and throbbed” as if they were living and breathing. Garratt claimed he was in turmoil watching this and saw small “balls of light” fly from the bodies of the people into the saucers. Often personnel concluded the NDE suggested saucers might be harvesting human souls and they were demonic in nature.
 
 Duke claims in the 1980s, President Ronald Reagan was briefed on UAP from different perspectives, including the Collins Elite on the demonic UAP theory, the CIA Science and Technology division on the extraterrestrial/genetic agenda theory, and an Air Force psychologist who argued abductions were not real and the result of the human subconscious. Reagan gravitated to the Collins Elite explanation, and funded a deeper investigation into the phenomenon that concluded abductions were a demonic deception.
 
@@ -3728,7 +3726,7 @@ Wade claims high powered radar units accidentally or purposefully may have inter
 
 
 
-**(PUBLIC DOMAIN)** - June-July 2011 — DHS officials Jim Bell and Sacha Mover begin a series of other meetings in the U.S. intelligence community beyond DHS to determine if they can set up BAASS as a UAP analysis program within DHS Science & Technology (S&T). Those met are the “keepers of the secrets,” who treat Bell and Mover rudely and told “no, and hell no” when asked. Bell and Mover later told BAASS that they believed advanced technology was being held at aerospace contractor facilities under government supervision. Mover and Bell became fearful of moving forward. By late 2011, DHS Deputy Secretary Jane Holl Lute, Under Secretary for Intelligence and Analysis Phyllis Green, and others decided not to contract BAASS within DHS.
+**(PUBLIC DOMAIN)** - June-July 2011 — DHS officials Jim Bell and Sacha Mover begin a series of other meetings in the U.S. intelligence community beyond DHS to determine if they can set up **BAASS** as a UAP analysis program within DHS Science & Technology (S&T). Those met are the “keepers of the secrets,” who treat Bell and Mover rudely and told “no, and hell no” when asked. Bell and Mover later told **BAASS** that they believed advanced technology was being held at aerospace contractor facilities under government supervision. Mover and Bell became fearful of moving forward. By late 2011, DHS Deputy Secretary Jane Holl Lute, Under Secretary for Intelligence and Analysis Phyllis Green, and others decided not to contract **BAASS** within DHS.
 
 *   [https://www.pearl-hifi.com/11_Spirited_Growth/01_Books/Skinwalkers_at_the_Pentagon.pdf](https://www.pearl-hifi.com/11_Spirited_Growth/01_Books/Skinwalkers_at_the_Pentagon.pdf) (p153-154)
 
@@ -3736,7 +3734,7 @@ Wade claims high powered radar units accidentally or purposefully may have inter
 
 
 **(PUBLIC DOMAIN)** - July 2011 — A ufological periodical claims in 1998, researchers at a facility in Africa managed by AFRICOM security made contact with an entity from a parallel-universe and received messages and predictions from it for five years. Among the claims were that dolphins were the most
-“clever” intelligences on Earth. Col. John Alexander claims he was involved in telepathic experiments and wild dolphins in the Bahamas; something he also told Jacques Vallee in 1988.
+“clever” intelligences on Earth. Col. John Alexander claims he was involved in telepathic experiments and wild dolphins in the Bahamas; something he also told Jacques Vallée in 1988.
 
 *   [https://ufos-scientificresearch.blogspot.com/2016/12/jacques-vallee-and-secret-onion.html](https://ufos-scientificresearch.blogspot.com/2016/12/jacques-vallee-and-secret-onion.html)
 *   [https://twitter.com/MarkDRudningen/status/957701502658736128?s=20&t=KDQWmAvk9VSQ_KaF3MPfv0Q](https://twitter.com/MarkDRudningen/status/957701502658736128?s=20&t=KDQWmAvk9VSQ_KaF3MPfv0Q)
@@ -3751,14 +3749,14 @@ Wade claims high powered radar units accidentally or purposefully may have inter
 
 
 
-**(PUBLIC DOMAIN)** - December 2011 — Air Force Office of Scientific Research sponsors scientific research into a Wingless Electromagnetic Air Vehicle (WEAV) that studies a proof-of-concept demonstration of an electromagnetically driven wingless aircraft that can self-lift, hover and fly into wind. The study produced a disc that was able to hover a few millimeters above a surface for three minutes, and different prototypes were flown, proving the WEAV is scalable.
+**(PUBLIC DOMAIN)** - December 2011 — Air Force Office of Scientific Research sponsors scientific research into a **Wingless Electromagnetic Air Vehicle (WEAV)** that studies a proof-of-concept demonstration of an electromagnetically driven wingless aircraft that can self-lift, hover and fly into wind. The study produced a disc that was able to hover a few millimeters above a surface for three minutes, and different prototypes were flown, proving the WEAV is scalable.
 
 *   [https://apps.dtic.mil/dtic/tr/fulltext/u2/a564120.pdf](https://apps.dtic.mil/dtic/tr/fulltext/u2/a564120.pdf)
 
 
 
 
-**(PUBLIC DOMAIN)** - July 2012 — Bernard Mendez alleges he attended a “jump room” school with Andrew Basiago, William Stillings, and former DARPA director Regina Dugan in the early 1980s. He alleged the class was taught by Maj. Ed Dames who participated in Project Star Gate’s various iterations, something Dames promptly denied.
+**(PUBLIC DOMAIN)** - July 2012 — Bernard Mendez alleges he attended a “jump room” school with Andrew Basiago, William Stillings, and former DARPA director Regina Dugan in the early 1980s. He alleged the class was taught by Maj. Ed Dames who participated in **Project Star Gate’s** various iterations, something Dames promptly denied.
 
 Mendez claims the teleportation technology was transferred from a species of Grey extraterrestrials to the USG, and that the jump rooms were not actually visiting real destinations, but “folds” in spacetime created by the Greys known as “slots.” These “slots” are allegedly simulations of various destinations, also known as synthetic quantum environments (SQEs); Basiago claims the Greys built SQEs to help humanity understand the interdimensional multiverse.
 
@@ -3807,7 +3805,7 @@ Herrington also allegedly stated the existence of extraterrestrials were the “
 
 
 
-**(PUBLIC DOMAIN)** - June 2013 — Stealth aircraft researcher Joseph Jones claims Project Brilliant Buzzard was a codename used for airborne surveillance and tracking during the SDI program of the 1980s; he claims it dealt with the concept of setting up an electromagnetic shield around the US using a large boomerang shaped craft that could loiter over US cities. Jones states the primary contractor was Boeing and JP Aerospace was a subcontractor, and that DARPA issued a contract to an unknown contractor to develop SEAGEL, a material 95% lighter than styrofoam used as the primary building material for triangular/boomerang shaped craft.
+**(PUBLIC DOMAIN)** - June 2013 — Stealth aircraft researcher Joseph Jones claims **Project Brilliant Buzzard** was a codename used for airborne surveillance and tracking during the SDI program of the 1980s; he claims it dealt with the concept of setting up an electromagnetic shield around the US using a large boomerang shaped craft that could loiter over US cities. Jones states the primary contractor was Boeing and JP Aerospace was a subcontractor, and that DARPA issued a contract to an unknown contractor to develop SEAGEL, a material 95% lighter than styrofoam used as the primary building material for triangular/boomerang shaped craft.
 
 *   [https://futuretheater.com/assets/pdf/star-shield.pdf](https://futuretheater.com/assets/pdf/star-shield.pdf)
 
@@ -3843,15 +3841,15 @@ Bearden states he and others have built electromechanical devices that demonstra
 
 
 
-**(PUBLIC DOMAIN)** - 2014 — In 2014, the DOD declassifies a lengthy file on Project Pandora and Project Bizarre, a program focused on the Cold War secrets of USSR and if microwaves can affect the mind and body to dangerous, harmful degrees. In the files of the program said to end in 1979 is the alleged “Eisenhower Briefing Document,” which claims a secretive “MJ-12” controlled UAP crash recoveries and reverse engineered them. The CIA/ARPA version of the document has written notes stating “cannot be authenticated.”
+**(PUBLIC DOMAIN)** - 2014 — In 2014, the DOD declassifies a lengthy file on **Project Pandora** and **Project Bizarre**, a program focused on the Cold War secrets of USSR and if microwaves can affect the mind and body to dangerous, harmful degrees. In the files of the program said to end in 1979 is the alleged “Eisenhower Briefing Document,” which claims a secretive “MJ-12” controlled UAP crash recoveries and reverse engineered them. The CIA/ARPA version of the document has written notes stating “cannot be authenticated.”
 
 *   [https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave](https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave)
 *   [http://ufotrail.blogspot.com/2019/12/cold-war-embassy-games.html](http://ufotrail.blogspot.com/2019/12/cold-war-embassy-games.html)
-*   [https://web.archive.org/web/20140728030142/https://www.dod.mil/pubs/foi/operation_and_plans/Exercises_and_Projects/175.pdf](https://web.archive.org/web/20140728030142/https://www.dod.mil/pubs/foi/operation_and_plans/Exercises_and_Projects/175.pdf) (rg - verify TODO)
+*   [https://web.archive.org/web/20140728030142/https://www.dod.mil/pubs/foi/operation_and_plans/Exercises_and_Projects/175.pdf](https://web.archive.org/web/20140728030142/https://www.dod.mil/pubs/foi/operation_and_plans/Exercises_and_Projects/175.pdf)
 
 
 
-**(PUBLIC DOMAIN)** - March 2014 — The US Navy’s In-House Laboratory Independent Research Program mentions in a public budget document it has been researching the use of metamaterials to disperse and control electromagnetic waves in the microwave (RF) spectrum. Budget documents show DOD supercomputer resources were used and polyurea silicate composites were analyzed. One application of this is for aerospace mass reduction (see April 2017). In 2017 the Navy combined this program with others and it is difficult to track if the metamaterial research continues today.
+**(PUBLIC DOMAIN)** - March 2014 — The US Navy’s **In-House Laboratory Independent Research Program** mentions in a public budget document it has been researching the use of metamaterials to disperse and control electromagnetic waves in the microwave (RF) spectrum. Budget documents show DOD supercomputer resources were used and polyurea silicate composites were analyzed. One application of this is for aerospace mass reduction (see April 2017). In 2017 the Navy combined this program with others and it is difficult to track if the metamaterial research continues today.
 
 *   [https://www.thedrive.com/content-b/message-editor%2F1571979660331-navymetamaterialsihlir2015.jpg?auto=webp&optimize=high&quality=70&width=1920](https://www.thedrive.com/content-b/message-editor%2F1571979660331-navymetamaterialsihlir2015.jpg?auto=webp&optimize=high&quality=70&width=1920)
 
@@ -3876,7 +3874,7 @@ Bearden states he and others have built electromechanical devices that demonstra
 
 
 
-**(PUBLIC DOMAIN)** - 18 August 2014 — NASA physicist Bob Oechsler believes Navy EMP experiments may be connected to UAP crash retrievals and a Navy reverse engineering program. He states EMP was used in Gulf Breeze to recover “quite a number of craft” that were taken to Pensacola Naval Air Station. EMPRESS and EMPRESS II were EMP generators on barges.
+**(PUBLIC DOMAIN)** - 18 August 2014 — NASA physicist Bob Oechsler believes Navy EMP experiments may be connected to UAP crash retrievals and a Navy reverse engineering program. He states EMP was used in Gulf Breeze to recover “quite a number of craft” that were taken to Pensacola Naval Air Station. **EMPRESS** and **EMPRESS II** were EMP generators on barges.
 
 *   [https://youtu.be/er0BcRQShIY?t=1370](https://youtu.be/er0BcRQShIY?t=1370)
 
@@ -3919,14 +3917,14 @@ Eighteen months after sharing his story, “Brian” claims he received an anony
 *    [https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_underground18b.htm](https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_underground18b.htm)
 
 
-**(PUBLIC DOMAIN)** - 6 March 2015 — Former USG contractor Bob Fish tells Clinton campaign manager John Podesta that the USAF Defense Support Program (DSP) collects “hard data” on UAP. Fish states he had lunch with a few members in a highly classified TS/SCI organization in El Segundo, CA. One time, he overheard a member say they “picked up a Fastwalker,” how it entered Earth's atmosphere from deep space and traveled past a DSP satellite. Fish names The Aerospace Corporation in his email.
+**(PUBLIC DOMAIN)** - 6 March 2015 — Former USG contractor Bob Fish tells Clinton campaign manager John Podesta that the USAF **Defense Support Program (DSP)** collects “hard data” on UAP. Fish states he had lunch with a few members in a highly classified TS/SCI organization in El Segundo, CA. One time, he overheard a member say they “picked up a Fastwalker,” how it entered Earth's atmosphere from deep space and traveled past a DSP satellite. Fish names The Aerospace Corporation in his email.
 
 *   [https://wikileaks.org/podesta-emails/emailid/54211](https://wikileaks.org/podesta-emails/emailid/54211) (rg - can't access URL)
 *   [https://web.archive.org/web/20220704150819/https://wikileaks.org/podesta-emails/emailid/54211](https://web.archive.org/web/20220704150819/https://wikileaks.org/podesta-emails/emailid/54211) (rg - archive.org version)
 
 
 
-**(PUBLIC DOMAIN)** - 6 March 2015 — Former USG contractor Bob Fish tells Clinton campaign manager John Podesta that in a TS/SCI organization in El Segundo, CA, he had lunch with a senior USAF NCO who worked for Project Blue Book in the 1970s after it had publicly disbanded. He was an ELINT technician who flew in RC-135s from MacDill AFB in Florida. He allegedly told Fish they were sometimes diverted to track UAP off the east coast of Florida; the UAP allegedly came from a hotspot east of Miami, north of Bermuda. A specific frequency emanated from them, and UAP evidence was sent to a “dedicated” USAF intelligence officer.
+**(PUBLIC DOMAIN)** - 6 March 2015 — Former USG contractor Bob Fish tells Clinton campaign manager John Podesta that in a TS/SCI organization in El Segundo, CA, he had lunch with a senior USAF NCO who worked for **Project Blue Book** in the 1970s after it had publicly disbanded. He was an ELINT technician who flew in RC-135s from MacDill AFB in Florida. He allegedly told Fish they were sometimes diverted to track UAP off the east coast of Florida; the UAP allegedly came from a hotspot east of Miami, north of Bermuda. A specific frequency emanated from them, and UAP evidence was sent to a “dedicated” USAF intelligence officer.
 
 *   [https://wikileaks.org/podesta-emails/emailid/31721](https://wikileaks.org/podesta-emails/emailid/31721) (rg - can't access URL)
 *   [https://web.archive.org/web/20210301000000*/https://wikileaks.org/podesta-emails/emailid/31721](https://web.archive.org/web/20210301000000*/https://wikileaks.org/podesta-emails/emailid/31721) (rg - archive.org version)
@@ -3937,7 +3935,7 @@ Eighteen months after sharing his story, “Brian” claims he received an anony
 
 *   [https://www.abovetopsecret.com/forum/thread1057454/pg12#pid19113927](https://www.abovetopsecret.com/forum/thread1057454/pg12#pid19113927)
 
-**(PUBLIC DOMAIN)** - 5 November 2015 — The National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic is “outside of the scope of NRO responsibilities; furthermore, the NRO has conducted numerous searches…in the past, and has located no records.” This contradicts emails released by the NRO on 8 April 2022, which show extensive coordination with the DOD’s Unidentified Aerial Phenomena Task Force (UAPTF), and states the NRO contributed to the UAPTF report to Congress “tied to its collection efforts.” This implies UAP are being detected on NRO platforms, and suggests the FOIA response in 2015 wasn’t accurate if they were being detected in 2015 or before.
+**(PUBLIC DOMAIN)** - 5 November 2015 — The National Reconnaissance Office (NRO) states in response to a FOIA request that it has no documentation related to UFOs. It states the topic is “outside of the scope of NRO responsibilities; furthermore, the NRO has conducted numerous searches…in the past, and has located no records.” This contradicts emails released by the NRO on 8 April 2022, which show extensive coordination with the DOD’s **Unidentified Aerial Phenomena Task Force** (**UAPTF**), and states the NRO contributed to the **UAPTF** report to Congress “tied to its collection efforts.” This implies UAP are being detected on NRO platforms, and suggests the FOIA response in 2015 wasn’t accurate if they were being detected in 2015 or before.
 
 *   [https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf](https://documents.theblackvault.com/documents/ufos/F16-0010_Greenewald.pdf)
 
@@ -3956,7 +3954,7 @@ Eighteen months after sharing his story, “Brian” claims he received an anony
 *   [https://www.amazon.com/Greenglow-search-gravity-control-Ronald/dp/1784620238](https://www.amazon.com/Greenglow-search-gravity-control-Ronald/dp/1784620238)
 *   [https://www.huffpost.com/entry/project-greenglow_b_8683404](https://www.huffpost.com/entry/project-greenglow_b_8683404)
 
->**_Note_**: BAE Systems has expressed an interest in UAP-derived technology and was linked to a “technical collaboration” between Boeing, AAWSAP contractor Bigelow Aerospace and Lockheed Martin. It was seemingly published by mistake and later removed from the internet by To The Stars Academy of Arts & Science (TTSA) (see 8 August 2019), a company advised by current and former USG/USG contractor officials and the former head of the Pentagon’s AATIP Program Luis Elizondo.
+>**_Note_**: BAE Systems has expressed an interest in UAP-derived technology and was linked to a “technical collaboration” between Boeing, **AAWSAP** contractor Bigelow Aerospace and Lockheed Martin. It was seemingly published by mistake and later removed from the internet by To The Stars Academy of Arts & Science (TTSA) (see 8 August 2019), a company advised by current and former USG/USG contractor officials and the former head of the Pentagon’s **AATIP** Program Luis Elizondo.
 >
 >TTSA never mentions the collaboration in their SEC filings, nor do any of the companies mention it in their filings. TTSA also never mentions working with Boeing or BAE again, though Lockheed Martin Skunk Works veteran Steve Justice was TTSA’s Aerospace Division Director at the time.
 
@@ -3977,7 +3975,7 @@ Wright-Patterson AFB, told him “when Roswell crashed, they shipped it to \[WPA
 
 
 
-**(PUBLIC DOMAIN)** - 5 March 2016 — National Nuclear Security Administration (NNSA) spokesman Darwin Morgan divulges the Nevada National Security Site’s Area 6 activities for the first time publicly. Morgan states top secret R&D work is done there, primarily sensor testing and unmanned aerial vehicle testing for partners at Air Force, Army, Navy, Marines, DTRA and DARPA. The only other public mention of Area 6 is in a 7,500-page safety report on the proposed Yucca Mountain nuclear waste project describing it as an “aerial operations facility.” It is possible the NNSA has relevant UAP information that it has not reported to centralized bodies like the UAPTF.
+**(PUBLIC DOMAIN)** - 5 March 2016 — National Nuclear Security Administration (NNSA) spokesman Darwin Morgan divulges the Nevada National Security Site’s Area 6 activities for the first time publicly. Morgan states top secret R&D work is done there, primarily sensor testing and unmanned aerial vehicle testing for partners at Air Force, Army, Navy, Marines, DTRA and DARPA. The only other public mention of Area 6 is in a 7,500-page safety report on the proposed Yucca Mountain nuclear waste project describing it as an “aerial operations facility.” It is possible the NNSA has relevant UAP information that it has not reported to centralized bodies like the **UAPTF**.
 
 *   [https://www.reviewjournal.com/local/local-nevada/you-know-area-51-but-just-what-in-the-worldis-area-6/](https://www.reviewjournal.com/local/local-nevada/you-know-area-51-but-just-what-in-the-worldis-area-6/)
 
@@ -4047,7 +4045,7 @@ Basiago claimed military officials were involved in the maintenance of the telep
 *   [https://youtu.be/BJieA8lvucw](https://youtu.be/BJieA8lvucw)
 
 
-**(PUBLIC DOMAIN)** - 22 March 2017 — DOE’s National Nuclear Security Administration (NNSA) publicly discloses its partnership with NASA for planetary defense. Both agencies work with FEMA to determine potentially hazardous near-Earth objects and prepare for them. NNSA’s three national security laboratories, Sandia, Los Alamos and Lawrence Livermore, assist. NNSA’s Office of Defense Programs (DP) sponsors technical research. It is possible the NNSA has relevant UAP information that it has not reported to centralized bodies like the UAPTF.
+**(PUBLIC DOMAIN)** - 22 March 2017 — DOE’s National Nuclear Security Administration (NNSA) publicly discloses its partnership with NASA for planetary defense. Both agencies work with FEMA to determine potentially hazardous near-Earth objects and prepare for them. NNSA’s three national security laboratories, Sandia, Los Alamos and Lawrence Livermore, assist. NNSA’s Office of Defense Programs (DP) sponsors technical research. It is possible the NNSA has relevant UAP information that it has not reported to centralized bodies like the **UAPTF**.
 
 *   [https://youtu.be/DCH88oy_sB8](https://youtu.be/DCH88oy_sB8)
 *   [https://www.osti.gov/biblio/1811856](https://www.osti.gov/biblio/1811856)
@@ -4062,7 +4060,7 @@ Basiago claimed military officials were involved in the maintenance of the telep
 
 Another article from 20 December 2017 writes that USAF pilots are trained to be aware of UAP, shares a seemingly non-public FLIR image dated 11 November 2014 and states: “we want our enemies to believe in UFOs up to the point it becomes too late for them to react to an airstrike by our own air force; we also need our pilots not to believe in UFOs should the enemy use this same strategy against us.”
 
-It also states that Corona East, Akrij and Sienna are three PSV craft in operation that deploy “MilOrbs” and they perform covert test unbeknownst to USG knowledge to see how crew react to them.
+It also states that **Corona East**, **Akrij** and **Sienna** are three PSV craft in operation that deploy “MilOrbs” and they perform covert test unbeknownst to USG knowledge to see how crew react to them.
 
 *   [https://forgottenlanguages-full.forgottenlanguages.org/2017/03/turning-vehicle-into-pilots-prosthetic.html](https://forgottenlanguages-full.forgottenlanguages.org/2017/03/turning-vehicle-into-pilots-prosthetic.html)
 *   [https://forgottenlanguages-full.forgottenlanguages.org/2017/12/axis-from-lightning-bugs-to-milorbs.html](https://forgottenlanguages-full.forgottenlanguages.org/2017/12/axis-from-lightning-bugs-to-milorbs.html)
@@ -4079,13 +4077,13 @@ The framework states laboratory experiments confirm the findings that PZT can ac
 
 
 
-**(PUBLIC DOMAIN)** - 19 September 2017 — Astronomer Marc D’Antonio and operator of FX Models that has Naval contracts, claims the US Navy is running a secret USO project known as the “Fast Mover Program.” D’Antonio states he asked a senior Naval figure about the program and they told him “Sorry Marc, I can’t talk about that program.” This person then told him the program exists and that USOs are common but didn’t get into any more details.
+**(PUBLIC DOMAIN)** - 19 September 2017 — Astronomer Marc D’Antonio and operator of FX Models that has Naval contracts, claims the US Navy is running a secret USO project known as the “**Fast Mover Program**.” D’Antonio states he asked a senior Naval figure about the program and they told him “Sorry Marc, I can’t talk about that program.” This person then told him the program exists and that USOs are common but didn’t get into any more details.
 
 *   [https://www.thesun.co.uk/news/4487506/us-navy-is-running-top-secret-programme-to-detect-alien-spacecraft-under-the-ocean-ufo-expert-claims/](https://www.thesun.co.uk/news/4487506/us-navy-is-running-top-secret-programme-to-detect-alien-spacecraft-under-the-ocean-ufo-expert-claims/)
 
 
 
-**(PUBLIC DOMAIN)** - 26 October 2017 — Musician Tom DeLonge suggests on a podcast he is being advised by USAF Maj. Gen. Neil McCasland, USAF Maj. Gen. Michael Carey, Lockheed Martin Skunk Works EVP Rob Weiss, Hillary Clinton campaign manager John Podesta, Dr. Hal Puthoff, former Deputy Assistant Secretary of Defense for Intelligence Christopher K. Mellon and former OUSD(I) employee and AATIP head Luis Elizondo, among others unnamed, to carry out slow disclosure of UAP information to the American public from USG/USG contractor sources.
+**(PUBLIC DOMAIN)** - 26 October 2017 — Musician Tom DeLonge suggests on a podcast he is being advised by USAF Maj. Gen. Neil McCasland, USAF Maj. Gen. Michael Carey, Lockheed Martin Skunk Works EVP Rob Weiss, Hillary Clinton campaign manager John Podesta, Dr. Hal Puthoff, former Deputy Assistant Secretary of Defense for Intelligence Christopher K. Mellon and former OUSD(I) employee and **AATIP** head Luis Elizondo, among others unnamed, to carry out slow disclosure of UAP information to the American public from USG/USG contractor sources.
 
 DeLonge claims USG/USG contractors already have free energy technology, i.e. zero-point energy, that would make all other forms of energy derivation obsolete. “One inch of air could power the
 US for hundreds of years,” he claimed. DeLonge suggested his group, To The Stars Academy of Arts & Science (TTSA), was being restrained from releasing all information government insiders were telling him, but that TTSA sought investment from private investors to develop said free energy technology for energy and aerospace purposes. DeLonge also stated TTSA expected to create a working anti-gravity craft; the company’s offering statement to the SEC stated the company’s aerospace division was “dedicated to finding revolutionary breakthroughs in propulsion, energy and communications.”
@@ -4101,7 +4099,7 @@ US for hundreds of years,” he claimed. DeLonge suggested his group, To The Sta
 
 
 
-**(PUBLIC DOMAIN)** - 2 November 2017 — Salvatore Pais of the Naval Air Station Patuxent River files a patent for a triangle/diamond shaped craft that has anti-gravitic effects and resembles some UAP sightings. The patent was initially rejected but Naval Aviation Enterprise CTO James Sheehy filed for appeal to the USPTO and stated “it will become a reality” and China was already investing in it. The patent was then approved. The technology described in Pais’ patent is similar to that of Hal Puthoff’s AATIP DIRD on vacuum engineering. Pais’ patent describes a craft that is able to manipulate quantum vacuum fluctuations around the craft for propulsion purposes.
+**(PUBLIC DOMAIN)** - 2 November 2017 — Salvatore Pais of the Naval Air Station Patuxent River files a patent for a triangle/diamond shaped craft that has anti-gravitic effects and resembles some UAP sightings. The patent was initially rejected but Naval Aviation Enterprise CTO James Sheehy filed for appeal to the USPTO and stated “it will become a reality” and China was already investing in it. The patent was then approved. The technology described in Pais’ patent is similar to that of Hal Puthoff’s **AATIP** DIRD on vacuum engineering. Pais’ patent describes a craft that is able to manipulate quantum vacuum fluctuations around the craft for propulsion purposes.
 
 *   [https://patentimages.storage.googleapis.com/1b/f6/40/5712193f6a971f/US20170313446A1.pdf](https://patentimages.storage.googleapis.com/1b/f6/40/5712193f6a971f/US20170313446A1.pdf)
 *   [https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf](https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_15-DIRD_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineer.pdf)
@@ -4125,9 +4123,9 @@ US for hundreds of years,” he claimed. DeLonge suggested his group, To The Sta
 
 **(PUBLIC DOMAIN)** - 2018 — Former Lockheed Martin astrophysicist Bernard Haisch, a colleague of Eric Davis and Hal Puthoff, comments on four alleged “legacy” UAP programs hidden from oversight. “A group of four related but separate unacknowledged SCI programs dating back to a 1947 Truman memorandum still exist and were housed as of the 1990s in major aerospace companies such as for example Lockheed, TRW, Raytheon, Aerospace Corp. etc. These would be expensive programs since the cost of secrecy can be several times bigger than the research… the black programs collectively have budgets in the $10B range annually. Topics apparently include both reverse engineering and extraterrestrial biology.”
 
-Haisch states “the AATIP program did find the UFO crash retrieval program via official channels, but was denied access to it because the AATIP itself is not a SAP. Sen. Harry Reid petitioned the DoD to confer SAP status to the AATIP, but the DoD denied his request.”
+Haisch states “the **AATIP** program did find the UFO crash retrieval program via official channels, but was denied access to it because the **AATIP** itself is not a SAP. Sen. Harry Reid petitioned the DoD to confer SAP status to the **AATIP**, but the DoD denied his request.”
 
-Haisch also states: “It is easier to keep a program hidden in a contractor facility than in a government facility…a crash retrieval or some classified continuation of Project Blue Book would likely exist as a deep, black industrial-based SAP. A program involving hardware would be considered technology rather than intelligence and most likely fall under the office of the Undersecretary of Defense for Acquisition, Technology and Logistics (OUSDAT). Ironically, for such a program, even someone having an intelligence “ticket” at the highest level would not be considered to have a need to know. All of this results in very effective isolation and virtually no one in a position of open civilian governmental
+Haisch also states: “It is easier to keep a program hidden in a contractor facility than in a government facility…a crash retrieval or some classified continuation of **Project Blue Book** would likely exist as a deep, black industrial-based SAP. A program involving hardware would be considered technology rather than intelligence and most likely fall under the office of the Undersecretary of Defense for Acquisition, Technology and Logistics (OUSDAT). Ironically, for such a program, even someone having an intelligence “ticket” at the highest level would not be considered to have a need to know. All of this results in very effective isolation and virtually no one in a position of open civilian governmental
 authority, being cognizant of this after a time even though at least in principle of the Special Access Program oversight committee, SAPOC, should be cognizant of such a program. I do not know of any fundamentally limiting factors in the potential longevity of a program. The extreme compartmentalization and limited oversight would tend to keep a program in existence, perhaps indefinitely. Political leaders come and go, pandering to the masses for votes in the eyes of many within the military and intelligence communities, and as a result have varying degrees of respect and trust in that world. Deep Black programs can become quite independent of any given administration, and it would certainly be unrealistic to assume that a given president has been briefed on every SAP. A president does not automatically have a need to know. Moreover, Freedom Of Information Act requests cannot penetrate Unacknowledged Special Access Programs.”
 
 *   [https://www.reddit.com/r/UFOs/comments/x5v4mr/fmr_lockheed_astrophysicist_and_colleague_of/](https://www.reddit.com/r/UFOs/comments/x5v4mr/fmr_lockheed_astrophysicist_and_colleague_of/)
@@ -4147,18 +4145,18 @@ Curiously, XVis was an actual Department of Energy (DOE)/Sandia National Laborat
 *   [https://www.earthfiles.com/2018/05/30/mysterious-area-29-is-it-linked-to-area-51-and-ufos/](https://www.earthfiles.com/2018/05/30/mysterious-area-29-is-it-linked-to-area-51-and-ufos/)
 
 
-**(PUBLIC DOMAIN)** - 24 June 2018 — AATIP scientist and EarthTech consultant Eric Davis states there was a collaboration between EarthTech, BAASS and an aerospace company “like Ratheyon, Northrop Grumman, Lockheed Martin” to try and figure out some of the answers when the AATIP program ran out of appropriation funding.
+**(PUBLIC DOMAIN)** - 24 June 2018 — **AATIP** scientist and EarthTech consultant Eric Davis states there was a collaboration between EarthTech, **BAASS** and an aerospace company “like Ratheyon, Northrop Grumman, Lockheed Martin” to try and figure out some of the answers when the **AATIP** program ran out of appropriation funding.
 
 *   [https://www.reddit.com/r/UFOs/comments/8u9owl/notes_on_eric_daviss_june_24th_appearance_on/](https://www.reddit.com/r/UFOs/comments/8u9owl/notes_on_eric_daviss_june_24th_appearance_on/)
 
 
-**(PUBLIC DOMAIN)** - 24 June 2018 — AATIP scientist and EarthTech consultant Eric Davis states, “the crash retrieval program, it’s still there. And we would have gotten into the crash retrieval program using the legal authorizations that would open the door \[for\] us. And we would have gotten access to it
+**(PUBLIC DOMAIN)** - 24 June 2018 — **AATIP** scientist and EarthTech consultant Eric Davis states, “the crash retrieval program, it’s still there. And we would have gotten into the crash retrieval program using the legal authorizations that would open the door \[for\] us. And we would have gotten access to it
 and that would have exponentially increased our knowledge base and understanding since we don’t have a Tic Tac in possession right now. We’re not in possession of one.”
 
 *   [https://www.coasttocoastam.com/show/2018-06-24-show/](https://www.coasttocoastam.com/show/2018-06-24-show/)
 
 
-**(PUBLIC DOMAIN)** - July 2018 — To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, launch the A.D.A.M. Research Project to study “exotic metamaterials” recovered from alleged UAP sources for study and possible reverse engineering.
+**(PUBLIC DOMAIN)** - July 2018 — To The Stars Academy of Arts & Science (TTSA), advised by current and former USG/USG contractor officials, launch the **A.D.A.M. Research Project** to study “exotic metamaterials” recovered from alleged UAP sources for study and possible reverse engineering.
 
 TTSA purchased alleged UAP metamaterials over the following two years and reached a collaborative R&D agreement with the US Army’s Combat Capabilities Development Command (USACCDC) to advance developments in material science, spacetime metric engineering, quantum physics, beamed energy propulsion and active camouflage. As of TTSA’s last prospectus (May 2022), USACCDC is still testing “anomalous materials” to determine military or civilian uses.
 
@@ -4233,7 +4231,7 @@ sponsored by the DOD. It was reported at the time that Mitre Corp. would remain 
 >*   [https://www.amazon.com/UFOs-Area-Government-Informants-Involvement-ebook/dp/B0916JQDCS](https://www.amazon.com/UFOs-Area-Government-Informants-Involvement-ebook/dp/B0916JQDCS) (p137)
 
 
-**(PUBLIC DOMAIN)** - 30 April 2019 — EarthTech and Aerospace Corp. physicist Eric Davis states “there have been crashes” of UAP and reverse engineering programs are stovepiped into very small, underfunded efforts controlled by legacy aerospace corporations. Davis alludes that he or his AATIP colleagues were told of crash recovery/alien biology programs in SCIFs with those aware of the programs, but suggests AATIP was not “read into” these programs. There were red-lines they were made aware of and told of generalities in SCIFs. Davis suggests some executives at aerospace firms know of the programs and at least one was last funded in 1989, according to him.
+**(PUBLIC DOMAIN)** - 30 April 2019 — EarthTech and Aerospace Corp. physicist Eric Davis states “there have been crashes” of UAP and reverse engineering programs are stovepiped into very small, underfunded efforts controlled by legacy aerospace corporations. Davis alludes that he or his **AATIP** colleagues were told of crash recovery/alien biology programs in SCIFs with those aware of the programs, but suggests **AATIP** was not “read into” these programs. There were red-lines they were made aware of and told of generalities in SCIFs. Davis suggests some executives at aerospace firms know of the programs and at least one was last funded in 1989, according to him.
 
 *   [https://youtu.be/IeyBTChcTe4?t=4632](https://youtu.be/IeyBTChcTe4?t=4632)
 
@@ -4273,7 +4271,7 @@ sponsored by the DOD. It was reported at the time that Mitre Corp. would remain 
 **(PUBLIC DOMAIN)** - 6 September 2019 — Rep. Mark Walker accuses the U.S. Navy of withholding information about UAP reports. Walker tells a journalist he is encouraged the Under Secretary of the Navy confirmed UAP encounters are investigated, “there is frustration with the lack of answers to specific questions about the threat that superior aircraft \[UAP\] flying in United States airspace may pose.” An earlier letter from Walker on 16 July 2019 asked if the Navy had found physical evidence from UAP, and if any foreign nations or private companies were responsible for the craft.
 
 *   [https://www.politico.com/story/2019/09/06/navy-withholding-ufo-sightings-1698396](https://www.politico.com/story/2019/09/06/navy-withholding-ufo-sightings-1698396)
-*   [https://web.archive.org/web/20201107231831/https:/walker.house.gov/sites/walker.house.gov/files/UAPLetter.pdf](https://web.archive.org/web/20201107231831/https:/walker.house.gov/sites/walker.house.gov/files/UAPLetter.pdf) (rg - verify TODO)
+*   [https://web.archive.org/web/20201107231831/https:/walker.house.gov/sites/walker.house.gov/files/UAPLetter.pdf](https://web.archive.org/web/20201107231831/https:/walker.house.gov/sites/walker.house.gov/files/UAPLetter.pdf)
 
 **(PUBLIC DOMAIN)** - 29 November 2019 — Former Principal Deputy Under Secretary of Defense for Acquisition, Technology and Logistics (AT&L) Noel Longuemare Jr., states SAPOC reviewed a number of classified programs while he was present 1993-97, but he does “not recall UFOs ever coming up, nor any issues regarding need-to-know.” Longuemare also states he does not remember an audience with VADM Thomas Wilson, as the Wilson notes (see 16 October 2002) suggest.
 
@@ -4282,7 +4280,7 @@ sponsored by the DOD. It was reported at the time that Mitre Corp. would remain 
 
 
 
-**(PUBLIC DOMAIN)** - 2 February 2020 — Richard Doty allegedly states some previous and current DIA members believe elements of the Project SERPO rumors (an “exchange program” between USG personnel and ET personnel on a different planet) are real.
+**(PUBLIC DOMAIN)** - 2 February 2020 — Richard Doty allegedly states some previous and current DIA members believe elements of the **Project SERPO** rumors (an “exchange program” between USG personnel and ET personnel on a different planet) are real.
 
 *   [https://twitter.com/Deepneuron/status/1224166784279822336?s=20&t=-NWLBldCaT3xXfDcHr1t2Q](https://twitter.com/Deepneuron/status/1224166784279822336?s=20&t=-NWLBldCaT3xXfDcHr1t2Q)
 
@@ -4305,7 +4303,7 @@ sponsored by the DOD. It was reported at the time that Mitre Corp. would remain 
 *   [https://www.ufojoe.net/hal-puthoff-transcript-transiitontalks-qa](https://www.ufojoe.net/hal-puthoff-transcript-transiitontalks-qa)
 
 
-**(PUBLIC DOMAIN)** - 8 February 2020 — Puthoff also states former AFOSI counterintelligence officer Richard Doty worked for him in “another program before AATIP.”
+**(PUBLIC DOMAIN)** - 8 February 2020 — Puthoff also states former AFOSI counterintelligence officer Richard Doty worked for him in “another program before **AATIP**.”
 
 *   [https://ufos-scientificresearch.blogspot.com/2020/02/dr-hal-puthoffs-8-february-2020-talk.html](https://ufos-scientificresearch.blogspot.com/2020/02/dr-hal-puthoffs-8-february-2020-talk.html)
 
@@ -4324,13 +4322,13 @@ sponsored by the DOD. It was reported at the time that Mitre Corp. would remain 
 
 **(PUBLIC DOMAIN)** - 20 March 2020 — Physicist Jack Sarfatti states a metamaterial utilized by the Tic Tac UAP allows the craft to slow down the speed of light. Sarfatti states when a certain type of electromagnetic energy is sent into this metamaterial, it creates a resonance that “squeezes the space in front of it and stretches the space behind.”
 
-He also claims the Tic Tac metamaterial came from “Earth humans” from the future and people from the future come back in time to create “past events” which in turns create a “Novikov loop” (a paradox where the origin of the event cannot be known). Sarfatti claims he is close to Bechtel, was close to the Reagan Administration and former SDI proponent and SecDef Caspar Weinberger, and states he received phone calls from a “mechanical voice” when he was young that put him into a hypnotic state where he was led to theorize about quantum vacuum energy and faster-than-light propulsion. Jacques Vallee states it was “undeniable” he was a child prodigy.
+He also claims the Tic Tac metamaterial came from “Earth humans” from the future and people from the future come back in time to create “past events” which in turns create a “Novikov loop” (a paradox where the origin of the event cannot be known). Sarfatti claims he is close to Bechtel, was close to the Reagan Administration and former SDI proponent and SecDef Caspar Weinberger, and states he received phone calls from a “mechanical voice” when he was young that put him into a hypnotic state where he was led to theorize about quantum vacuum energy and faster-than-light propulsion. Jacques Vallée states it was “undeniable” he was a child prodigy.
 
 *   [https://ufos-scientificresearch.blogspot.com/2021/03/jack-sarfatti-his-ideas-about-tic-tac.html](https://ufos-scientificresearch.blogspot.com/2021/03/jack-sarfatti-his-ideas-about-tic-tac.html)
 *   [https://exonews.org/top-physicist-claims-nimitz-ufo-time-travelled-to-reach-19000mph/](https://exonews.org/top-physicist-claims-nimitz-ufo-time-travelled-to-reach-19000mph/)
 
 
-**(PUBLIC DOMAIN)** - 29 April 2020 — Journalist Tim McMillan states a source who worked for BAASS and AAWSAP told him the Atomic Energy Commission (AEC) had some UAP materials as early as 1947. He states it was transferred to Lockheed Martin in 1977 ahead of expected USG oversight in 1979. In response to the claim, Eric Davis states the BAASS source is “ill-informed” and not “in the know” about the history of legacy UAP recovery and reverse engineering. Davis states the claims of Lockheed receiving UAP information from the AEC in 1977 are false.
+**(PUBLIC DOMAIN)** - 29 April 2020 — Journalist Tim McMillan states a source who worked for **BAASS** and **AAWSAP** told him the Atomic Energy Commission (AEC) had some UAP materials as early as 1947. He states it was transferred to Lockheed Martin in 1977 ahead of expected USG oversight in 1979. In response to the claim, Eric Davis states the **BAASS** source is “ill-informed” and not “in the know” about the history of legacy UAP recovery and reverse engineering. Davis states the claims of Lockheed receiving UAP information from the AEC in 1977 are false.
 
 *   [https://twitter.com/LtTimMcMillan/status/1255453604451962890?s=20&t=MWB-QNtWGAUG0ZmXI3NFvA](https://twitter.com/LtTimMcMillan/status/1255453604451962890?s=20&t=MWB-QNtWGAUG0ZmXI3NFvA)
 *   [https://www.ufojoe.net/senator-harry-reid-lockheed/](https://www.ufojoe.net/senator-harry-reid-lockheed/)
@@ -4344,9 +4342,9 @@ Gradisher’s admission is of questionable legality considering federal governme
 *   [http://parallaxuap.blogspot.com/2021/03/how-dod-is-keeping-tabs-on-uap-related.html](http://parallaxuap.blogspot.com/2021/03/how-dod-is-keeping-tabs-on-uap-related.html)
 
 
-**(PUBLIC DOMAIN)** - 19 July 2020 — Former AATIP director while he is at To The Stars Academy Lue Elizondo states on a public radio program that he was on the Hill, in a SCIF, meeting with several individuals about UAP. Elizondo states an “older gentleman” was sitting in the corner of the room and didn’t introduce himself and told him “Look, I had your job (with a particular service, I’m not going to mention what service it was)...I had your job back in the ‘80s.” Elizondo states this man was legitimate and the fact that he didn’t know who he was suggests there is “some sense of legacy” of the UAP issue where it was studied at high levels prior to AATIP, but after Project Blue Book unbeknownst to the public.
+**(PUBLIC DOMAIN)** - 19 July 2020 — Former **AATIP** director while he is at To The Stars Academy Lue Elizondo states on a public radio program that he was on the Hill, in a SCIF, meeting with several individuals about UAP. Elizondo states an “older gentleman” was sitting in the corner of the room and didn’t introduce himself and told him “Look, I had your job (with a particular service, I’m not going to mention what service it was)...I had your job back in the ‘80s.” Elizondo states this man was legitimate and the fact that he didn’t know who he was suggests there is “some sense of legacy” of the UAP issue where it was studied at high levels prior to **AATIP**, but after **Project Blue Book** unbeknownst to the public.
 
-Elizondo states the man told him AATIP got further than the 1980s program, but didn’t clarify if that meant from a findings perspective, a budgetary perspective or a political perspective.
+Elizondo states the man told him **AATIP** got further than the 1980s program, but didn’t clarify if that meant from a findings perspective, a budgetary perspective or a political perspective.
 
 *   [https://silvarecord.com/2020/07/20/elizondo-met-ufo-program-point-man-from-1980s/](https://silvarecord.com/2020/07/20/elizondo-met-ufo-program-point-man-from-1980s/)
 
@@ -4355,7 +4353,7 @@ Elizondo states the man told him AATIP got further than the 1980s program, but d
 
 *   [https://www.theblackvault.com/documentarchive/navy-chinfo-unidentified-aerial-phenomena-uaps-briefing-card-24-july-2020/](https://www.theblackvault.com/documentarchive/navy-chinfo-unidentified-aerial-phenomena-uaps-briefing-card-24-july-2020/)
 
-**(PUBLIC DOMAIN)** - 30 November 2020 — Navy crypto communications operator Karson Kammerzell says he was on the USS Princeton at the time of the reported “Tic Tac” event and the object that interacted with Fravor's squadron was a triangle. Kammerzell claims the Tic Tac story is a coverup of a triangle Princeton encounter and infers AATIP and those speaking about a Tic Tac encounter are covering up a triangle encounter.
+**(PUBLIC DOMAIN)** - 30 November 2020 — Navy crypto communications operator Karson Kammerzell says he was on the USS Princeton at the time of the reported “Tic Tac” event and the object that interacted with Fravor's squadron was a triangle. Kammerzell claims the Tic Tac story is a coverup of a triangle Princeton encounter and infers **AATIP** and those speaking about a Tic Tac encounter are covering up a triangle encounter.
 
 *   [http://not-devoid.blogs.heraldtribune.com/16041/where-the-buck-stops/](http://not-devoid.blogs.heraldtribune.com/16041/where-the-buck-stops/)
 
@@ -4365,7 +4363,7 @@ Elizondo states the man told him AATIP got further than the 1980s program, but d
 *   [https://youtu.be/VGhkmhgZN00](https://youtu.be/VGhkmhgZN00)
 
 
-**(PUBLIC DOMAIN)** - 4 December 2020 — Jacques Vallee states in 2020 that the entity that controls the UAP issue and controls study of it in intelligence agencies (like the CIA) is a “private contractor.” He nervously says he doesn’t want to reveal who has UAP metals, but then James Fox asks him if he can indirectly answer the question by discussing a contractor involved in the Robertson Panel, and Vallee states it is Battelle Memorial Institute. He then won’t answer any more questions on if Battelle has UAP crash recovered metals.
+**(PUBLIC DOMAIN)** - 4 December 2020 — Jacques Vallée states in 2020 that the entity that controls the UAP issue and controls study of it in intelligence agencies (like the CIA) is a “private contractor.” He nervously says he doesn’t want to reveal who has UAP metals, but then James Fox asks him if he can indirectly answer the question by discussing a contractor involved in the Robertson Panel, and Vallee states it is Battelle Memorial Institute. He then won’t answer any more questions on if Battelle has UAP crash recovered metals.
 
 *   [https://www.reddit.com/r/ufo/comments/k7mvgg/did_anyone_catch_what_jacques_vallee_said_about/](https://www.reddit.com/r/ufo/comments/k7mvgg/did_anyone_catch_what_jacques_vallee_said_about/)
 
@@ -4373,7 +4371,8 @@ Elizondo states the man told him AATIP got further than the 1980s program, but d
 **(PUBLIC DOMAIN)** - 12 December 2020 — John Marcel, grandson of Jesse Marcel Sr., states his grandfather and father (Jesse Marcel Jr.) held debris recovered from a UAP crash near Roswell, NM on
 8-9 July 1947 that had strange writing on it. One symbol had a seal balancing a ball on its nose, and there were also glass “fibers.”
 
-*   [https://mysteriousuniverse.org/2020/12/surprising-roswell-ufo-details-revealed-in-investigators-private-journal/](https://mysteriousuniverse.org/2020/12/surprising-roswell-ufo-details-revealed-in-investigators-private-journal/) (rg - paywall TODO, add archive.org variant)
+*   [https://mysteriousuniverse.org/2020/12/surprising-roswell-ufo-details-revealed-in-investigators-private-journal/](https://mysteriousuniverse.org/2020/12/surprising-roswell-ufo-details-revealed-in-investigators-private-journal/) (rg - behind paywall)
+*   [https://web.archive.org/web/20210209195101/https://mysteriousuniverse.org/2020/12/surprising-roswell-ufo-details-revealed-in-investigators-private-journal/](https://web.archive.org/web/20210209195101/https://mysteriousuniverse.org/2020/12/surprising-roswell-ufo-details-revealed-in-investigators-private-journal/) (rg - non-paywall version)
 
 
 **(PUBLIC DOMAIN)** - 1 May 2021 — Former Sen. Harry Reid says he was told “for decades” that Lockheed Martin was in possession of UAP fragments from a crash site. Reid says the Pentagon would not give him access to the program. “I don’t know…what kind of classification it was, but they would not give that to me.”
@@ -4403,25 +4402,28 @@ Elizondo states the man told him AATIP got further than the 1980s program, but d
 
 
 
-**(PUBLIC DOMAIN)** - 25 June 2021 — The ODNI’s report to Congressional Intelligence and Armed Services Committees on progress made by the Unidentified Aerial Phenomena Task Force (UAPTF) is published. The UAPTF discloses (p2) it received input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Marine Corps, DARPA, FAA, NASA, NOAA, ODNI and presumably CIA, whose name is redacted.
+**(PUBLIC DOMAIN)** - 25 June 2021 — The ODNI’s report to Congressional Intelligence and Armed Services Committees on progress made by the **Unidentified Aerial Phenomena Task Force** (**UAPTF**) is published. The **UAPTF** discloses (p2) it received input from USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy, Marine Corps, DARPA, FAA, NASA, NOAA, ODNI and presumably CIA, whose name is redacted.
 
 Neither the Department of Energy (DOE) nor its agency the National Nuclear Security Administration (NNSA) are mentioned as having contributed. This may be a meaningful omission, and may indicate classified aerospace programs or commercial aerospace programs linked to that agency, its offices, facilities or contractors were responsible for some of the 144 UAP cases analyzed.
 
-In particular, one NNSA contractor, Triad National Security LLC based in Los Alamos, NM, filed a patent for aerospace vehicles that traveled inside self-generated “air-buoyant structures” made of low density aerogel or vapor-expanded material to achieve “buoyancy in air.” The patent was published two weeks before the UAPTF report was delivered to Congress and matches the description of at least one high-profile UAP case where a USN pilot told Lt. Ryan Graves he witnessed a “sphere encasing a cube” in 2014 over the Atlantic Ocean east of Virginia. The Triad National Security LLC patent states an
+In particular, one NNSA contractor, Triad National Security LLC based in Los Alamos, NM, filed a patent for aerospace vehicles that traveled inside self-generated “air-buoyant structures” made of low density aerogel or vapor-expanded material to achieve “buoyancy in air.” The patent was published two weeks before the **UAPTF** report was delivered to Congress and matches the description of at least one high-profile UAP case where a USN pilot told Lt. Ryan Graves he witnessed a “sphere encasing a cube” in 2014 over the Atlantic Ocean east of Virginia. The Triad National Security LLC patent states an
 air-buoyant structure around a craft could be spherical, cylindrical, torus, pill or lattice shaped. Triad’s website states its primary client is the NNSA and it is comprised of three partners: Battelle Memorial Institute, The Texas A&M University System and the University of California.
 
 *   [https://documents2.theblackvault.com/documents/odni/DEOM-2021-00006.pdf](https://documents2.theblackvault.com/documents/odni/DEOM-2021-00006.pdf)
 *   [https://patentimages.storage.googleapis.com/51/ef/a0/035d0116bc183d/US11027816.pdf](https://patentimages.storage.googleapis.com/51/ef/a0/035d0116bc183d/US11027816.pdf)
 *   [https://twitter.com/history/status/1141460771618078730?lang=en](https://twitter.com/history/status/1141460771618078730?lang=en)
 *   [https://www.nytimes.com/2019/05/26/us/politics/ufo-sightings-navy-pilots.html](https://www.nytimes.com/2019/05/26/us/politics/ufo-sightings-navy-pilots.html)
-*   [https://triadns.org/](https://triadns.org/) (rg - can't access, try archive.org TODO)
+*   [https://triadns.org/](https://triadns.org/) (rg - dead URL)
+*   [https://web.archive.org/web/20220128074033/https://triadns.org/](https://web.archive.org/web/20220128074033/https://triadns.org/) (rg - archive.org version)
 
 >**_Note_**: In 2018, Triad National Security LLC became the manager and operator of Los Alamos National Laboratory.
->*   [https://www.lanl.gov/discover/news-release-archive/2018/November/1101-triad-takes-the-helm.php](https://www.lanl.gov/discover/news-release-archive/2018/November/1101-triad-takes-the-helm.php) (rg - can't access, try archive.org TODO)
+>*   [https://www.lanl.gov/discover/news-release-archive/2018/November/1101-triad-takes-the-helm.php](https://www.lanl.gov/discover/news-release-archive/2018/November/1101-triad-takes-the-helm.php) (rg - dead URL)
+>*   [https://web.archive.org/web/20201016180525/https://www.lanl.gov/discover/news-release-archive/2018/November/1101-triad-takes-the-helm.php](https://web.archive.org/web/20201016180525/https://www.lanl.gov/discover/news-release-archive/2018/November/1101-triad-takes-the-helm.php) (rg - archive.org version)
 
 
 
-**(PUBLIC DOMAIN)** - 26 May 2021 — Former AATIP director Lue Elizondo states some “elements'' of a group were interfering with AATIP’s ability to collect and analyze UAP data while AATIP was operating inside OUSDI&S. Elizondo states there is speculation a “secret government \[or\] society” exists and it intimidates people into silence.
+
+**(PUBLIC DOMAIN)** - 26 May 2021 — Former **AATIP** director Lue Elizondo states some “elements'' of a group were interfering with **AATIP**’s ability to collect and analyze UAP data while **AATIP** was operating inside OUSDI&S. Elizondo states there is speculation a “secret government \[or\] society” exists and it intimidates people into silence.
 
 *   [https://www.ufojoe.net/lue-dolan-transcript/](https://www.ufojoe.net/lue-dolan-transcript/)
 
@@ -4429,7 +4431,7 @@ air-buoyant structure around a craft could be spherical, cylindrical, torus, pil
 
 
 
-**(PUBLIC DOMAIN)** - 10 June 2021 — Former AATIP director Lue Elizondo states the following when asked a question about an oceanic UAP crash retrieval during the Operation Starfish Prime nuclear test which produced a large EMP: “There may be some significance to EMPs…\[it\] can interfere with whatever this technology is and its proposition…you now have a very interesting scenario where whatever is keeping these things up in the sky it no longer does that…so now all of the sudden the bubble pops, and so all of a sudden comes crashing down this object that has no wings, no tail, no ailerons, no obvious signs of propulsion, and now it really does become a brick and that brick falls. Now all of a sudden, gravity has a say.”
+**(PUBLIC DOMAIN)** - 10 June 2021 — Former **AATIP** director Lue Elizondo states the following when asked a question about an oceanic UAP crash retrieval during the **Operation Starfish Prime** nuclear test which produced a large EMP: “There may be some significance to EMPs…\[it\] can interfere with whatever this technology is and its proposition…you now have a very interesting scenario where whatever is keeping these things up in the sky it no longer does that…so now all of the sudden the bubble pops, and so all of a sudden comes crashing down this object that has no wings, no tail, no ailerons, no obvious signs of propulsion, and now it really does become a brick and that brick falls. Now all of a sudden, gravity has a say.”
 
 *   [https://youtu.be/LYUHEC4RAkM?t=2297](https://youtu.be/LYUHEC4RAkM?t=2297)
 
@@ -4446,7 +4448,7 @@ air-buoyant structure around a craft could be spherical, cylindrical, torus, pil
 
 
 
-**(PUBLIC DOMAIN)** - 29 June 2021 — Ufologist Richard Dolan states a source familiar with the portion of the UAPTF report presented to Congress that was not released to the public relates to the following: energy pulse, ion, anti-gravity, anti-matter, ramjet hydrogen and compressed nuclear propulsion systems; additionally, his source claims “exotic elements for energy research” are ET related and known by UAPTF; most are managed under DARPA by a team known as “Advance Group-6.” Prototypes of the craft, he claims, utilizing this advanced technology are being flown at Tonopah AFB Test Range and Area 51. “None of these experimental crafts can be contributed to the sightings photographed by the US Navy,” he concludes.
+**(PUBLIC DOMAIN)** - 29 June 2021 — Ufologist Richard Dolan states a source familiar with the portion of the **UAPTF** report presented to Congress that was not released to the public relates to the following: energy pulse, ion, anti-gravity, anti-matter, ramjet hydrogen and compressed nuclear propulsion systems; additionally, his source claims “exotic elements for energy research” are ET related and known by **UAPTF**; most are managed under DARPA by a team known as “**Advance Group-6**.” Prototypes of the craft, he claims, utilizing this advanced technology are being flown at Tonopah AFB Test Range and Area 51. “None of these experimental crafts can be contributed to the sightings photographed by the US Navy,” he concludes.
 
 *   [https://youtu.be/oJNbCeE110A?t=1214](https://youtu.be/oJNbCeE110A?t=1214)
 
@@ -4489,7 +4491,7 @@ Kobitz also tells Coulthart he was taken in a room at Wright-Patterson AFB after
 
 **(PUBLIC DOMAIN)** - 15 September 2021 — Ufologists inquire with anonymous intelligence community sources about “Mary Elizabeth Elliot,” mentioned in the alleged VADM Wilson memo as connected to a TRW situation and an attorney “Jeffrey W. Griffith.” Elliot knows something with respect to UAP and TRW that she will only share on her deathbed, they claim.
 
-Jeffrey W. Griffith is the person ufologist Richard Dolan stated with “near certainty” was the author of the Sedge Masters/Zodiac crash recovery story, which Dolan also claimed was connected to TRW. Griffith’s biography shows he was the corporate counsel for Hughes Aircraft. Two co-founders of TRW (Ramo and Wooldridge) resigned from Hughes Aircraft in 1953 and eventually merged with Thompson Products to become TRW in 1965. Prior to the merger, Ramo-Wooldridge spun off Space Technology Laboratories (STL) into The Aerospace Corporation at the request of Congress in 1959.
+Jeffrey W. Griffith is the person ufologist Richard Dolan stated with “near certainty” was the author of the Sedge Masters/**Zodiac** crash recovery story, which Dolan also claimed was connected to TRW. Griffith’s biography shows he was the corporate counsel for Hughes Aircraft. Two co-founders of TRW (Ramo and Wooldridge) resigned from Hughes Aircraft in 1953 and eventually merged with Thompson Products to become TRW in 1965. Prior to the merger, Ramo-Wooldridge spun off Space Technology Laboratories (STL) into The Aerospace Corporation at the request of Congress in 1959.
 
 *   [https://youtu.be/lH0RDdHy-BU?t=5586](https://youtu.be/lH0RDdHy-BU?t=5586)
 *   [https://www.londonfischer.com/attorneys/jeffrey-griffith](https://www.londonfischer.com/attorneys/jeffrey-griffith)
@@ -4505,13 +4507,13 @@ Jeffrey W. Griffith is the person ufologist Richard Dolan stated with “near ce
 *   [https://www.reddit.com/r/HighStrangeness/comments/q3qjng/tom_delonge_talks_about_a_huge_underground/](https://www.reddit.com/r/HighStrangeness/comments/q3qjng/tom_delonge_talks_about_a_huge_underground/)
 
 
-**(PUBLIC DOMAIN)** - 2 October 2021 — Dr. Eric Davis says the DOE doesn’t own anything, says their labs did some UAP materials analysis but it was for the “owner” of the materials paid for via interagency project contracts. Davis states he briefed “findings,” presumably of his own investigation, to two Senate committee staffs, a “certain combatant command,” and the UAPTF.
+**(PUBLIC DOMAIN)** - 2 October 2021 — Dr. Eric Davis says the DOE doesn’t own anything, says their labs did some UAP materials analysis but it was for the “owner” of the materials paid for via interagency project contracts. Davis states he briefed “findings,” presumably of his own investigation, to two Senate committee staffs, a “certain combatant command,” and the **UAPTF**.
 
 *   [https://twitter.com/TheUfoJoe/status/1444388945031163909?s=20&t=MZt-iDc6GypXkdDDIB6e9A](https://twitter.com/TheUfoJoe/status/1444388945031163909?s=20&t=MZt-iDc6GypXkdDDIB6e9A)
 
 
 
-**(PUBLIC DOMAIN)** - 21 October 2021 — Former AATIP head Lue Elizondo states in an interview that “Company A” can have an unfair advantage over “Company B” due to its possession of alien technology. Elizondo also states: “the SEC would not be very happy to know that two publicly traded companies were competing for a contract, one had an unfair advantage. The other went bankrupt. That’s a problem, that’s a real problem…so you’re talking about big, big money interests. You are talking about things going into that gray world that goes beyond government interest. You are talking about banking. You are talking about some of the biggest names on the planet that have a lot to lose, or a lot to gain.”
+**(PUBLIC DOMAIN)** - 21 October 2021 — Former **AATIP** head Lue Elizondo states in an interview that “Company A” can have an unfair advantage over “Company B” due to its possession of alien technology. Elizondo also states: “the SEC would not be very happy to know that two publicly traded companies were competing for a contract, one had an unfair advantage. The other went bankrupt. That’s a problem, that’s a real problem…so you’re talking about big, big money interests. You are talking about things going into that gray world that goes beyond government interest. You are talking about banking. You are talking about some of the biggest names on the planet that have a lot to lose, or a lot to gain.”
 
 *   [https://youtu.be/wULw64ZL1Bg?t=1689](https://youtu.be/wULw64ZL1Bg?t=1689)
 
@@ -4521,7 +4523,7 @@ Jeffrey W. Griffith is the person ufologist Richard Dolan stated with “near ce
 >*   [https://en.wikipedia.org/wiki/Lockheed_Corporation#Loan_guarantee](https://en.wikipedia.org/wiki/Lockheed_Corporation#Loan_guarantee)
 
 
-**(PUBLIC DOMAIN)** - October 2021 — Attorney for AATIP head Lue Elizondo, Daniel Sheehan, makes public statements on the apparatus that controls UAP information. Sheehan states at the end of WWII, the G2 Edward Lansdale, discovered the Japanese buried trillions of dollars worth of gold, platinum and silver throughout the Philippines. This was allegedly discovered, told to the Truman Administration, and a small group of military (possibly Army) personnel retrieved the gold totalling $1.2 trillion at the time. Sheehan states it was put into a private trust and two partners from Brown Brothers Harriman became the trustees for the stolen gold.
+**(PUBLIC DOMAIN)** - October 2021 — Attorney for **AATIP** head Lue Elizondo, Daniel Sheehan, makes public statements on the apparatus that controls UAP information. Sheehan states at the end of WWII, the G2 Edward Lansdale, discovered the Japanese buried trillions of dollars worth of gold, platinum and silver throughout the Philippines. This was allegedly discovered, told to the Truman Administration, and a small group of military (possibly Army) personnel retrieved the gold totalling $1.2 trillion at the time. Sheehan states it was put into a private trust and two partners from Brown Brothers Harriman became the trustees for the stolen gold.
 
 Sheehan states when a flying saucer was discovered in New Mexico in 1947, it was brought to Wright Field and the “Anderson Trust” was established with trustees Robert Anderson, Robert Lovett and John Jay McCloy, all senior partners at Brown Brothers Harriman. Sheehan states a USG group, funded by the covert money from Brown Brothers Harriman, took custody of the UAP technology and “brought in major corporations” like Lockheed, Boeing, and others and “swore them to complete secrecy.” This group has since been allegedly trying to monopolize this technology and monopolize the information about the UAP occupants, etc. Sheehan states he does not know if the group has had diplomatic relations with the ET/UTs, but some witnesses he has spoken to tell him the group is engaging non-human entities.
 
@@ -4557,7 +4559,7 @@ Sheehan states when a flying saucer was discovered in New Mexico in 1947, it was
 *   [https://www.coasttocoastam.com/guest/john-ramirez/](https://www.coasttocoastam.com/guest/john-ramirez/)
 
 
-**(PUBLIC DOMAIN)** - 11 February 2022 — AATIP scientist and EarthTech founder Hal Puthoff states in an interview that materials sciences information is definitely being withheld from the broader physics community by private aerospace, derived from its work on UAP. Puthoff also states it is possible fundamental physics knowledge is being withheld from the broader scientific community. Puthoff states it would be the case “if we have mastered anti-gravity, and they’re being built by aerospace corporations;
+**(PUBLIC DOMAIN)** - 11 February 2022 — **AATIP** scientist and EarthTech founder Hal Puthoff states in an interview that materials sciences information is definitely being withheld from the broader physics community by private aerospace, derived from its work on UAP. Puthoff also states it is possible fundamental physics knowledge is being withheld from the broader scientific community. Puthoff states it would be the case “if we have mastered anti-gravity, and they’re being built by aerospace corporations;
 the new physics would have to be involved.” Puthoff claims something “is missing” from Einstein’s General Relativity, and what is missing would have the effect of manipulating gravity.
 
 *   [https://youtu.be/iQOibpIDx-4](https://youtu.be/iQOibpIDx-4)
@@ -4567,11 +4569,11 @@ the new physics would have to be involved.” Puthoff claims something “is mis
 
 *   [https://youtu.be/BLxEiKK0l0I?t=2109](https://youtu.be/BLxEiKK0l0I?t=2109)
 *   [https://youtu.be/LsPXbrIwb8c](https://youtu.be/LsPXbrIwb8c)
-*   [https://archive.org/details/aliencontacttops00good](https://archive.org/details/aliencontacttops00good) (p218, p222) (rg - verify TODO)
+*   [https://archive.org/details/aliencontacttops00good](https://archive.org/details/aliencontacttops00good) (p218, p222)
 
 
 
-**(PUBLIC DOMAIN)** - 18 March 2022 — Reporter Tim McMillan states a formal operations plan to address UAP exists and involve attempts to “coax” UAP into showing up by exploiting their “interest in nuclear materials.” McMillan states sources entirely unknown in the context of UAP told him this, and journalist Tom Rogan corroborated the reporting. Journalist Ross Coulthart states a source told him “with concern” there was an attempt to bait and capture a UAP. Lue Elizondo also states UAP baiting occurred during his time at AATIP.
+**(PUBLIC DOMAIN)** - 18 March 2022 — Reporter Tim McMillan states a formal operations plan to address UAP exists and involve attempts to “coax” UAP into showing up by exploiting their “interest in nuclear materials.” McMillan states sources entirely unknown in the context of UAP told him this, and journalist Tom Rogan corroborated the reporting. Journalist Ross Coulthart states a source told him “with concern” there was an attempt to bait and capture a UAP. Lue Elizondo also states UAP baiting occurred during his time at **AATIP**.
 
 *   [https://twitter.com/BryanDBender/status/1480390687900061696?s=20&t=YyB-gsHlkKv57DDXvpDM3A](https://twitter.com/BryanDBender/status/1480390687900061696?s=20&t=YyB-gsHlkKv57DDXvpDM3A)
 *   [https://twitter.com/UFOthinker/status/1504850741135126531?s=20&t=2fvqrdSs3FtwYO6YdsQP0Q](https://twitter.com/UFOthinker/status/1504850741135126531?s=20&t=2fvqrdSs3FtwYO6YdsQP0Q)
@@ -4579,7 +4581,7 @@ the new physics would have to be involved.” Puthoff claims something “is mis
 
 
 
-**(PUBLIC DOMAIN)** - 25 March 2022 — The Defense Intelligence Agency releases Defense Intelligence Reference Documents (DIRDs) on 37 of the 38 projects the Advanced Aerospace Weapon System Applications Program (AAWSAP), colloquially known as AATIP, produced under the direction of Hal Puthoff. Subjects included antigravity, cloaking, quantum vacuum propulsion and field effects of UAP on nearby humans.
+**(PUBLIC DOMAIN)** - 25 March 2022 — The Defense Intelligence Agency releases Defense Intelligence Reference Documents (DIRDs) on 37 of the 38 projects the Advanced Aerospace Weapon System Applications Program (**AAWSAP**), colloquially known as **AATIP**, produced under the direction of Hal Puthoff. Subjects included antigravity, cloaking, quantum vacuum propulsion and field effects of UAP on nearby humans.
 
 *   [https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/](https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/)
 
@@ -4613,9 +4615,9 @@ Another witness, an anonymous Boatswain’s Mate of the Watch was in contact wit
 *   [https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf](https://www.congress.gov/117/meeting/house/114761/documents/HHRG-117-IG05-20220517-SD001.pdf)
 
 
-**(PUBLIC DOMAIN)** - 13 June 2022 — Former AFOSI counterintelligence officer Richard Doty claims he is aware of five UAP related projects at Area 51: Project Candid Sky for photographing UAP, Project Radiant Bravo-One, Project Might using high speed lasers, Project Auburn Blue examination of
+**(PUBLIC DOMAIN)** - 13 June 2022 — Former AFOSI counterintelligence officer Richard Doty claims he is aware of five UAP related projects at Area 51: **Project Candid Sky** for photographing UAP, **Project Radiant Bravo-One**, **Project Might** using high speed lasers, **Project Auburn Blue** examination of
 
-captured UAP and Project Med-Star examination of “captured” extraterrestrials. Doty claims in the early 1980s the designation “CARDINAL” was used to identify known extraterrestrial craft. Doty claims “CARDINAL-3” was stored underground in S-2.
+captured UAP and **Project Med-Star** examination of “captured” extraterrestrials. Doty claims in the early 1980s the designation “**CARDINAL**” was used to identify known extraterrestrial craft. Doty claims “**CARDINAL-3**” was stored underground in S-2.
 
 *   [https://youtu.be/4sn8Z6uuF1E](https://youtu.be/4sn8Z6uuF1E)
 
@@ -4631,7 +4633,7 @@ In 2020, Eskridge stated she was planning to present novel foundational work reg
 *   [https://twitter.com/Alien_Scientist/status/1307975074050441216?s=20&t=GZc9tAdBEjeecK1xjWdQ9w](https://twitter.com/Alien_Scientist/status/1307975074050441216?s=20&t=GZc9tAdBEjeecK1xjWdQ9w)
 
 
-**(PUBLIC DOMAIN)** - 29 July 2022 — A FOIA response to Operation Starfish Prime, UFOs, DOE and AEC suggests files exist but need a subject matter expert with “jurisdiction” to review before release.
+**(PUBLIC DOMAIN)** - 29 July 2022 — A FOIA response to **Operation Starfish Prime**, UFOs, DOE and AEC suggests files exist but need a subject matter expert with “jurisdiction” to review before release.
 
 *   [https://twitter.com/rgh_ufos/status/1553109073721278464?s=20&t=cjmBKYBTI80ex-U2mSXeAw](https://twitter.com/rgh_ufos/status/1553109073721278464?s=20&t=cjmBKYBTI80ex-U2mSXeAw)
 
@@ -4646,7 +4648,7 @@ In 2020, Eskridge stated she was planning to present novel foundational work reg
 
 
 **(PUBLIC DOMAIN)** - 12 August 2022 — Academic Dr. David Clarke publishes a clear photograph of the alleged “Calvine UFO,” a large diamond UAP referenced in a British Ministry of Defence (MOD) report from 1990 sighted in Calvine, Scotland. Clarke suggests press at the time were subject to a
-“D-Notice,” which prevents publication of sensitive materials in the UK. He cites a paragraph in a “UK Restricted” minute from the author of Project Condign Ron Haddow, which states: “The remaining ASTRA/AURORA photos and 35mm slides are also on this last file. There was a Press ‘D’ Notice issued at the time.”
+“D-Notice,” which prevents publication of sensitive materials in the UK. He cites a paragraph in a “UK Restricted” minute from the author of **Project Condign** Ron Haddow, which states: “The remaining ASTRA/AURORA photos and 35mm slides are also on this last file. There was a Press ‘D’ Notice issued at the time.”
 
 *   [https://www.uapmedia.uk/articles/calvinerevealed](https://www.uapmedia.uk/articles/calvinerevealed)
 
@@ -4658,7 +4660,7 @@ In 2020, Eskridge stated she was planning to present novel foundational work reg
 
 **(PUBLIC DOMAIN)** - 23 August 2022 — Anonymous site with possibly specific intelligence details on UAP in the PUBLIC DOMAIN posts an article on “NURO and the Unidentified Submersible Phenomena.” Much of the article is in a custom language only decipherable by custom software unknown to the PUBLIC DOMAIN, but what is public states that the National Underwater Reconnaissance Office (NURO) collects MASINT data on underwater UAP and seeks but is unable to coordinate with a group known as “SV17q.”
 
-The article claims a database known as “DOLYN” collects signature data of underwater fast movers, tic-tac kinetic vehicles, orbs etc. to study the capabilities of those objects. The article states the data is “confiscated” by “SV17q” under the “no-right-to-known dictum.” It states the DOLYN database has 17,500 signatures including non-terrestrial signatures. It also states this information was not shared with the UAPTF.
+The article claims a database known as “DOLYN” collects signature data of underwater fast movers, tic-tac kinetic vehicles, orbs etc. to study the capabilities of those objects. The article states the data is “confiscated” by “SV17q” under the “no-right-to-known dictum.” It states the DOLYN database has 17,500 signatures including non-terrestrial signatures. It also states this information was not shared with the **UAPTF**.
 
 *   [https://forgottenlanguages-full.forgottenlanguages.org/2022/08/masint-for-new-world-order-nuro-and.html](https://forgottenlanguages-full.forgottenlanguages.org/2022/08/masint-for-new-world-order-nuro-and.html)
 
@@ -4845,7 +4847,7 @@ A third disputed document also allegedly created that same date on 5 November 19
 *   [https://open.spotify.com/episode/7MDxyrrhD7gC7XMRwB0ulv?si=bsF23KVWQi-D05pTKdu1sg](https://open.spotify.com/episode/7MDxyrrhD7gC7XMRwB0ulv?si=bsF23KVWQi-D05pTKdu1sg)
 
 
-**(PUBLIC DOMAIN)** - 27 February 2023 — In a FOIA response to researcher John Greenwald, the National Reconnaissance Office (NRO) states it manages a program known as Sentient that ingests and analyzes imagery data with AI capabilities. According to the records, the program detected a small “Tic Tac” shaped object on 6 May 2021 southeast of redacted. The report states it is similar to other objects observed in redacted Operating Areas known as “Unidentified Aerial Phenomena.” A command and control vessel was detected in the area as well.
+**(PUBLIC DOMAIN)** - 27 February 2023 — In a FOIA response to researcher John Greenwald, the National Reconnaissance Office (NRO) states it manages a program known as **Sentient** that ingests and analyzes imagery data with AI capabilities. According to the records, the program detected a small “Tic Tac” shaped object on 6 May 2021 southeast of redacted. The report states it is similar to other objects observed in redacted Operating Areas known as “Unidentified Aerial Phenomena.” A command and control vessel was detected in the area as well.
 
 *   [https://www.theblackvault.com/documentarchive/highly-classified-nro-system-captures-possible-tic-tac-object-in-2021/](https://www.theblackvault.com/documentarchive/highly-classified-nro-system-captures-possible-tic-tac-object-in-2021/)
 
