@@ -1520,7 +1520,6 @@ Sarbacher states his work with RDB was limited but he heard “certain materials
 
 
 **(PUBLIC DOMAIN)** - **5 May 1984** — An anonymous source claims to a journalist that a highly classified U.S. Defense Support Program spy satellite detects a UAP. It comes within 1.8 miles of the DSP satellite before flying below it over the Indian Ocean. It is moving 22,000 mph, changes course, and
-
 allegedly flies back into outer space. This story made its way to the public not via a USG disclosure, but a documentary film.
 
 *   [http://www.nicap.org/840505orbit_dir.htm](http://www.nicap.org/840505orbit_dir.htm)
