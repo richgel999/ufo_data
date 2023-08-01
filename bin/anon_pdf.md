@@ -2326,7 +2326,7 @@ Ufologist Grant Cameron later says Bill and Hillary Clinton traveled to Laurence
 Jim Whinnery, Emily Williams Cook, Oak Ridge National Laboratory engineer Theodore Rockwell, and Army Col. John Alexander. Journalist George Knapp was also there and mentioned his trip to the USSR, presumably where he obtained smuggled Soviet Thread-3 documents.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html](https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html)
-*   [https://blog.adamkehoe.com/answering-who-else-knows/](https://blog.adamkehoe.com/answering-who-else-knows/) (rg-unreachable)
+*   [https://web.archive.org/web/20221201140323/https://blog.adamkehoe.com/answering-who-else-knows/](https://web.archive.org/web/20221201140323/https://blog.adamkehoe.com/answering-who-else-knows/) (alt URL added by JBR)
 
 
 
