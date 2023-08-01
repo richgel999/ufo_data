@@ -22,7 +22,7 @@ Although the C++ tool itself is open source with a permissive license (Apache 2.
 * Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage permitted as long as attribution is given.
 * NICAP - Unknown copyright status
 * \*U\* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142). According to David Marler, Executive Director of the [National UFO Historical Records Center](http://www.nufohrc.org/), "The family has verbally given permission for the database to be used. If you need to speak with them, I have their contact info."
-* The [Anonymous PDF](https://github.com/richgel999/ufo_data/blob/main/bin/anon_pdf.md), which appeared on the internet in late July, 2023, is not copyrighted and is in the Public Domain. All ~600 events were explictly and individually marked "PUBLIC DOMAIN" in the original PDF document. In any jurisdictions outside the US that don't recognize Public Domain, it's uses the [Unlicense](https://web.archive.org/web/20230426084039/https://unlicense.org/). Please see this website for details.
+* The [Anonymous PDF](https://github.com/richgel999/ufo_data/blob/main/bin/anon_pdf.md), which appeared on the internet [here](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another) in late July, 2023, is not copyrighted and is in the Public Domain. All ~600 events were explictly and individually marked "PUBLIC DOMAIN" in the original PDF document. In any jurisdictions outside the US that don't recognize Public Domain, it's uses the [Unlicense](https://web.archive.org/web/20230426084039/https://unlicense.org/). Please see this website for details.
 
 ## Instructions
 
