@@ -36,7 +36,7 @@ DuBose states he requested Roswell Army Air Field to send the material to Fort W
 
 **(PUBLIC DOMAIN)** - 23 September 1947 — USAF Lt. Gen. Nathan F. Twining writes that flying discs are “real and not visionary or fictitious.” Twining suggests UAP could be a black budget USG project or from Soviet/Bloc. Twining’s letter to AAF Commanding Gen. George Schulgen states no physical UAP evidence from “crash recovered exhibits” had been found to date. [http://www.nicap.org/docs/470923.pdf](http://www.nicap.org/docs/470923.pdf)
 
->**_Note_**: Twining’s letter also led to the creation of Project Sign, whose sighting reports were required to be sent to the Army and Navy Research and Development Board, the USAF Scientific Advisory Group, the Atomic Energy Commission, the National Advisory Committee for Aeronautics, **Project Rand**, and the **Nuclear Energy for the Propulsion of Aircraft** Project at Oak Ridge.
+>**_Note_**: Twining’s letter also led to the creation of **Project Sign**, whose sighting reports were required to be sent to the Army and Navy Research and Development Board, the USAF Scientific Advisory Group, the Atomic Energy Commission, the National Advisory Committee for Aeronautics, **Project Rand**, and the **Nuclear Energy for the Propulsion of Aircraft** Project at Oak Ridge.
 > 
 >*   [http://www.cufos.org/books/The_Roswell_ReportR2.pdf](http://www.cufos.org/books/The_Roswell_ReportR2.pdf) (p14)
 >*   [https://archive.org/details/B-001-014-055/page/260/mode/2up](https://archive.org/details/B-001-014-055/page/260/mode/2up) (p260-p262)
@@ -439,7 +439,7 @@ set up on the “West Coast” funded through the technical intelligence operati
 
 *   [https://archive.org/details/1956-01-7340421-Afghanistan/page/n2/mode/1up](https://archive.org/details/1956-01-7340421-Afghanistan/page/n2/mode/1up)
 
-**(PUBLIC DOMAIN)** - February 1956 — USAF Capt. Edward J. Ruppelt writes that while he was assigned to the Air Technical Intelligence Center as director of Project Grudge at Wright-Patterson AFB in 1951, he saw a Top Secret Estimate of the Situation that stated UAP were “interplanetary” in origin created by the predecessor **Project Sign** in 1948. Ruppelt states the Estimate was rejected in 1948 by Gen. Hoyt S. Vandenberg and ordered for destruction. Ruppelt states a few copies survived and circulated within ATIC, but no declassified copies have ever been released to Congress or the public.
+**(PUBLIC DOMAIN)** - February 1956 — USAF Capt. Edward J. Ruppelt writes that while he was assigned to the Air Technical Intelligence Center as director of **Project Grudge** at Wright-Patterson AFB in 1951, he saw a Top Secret Estimate of the Situation that stated UAP were “interplanetary” in origin created by the predecessor **Project Sign** in 1948. Ruppelt states the Estimate was rejected in 1948 by Gen. Hoyt S. Vandenberg and ordered for destruction. Ruppelt states a few copies survived and circulated within ATIC, but no declassified copies have ever been released to Congress or the public.
 
 *   [https://archive.org/details/reportonunidenti00rupp/page/45/mode/1up](https://archive.org/details/reportonunidenti00rupp/page/45/mode/1up) (p45)
 
@@ -766,7 +766,7 @@ Pickett and his business partner Harold Baker claim they were invited to MacDill
 
 *   [https://manmade-ufos.com/usaf-flying-saucer](https://manmade-ufos.com/usaf-flying-saucer)
 
->**_Note_**: Eighteen years earlier, a NACA (predecessor to NASA) employee saw a disc with tail fin in Oregon cataloged by Project Grudge.
+>**_Note_**: Eighteen years earlier, a NACA (predecessor to NASA) employee saw a disc with tail fin in Oregon cataloged by **Project Grudge**.
 >*   [http://www.nicap.org/docs/1949_05_24_US_OR_Rogue%20River%20Oregon%20NACA%20BB%20Rivera-Heaphy%20CU.pdf](http://www.nicap.org/docs/1949_05_24_US_OR_Rogue%20River%20Oregon%20NACA%20BB%20Rivera-Heaphy%20CU.pdf)
 
 **(PUBLIC DOMAIN)** - 1967 — Source “AF” claims his brother Pete saw a saucer in a hangar at Naval Air Base in Yuma, AZ in 1967; he states Pete took photos, got into trouble and went AWOL and fled to Mexico. AF later states Pete was approached by an “agency” and wants to avoid attention.
@@ -3571,7 +3571,7 @@ Soon after, BAASS served as a contractor for the Pentagon’s Advanced Aerospace
 
 
 
-**(PUBLIC DOMAIN)** - 23 January 2009 — Colm Kelleher tells Jacques Vallee that a member of the BAASS team is going to Area 51 to retrieve data from the days of Project Grudge and a rare “artifact” file that was kept away from Project Blue Book.
+**(PUBLIC DOMAIN)** - 23 January 2009 — Colm Kelleher tells Jacques Vallee that a member of the BAASS team is going to Area 51 to retrieve data from the days of **Project Grudge** and a rare “artifact” file that was kept away from Project Blue Book.
 
 Hal Puthoff also tells Vallee that ADM Edward Burkhalter, once Chief of Naval Intelligence, “doctored” authentic documents that referred to a MJ-12 project back in the 1950s designed to mislead Soviets about technology developments. Eric Davis had already discovered this through his contacts. The doctored documents were leaked to ufologists, who ran with the story of MJ-12 in ufology.
 
