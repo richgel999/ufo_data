@@ -196,6 +196,7 @@ Tissue samples of technicians in contact with occupants suggest the transfer of 
 
 >**_Note_**: On 20 December 1948, Project Twinkle astronomer Lincoln LaPaz argued a green fireball he saw was no meteor, and turned its light on and off. LaPaz and Lt. Col. Rees started the informal Los Alamos Astrophysical Association to study green fireballs which eventually became Twinkle. All members were scientists and engineers with AEC/USAF security clearances.
 >*   [https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings](https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings) (URL not working)
+>*   [https://web.archive.org/web/20220520164609/https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings](https://web.archive.org/web/20220520164609/https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings) (jbr - archive.org version)
 >*   [https://www.sacred-texts.com/ufo/rufo/rufo06.htm](https://www.sacred-texts.com/ufo/rufo/rufo06.htm) (alt URL added by RG)
 >*   [https://www.nicap.org/ncp/ncp-brumac.htm](https://www.nicap.org/ncp/ncp-brumac.htm) (alt URL added by RG)
 
@@ -736,7 +737,7 @@ Declassified records show this is a lie, as the Project was cataloging at least 
 
 Hynek also noted Quintanilla’s deception in a book written six years later.
 
-*   [www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf](www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf)
+*   [http://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf](http://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf)
 *   [https://archive.org/details/ufoexperience00jall/page/80/mode/2up](https://archive.org/details/ufoexperience00jall/page/80/mode/2up) (p80)
 *   [http://web.archive.org/web/20001025094433/www.isso.org/inbox/ubd/app/congress.htm](https://www.google.com/url?q=http://web.archive.org/web/20001025094433/www.isso.org/inbox/ubd/app/congress.htm&sa=D&source=editors&ust=1690698543900790&usg=AOvVaw0FJCD5LaVQ9EDZRz_dqRdJ)
 
@@ -2327,6 +2328,7 @@ Jim Whinnery, Emily Williams Cook, Oak Ridge National Laboratory engineer Theodo
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html](https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html)
 *   [https://blog.adamkehoe.com/answering-who-else-knows/](https://blog.adamkehoe.com/answering-who-else-knows/) (rg-unreachable)
+*   [https://web.archive.org/web/20221201140323/https://blog.adamkehoe.com/answering-who-else-knows/](https://web.archive.org/web/20221201140323/https://blog.adamkehoe.com/answering-who-else-knows/) (jbr - archive.org version)
 
 
 
