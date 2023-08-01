@@ -2323,7 +2323,6 @@ Ufologist Grant Cameron later says Bill and Hillary Clinton traveled to Laurence
 
 
 **(PUBLIC DOMAIN)** - **28 January 1996** — The following people met in Las Vegas to discuss assembling a collection of relevant UAP data and materials: USAF Lt. Col. Peter McDuff, Hal Puthoff, Sandia engineer Marty Pilch, Arlington Institute head John Petersen, Sen. Harrison Schmidt, Los Alamos physicist Johndale Solem, USAF space surveillance advisor Dean Judd, Jessica Utts, USAF Brig. Gen.
-
 Jim Whinnery, Emily Williams Cook, Oak Ridge National Laboratory engineer Theodore Rockwell, and Army Col. John Alexander. Journalist George Knapp was also there and mentioned his trip to the USSR, presumably where he obtained smuggled Soviet Thread-3 documents.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html](https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html)
