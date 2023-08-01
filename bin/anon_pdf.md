@@ -1,6 +1,8 @@
 (This document was converted from the [original PDF](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another) 
 to Microsoft Word using Adobe Acrobat Pro v2023.003.20244, then imported into Google Docs, and then converted to Markdown format using
-DocPress.It. I then manually verified and fixed each URL vs. the original PDF's, and fixed the formatting to match the original as closely as possible. This file is either in the Public Domain, or uses the [Unlicense](https://web.archive.org/web/20230426084039/https://unlicense.org/) in jurisdictions that don't recognize the Public Domain. Any changes or additions to the original URL's are noted by my initials below. - rg)
+DocPress.It. I then manually verified and fixed each URL vs. the original PDF's, and fixed the formatting to match the original as closely as possible. I've added URL's to some books/articles/proceedings that were referenced only by title in the PDF, for example to 
+Stringfield's [Retrievals of the Third Kind presented at MUFON 1978](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf). Note the original page numbers don't match
+the MUFON proceeding's page numbers, which is an unresolved issue. This file is either in the Public Domain, or uses the [Unlicense](https://web.archive.org/web/20230426084039/https://unlicense.org/) in jurisdictions that don't recognize the Public Domain. Any changes or additions to the original URL's are noted by my initials below. - rg)
 
 **(PUBLIC DOMAIN)** - 8 July 1947 — 1st Lt. Walter Haut states in an allegedly signed affidavit he was stationed at Roswell Army Air Field as the Public Information Officer and received a call from Col. William Blanchard who said he possessed “flying saucer” debris. The material was from “outer space” and recovered from a crash northwest of Roswell, NM.
 
