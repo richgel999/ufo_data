@@ -139,7 +139,6 @@ He claims he heard rumors of autopsies of “midget people” at Los Alamos, exp
 *   [https://babel.hathitrust.org/cgi/pt?id=osu.32435069145381&view=1up&seq=75&skin=2021](https://babel.hathitrust.org/cgi/pt?id=osu.32435069145381&view=1up&seq=75&skin=2021)
 
 **(PUBLIC DOMAIN)** - **27 February 1951** — AEC **Project Twinkle** head Anthony O. Mirarchi tells the Associated Press that Urner Liddel and ONR are purposefully misleading people and true UAP are not balloons and not natural phenomena. Mirarchi states UAP show “maneuvered motion” and says
-
 ignorance of them could lead to a “worse Pearl Harbor than we have ever experienced.” The FBI and USAF consider prosecuting Mirarchi for violating AFR 205-1.
 
 *   [https://www.newspapers.com/clip/93205228/dayton-daily-news/](https://www.newspapers.com/clip/93205228/dayton-daily-news/)
