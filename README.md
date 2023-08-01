@@ -14,7 +14,7 @@
 ### Data files (in 'bin' directory): 
 Although the C++ tool itself is open source with a permissive license (Apache 2.0), **any commercial use of the copyrighted data in this repository (in any format, textual, JSON, Markdown, HTML, raw binary records, etc.) may require permission from one or more copyright holders**:
 
-* George M. Eberhart - Copyright (c) 2022
+* George M. Eberhart - Copyright (c) 2022. Efforts to contact have been unsuccessful. This is the original PDF's copyright.
 * LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was given for use as long as he is attributed.
 * Dr. Donald A. Johnson - Copyright (c) 2012. Efforts to contact him by email in 2023 have been unsuccessful.
 * Fred Keziah - Copyright (c) 1958. This poster hasn't been updated in 65 years, so it's probably fine for commercial usage.
