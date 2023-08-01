@@ -195,7 +195,8 @@ Tissue samples of technicians in contact with occupants suggest the transfer of 
 >*   [https://pbs.twimg.com/media/E3FVDV4WQAEmUTR?format=jpg&name=900x900](https://pbs.twimg.com/media/E3FVDV4WQAEmUTR?format=jpg&name=900x900) (URL not working)
 
 >**_Note_**: On 20 December 1948, Project Twinkle astronomer Lincoln LaPaz argued a green fireball he saw was no meteor, and turned its light on and off. LaPaz and Lt. Col. Rees started the informal Los Alamos Astrophysical Association to study green fireballs which eventually became Twinkle. All members were scientists and engineers with AEC/USAF security clearances.
->*   [https://web.archive.org/web/20220520164609/https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings](https://web.archive.org/web/20220520164609/https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings) (alt URL added by JBR)
+>*   [https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings](https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings) (URL not working)
+>*   [https://web.archive.org/web/20220520164609/https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings](https://web.archive.org/web/20220520164609/https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings) (jbr - archive.org version)
 >*   [https://www.sacred-texts.com/ufo/rufo/rufo06.htm](https://www.sacred-texts.com/ufo/rufo/rufo06.htm) (alt URL added by RG)
 >*   [https://www.nicap.org/ncp/ncp-brumac.htm](https://www.nicap.org/ncp/ncp-brumac.htm) (alt URL added by RG)
 
@@ -2326,7 +2327,8 @@ Ufologist Grant Cameron later says Bill and Hillary Clinton traveled to Laurence
 Jim Whinnery, Emily Williams Cook, Oak Ridge National Laboratory engineer Theodore Rockwell, and Army Col. John Alexander. Journalist George Knapp was also there and mentioned his trip to the USSR, presumably where he obtained smuggled Soviet Thread-3 documents.
 
 *   [https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html](https://ufos-scientificresearch.blogspot.com/2019/05/jacques-vallee-on-national-institute-of.html)
-*   [https://web.archive.org/web/20221201140323/https://blog.adamkehoe.com/answering-who-else-knows/](https://web.archive.org/web/20221201140323/https://blog.adamkehoe.com/answering-who-else-knows/) (alt URL added by JBR)
+*   [https://blog.adamkehoe.com/answering-who-else-knows/](https://blog.adamkehoe.com/answering-who-else-knows/) (rg-unreachable)
+*   [https://web.archive.org/web/20221201140323/https://blog.adamkehoe.com/answering-who-else-knows/](https://web.archive.org/web/20221201140323/https://blog.adamkehoe.com/answering-who-else-knows/) (jbr - archive.org version)
 
 
 
