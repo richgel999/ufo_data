@@ -2301,7 +2301,7 @@ Sherman next decides to request a discharge to his non-PPD leadership, to which 
 
 **(PUBLIC DOMAIN)** - **1 November 1995** — A letter between environmental lawyer and Clinton Administration friend Henry Diamond and John H Gibbons, Assistant to the President for Science and Technology, states Laurence Rockefeller “has been discussing” a best evidence report on UAP with Hillary Clinton and her staff. Another draft letter shows Rockefeller asked President Clinton to consider a classification review of UAP information.
 
-Ufologist Grant Cameron later says Bill and Hillary Clinton traveled to Laurence Rockefeller’s “ranch” in northwest in 1995 where Rockefeller briefed the Clintons on Project Starlight documents; claims of a UAP coverup by a rogue faction in USG and private industry, etc; Rockefeller told ufologist Whitley Strieber that the next morning, Hillary told him never to bring the subject up again with them.
+Ufologist Grant Cameron later says Bill and Hillary Clinton traveled to Laurence Rockefeller’s “ranch” in northwest in 1995 where Rockefeller briefed the Clintons on **Project Starlight** documents; claims of a UAP coverup by a rogue faction in USG and private industry, etc; Rockefeller told ufologist Whitley Strieber that the next morning, Hillary told him never to bring the subject up again with them.
 
 *   [https://www.paradigmresearchgroup.org/Rockefeller%20Documents/11-1-95%20HD%20Letter%20to%20JG/Letter.jpg](https://www.paradigmresearchgroup.org/Rockefeller%20Documents/11-1-95%20HD%20Letter%20to%20JG/Letter.jpg)
 *   [https://www.paradigmresearchgroup.org/Rockefeller%20Documents/RID-11-1-95-2.htm#2](https://www.paradigmresearchgroup.org/Rockefeller%20Documents/RID-11-1-95-2.htm#2)
