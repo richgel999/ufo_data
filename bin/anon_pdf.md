@@ -410,7 +410,6 @@ fleet. Tompkins also claims before the end of WWII, Nazi Germany had aligned its
 *   [https://www.cia.gov/readingroom/docs/CURRENT%20INTELLIGENCE%20BULL%5B15721996%5D.pdf](https://www.cia.gov/readingroom/docs/CURRENT%20INTELLIGENCE%20BULL%5B15721996%5D.pdf) (p4-5)
 
 **(PUBLIC DOMAIN)** - 20 November 1955 — New York Herald Tribune journalist Ansel E. Talbert
-
 writes about an “incredible program” to solve the “secret of gravity” at top U.S. scientific laboratories and research centers. Anti-gravity is reportedly being studied at the Institute for Advanced Study at Princeton University, the University of Indiana’s School of Advanced Mathematical Studies, the Purdue University Research Foundation, MIT, the Roger Babson Gravity Research Institute of New Boston, NH, and the Institute of Pure Physics (IPP) at the University of North Carolina.
 
 Former UNC President Gordon Gray approved funding for IPP; Gray was formerly Secretary of the Army, Assistant Secretary of Defense and special assistant to the President of the United States (Truman, Eisenhower). Scientists in the project tell Talbert they expect to discover anti-gravity within years to a quarter of a century at most; corporate IPP partners include Glenn L. Martin Co., Convair, Bell Aircraft, the Sikorsky Division of United Aircraft, Lear Inc., Clarke Electronics, the Sperry Gyroscope Division of Sperry-Rand Corp., and General Dynamics Corp.
