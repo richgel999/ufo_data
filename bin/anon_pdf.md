@@ -34,7 +34,9 @@ DuBose states he requested Roswell Army Air Field to send the material to Fort W
 
 *   [https://majesticdocuments.com/pdf/hillenkoetter_memo.pdf](https://majesticdocuments.com/pdf/hillenkoetter_memo.pdf)
 
-**(PUBLIC DOMAIN)** - 23 September 1947 — USAF Lt. Gen. Nathan F. Twining writes that flying discs are “real and not visionary or fictitious.” Twining suggests UAP could be a black budget USG project or from Soviet/Bloc. Twining’s letter to AAF Commanding Gen. George Schulgen states no physical UAP evidence from “crash recovered exhibits” had been found to date. [http://www.nicap.org/docs/470923.pdf](http://www.nicap.org/docs/470923.pdf)
+**(PUBLIC DOMAIN)** - 23 September 1947 — USAF Lt. Gen. Nathan F. Twining writes that flying discs are “real and not visionary or fictitious.” Twining suggests UAP could be a black budget USG project or from Soviet/Bloc. Twining’s letter to AAF Commanding Gen. George Schulgen states no physical UAP evidence from “crash recovered exhibits” had been found to date. 
+
+[http://www.nicap.org/docs/470923.pdf](http://www.nicap.org/docs/470923.pdf)
 
 >**_Note_**: Twining’s letter also led to the creation of **Project Sign**, whose sighting reports were required to be sent to the Army and Navy Research and Development Board, the USAF Scientific Advisory Group, the Atomic Energy Commission, the National Advisory Committee for Aeronautics, **Project Rand**, and the **Nuclear Energy for the Propulsion of Aircraft** Project at Oak Ridge.
 > 
