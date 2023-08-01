@@ -736,7 +736,7 @@ Declassified records show this is a lie, as the Project was cataloging at least 
 
 Hynek also noted Quintanilla’s deception in a book written six years later.
 
-*   [www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf](www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf)
+*   [http://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf](http://www.cisu.org/wp-content/uploads/2017/01/Sparks-CATALOG-BB-Unknowns-1.27-Dec-20-2016.pdf)
 *   [https://archive.org/details/ufoexperience00jall/page/80/mode/2up](https://archive.org/details/ufoexperience00jall/page/80/mode/2up) (p80)
 *   [http://web.archive.org/web/20001025094433/www.isso.org/inbox/ubd/app/congress.htm](https://www.google.com/url?q=http://web.archive.org/web/20001025094433/www.isso.org/inbox/ubd/app/congress.htm&sa=D&source=editors&ust=1690698543900790&usg=AOvVaw0FJCD5LaVQ9EDZRz_dqRdJ)
 
