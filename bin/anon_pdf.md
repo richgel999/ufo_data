@@ -195,7 +195,7 @@ Tissue samples of technicians in contact with occupants suggest the transfer of 
 >*   [https://pbs.twimg.com/media/E3FVDV4WQAEmUTR?format=jpg&name=900x900](https://pbs.twimg.com/media/E3FVDV4WQAEmUTR?format=jpg&name=900x900) (URL not working)
 
 >**_Note_**: On 20 December 1948, Project Twinkle astronomer Lincoln LaPaz argued a green fireball he saw was no meteor, and turned its light on and off. LaPaz and Lt. Col. Rees started the informal Los Alamos Astrophysical Association to study green fireballs which eventually became Twinkle. All members were scientists and engineers with AEC/USAF security clearances.
->*   [https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings](https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings) (URL not working)
+>*   [https://web.archive.org/web/20220520164609/https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings](https://web.archive.org/web/20220520164609/https://worldhistoryproject.org/1948/12/20/project-twinkle-established-to-monitor-green-fireball-sightings) (alt URL added by JBR)
 >*   [https://www.sacred-texts.com/ufo/rufo/rufo06.htm](https://www.sacred-texts.com/ufo/rufo/rufo06.htm) (alt URL added by RG)
 >*   [https://www.nicap.org/ncp/ncp-brumac.htm](https://www.nicap.org/ncp/ncp-brumac.htm) (alt URL added by RG)
 
