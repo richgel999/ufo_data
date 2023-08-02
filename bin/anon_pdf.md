@@ -2892,7 +2892,6 @@ small test samples of lead zirconate titanate (PZT), a piezoelectric compound. W
 
 
 **(PUBLIC DOMAIN)** - **3 November 2001** — Colm Keller reports at a NIDS meeting that more than 150 instances of black triangle sightings have been recorded including one that took off from
-
 Wright-Patterson. The cases typically involve slow leisurely movement or triangle craft that “jump” across the sky.
 
 *   [https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248](https://www.amazon.com/Forbidden-Science-Pacific-Heights-2000-2009/dp/1949501248)
