@@ -3032,7 +3032,6 @@ At the end of Davis’ and Wilson’s meeting, the contractor TRW is mentioned i
 
 
 **(PUBLIC DOMAIN)** - **October 2002** — A three-foot orb moves along the perimeter fences of Area 2, a weapons storage area for the Nevada Test Site (Nevada National Security Site) overseen by the Department of Energy (DOE)’s National Nuclear Security Administration (NNSA). Security teams on site chase it, and the UAP eventually outpaces the personnel. It is unlikely these NNSA UAP events have
-
 ever made their way into the hands of Congress, and unknown how many of them are tracked in incident reports like described in October 1998 entry.
 
 *   [https://www.amazon.com/UFOs-Nukes-Extraordinary-Encounters-Nuclear/dp/1544822197](https://www.amazon.com/UFOs-Nukes-Extraordinary-Encounters-Nuclear/dp/1544822197) (p513)
