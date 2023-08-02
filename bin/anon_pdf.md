@@ -2706,7 +2706,6 @@ Other projects mentioned by him are a CIA **Project Environment**, which he clai
 
 
 **(PUBLIC DOMAIN)** - **3 December 1999** — The Arlington Institute (TAI), a defense industry
-
 non-profit, holds a board meeting with members including former CIA director R. James Woolsey, former Assistant Secretary of Housing and Urban Development [Catherine Austin Fitts](https://home.solari.com/), and several media and financial industry executives. Meeting minutes show the group “had been approached” by a client to publish a white paper on the subject of life outside of Earth. Fitts later said the Undersecretary of the Navy was the client, who was interested in helping the Navy “adjust their operations for a world in which it was commonly known that aliens exist and live among us.” Fitts claims her time at HUD and after, as a contractor to HUD, exposed her to information that suggested slush funds were connected to FHA and HUD. Fitts believed some of the illegal funding was for domestic “clandestine military R&D,” some of which was UAP related.
 
 *   [https://www.bibliotecapleyades.net/archivos_pdf/Arlington_Institute_Board_Meeting-10Apr2000.pdf](https://www.bibliotecapleyades.net/archivos_pdf/Arlington_Institute_Board_Meeting-10Apr2000.pdf)
