@@ -2885,7 +2885,6 @@ McCandlish states he saw three antigravity saucers in a hanger at Norton Air For
 
 
 **(PUBLIC DOMAIN)** - **June 2001** — James Woodward and Thomas Mahood of California State University, and Paul March of Lockheed Martin Space Operations publish a paper on altering the mass of
-
 small test samples of lead zirconate titanate (PZT), a piezoelectric compound. Woodward and March achieve small mass reduction with small energies and say large mass fluctuation of PZT could be achieved with only moderately increased power, but it’s beyond the scope of that study.
 
 *   [https://arc.aiaa.org/doi/pdf/10.2514/6.2001-3907](https://arc.aiaa.org/doi/pdf/10.2514/6.2001-3907)
