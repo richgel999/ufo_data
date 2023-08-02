@@ -4195,7 +4195,6 @@ effects. It is worth determining if UAP proximity effects account for any Havana
 **(PUBLIC DOMAIN)** - **26 February 2019** — FOX TV producer Robert Kiviat sues Joe Firmage, former CIA official Ron Pandolfi, and former Rep. David D. Marriott for his involvement in a firm named InterNASA. Kiviat claims he was recruited to perform media duties for InterNASA and told it had CIA backing for technology development based on UAP.
 
 Kiviat states Pandolfi was trying to sabotage the company, adding he believed the CIA was running a “flytrap” disinformation scheme, in which honest people’s talents were used to further an intelligence operation’s goal; in this case, Kiviat alleges, an attempt to frame UAP in a specific way to the
-
 U.S. public guided by current or former CIA personnel.
 
 *   [https://www.thesun.co.uk/news/8735600/tv-producer-sues-cia-scientist-government-ufo-cover-up-anti-gravity-research-project/](https://www.thesun.co.uk/news/8735600/tv-producer-sues-cia-scientist-government-ufo-cover-up-anti-gravity-research-project/)
