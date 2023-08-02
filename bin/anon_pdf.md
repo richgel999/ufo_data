@@ -3081,7 +3081,6 @@ aluminum-titanium alloy not from Earth. In 1992, Green used resources at General
 **(PUBLIC DOMAIN)** - **July 2003** — Civilian Dion Fuller claims he met “Lee” at an apartment complex in Pacific Beach, CA, after he had allegedly gone AWOL from nearby Camp Pendleton, stolen 25 pairs of night vision goggles, a pistol from Iraq, a DOD laptop and an entire truck; Fuller states Lee scrolled through allegedly classified files on the laptop in front of him marked TOP SECRET and soon after, Fuller claims three NCIS agents arrived and searched the premises, detained him for six days and threatened him before letting him go.
 
 In the following months, Fuller claims he was followed by military-looking men with the following license plates: 4U49864 (white truck), 5DA726 (white sedan), 4WEP4HEP852 (brown Honda),
-
 SE4JPL (white Toyota), 5BEA709 (Escape), 4EPW827 (black Acura), 809-E2G (Forerunner), 4AMP126 (white Toyota) and 4JPL825 (Xterra SE).
 
 Fuller later meets Richard Schowengerdt, founder of **Project Chameleo**, who claims he has successfully developed a technique to make men invisible; his research is more advanced than work by “Tachi” or Duke University; Schowengerdt’s research has been used in the field of electromagnetics working at the Navy Metrology Engineering Center (MEC), the Naval Sea Systems Command Technical Representative Office (NAVSEA TECHREP AEGIS), and with the Naval Reserve at the Miramar Naval Air Station and the Naval Air Station in Pt. Mugu.
