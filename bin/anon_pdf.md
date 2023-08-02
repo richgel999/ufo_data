@@ -4608,7 +4608,6 @@ Another witness, an anonymous Boatswain’s Mate of the Watch was in contact wit
 
 
 **(PUBLIC DOMAIN)** - **13 June 2022** — Former AFOSI counterintelligence officer Richard Doty claims he is aware of five UAP related projects at Area 51: **Project Candid Sky** for photographing UAP, **Project Radiant Bravo-One**, **Project Might** using high speed lasers, **Project Auburn Blue** examination of
-
 captured UAP and **Project Med-Star** examination of “captured” extraterrestrials. Doty claims in the early 1980s the designation “**CARDINAL**” was used to identify known extraterrestrial craft. Doty claims “**CARDINAL-3**” was stored underground in S-2.
 
 *   [https://youtu.be/4sn8Z6uuF1E](https://youtu.be/4sn8Z6uuF1E)
