@@ -1658,7 +1658,7 @@ crashed in the 1950s was so large that logistical problems prevented it from bei
 He also claims on 30 April 1964, the first communication between aliens and the USG took place at Holloman AFB; they made a “deal” in exchange for technology the USG would ignore abductions and the EBEs told them abductions were merely monitoring; in fact, abductions were the insertion of implants, implementation of posthypnotic suggestion, termination of some people so they could be biological material, termination of people who are a threat, genetic experiments and impregnation; he claims in 1979 there was an altercation at the Dulce laboratory; by the 1980s, MJ-12 was concerned the mistake they made dealing with the EBEs and began to promote positive film projects like Close Encounters and ET; some of MJ-12 meeting at the “Country Club” wanted to confess the scheme, the other majority chose to develop anti-UAP weapons under cover of SDI.
 
 *   [https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo](https://cdn.preterhuman.net/texts/alien.ufo/UFOBBS/1000/1953.ufo)
-
+*   [https://archive.org/details/john-lear-statement-1987](https://archive.org/details/john-lear-statement-1987) (rg - alt URL of his Dec. 29, 1987 statement)
 
 
 
