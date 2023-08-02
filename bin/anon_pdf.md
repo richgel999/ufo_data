@@ -4222,7 +4222,7 @@ sponsored by the DOD. It was reported at the time that Mitre Corp. would remain 
 >*   [https://www.amazon.com/UFOs-Area-Government-Informants-Involvement-ebook/dp/B0916JQDCS](https://www.amazon.com/UFOs-Area-Government-Informants-Involvement-ebook/dp/B0916JQDCS) (p137)
 
 
-**(PUBLIC DOMAIN)** - **30 April 2019 — EarthTech and Aerospace Corp. physicist Eric Davis states “there have been crashes” of UAP and reverse engineering programs are stovepiped into very small, underfunded efforts controlled by legacy aerospace corporations. Davis alludes that he or his **AATIP** colleagues were told of crash recovery/alien biology programs in SCIFs with those aware of the programs, but suggests **AATIP** was not “read into” these programs. There were red-lines they were made aware of and told of generalities in SCIFs. Davis suggests some executives at aerospace firms know of the programs and at least one was last funded in 1989, according to him.
+**(PUBLIC DOMAIN)** - **30 April 2019** — EarthTech and Aerospace Corp. physicist Eric Davis states “there have been crashes” of UAP and reverse engineering programs are stovepiped into very small, underfunded efforts controlled by legacy aerospace corporations. Davis alludes that he or his **AATIP** colleagues were told of crash recovery/alien biology programs in SCIFs with those aware of the programs, but suggests **AATIP** was not “read into” these programs. There were red-lines they were made aware of and told of generalities in SCIFs. Davis suggests some executives at aerospace firms know of the programs and at least one was last funded in 1989, according to him.
 
 *   [https://youtu.be/IeyBTChcTe4?t=4632](https://youtu.be/IeyBTChcTe4?t=4632)
 
