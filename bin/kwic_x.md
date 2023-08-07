@@ -1,0 +1,1133 @@
+﻿<meta charset="utf-8">
+
+# <a name="Top">UFO Event Timeline, KWIC Index Page: x</a>
+
+[Back to Main timeline](timeline.html)
+
+## Letters Directory:
+[a](kwic_a.html)
+[b](kwic_b.html)
+[c](kwic_c.html)
+[d](kwic_d.html)
+[e](kwic_e.html)
+[f](kwic_f.html)
+[g](kwic_g.html)
+[h](kwic_h.html)
+[i](kwic_i.html)
+[j](kwic_j.html)
+[k](kwic_k.html)
+[l](kwic_l.html)
+[m](kwic_m.html)
+[n](kwic_n.html)
+[o](kwic_o.html)
+[p](kwic_p.html)
+[q](kwic_q.html)
+[r](kwic_r.html)
+[s](kwic_s.html)
+[t](kwic_t.html)
+[u](kwic_u.html)
+[v](kwic_v.html)
+[w](kwic_w.html)
+[x](kwic_x.html)
+[y](kwic_y.html)
+[z](kwic_z.html)
+[numbers](kwic_numbers.html)
+[misc](kwic_misc.html)
+
+## Words Directory:
+<a href="#word_69003">"x-1"</a>
+<a href="#word_69004">"x-10"</a>
+<a href="#word_69005">"x-15"</a>
+<a href="#word_69006">"x-17"</a>
+<a href="#word_69007">"x-1a"</a>
+  
+<a href="#word_69008">"x-2"</a>
+<a href="#word_69009">"x-30"</a>
+<a href="#word_69010">"x-31"</a>
+<a href="#word_69011">"x-37b"</a>
+<a href="#word_69012">"x-43a"</a>
+<a href="#word_69013">"x-acceleration"</a>
+<a href="#word_69014">"x-antenna"</a>
+<a href="#word_69015">"x-band"</a>
+  
+<a href="#word_69016">"x-bright"</a>
+<a href="#word_69017">"x-fast"</a>
+<a href="#word_69018">"x-form"</a>
+<a href="#word_69019">"x-formation"</a>
+<a href="#word_69020">"x-low"</a>
+<a href="#word_69021">"x-pattern"</a>
+<a href="#word_69022">"x-planes"</a>
+<a href="#word_69023">"x-ray"</a>
+  
+<a href="#word_69024">"x-rays"</a>
+<a href="#word_69025">"x-shape"</a>
+<a href="#word_69026">"x-shaped"</a>
+<a href="#word_69027">"x1"</a>
+<a href="#word_69028">"x10'"</a>
+<a href="#word_69029">"x10'cgr"</a>
+<a href="#word_69030">"x100"</a>
+<a href="#word_69031">"x11'"</a>
+  
+<a href="#word_69032">"x15"</a>
+<a href="#word_69033">"x15'plain"</a>
+<a href="#word_69034">"x15m"</a>
+<a href="#word_69035">"x2"</a>
+<a href="#word_69036">"x2'rectangle"</a>
+<a href="#word_69037">"x20'"</a>
+<a href="#word_69038">"x200'"</a>
+<a href="#word_69039">"x2m"</a>
+  
+<a href="#word_69040">"x3'"</a>
+<a href="#word_69041">"x3-4"</a>
+<a href="#word_69042">"x37b"</a>
+<a href="#word_69043">"x3m"</a>
+<a href="#word_69044">"x3x1m"</a>
+<a href="#word_69045">"x3x4m"</a>
+<a href="#word_69046">"x4'"</a>
+<a href="#word_69047">"x4'ovoids"</a>
+  
+<a href="#word_69048">"x4'rectangle"</a>
+<a href="#word_69049">"x40'x20'"</a>
+<a href="#word_69050">"x4m"</a>
+<a href="#word_69051">"x5'"</a>
+<a href="#word_69052">"x5v4mr"</a>
+<a href="#word_69053">"x6'domed"</a>
+<a href="#word_69054">"x6m"</a>
+<a href="#word_69055">"x7'disk"</a>
+  
+<a href="#word_69056">"x7'obj"</a>
+<a href="#word_69057">"x8'crater"</a>
+<a href="#word_69058">"x8'scr"</a>
+<a href="#word_69059">"x8m"</a>
+<a href="#word_69060">"xanthois"</a>
+<a href="#word_69061">"xanton-chassenon"</a>
+<a href="#word_69062">"xaqdoi"</a>
+<a href="#word_69063">"xavier"</a>
+  
+<a href="#word_69064">"xawc5f_ur08"</a>
+<a href="#word_69065">"xb-35"</a>
+<a href="#word_69066">"xb-70"</a>
+<a href="#word_69067">"xc5555"</a>
+<a href="#word_69068">"xe2838"</a>
+<a href="#word_69069">"xefi"</a>
+<a href="#word_69070">"xenia"</a>
+<a href="#word_69071">"xeno"</a>
+  
+<a href="#word_69072">"xenon-133"</a>
+<a href="#word_69073">"xf5u"</a>
+<a href="#word_69074">"xfast"</a>
+<a href="#word_69075">"xfua5zqv"</a>
+<a href="#word_69076">"xi"</a>
+<a href="#word_69077">"xi'an"</a>
+<a href="#word_69078">"xiamen"</a>
+<a href="#word_69079">"xian"</a>
+  
+<a href="#word_69080">"xiangshan"</a>
+<a href="#word_69081">"xianyang"</a>
+<a href="#word_69082">"xiaoshan"</a>
+<a href="#word_69083">"xigaze"</a>
+<a href="#word_69084">"xii"</a>
+<a href="#word_69085">"xiii"</a>
+<a href="#word_69086">"xiiith"</a>
+<a href="#word_69087">"xim"</a>
+  
+<a href="#word_69088">"xincheng"</a>
+<a href="#word_69089">"xinganling"</a>
+<a href="#word_69090">"xinghua"</a>
+<a href="#word_69091">"xingu"</a>
+<a href="#word_69092">"xinhua"</a>
+<a href="#word_69093">"xinhuajie"</a>
+<a href="#word_69094">"xinjian"</a>
+<a href="#word_69095">"xinjiang"</a>
+  
+<a href="#word_69096">"xinxiang"</a>
+<a href="#word_69097">"xira"</a>
+<a href="#word_69098">"xiti"</a>
+<a href="#word_69099">"xiv"</a>
+<a href="#word_69100">"xku8yn"</a>
+<a href="#word_69101">"xl"</a>
+<a href="#word_69102">"xlr-11"</a>
+<a href="#word_69103">"xmas"</a>
+  
+<a href="#word_69104">"xmoon"</a>
+<a href="#word_69105">"xp-80"</a>
+<a href="#word_69106">"xp-84"</a>
+<a href="#word_69107">"xp-86"</a>
+<a href="#word_69108">"xterra"</a>
+<a href="#word_69109">"xuchang"</a>
+<a href="#word_69110">"xvis"</a>
+<a href="#word_69111">"xw-25"</a>
+  
+<a href="#word_69112">"xx"</a>
+<a href="#word_69113">"xxi"</a>
+<a href="#word_69114">"xxii-xxiii"</a>
+<a href="#word_69115">"xxiii"</a>
+<a href="#word_69116">"xxsrh2qt2o4"</a>
+<a href="#word_69117">"xxxx"</a>
+<a href="#word_69118">"xxxxx"</a>
+<a href="#word_69119">"xxxxxx"</a>
+  
+<a href="#word_69120">"xxxxxxx"</a>
+<a href="#word_69121">"xxxxxxxx"</a>
+<a href="#word_69122">"xxxxxxxxxxx"</a>
+
+## <a name="word_69003">Word: "x-1"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+n experimental rocket-powered Bell <b>X-1</b> at Muroc [now Edwards] AFB, Californ <a href="timeline.html#8DA87863">10/14/1947 #3458</a>  
+rspeed record of 891 mph in a Bell <b>X-1</b> at Muroc AFB, California.            <a href="timeline.html#C48AB03A">11/6/1947 #3480</a>  
+</pre>
+
+
+## <a name="word_69004">Word: "x-10"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ak Ridge, Tennessee Y-12 plant The <b>X-10</b> Graphite Reactor at Oak Ridge, Tenn <a href="timeline.html#B77E07BE">11/4/1943 #1542</a>  
+dge National Laboratory, Tennessee <b>X-10</b> plant 4:20 p.m. A UFO that appears  <a href="timeline_part2.html#B032148E">1/21/1951 #5410</a>  
+ restricted area that includes the <b>X-10</b> plant.                              <a href="timeline_part2.html#B032148E">1/21/1951 #5410</a>  
+</pre>
+
+
+## <a name="word_69005">Word: "x-15"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ AFB, California The first powered <b>X-15</b> flight is piloted by Albert Scott C <a href="timeline_part2.html#7DBB2EFE">9/17/1959 #15981</a>  
+ed craft are filmed passing a USAF <b>X-15</b> rocket plane being commanded by tes <a href="timeline_part3.html#495AE8D5">4/29/1962 #17135</a>  
+                   Edwards AFB, CA <b>X-15</b> flight, piloted by Joe Walker; Phot <a href="timeline_part3.html#5D30EB12">4/30/1962 #17138</a>  
+ree-flight test (Flight 52) of the <b>X-15</b> to a height of 246,700 feet (46.7 m <a href="timeline_part3.html#4171EEE7">4/30/1962 #17141</a>  
+ing in groups up to six behind the <b>X-15</b>.” Opinion ranges from “definitely s <a href="timeline_part3.html#4171EEE7">4/30/1962 #17141</a>  
+                   Edwards AFB, CA <b>X-15</b> flight, Maj. Bob White pilot. Photo <a href="timeline_part3.html#9614DC06">7/17/1962 #17277</a>  
+White is piloting Flight 62 of the <b>X-15</b> at Edwards AFB, California. He flie <a href="timeline_part3.html#9977BC1B">7/17/1962 #17279</a>  
+                       On this day <b>X-15</b> pilot and future astronaut White wa <a href="timeline_part3.html#3386E873">7/17/1962 #17280</a>  
+ a grayish-white UFO. It paced the <b>X-15</b> for five seconds, and then darted a <a href="timeline_part3.html#3386E873">7/17/1962 #17280</a>  
+of 353,200 feet (66.9 miles) in an <b>X-15</b> rocket plane.                       <a href="timeline_part3.html#DE1F53D4">8/22/1963 #17915</a>  
+               Barstow, California <b>X-15</b> pilot Joseph A. Walker is killed wh <a href="timeline_part3.html#BA179A35">6/8/1966 #20544</a>  
+ing to the story, 6 UFOs follow an <b>X-15</b> as it lands. When project members c <a href="timeline_part3.html#E0594F87">9/1/1967? #22977</a>  
+ of phone calls, they find that no <b>X-15</b> flew on September 1. (There are fli <a href="timeline_part3.html#E0594F87">9/1/1967? #22977</a>  
+ph (Mach 6.72) in a North American <b>X-15</b> rocket plane, a record that stands  <a href="timeline_part3.html#7110697E">10/3/1967 #23171</a>  
+he snaps six photos with his Kodak <b>X-15</b> camera. The color pictures reveal a <a href="timeline_part4.html#1305F6E2">5/5/1974 #29085</a>  
+gh altitude aircraft like the X-2, <b>X-15</b> and U-2, plus cameras on rockets th <a href="timeline_part5.html#C223908D">7/1991 #40108</a>  
+</pre>
+
+
+## <a name="word_69006">Word: "x-17"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+nuclear warheads are launched from <b>X-17</b> rockets from the deck of the USS No <a href="timeline_part2.html#8EC81F23">8/27/1958 #15229</a>  
+</pre>
+
+
+## <a name="word_69007">Word: "x-1a"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ altitude of 90,440 feet in a Bell <b>X-1A</b>.                                    <a href="timeline_part2.html#5ACF113E">5/28/1954 #9838</a>  
+</pre>
+
+
+## <a name="word_69008">Word: "x-2"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+titude of 126,283 feet in the Bell <b>X-2</b>.                                     <a href="timeline_part2.html#A5454632">9/7/1956 #13203</a>  
+on high altitude aircraft like the <b>X-2</b>, X-15 and U-2, plus cameras on rocke <a href="timeline_part5.html#C223908D">7/1991 #40108</a>  
+</pre>
+
+
+## <a name="word_69009">Word: "x-30"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+to develop engines/propulsion. The <b>X-30</b> National Aerospace Plane (NASP) pla <a href="timeline_part5.html#871FDD96">4/1986 #37815</a>  
+</pre>
+
+
+## <a name="word_69010">Word: "x-31"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                    A Rockwell-MBB <b>X-31</b> experimental jet fighter designed t <a href="timeline_part5.html#AE3ED3B9">4/29/1993 #40956</a>  
+</pre>
+
+
+## <a name="word_69011">Word: "x-37b"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ Florida Low Earth Orbit The first <b>X-37B</b>, an uncrewed, reusable, robotic sp <a href="timeline_part5.html#276F68F7">4/22/2010 #45276</a>  
+Shuttle Landing Facility The fifth <b>X-37B</b> mission, Orbital Test Vehicle-5, l <a href="timeline_part5.html#EFC77FB0">10/27/2019 #45615</a>  
+</pre>
+
+
+## <a name="word_69012">Word: "x-43a"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                  An unmanned NASA <b>X-43A</b> hypersonic scramjet, the fastest f <a href="timeline_part5.html#2E3E0E75">11/16/2004 #44787</a>  
+</pre>
+
+
+## <a name="word_69013">Word: "x-acceleration"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ saucer maneuvers / 300M altitude. <b>X-acceleration</b> going quickly southeast.  <a href="timeline_part5.html#C5816A21">3/8/2001 #44148</a>  
+</pre>
+
+
+## <a name="word_69014">Word: "x-antenna"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+             LA PORTE, IN UFO with <b>X-antenna</b> / underside chases 2 / car. Co <a href="timeline_part3.html#E87BC9B6">3/20/1966 #19999</a>  
+</pre>
+
+
+## <a name="word_69015">Word: "x-band"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ Program, and the Navy’s sea-based <b>X-band</b> radar system. The Combined Space  <a href="timeline_part5.html#4363425E">6/23/2019 #45587</a>  
+</pre>
+
+
+## <a name="word_69016">Word: "x-bright"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+Saucer touches outer wall / house! <b>X-bright</b>.                                <a href="timeline_part3.html#5F0584C5">2/20/1969 #24931</a>  
+   REYKJAVIK, ICEL 3 / airliner. 3 <b>X-bright</b> objects pass north going quickl <a href="timeline_part4.html#DD46614D">11/1972 #27103</a>  
+</pre>
+
+
+## <a name="word_69017">Word: "x-fast"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+rt fringe going quickly southeast. <b>X-fast</b>. Fork-trail.                      <a href="timeline_part2.html#6BC88439">12/17/1953 #9376</a>  
+</pre>
+
+
+## <a name="word_69018">Word: "x-form"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+   LAUNAC, FR Round lights / rigid <b>X-form</b> dive / car. Structure unseen. Sil <a href="timeline_part4.html#9C3D8F96">10/5/1973 #27937</a>  
+</pre>
+
+
+## <a name="word_69019">Word: "x-formation"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+going quickly northeast overhead / <b>X-formation</b>. Poor photograph taken.      <a href="timeline.html#7EE8AAA7">6/18/1947 #2338</a>  
+ turn on its axis, turning into an <b>X-formation</b>, then breaks off into two se <a href="timeline_part2.html#47B0088A">11/6/1954 #11585</a>  
+YKOBING FALSTER, DK 3 observer(s). <b>X-formation</b> / 21 night lights rotates /  <a href="timeline_part5.html#6825EEC1">4/19/1994 #41496</a>  
+k 21 nocturnal lights flying in an <b>X-formation</b> followed a witness in his ca <a href="timeline_part5.html#99E1247D">4/19/1994 #41497</a>  
+</pre>
+
+
+## <a name="word_69020">Word: "x-low"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+NZA, ITL Blazing 1.5M disk-light / <b>X-low</b> altitude. Observer(s) feels extrem <a href="timeline_part4.html#8B3D12F1">8/13/1977 #32397</a>  
+</pre>
+
+
+## <a name="word_69021">Word: "x-pattern"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ IN 5 / car. 40' object paces car. <b>X-pattern</b> / lights / underside. Photogra <a href="timeline_part5.html#1668934A">1/21/1989 #38788</a>  
+</pre>
+
+
+## <a name="word_69022">Word: "x-planes"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+nd were shown four decommissioned “<b>X-planes</b>,” all discs, measuring 20, 40,  <a href="timeline_part3.html#5B2AEA6C">1966 #19799</a>  
+</pre>
+
+
+## <a name="word_69023">Word: "x-ray"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ir, confirmed. Country: USA Name: “<b>X-ray</b>” Yield: 37KT                       <a href="timeline.html#A510506A">4/14/1948 #3622</a>  
+oll Marshall Islands 6:17 a.m. The <b>X-Ray</b> nuclear device is detonated near E <a href="timeline.html#51137E56">4/15/1948 #3623</a>  
+ carried out the same procedure on <b>X-Ray</b> and Yoke without problems, but thi <a href="timeline.html#27BE206D">5/15/1948 #3651</a>  
+ see the bones in his hand like an <b>X-ray</b>. Suddenly there is a flash, and th <a href="timeline_part2.html#B03B3A58">2/11/1953 #8664</a>  
+ see the bones in his hand like an <b>X-ray</b> where he experiences no sound, and <a href="timeline_part2.html#EBB71AE8">2/19/1953 #8686</a>  
+rough a viewing lens that also has <b>x-ray</b> capability. The saucer goes to a “ <a href="timeline_part2.html#B728B26C">4/7/1956 #12798</a>  
+y of Crystallography conducts some <b>X-ray</b> diffraction work. All conclude tha <a href="timeline_part2.html#771EBA79">Early 9/1957 #13971</a>  
+es them the stone. The fragment is <b>x-ray</b> analyzed at Åbo Akademi University <a href="timeline_part3.html#0F4A07AB">8/1964 #18466</a>  
+ugh of it for a chemical analysis. <b>X-ray</b> fluorescence and diffraction analy <a href="timeline_part4.html#7C22E3F6">10/22/1973 #28239</a>  
+by an apparatus that looks like an <b>X-ray</b> machine, and the men offer to shar <a href="timeline_part4.html#EEFE7E69">5/17/1978 #33224</a>  
+lepathy—“It was like a light or an <b>X-ray</b> penetrating.” They told her she wo <a href="timeline_part4.html#A26E7C0E">1/4/1979 #34296</a>  
+epathy, "it was like a light or an <b>X-ray</b> penetrating." They told her telepa <a href="timeline_part4.html#6C182F31">1/5/1979 #34304</a>  
+      Valdese, North Carolina Day. <b>X-ray</b> technician Ruth Weaver experiences <a href="timeline_part5.html#8654D427">5/7/1980 #35314</a>  
+looking at something resembling an <b>X-ray</b> machine. He also encountered sever <a href="timeline_part5.html#BFD7182C">5/3/2000 #43988</a>  
+</pre>
+
+
+## <a name="word_69024">Word: "x-rays"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>X-Rays</b> discovered                        <a href="timeline.html#B87D887C">11/8/1895 #322</a>  
+ dose of 300–500 rems. Likely only <b>X-rays</b>, gamma rays, or neutrons could tr <a href="timeline_part3.html#AE6E7FC6">7/4/1969 #25251</a>  
+</pre>
+
+
+## <a name="word_69025">Word: "x-shape"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ers = 12+observer(s). Large orange <b>X-shape</b> hovers and darts around. / MJ#22 <a href="timeline_part5.html#6B603A25">5/22/1986 #37887</a>  
+SA, CA Several observer(s). Orange <b>X-shape</b> zigzags here too. Air Traffic Co <a href="timeline_part5.html#7C45D6EF">5/22/1986 #37888</a>  
+r / (seen thru) binoculars. Silent <b>X-shape</b> going quickly northwest going qu <a href="timeline_part5.html#5226D1F2">10/13/1986 #38046</a>  
+nutes. There were 4-6 lights in a "<b>X-shape</b>."                                <a href="timeline_part5.html#D788023D">11/25/1999 #43887</a>  
+</pre>
+
+
+## <a name="word_69026">Word: "x-shaped"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+d areas. Ritland recalls a “little <b>X-shaped</b> field” just off the eastern sid <a href="timeline_part2.html#0F8EBE65">Early 1955 #11901</a>  
+d on the sand for two min, leaving <b>X-shaped</b> traces. It flew up to about 10  <a href="timeline_part3.html#F0353EB1">7/17/1965 #19116</a>  
+ the sand for two minutes, leaving <b>X-shaped</b> ground marks. It flew up to abo <a href="timeline_part3.html#91E23C99">7/17/1965 #19118</a>  
+ey described the UFOs as having an <b>X-shaped</b> arrangement of lights on the bo <a href="timeline_part3.html#171B35FA">12/19/1969 #25507</a>  
+                   At 1:30 a.m. an <b>X-shaped</b> UFO buzzed a car in Launac, Fra <a href="timeline_part4.html#6D177431">10/5/1973 #27952</a>  
+   TUCSON, AZ Several observer(s). <b>X-shaped</b> silver double-CRG jumps and jer <a href="timeline_part4.html#C0E34520">2/21/1977 #31834</a>  
+ast of Joliet, Illinois. It had an <b>X-shaped</b>, coal-black area connecting the <a href="timeline_part5.html#242DD445">2/12/1982 #36341</a>  
+ARTINSVILLE, WV 3 observer(s). 30' <b>X-shaped</b> object. 5 lights / bottom. Pace <a href="timeline_part5.html#0094CB30">12/30/1984 #37534</a>  
+sburg, WV 10:00 PM. A 30 foot long <b>X-shaped</b> object paced a car for 20 minut <a href="timeline_part5.html#496CDC0E">12/30/1984 #37535</a>  
+At about 10:00 p.m. a 30 foot long <b>X-shaped</b> object paced a car for 20 minut <a href="timeline_part5.html#DB4DFCA0">12/30/1984 #37536</a>  
+PIDS, MI Several observer(s). Huge <b>X-shaped</b> object flies east going west ov <a href="timeline_part5.html#DDA8BE54">1/31/1995 #42004</a>  
+</pre>
+
+
+## <a name="word_69027">Word: "x1"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+d parts. As it turns out, the OTC- <b>X1</b> develops a “mercury leak” and the lau <a href="timeline_part2.html#9479D1B6">4/19/1959 #15708</a>  
+</pre>
+
+
+## <a name="word_69028">Word: "x10'"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+   HOPKINTON, MASS 1 observer. 90' <b>x10'</b> "beam of light" seen 30 minute(s).  <a href="timeline_part2.html#934B6468">7/29/1952 #7279</a>  
+</pre>
+
+
+## <a name="word_69029">Word: "x10'cgr"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+           SEWICKLEY HILLS, PA 50' <b>x10'CGR</b> hovers near car. Spotlight going <a href="timeline_part5.html#E55064DA">1/21/1987 #38101</a>  
+</pre>
+
+
+## <a name="word_69030">Word: "x100"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ons in our galaxy, and then added “<b>x100</b>” to it. Skeptic Joe Nickell suggest <a href="timeline_part5.html#8509BEF3">2000 #43913</a>  
+</pre>
+
+
+## <a name="word_69031">Word: "x11'"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+AXIAS, PORTUGAL 3 observer(s). 70' <b>x11'</b> saucer hovers and skims hills. Beam <a href="timeline_part4.html#EDCD69DE">6/24/1978 #33302</a>  
+</pre>
+
+
+## <a name="word_69032">Word: "x15"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+2 saucers filmed passing Air Force <b>X15</b> / record flight / 200K'.             <a href="timeline_part3.html#463BB350">4/30/1962 #17136</a>  
+             MOHAVE DESERT, CA 2nd <b>X15</b> / worlds record altitude / 314K' fil <a href="timeline_part3.html#A4CDD683">7/17/1962 #17276</a>  
+</pre>
+
+
+## <a name="word_69033">Word: "x15'plain"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+    KAIPARA HARBOR, NZ Pilot. 100' <b>x15'PLAIN</b> fuselage in 30' / bay water. G <a href="timeline_part3.html#49184709">3/12/1965 #18853</a>  
+</pre>
+
+
+## <a name="word_69034">Word: "x15m"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ng quickly south going up / 45°. 7 <b>x15M</b> dried grass found.                  <a href="timeline_part4.html#C9190B25">10/1973 (approximate) #27894</a>  
+ CO, IL Location approximate. 100m <b>x15m</b> yellow / orange saucer. Lands for 5 <a href="timeline_part4.html#184C0F86">1/1/1975 #29685</a>  
+</pre>
+
+
+## <a name="word_69035">Word: "x2"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+igence (SI) and Counter Espionage (<b>X2</b>), which are rolled up into the Strate <a href="timeline.html#665BA570">9/20/1945 #1938</a>  
+the next day, a purplish liquid, 2"<b>x2</b>" marks and patches of singed grass we <a href="timeline_part3.html#D4AFE7F9">8/19/1965 #19424</a>  
+the next day, a purplish liquid, 2"<b>x2</b>" marks and patches of singed grass we <a href="timeline_part3.html#D2A14EBC">8/19/1965 #19428</a>  
+      SMETHPORT, PA 1 observer. 5' <b>x2</b>.5'x3'GLOWING box with tail over house <a href="timeline_part5.html#9AAED955">10/14/1984 #37485</a>  
+</pre>
+
+
+## <a name="word_69036">Word: "x2'rectangle"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+  BULAWAYO, RHOD 5 observer(s). 5' <b>x2'RECTANGLE</b> hovers / house. Going quick <a href="timeline_part2.html#1ED606BC">5/18/1958 #15043</a>  
+</pre>
+
+
+## <a name="word_69037">Word: "x20'"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+T, SD 2+1 separate observer(s). 8' <b>x20'</b> ovoid close / ground. Vertical blue <a href="timeline_part2.html#9BF7B19F">12/14/1956 #13401</a>  
+</pre>
+
+
+## <a name="word_69038">Word: "x200'"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+WR, PA RADAR detector alarms. 250' <b>x200'</b> delta/triangle/box-like craft goin <a href="timeline_part5.html#A590508D">10/27/1992 #40692</a>  
+</pre>
+
+
+## <a name="word_69039">Word: "x2m"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+         DORF-GULL, HESSEN, GERM 5 <b>x2M</b> cylinder/cigar-shape hovers / road.  <a href="timeline_part2.html#865A3A80">12/9/1954 #11782</a>  
+LLA DL SIERRA, SP 4 observer(s). 1 <b>x2M</b> Brill window by tree. Vanishes / gun <a href="timeline_part4.html#17E1A47F">8/5/1970 #25769</a>  
+             QUINTANAORTUNO, SPN 3 <b>x2M</b> washtub-saucer going down. Beams. Bu <a href="timeline_part4.html#AACBF817">1/1/1975 #29686</a>  
+</pre>
+
+
+## <a name="word_69040">Word: "x3'"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+PITO, PORTGL 2 observer(s). Box 8' <b>x3'</b> with head / outside house. Traces. P <a href="timeline_part4.html#5C70ACF2">1/3/1977 #31685</a>  
+</pre>
+
+
+## <a name="word_69041">Word: "x3-4"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+y, 66. One gold-colored box, 12-14"<b>x3-4</b>", flew straight and level across th <a href="timeline_part3.html#22E0720A">3/1/1962 #17070</a>  
+</pre>
+
+
+## <a name="word_69042">Word: "x37b"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+arly 780 days in space. The Boeing <b>X37B</b> is an uncrewed, reusable, robotic s <a href="timeline_part5.html#EFC77FB0">10/27/2019 #45615</a>  
+</pre>
+
+
+## <a name="word_69043">Word: "x3m"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+            ALCOCEBRE, SP Diver. 7 <b>x3M</b> cylinder/cylindrical object undersea <a href="timeline_part4.html#E912AF2B">7/26/1970 #25752</a>  
+</pre>
+
+
+## <a name="word_69044">Word: "x3x1m"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+LEGUNE, NT, AUS 2 / light plane. 9 <b>x3x1M</b> UFO passes. HF and VHF radios out  <a href="timeline_part4.html#7B1444E6">12/9/1977 #32751</a>  
+</pre>
+
+
+## <a name="word_69045">Word: "x3x4m"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+LDEMANCO, SP Rectangular object. 9 <b>x3x4M</b> hovers. 2 wheels / front. Rises.   <a href="timeline_part3.html#0ED35923">8/2/1968 #24288</a>  
+</pre>
+
+
+## <a name="word_69046">Word: "x4'"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+60. B25 crew / 11.5K' altitude. 6' <b>x4'</b> rectangular object 300' under B25.   <a href="timeline_part2.html#0B7969C1">6/7/1952 #6458</a>  
+</pre>
+
+
+## <a name="word_69047">Word: "x4'ovoids"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                HAMILTON, ONT 2 8' <b>x4'OVOIDS</b> land. Observer(s) shocked / to <a href="timeline_part3.html#8048B3BB">3/29/1966 #20127</a>  
+</pre>
+
+
+## <a name="word_69048">Word: "x4'rectangle"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+LIA Cops and more/others. Black 6' <b>x4'RECTANGLE</b> going quickly east / 120kts <a href="timeline_part5.html#9C438635">4/6/1997 #43254</a>  
+</pre>
+
+
+## <a name="word_69049">Word: "x40'x20'"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+T LAKE CITY, UT 2 observer(s). 60' <b>x40'x20'</b> box goes slow. Sounds heard / t <a href="timeline_part5.html#EA1E5598">4/22/1986 #37830</a>  
+</pre>
+
+
+## <a name="word_69050">Word: "x4m"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ding beam. Turns extremely dark. 3 <b>x4M</b> traces.                              <a href="timeline_part4.html#F6CB5E35">6/4/1978 #33254</a>  
+</pre>
+
+
+## <a name="word_69051">Word: "x5'"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+kly southeast / 150M altitude. 12' <b>x5'</b>. Silent. Landing?                    <a href="timeline.html#CFFA8BE1">7/29/1947 #3248</a>  
+      NEW YORK, NY 1 observer. 10' <b>x5'</b> bullet-object with wavy lines. 6 pip <a href="timeline_part3.html#566268D3">8/15/1964 #18485</a>  
+RING VALLEY, CA Boy / 15. Dull 14' <b>x5'</b> perfect cylinder/cylindrical object  <a href="timeline_part5.html#75A47B59">11/1/1983 #37038</a>  
+</pre>
+
+
+## <a name="word_69052">Word: "x5v4mr"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+s://www.reddit.com/r/UFOs/comments/<b>x5v4mr</b>/fmrlockheedastrophysicistandcolle <a href="timeline_part5.html#58499B39">2018 #45498</a>  
+</pre>
+
+
+## <a name="word_69053">Word: "x6'domed"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+electro-magnetic effect (EME). 18' <b>x6'DOMED</b> saucer hovers. Fades.. . No fur <a href="timeline_part4.html#D2A0DED9">2/14/1977 #31815</a>  
+</pre>
+
+
+## <a name="word_69054">Word: "x6m"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ ARG 2 observer(s). Ovoid lands. 4 <b>x6M</b> trace grows 4 kg mushrooms. Ants mut <a href="timeline_part4.html#81CAA97A">11/3/1976 #31519</a>  
+</pre>
+
+
+## <a name="word_69055">Word: "x7'disk"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+     ATWATER, CA 3+observer(s). 3' <b>x7'DISK</b> hovers / power poles. Hums. Attr <a href="timeline_part4.html#42C4C75F">5/12/1979 #34555</a>  
+</pre>
+
+
+## <a name="word_69056">Word: "x7'obj"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+          ROCKBRIDGE BATHS, VA 20' <b>x7'OBJ</b> paces and blocks car / SR39. 1' t <a href="timeline_part5.html#0C573367">3/23/1988 #38518</a>  
+</pre>
+
+
+## <a name="word_69057">Word: "x8'crater"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                CHARLTON, WILTS 8' <b>x8'CRATER</b> / potato field. Dirt gone. 4 h <a href="timeline_part3.html#6E8D7689">7/16/1963 #17831</a>  
+</pre>
+
+
+## <a name="word_69058">Word: "x8'scr"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+    GAFFNEY, SC 2 observer(s). 20' <b>x8'SCR</b> whistles going quickly east towar <a href="timeline_part5.html#1D044D35">10/13/1983 #37002</a>  
+</pre>
+
+
+## <a name="word_69059">Word: "x8m"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+       SATER, SWD 2 observer(s). 6 <b>x8M</b> metallic blue sphere / treetops. Lig <a href="timeline_part5.html#2D197D74">12/31/1987 #38380</a>  
+</pre>
+
+
+## <a name="word_69060">Word: "xanthois"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ confirmed. Country: France Name: “<b>Xanthois</b>” Yield: 5KT                     <a href="timeline_part4.html#6F433641">7/1/1978 #33321</a>  
+</pre>
+
+
+## <a name="word_69061">Word: "xanton-chassenon"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>XANTON-CHASSENON</b>, FR 4 / car. Silent lum <a href="timeline.html#DC338037">6/1937 #1271</a>  
+</pre>
+
+
+## <a name="word_69062">Word: "xaqdoi"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+s://www.reddit.com/r/UFOs/comments/<b>xaqdoi</b>/luiselizondodescribesacrazyusoenc <a href="timeline_part5.html#10EDC7F8">9/2022 #45768</a>  
+</pre>
+
+
+## <a name="word_69063">Word: "xavier"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+14, and their friend Kátia Andrade <b>Xavier</b>, 22, are crossing a vacant lot at <a href="timeline_part5.html#EBBC7B8D">1/20/1996 #42695</a>  
+n the night sky. One of them named <b>Xavier</b> Garza takes a blurry video of a r <a href="timeline_part5.html#2EE8C909">7/5/2012 #45347</a>  
+</pre>
+
+
+## <a name="word_69064">Word: "xawc5f_ur08"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ilitary circles.  https://youtu.be/<b>XAwc5F_UR08</b>?t=3586   https://www.amazon. <a href="timeline_part5.html#B42D7D25">7/7/2007 #45037</a>  
+</pre>
+
+
+## <a name="word_69065">Word: "xb-35"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+Edwards AFB A four-engine Northrop <b>XB-35</b> flying wing bomber makes its first <a href="timeline.html#3B51EAD8">6/25/1946 #2015</a>  
+         Jack Northrop grounds the <b>XB-35</b>, which has suffered gearbox and pr <a href="timeline.html#23CFDBE2">9/11/1946 #2176</a>  
+hrop delivers a second four-engine <b>XB-35</b> flying wing aircraft to Muroc AFB  <a href="timeline.html#270D36D9">6/26/1947 #2419</a>  
+</pre>
+
+
+## <a name="word_69066">Word: "xb-70"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+d of 2,020 mph in a North American <b>XB-70</b> Valkyrie at Edwards AFB, Californi <a href="timeline_part3.html#759877E7">1/12/1966 #19831</a>  
+aft collides with a North American <b>XB-70</b> Valkyrie. At an altitude of about  <a href="timeline_part3.html#BA179A35">6/8/1966 #20544</a>  
+F-104 drifts into contact with the <b>XB-70</b>’s right wingtip. The F-104 flips o <a href="timeline_part3.html#BA179A35">6/8/1966 #20544</a>  
+verted, passes over the top of the <b>XB-70</b>, striking both its vertical stabil <a href="timeline_part3.html#BA179A35">6/8/1966 #20544</a>  
+</pre>
+
+
+## <a name="word_69067">Word: "xc5555"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>XC5555</b> NORTHEAST / CHO-DO ISLAND, NORTH  <a href="timeline_part2.html#7A123104">2/10/1953 #8658</a>  
+</pre>
+
+
+## <a name="word_69068">Word: "xe2838"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+               SOUTH / ANTUNG, CH (<b>XE2838</b>). B29 hit / NK searchlights. 10'  <a href="timeline_part2.html#1B6AFEC4">2/24/1952 #5927</a>  
+</pre>
+
+
+## <a name="word_69069">Word: "xefi"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+announcer at Mexican radio station <b>XEFI</b>, a man named Duran, reported the he <a href="timeline.html#4E580A6B">7/7/1947 #2943</a>  
+</pre>
+
+
+## <a name="word_69070">Word: "xenia"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>Xenia</b>, OH Saw a round 1 ft object at 1,5 <a href="timeline.html#8AA56661">10/20/1947 #3462</a>  
+                            Dayton–<b>Xenia</b> Road Dayton, Ohio 10:15 p.m. Debbi <a href="timeline_part5.html#4F1B4CD1">3/25/1980 #35241</a>  
+ustafson are driving on the Dayton–<b>Xenia</b> Road three miles east of Dayton, O <a href="timeline_part5.html#4F1B4CD1">3/25/1980 #35241</a>  
+</pre>
+
+
+## <a name="word_69071">Word: "xeno"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+n a flying suit who calls himself “<b>Xeno</b>” and gives Padrick a tour of the sh <a href="timeline_part3.html#00240472">1/30/1965 #18784</a>  
+</pre>
+
+
+## <a name="word_69072">Word: "xenon-133"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ased and an even greater amount of <b>xenon-133</b>. The radiation is distributed  <a href="timeline.html#566E82F0">12/2/1949 #4431</a>  
+</pre>
+
+
+## <a name="word_69073">Word: "xf5u"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+project the Flying Flapjack Vought <b>XF5U</b>. The story is apparently disinforma <a href="timeline_part2.html#05243151">3/27/1950 #4741</a>  
+</pre>
+
+
+## <a name="word_69074">Word: "xfast"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+nk. Back up and going quickly west <b>xfast</b>.                                   <a href="timeline_part2.html#ED48674B">1/16/1956 #12662</a>  
+</pre>
+
+
+## <a name="word_69075">Word: "xfua5zqv"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+83175cca190   https://pastebin.com/<b>xFuA5ZQv</b>                                 <a href="timeline_part5.html#D61AAB55">4/2001 #44155</a>  
+</pre>
+
+
+## <a name="word_69076">Word: "xi"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+in diameter) passed a RAF Spitfire <b>XI</b> fighter from the 541th Squadron at 34 <a href="timeline.html#B26F67F8">3/26/1945 #1831</a>  
+    The two astrononauts on Gemini <b>XI</b>, Dick Gordon and Pete Conrad, during  <a href="timeline_part3.html#269D347F">9/13/1966 #20881</a>  
+near a factory located between Lan <b>Xi</b> and the Xim An River in Zhejiang prov <a href="timeline_part4.html#2C359C6D">12/13/1979 #35080</a>  
+                                   <b>Xi</b>’an University, Shanxi, China 10:00 p. <a href="timeline_part5.html#E604045A">6/5/1981 #35952</a>  
+ing Shiliang and other students at <b>Xi</b>’an University, Shanxi, China, see a l <a href="timeline_part5.html#E604045A">6/5/1981 #35952</a>  
+the following: “STAC Reports (I to <b>XI</b>) describe the fall, collection, analy <a href="timeline_part5.html#A143C13A">3/11/1998 #43532</a>  
+of the original STAC Reports (I to <b>XI</b>) that any attempt to follow the path  <a href="timeline_part5.html#A143C13A">3/11/1998 #43532</a>  
+</pre>
+
+
+## <a name="word_69077">Word: "xi'an"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>XI'AN</b>, SHAANXI, CH Hundreds / observer(s <a href="timeline_part4.html#40CD02B7">9/1970 #25820</a>  
+                            WEST / <b>XI'AN</b>, SHAANXI, CH Many observer(s). Sau <a href="timeline_part4.html#B3FAAE26">11/26/1976 #31575</a>  
+                                   <b>XI'AN</b>, SHAANXI, CH Several observer(s).  <a href="timeline_part5.html#5701638D">11/15/1980 #35641</a>  
+                                   <b>XI'AN</b> UNIVERSITY, SHAANXI, CH Luminous o <a href="timeline_part5.html#B5EB6A3B">6/5/1981 #35951</a>  
+                                   <b>XI'AN</b>, SHAANXI, CH 1 observer. Red-glowi <a href="timeline_part5.html#D6255BDE">6/11/1981 #35962</a>  
+</pre>
+
+
+## <a name="word_69078">Word: "xiamen"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+HENGDU, SICHUAN GOING QUICKLY [TO] <b>XIAMEN</b>, CH Saucer near airliner. Liner d <a href="timeline_part5.html#AEED56FC">5/17/1991 #40065</a>  
+</pre>
+
+
+## <a name="word_69079">Word: "xian"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+  A farmer named Ju Tan in Song-Zi <b>Xian</b> Couny, China came upon a misty whit <a href="timeline.html#DF7E01D8">5/8/1880 #233</a>  
+                             QUING <b>XIAN</b> EAST / TIANJIN, CHINA Several obser <a href="timeline.html#7B24A7AB">9/1943 #1522</a>  
+                               CAO <b>XIAN</b>, SHANDONG, CH 50+observer(s). Hat s <a href="timeline_part4.html#B056ABAA">9/5/1971 #26320</a>  
+                                JI <b>XIAN</b>, HENAN, CH 10+observer(s). Big sile <a href="timeline_part4.html#F79BFCE8">9/18/1971 #26342</a>  
+                    NORTHWEST / YU <b>XIAN</b>, HENAN, CH 2 separate Army squads c <a href="timeline_part4.html#236C182F">10/4/1971 #26406</a>  
+                           GUCHENG <b>XIAN</b>, HUBEI, CH Many observer(s). Flying <a href="timeline_part4.html#5D0D4ACE">11/1976 (approximate) #31514</a>  
+</pre>
+
+
+## <a name="word_69080">Word: "xiangshan"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                            WEST / <b>XIANGSHAN</b>, CH Cone rises point up from m <a href="timeline_part5.html#678BB46C">12/14/1980 #35713</a>  
+</pre>
+
+
+## <a name="word_69081">Word: "xianyang"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>XIANYANG</b>, CH Several observer(s). Washpa <a href="timeline_part4.html#6EC8056B">11/1978 (approximate) #33906</a>  
+</pre>
+
+
+## <a name="word_69082">Word: "xiaoshan"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                          Hangzhou <b>Xiaoshan</b> International Airport Hangzhou, <a href="timeline_part5.html#4EE9EBE5">7/7/2010 #45286</a>  
+FO is seen hovering above Hangzhou <b>Xiaoshan</b> International Airport near Hang <a href="timeline_part5.html#4EE9EBE5">7/7/2010 #45286</a>  
+</pre>
+
+
+## <a name="word_69083">Word: "xigaze"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>XIGAZE</b>, TIBET 1 observer. Fast silver co <a href="timeline_part4.html#96414B2E">8/1976 #31213</a>  
+</pre>
+
+
+## <a name="word_69084">Word: "xii"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+t. Col. Leavitt Corning Jr. of the <b>XII</b> Tactical Air Command sends a secret  <a href="timeline.html#A58EE8CD">1/16/1945 #1757</a>  
+long in a string toward NW. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline.html#AC50F583">6/23/1947 #2374</a>  
+ moved across the wind [UFOE, VII, <b>XII</b>] (NICAP: 08 - Photographic Cases)    <a href="timeline.html#C91C2982">7/4/1947 #2649</a>  
+light, shot upwards out of sight. [<b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline.html#C1794B20">12/8/1947 #3498</a>  
+pward at ''terrific speed." [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline.html#B453CA6F">7/4/1948 #3697</a>  
+isc hovered over city, sped away. [<b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#8075367E">3/10/1950 #4606</a>  
+ed, sped away when car approached [<b>XII</b>] (NICAP: 02 - Close Encounters)      <a href="timeline_part2.html#219239FE">6/30/1950 #5026</a>  
+portholes" speed towards Ontario. [<b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#E6456392">11/7/1951 #5770</a>  
+thers reported oval object. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#057524A9">8/1/1952 #7401</a>  
+served in searchlight beam. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#22846A51">9/9/1952 #7884</a>  
+ow overhead; cattle bolted. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#F6C29AEE">9/16/1952 #7959</a>  
+isc-shaped UFO with "dome". [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#EA050AB2">10/11/1952 #8117</a>  
+e to refer everything to Pope Pius <b>XII</b>, who decided to found the S.I.V with <a href="timeline_part2.html#B14E2CE3">2/19/1954 (approximate) #9557</a>  
+ accelerated and shot away. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#A26277DE">5/30/1954 #9845</a>  
+sc with apparent portholes. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#BC46B932">7/28/1954 #10058</a>  
+ff and moved into distance. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#20C46823">9/20/1954 #10368</a>  
+cs oscillating in formation.[UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#DF9D055F">Fall 1954 #10414</a>  
+ blue "portholes" observed. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#2A942C25">11/5/1954 #11576</a>  
+s" at front, sped overhead. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#2752AEF5">12/20/1954 #11847</a>  
+ made sharp turn, ascended. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#BE68C299">4/22/1955 #12099</a>  
+ouds as an aircraft neared. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#3889AEF6">6/17/1955 #12203</a>  
+ration when UFO left. [UFOE, VIII, <b>XII</b>] (NICAP: 03 - EME Cases)             <a href="timeline_part2.html#08F77F84">6/26/1955 #12214</a>  
+ged upward, then sped away. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#DDD2618A">7/9/1955 #12245</a>  
+ouds as an aircraft neared. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#F423AE68">7/17/1955 #12264</a>  
+way as airliner approached. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#46B6F681">7/17/1955 #12265</a>  
+ove glider then speed away. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#36A0DC3D">7/26/1955 #12288</a>  
+ed ascending at high speed. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#99C743F6">8/6/1955 #12336</a>  
+ned sideways and shot away. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#9F9A0B67">8/21/1955 #12384</a>  
+object through a telescope. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#6CB5F9CC">8/28/1955 #12413</a>  
+ly over car on lonely road. [UFOE, <b>XII</b>] (NICAP: 02 - Close Encounters)      <a href="timeline_part2.html#A487D5C6">10/28/1955 #12527</a>  
+ights, moving slowly south. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#A567A743">12/6/1955 #12599</a>  
+ object hovered, sped away. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#0A353540">12/29/1955 #12622</a>  
+of light visible on bottom. [UFOE, <b>XII</b>] (NICAP: 02 - Close Encounters)      <a href="timeline_part2.html#FFE6B3AC">1/17/1956 #12664</a>  
+ object hovered, sped away. (UFOE, <b>XII</b>) (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#79D57137">6/27/1956 #12925</a>  
+ object hovered, sped away. (UFOE, <b>XII</b>) (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#8A28575B">7/19/1956 #12987</a>  
+ke markings became visible. (UFOE, <b>XII</b>) (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#2414B746">8/19/1956 #13099</a>  
+ough semi-circle formation. (UFOE, <b>XII</b>) (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#CB6EA02C">8/20/1956 #13103</a>  
+, through searchlight beam. (UFOE, <b>XII</b>) (NICAP: 02 - Close Encounters)      <a href="timeline_part2.html#F029186A">11/1956 #13301</a>  
+, confirmed sighting. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#F484B521">2/13/1957 #13501</a>  
+lescope in bright daylight. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#F7689596">6/15/1957 #13729</a>  
+ wobbling vertical descent. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#D75FB3BE">7/1/1957 #13770</a>  
+ green lights like windows. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#33D976E2">7/1/1957 #13771</a>  
+r second consecutive night. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#4E593D37">10/7/1957 #14068</a>  
+ UK Disc traveling on edge. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#D869353B">10/23/1957 #14149</a>  
+tical UFO with "portholes." [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#AE24F3A0">12/16/1957 #14734</a>  
+o "porthole" like markings. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#6F632348">2/2/1958 #14865</a>  
+cended hovered, moved away. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#BDE893E5">3/20/1958 #14943</a>  
+ of "portholes or windows." [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#1269DACE">4/2/1958 #14958</a>  
+ed in rapid vertical climb. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#309B1B96">4/4/1958 #14963</a>  
+ object zigzagged overhead. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#B74ECA0D">6/4/1958 #15080</a>  
+s" followed jets, hovered. [NICAP, <b>XII</b>] (NICAP: 11 - Aviation Cases)        <a href="timeline_part2.html#1E0745B4">8/17/1958 #15207</a>  
+g light suddenly sped away. [UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#FDE2FC4E">11/5/1958 #15428</a>  
+ remained stationary. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#2014CEAB">1/1/1959 #15525</a>  
+O hovered, sped away. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#40900C59">5/14/1959 #15731</a>  
+d, dove out of sight. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#28970D94">6/3/1959 #15759</a>  
+took off straight up. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#82E4D24A">8/24/1959 #15935</a>  
+sighted by architect. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#DC1B1A32">5/4/1960 #16251</a>  
+UFO with "portholes." [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#A3A23017">5/18/1960 #16283</a>  
+cended and sped away. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#C218369A">7/1/1960 #16323</a>  
+any police witnesses. (NICAP UFOE, <b>XII</b>) (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#53AFC98A">8/13/1960 #16377</a>  
+, hovered, sped away. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#7BCB26FB">4/9/1961 #16645</a>  
+ff as car approached. [NICAP UFOE, <b>XII</b>] (NICAP: 02 - Close Encounters)      <a href="timeline_part3.html#3C8AE649">5/1961 #16671</a>  
+kyquakes" were heard. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#034D28C9">5/19/1961 #16688</a>  
+UFO with "portholes." [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#3E71387C">5/25/1961 #16700</a>  
+ring in the distance. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#C940D3B2">9/13/1961 #16832</a>  
+ different observers. [NICAP UFOE, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#85A56C4E">10/12/1961 #16906</a>  
+re "windows." [NICAP UFO Evidence, <b>XII</b>] (NICAP: 01 - Distant Encounters)    <a href="timeline_part3.html#A0ACB4D3">4/24/1962 #17126</a>  
+. (NICAP UFO Evidence, See Section <b>XII</b>; Argentine Chronology.) (NICAP: 11 - <a href="timeline_part3.html#C5B01BF5">5/1962 #17144</a>  
+avy pilot. [NICAP UFO Evidence, X, <b>XII</b>] (NICAP: 11 - Aviation Cases)        <a href="timeline_part3.html#37864151">9/8/1962 #17390</a>  
+s who spoke with him (UFOE Section <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part3.html#2D189AB0">4/24/1964 #18192</a>  
+traces found at site (UFOE Section <b>XII</b>). (NICAP: 06 - Trace Cases) (NICAP:  <a href="timeline_part3.html#F72D70DD">7/16/1964 #18415</a>  
+ed out of sight (UFOE II, Section, <b>XII</b>). (NICAP: 02 - Close Encounters)     <a href="timeline_part3.html#D09256AC">7/20/1965 #19148</a>  
+ from disc with dome (sections IX, <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part3.html#E9E4EB02">8/24/1967 #22911</a>  
+escended, entered car. See Section <b>XII</b> (E) car (NICAP: 03 - EME Cases)      <a href="timeline_part3.html#53D1EB98">11/2/1967 #23387</a>  
+de repeated passes at car (Section <b>XII</b>, Vol. II, The UFO Evidence). (NICAP: <a href="timeline_part3.html#33865D05">1/20/1968 #23680</a>  
+ject paced car, sped away (Section <b>XII</b>). 69Unknown Paris TN 1 Witness was d <a href="timeline_part3.html#84DDAEDC">12/8/1968 #24751</a>  
+in upper portion (UFOE II, Section <b>XII</b>). (NICAP: 02 - Close Encounters) (NI <a href="timeline_part4.html#509A20FF">1/1/1970 #25530</a>  
+ (Humcat 1970-4 ; UFOE II, Section <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part4.html#61E95698">1/7/1970 #25538</a>  
+r, humanoid encounter. See Section <b>XII</b> (R) car (NICAP: 03 - EME Cases)      <a href="timeline_part4.html#9FE596D9">9/3/1973 #27752</a>  
+ase. No details. (UFOE II, Section <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part4.html#EA0B39C3">9/27/1973 #27877</a>  
+arent "bell jar" (UFOE II, Section <b>XII</b>) (NICAP: 07 - Entity Cases)          <a href="timeline_part4.html#15D1F29E">10/12/1973 #28015</a>  
+res inside (UFOE II, Section VIII, <b>XII</b>) (NICAP: 07 - Entity Cases)          <a href="timeline_part4.html#CA74A880">10/16/1973 #28080</a>  
+d, creature encounter. See Section <b>XII</b> (E,L) car (NICAP: 03 - EME Cases)    <a href="timeline_part4.html#B1850160">10/17/1973 #28129</a>  
+ar displaced off road. See Section <b>XII</b> (L) car (NICAP: 03 - EME Cases)      <a href="timeline_part4.html#09604DD5">10/19/1973 #28193</a>  
+ bright red eyes (UFOE II, Section <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part4.html#F4BD3103">11/7/1973 #28383</a>  
+visible inside object. See Section <b>XII</b> (E) truck (NICAP: 03 - EME Cases)    <a href="timeline_part4.html#A5CFEB9B">11/19/1973 #28448</a>  
+k, humanoid encounter. See Section <b>XII</b> (E,R,L) car (NICAP: 03 - EME Cases)  <a href="timeline_part4.html#29BE8DE1">1/7/1974 #28658</a>  
+geri, Ref. 5, Reference 1, Section <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part4.html#5A2191C0">4/16/1974 #29037</a>  
+ICAP UFO Evidence II, Sections IX, <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part4.html#677488EE">2/14/1975 #29810</a>  
+noids visible in dome. See Section <b>XII</b> (E,L) truck (NICAP: 03 - EME Cases)  <a href="timeline_part4.html#EC8AFFB4">5/3/1975 #30021</a>  
+te (NICAP UFO Evidence II, Section <b>XII</b>). (NICAP: 05 - Medical Incidents)    <a href="timeline_part4.html#5B120B43">7/31/1975 #30216</a>  
+ encounter (NICAP UFOE II, Section <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part4.html#02ABF9BD">2/24/1977 #31844</a>  
+ddleton, MA Humanoid case (section <b>XII</b>) (NICAP: 07 - Entity Cases)          <a href="timeline_part4.html#8B194BAD">1/9/1978 #32860</a>  
+ght from the top onto car (section <b>XII</b>). (NICAP: 02 - Close Encounters)     <a href="timeline_part4.html#4F40D108">4/2/1978 #33117</a>  
+translocation of vehicle (sections <b>XII</b>, XIII). (NICAP: 03 - EME Cases)      <a href="timeline_part4.html#A8589CCB">7/6/1978 #33343</a>  
+nter, physical traces. See Section <b>XII</b> (E,L) car (NICAP: 03 - EME Cases)    <a href="timeline_part4.html#077EB3D2">9/17/1978 #33699</a>  
+with loud explosive sound (section <b>XII</b>). (NICAP: 07 - Entity Cases)         <a href="timeline_part4.html#34EE357F">9/18/1978 #33706</a>  
+round, humanoid encounter (section <b>XII</b>). (NICAP: 04 - Animal Reactions) (NI <a href="timeline_part4.html#92221953">1/3/1979 #34286</a>  
+ through transparent dome (section <b>XII</b>). (NICAP: 02 - Close Encounters)     <a href="timeline_part4.html#5DC57B1A">8/4/1979 #34711</a>  
+owled as if his ears hurt (section <b>XII</b>). (NICAP: 04 - Animal Reactions)     <a href="timeline_part5.html#194CF525">3/8/1980 #35203</a>  
+car, E-M effects on radio (section <b>XII</b>). (NICAP: 03 - EME Cases)            <a href="timeline_part5.html#69145685">5/7/1980 #35312</a>  
+lume II, The UFO Evidence, Section <b>XII</b>). (NICAP: 02 - Close Encounters)     <a href="timeline_part5.html#A6905FD5">12/19/1981 #36266</a>  
+r car, humming sound (sections IX, <b>XII</b>). (NICAP: 02 - Close Encounters)     <a href="timeline_part5.html#89969D46">11/19/1982 #36686</a>  
+manoids visible in object (section <b>XII</b>). (NICAP: 02 - Close Encounters)     <a href="timeline_part5.html#3F9E66EA">9/1/1987 #38272</a>  
+Car dragged toward object (section <b>XII</b>). (NICAP: 03 - EME Cases)            <a href="timeline_part5.html#4567A9EE">12/14/1987 #38362</a>  
+ entities reported (sections VIII, <b>XII</b>); geodesic engineer saw maneuvering  <a href="timeline_part5.html#6BA82172">9/14/1989 #39100</a>  
+ entities reported (sections VIII, <b>XII</b>); geodesic engineer saw maneuvering  <a href="timeline_part5.html#6BA82172">9/14/1989 #39100</a>  
+ect hovering over a field (section <b>XII</b>). (NICAP: 02 - Close Encounters)     <a href="timeline_part5.html#86737F21">3/27/1990 #39488</a>  
+</pre>
+
+
+## <a name="word_69085">Word: "xiii"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+xual encounter case (UFOE, section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part2.html#D4AFD0CA">10/15/1957 #14116</a>  
+r, 1979, 1982, 1990, 1995, section <b>XIII</b>). (NICAP: 06 - Trace Cases)         <a href="timeline_part3.html#77C377BB">1/25/1967 #21381</a>  
+y loss and abduction. (See section <b>XIII</b> bibliography, Fowler, 1990a.) (NICA <a href="timeline_part3.html#F39FF603">8/26/1967 #22931</a>  
+y loss and abduction. (See section <b>XIII</b> bibliography, Fowler, 1990a.)       <a href="timeline_part3.html#9740ABEB">8/26/1967 #22934</a>  
+call of event years later (Section <b>XIII</b>, Vol. II, The UFO Evidence). (NICAP <a href="timeline_part3.html#B9C3A615">8/7/1968 #24304</a>  
+ types of beings (UFOE II, Section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part4.html#3FB8B20A">11/26/1972 #27144</a>  
+nter, abduction. (UFOE II, Section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part4.html#A743FA18">10/28/1973 #28308</a>  
+on abduction (Reference 1, Section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part4.html#0FF46782">10/25/1974 #29555</a>  
+duction case (Reference 1, Section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part4.html#3BEBD805">10/27/1974 #29559</a>  
+iological effects (Ref. 1, Section <b>XIII</b>). (NICAP: 02 - Close Encounters)    <a href="timeline_part4.html#AD6E99E7">1/6/1976 #30768</a>  
+s, apparent abduction. See Section <b>XIII</b> (E,L) car (NICAP: 03 - EME Cases)   <a href="timeline_part4.html#FC720C2A">6/11/1976 #31099</a>  
+g time, abduction (Ref. 1, Section <b>XIII</b>). (NICAP: 03 - EME Cases)           <a href="timeline_part4.html#B676A94D">6/11/1976 #31100</a>  
+. Herrmann abduction case (section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part4.html#F87FC71F">3/18/1978 #33052</a>  
+location of vehicle (sections XII, <b>XIII</b>). (NICAP: 03 - EME Cases)           <a href="timeline_part4.html#A8589CCB">7/6/1978 #33343</a>  
+xamined on metallic table (section <b>XIII</b>). (NICAP: 02 - Close Encounters)    <a href="timeline_part5.html#9E196830">4/2/1980 #35247</a>  
+ room with "fog" on floor (section <b>XIII</b>). (NICAP: 03 - EME Cases) (NICAP: 0 <a href="timeline_part5.html#563328C0">8/21/1980 #35472</a>  
+ levitated; abduction. See Section <b>XIII</b> (R,L) car (NICAP: 03 - EME Cases)   <a href="timeline_part5.html#83C2ECA0">11/19/1980 #35657</a>  
+io emerged under hypnosis (section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part5.html#144BCC3E">11/28/1980 #35678</a>  
+ Strieber alien encounter (section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part5.html#02E0FB91">12/26/1985 #37736</a>  
+ngs, views inside a craft (section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part5.html#14682643">8/15/1986 #37990</a>  
+ and John, III, abduction (section <b>XIII</b>). (NICAP: 07 - Entity Cases)        <a href="timeline_part5.html#771E91F6">3/20/1988 #38515</a>  
+</pre>
+
+
+## <a name="word_69086">Word: "xiiith"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+d Low, Roach, and Hynek attend the <b>XIIIth</b> General Assembly of the Internati <a href="timeline_part3.html#CB60C6D9">8/22/1967 #22892</a>  
+</pre>
+
+
+## <a name="word_69087">Word: "xim"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ory located between Lan Xi and the <b>Xim</b> An River in Zhejiang province, China <a href="timeline_part4.html#2C359C6D">12/13/1979 #35080</a>  
+</pre>
+
+
+## <a name="word_69088">Word: "xincheng"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>Xincheng</b> district of Taiyuan, Shaanxi, C <a href="timeline_part5.html#C8E7FD5B">10/11/2010 #45301</a>  
+one and the other larger, over the <b>Xincheng</b> district of Taiyuan, Shaanxi, C <a href="timeline_part5.html#C8E7FD5B">10/11/2010 #45301</a>  
+</pre>
+
+
+## <a name="word_69089">Word: "xinganling"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>XINGANLING</b> MOUNTAINS, CHINA Location app <a href="timeline_part5.html#1A1C5EEE">6/18/1982 #36506</a>  
+</pre>
+
+
+## <a name="word_69090">Word: "xinghua"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>XINGHUA</b>, JIANGSU, CH Blue-grey cylinder/ <a href="timeline_part5.html#6772CCB2">2/26/1981 #35846</a>  
+</pre>
+
+
+## <a name="word_69091">Word: "xingu"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>Xingu</b> light airplane São José dos Campos <a href="timeline_part5.html#64955EE4">5/19/1986 #37880</a>  
+sé dos Campos Brasilia 9:00 p.m. A <b>Xingu</b> light airplane piloted by Col. Ozi <a href="timeline_part5.html#64955EE4">5/19/1986 #37880</a>  
+ey give up the chase and land. The <b>Xingu</b> makes three other attempts to land <a href="timeline_part5.html#64955EE4">5/19/1986 #37880</a>  
+sued the object in the twin-engine <b>Xingu</b> aircraft, the light blinked off ev <a href="timeline_part5.html#06B56C56">5/19/1986 #37882</a>  
+</pre>
+
+
+## <a name="word_69092">Word: "xinhua"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+China Official Chinese news agency <b>Xinhua</b> reported that an association to s <a href="timeline_part5.html#0110F469">11/24/1980 #35663</a>  
+</pre>
+
+
+## <a name="word_69093">Word: "xinhuajie"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+Shaanxi, China Sanqianglu district <b>Xinhuajie</b> district Apparel Town area pla <a href="timeline_part5.html#C8E7FD5B">10/11/2010 #45301</a>  
+e air are seen at 8:55 p.m. in the <b>Xinhuajie</b> district, at 9:01 p.m. near th <a href="timeline_part5.html#C8E7FD5B">10/11/2010 #45301</a>  
+</pre>
+
+
+## <a name="word_69094">Word: "xinjian"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                   SOUTH / JINGHE, <b>XINJIAN</b>, CH Geologists. Large perfect ov <a href="timeline_part4.html#DBFC18D6">8/1974 #29289</a>  
+                 LOCATION UNKNOWN, <b>XINJIAN</b> PROVINCE, CH Weathermen and many <a href="timeline_part4.html#E847FB7C">10/5/1976 (approximate) #31447</a>  
+</pre>
+
+
+## <a name="word_69095">Word: "xinjiang"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ canal north of the Gobi Desert in <b>Xinjiang</b> province, China on this evening <a href="timeline_part3.html#E96D09A0">4/15/1968 #23907</a>  
+China Lop Nur Nuclear Test Base in <b>Xinjiang</b> Siberia The D-21 drone makes it <a href="timeline_part3.html#73A39164">11/9/1969 #25454</a>  
+r the Lop Nur Nuclear Test Base in <b>Xinjiang</b> but strays off course into Sibe <a href="timeline_part3.html#73A39164">11/9/1969 #25454</a>  
+                         AWATI CO, <b>XINJIANG</b>, CH Several separate observer(s <a href="timeline_part4.html#51B1392F">9/20/1979 (approximate) #34903</a>  
+                            QITAI, <b>XINJIANG</b>, CH 5 observer(s). Oval ring /  <a href="timeline_part4.html#FE45F0E5">11/29/1979 #35026</a>  
+                             HAMI, <b>XINJIANG</b> 10+TV workers. Large saucer in  <a href="timeline_part5.html#680FE489">3/18/1988 #38512</a>  
+                           Ürümqi, <b>Xinjiang</b> Autonomous Province, China 11:1 <a href="timeline_part5.html#2FE92C9C">9/6/1989 #39092</a>  
+m. Tong Yuwei, a worker in Ürümqi, <b>Xinjiang</b> Autonomous Province, China, see <a href="timeline_part5.html#2FE92C9C">9/6/1989 #39092</a>  
+            Journalists in Yining, <b>Xinjiang</b>, China photographed a bright ba <a href="timeline_part5.html#2418D5B6">11/1/2002 #44429</a>  
+</pre>
+
+
+## <a name="word_69096">Word: "xinxiang"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                              NEAR <b>XINXIANG</b>, HENAN, CH Night light spirals  <a href="timeline_part4.html#DE4294A3">7/1977 #32214</a>  
+</pre>
+
+
+## <a name="word_69097">Word: "xira"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                    VILA FRANCA DE <b>XIRA</b>, PORT Group / Navy officers. Saucer <a href="timeline_part2.html#9476D2DE">11/6/1957 #14357</a>  
+</pre>
+
+
+## <a name="word_69098">Word: "xiti"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+estrial that they both knew, named <b>Xiti</b>, had been killed. Supposedly a disa <a href="timeline_part3.html#14F80342">1/15/1969 #24849</a>  
+</pre>
+
+
+## <a name="word_69099">Word: "xiv"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+c descended, hovered. (NICAP UFOE, <b>XIV</b>) (NICAP: 01 - Distant Encounters)    <a href="timeline_part2.html#DC85E0EF">7/13/1959 #15839</a>  
+licy Letter; For Commanders," Vol. <b>XIV</b>, No. 12, issued by Office of Secreta <a href="timeline_part3.html#31F2AB6E">8/15/1960 #16383</a>  
+</pre>
+
+
+## <a name="word_69100">Word: "xku8yn"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+eddit.com/r/remoteviewing/comments/<b>xku8yn</b>/ciainvestigatesanomalouseventthat <a href="timeline_part5.html#F3D3FB0E">5/1984 #37308</a>  
+</pre>
+
+
+## <a name="word_69101">Word: "xl"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ UFOs, one through theodolite. [V, <b>Xl</b> (NICAP: 01 - Distant Encounters)      <a href="timeline_part2.html#262DD764">3/13/1950 #4625</a>  
+</pre>
+
+
+## <a name="word_69102">Word: "xlr-11"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+unched rocket plane powered by the <b>XLR-11</b> liquid fuel rocket engine.        <a href="timeline_part2.html#C354611B">8/15/1951 #5607</a>  
+</pre>
+
+
+## <a name="word_69103">Word: "xmas"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+   A SWAT team witnessed a "flying <b>Xmas</b> tree" soar over the city of Memphis <a href="timeline_part4.html#A6F2A16C">5/17/1977 #32108</a>  
+</pre>
+
+
+## <a name="word_69104">Word: "xmoon"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+RSK, KAZAKH SSR Engineer. Saucer 2 <b>xMOON</b> south going north / 2 min. Vibrant <a href="timeline_part3.html#D8CB4BD3">5/17/1967 #22360</a>  
+</pre>
+
+
+## <a name="word_69105">Word: "xp-80"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+y Johnson deliver proposal for the <b>XP-80</b> jet fighter                        <a href="timeline.html#70C0086C">7/1943 #1513</a>  
+rs hand-deliver a proposal for the <b>XP-80</b> jet fighter to the Air Tactical Se <a href="timeline.html#0A903B90">7/1943 #1515</a>  
+ery Skunk Works aircraft since the <b>XP-80</b>. Past the DarkStar was something c <a href="timeline_part5.html#27ABB722">Late 1990's #43480</a>  
+</pre>
+
+
+## <a name="word_69106">Word: "xp-84"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+westerly direction. At 10:10 a.m., <b>XP-84</b> test pilot Maj. Jowell C. Wise see <a href="timeline.html#AE762C1A">7/8/1947 #3014</a>  
+</pre>
+
+
+## <a name="word_69107">Word: "xp-86"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+light of the prototype jet fighter <b>XP-86</b> flies from Muroc Dry Lake (now Edw <a href="timeline.html#B0DB17C9">10/1/1947 #3442</a>  
+</pre>
+
+
+## <a name="word_69108">Word: "xterra"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+AMP126 (white Toyota) and 4JPL825 (<b>Xterra</b> SE).  Fuller later meets Richard  <a href="timeline_part5.html#B512B998">7/2003 #44560</a>  
+</pre>
+
+
+## <a name="word_69109">Word: "xuchang"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                                   <b>XUCHANG</b>, HENAN, CH Several observer(s).  <a href="timeline_part4.html#5FAF50A7">9/25/1971 #26375</a>  
+ from across China on this day. In <b>Xuchang</b> a luminous object spiralled in a <a href="timeline_part4.html#79EBBACE">9/25/1971 #26381</a>  
+</pre>
+
+
+## <a name="word_69110">Word: "xvis"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+m USG contractors states a system “<b>XViS</b>” is being used to analyze UAP biolo <a href="timeline_part5.html#98A9D5AE">5/2/2018 #45525</a>  
+UAP contact scenarios.  Curiously, <b>XVis</b> was an actual Department of Energy  <a href="timeline_part5.html#98A9D5AE">5/2/2018 #45525</a>  
+conscious-states.html   http://www.<b>xvis</b>.org/index.php/Main_Page   https://w <a href="timeline_part5.html#98A9D5AE">5/2/2018 #45525</a>  
+https://www.sandia.gov/ccr/project/<b>xvis</b>/                                    <a href="timeline_part5.html#98A9D5AE">5/2/2018 #45525</a>  
+</pre>
+
+
+## <a name="word_69111">Word: "xw-25"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ate an accidental detonation of an <b>XW-25</b> warhead in an airplane crash. The  <a href="timeline_part2.html#C41BE69E">4/24/1957 #13615</a>  
+</pre>
+
+
+## <a name="word_69112">Word: "xx"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ box formation. Bank and maneuver. <b>XX</b> accelerations.                        <a href="timeline.html#0E9045A7">4/24/1949 #4101</a>  
+ation through the screen, on Super <b>XX</b> cut film 4-by-5-inch format. The ligh <a href="timeline_part2.html#82C504D1">7/16/1952 #6843</a>  
+</pre>
+
+
+## <a name="word_69113">Word: "xxi"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+               Gen. Curtis LeMay’s <b>XXI</b> Bomber Command’s Air Intelligence st <a href="timeline.html#125E8092">4/26/1945 #1855</a>  
+              Pacific Theatre Truk <b>XXI</b> Bomber Command Air Intelligence issu <a href="timeline.html#9C3D728D">6/9/1945 #1875</a>  
+</pre>
+
+
+## <a name="word_69114">Word: "xxii-xxiii"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ped away. (Sagan & Page, 1972, pp. <b>xxii-xxiii</b>.) (NICAP: 02 - Close Encounte <a href="timeline_part3.html#7FF926D9">9/22/1966 #20913</a>  
+</pre>
+
+
+## <a name="word_69115">Word: "xxiii"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+ a private audience with Pope John <b>XXIII</b> in Rome, Italy. The pontiff is ser <a href="timeline_part3.html#0F26F961">5/31/1963 #17774</a>  
+ith them anymore and to offer John <b>XXIII</b> a liquid substance in order to sav <a href="timeline_part3.html#0F26F961">5/31/1963 #17774</a>  
+</pre>
+
+
+## <a name="word_69116">Word: "xxsrh2qt2o4"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+950525trans.htm   https://youtu.be/<b>xXsrH2qT2O4</b>   https://books.google.com/b <a href="timeline_part5.html#2928059D">5/25/1995 #42229</a>  
+</pre>
+
+
+## <a name="word_69117">Word: "xxxx"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+GMA established as part of Project <b>xxxx</b> (name CENSURED). Top Secret project <a href="timeline_part2.html#0BC1FE75">1954 #9414</a>  
+</pre>
+
+
+## <a name="word_69118">Word: "xxxxx"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+taken in the Summer of 1953 by Mr. <b>XXXXX</b> of Tulsa, Oklahoma. According to A <a href="timeline_part2.html#1216E249">Summer 1953 #8949</a>  
+ts shining through the object. Mr. <b>XXXXX</b> had sighted the same object on 21  <a href="timeline_part2.html#6189E068">6/21/1954 #9915</a>  
+e, from intelligence sources, that <b>xxxxx</b> believes that such phenomena exist <a href="timeline_part5.html#5FC083C0">10/18/1993 #41246</a>  
+</pre>
+
+
+## <a name="word_69119">Word: "xxxxxx"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                           Project <b>xxxxxx</b> (name censured) established by Pr <a href="timeline_part2.html#BA00A2BE">1953 #8471</a>  
+                           Project <b>xxxxxx</b> (name censured) continues after P <a href="timeline_part3.html#618370CF">12/1969 #25482</a>  
+</pre>
+
+
+## <a name="word_69120">Word: "xxxxxxx"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+and 0200 hours July 28, 1952, Mrs. <b>XXXXXXX</b> observed a white light immediate <a href="timeline_part2.html#E01EB8AF">7/27/1952 #7210</a>  
+ter W.S. Churchill to Secretary of <b>xxxxxxx</b> Air Ministry stating: What does  <a href="timeline_part2.html#F64C1F58">7/28/1952 #7223</a>  
+n independent project from Project <b>xxxxxxx</b>.                                 <a href="timeline_part4.html#CBDA9982">1976 #30741</a>  
+</pre>
+
+
+## <a name="word_69121">Word: "xxxxxxxx"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+                           Project <b>xxxxxxxx</b> (name censured) established to  <a href="timeline_part3.html#798D5FED">1968 #23620</a>  
+</pre>
+
+
+## <a name="word_69122">Word: "xxxxxxxxxxx"</a> <a href="#Top">(Back to Top)</a>
+<pre>
+at an informal group exists in the <b>xxxxxxxxxxx</b> community and it is possible <a href="timeline_part5.html#5FC083C0">10/18/1993 #41246</a>  
+</pre>
+
+
