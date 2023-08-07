@@ -85,7 +85,15 @@ struct markdown
 #if 0
         bufprintf(ob, "blockquote: \"%.*s\" ", (int)text->size, text->data);
 #endif
-        panic("unsupported markdown feature");
+        // TODO: unsupported block quotes (here for when we're converting to plain text)
+        //panic("unsupported markdown feature");
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
     }
 
     static void blockhtml(struct buf* ob, struct buf* text, void* opaque)
@@ -111,12 +119,30 @@ struct markdown
 
     static void list(struct buf* ob, struct buf* text, int flags, void* opaque)
     {
-        panic("unsupported markdown feature");
+        // TODO: not fully supporting lists (here for when we're converting to plain text)
+        //panic("unsupported markdown feature");
+
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
     }
 
     static void listitem(struct buf* ob, struct buf* text, int flags, void* opaque)
     {
-        panic("unsupported markdown feature");
+        // TODO: not fully supporting lists (here for when we're converting to plain text)
+        //panic("unsupported markdown feature");
+
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
     }
 
     static void paragraph(struct buf* ob, struct buf* text, void* opaque)
@@ -138,7 +164,9 @@ struct markdown
 #if 0
         bufprintf(ob, "table: \"%.*s\" \"%.*s\" ", (int)head_row->size, head_row->data, (int)rows->size, rows->data);
 #endif
-        panic("unsupported markdown feature");
+        //panic("unsupported markdown feature");
+
+        // TODO: not fully supported, just for plaintext conversion
     }
 
     static void table_cell(struct buf* ob, struct buf* text, int flags, void* opaque)
@@ -146,7 +174,16 @@ struct markdown
 #if 0
         bufprintf(ob, "table_cell: \"%.*s\" %i ", (int)text->size, text->data, flags);
 #endif
-        panic("unsupported markdown feature");
+        //panic("unsupported markdown feature");
+
+        // TODO: not fully supported, just for plaintext conversion
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
     }
 
     static void table_row(struct buf* ob, struct buf* cells, int flags, void* opaque)
@@ -154,7 +191,8 @@ struct markdown
 #if 0
         bufprintf(ob, "table_row: \"%.*s\" %i ", (int)cells->size, cells->data, flags);
 #endif
-        panic("unsupported markdown feature");
+        //panic("unsupported markdown feature");
+        // TODO: not fully supported, just for plaintext conversion
     }
 
     static int autolink(struct buf* ob, struct buf* link, enum mkd_autolink type, void* opaque)

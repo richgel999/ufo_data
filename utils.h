@@ -111,8 +111,22 @@ inline char utolower(char c)
     return c;
 }
 
+inline uint8_t utolower(uint8_t c)
+{
+    if ((c >= 'A') && (c <= 'Z'))
+        return (c - 'A') + 'a';
+    return c;
+}
+
 // like toupper() but doesn't assert on negative values and doesn't factor in locale
 inline char utoupper(char c)
+{
+    if ((c >= 'a') && (c <= 'z'))
+        return (c - 'a') + 'A';
+    return c;
+}
+
+inline uint8_t utoupper(uint8_t c)
 {
     if ((c >= 'a') && (c <= 'z'))
         return (c - 'a') + 'A';
@@ -125,8 +139,18 @@ inline bool uisdigit(char c)
     return (c >= '0') && (c <= '9');
 }
 
+inline bool uisdigit(uint8_t c)
+{
+    return (c >= '0') && (c <= '9');
+}
+
 // like isupper() but doesn't assert on negative values and doesn't factor in locale
 inline bool uisupper(char c)
+{
+    return (c >= 'A') && (c <= 'Z');
+}
+
+inline bool uisupper(uint8_t c)
 {
     return (c >= 'A') && (c <= 'Z');
 }
@@ -137,8 +161,18 @@ inline bool uislower(char c)
     return (c >= 'a') && (c <= 'z');
 }
 
+inline bool uislower(uint8_t c)
+{
+    return (c >= 'a') && (c <= 'z');
+}
+
 // like isalpha() but doesn't assert on negative values and doesn't factor in locale
 inline bool uisalpha(char c)
+{
+    return uisupper(c) || uislower(c);
+}
+
+inline bool uisalpha(uint8_t c)
 {
     return uisupper(c) || uislower(c);
 }
@@ -158,14 +192,14 @@ inline int convert_hex_digit(int d)
 inline std::string string_lower(std::string str)
 {
     for (char& c : str)
-        c = utolower(c);
+        c = (char)utolower((uint8_t)c);
     return str;
 }
 
 inline std::string string_upper(std::string str)
 {
     for (char& c : str)
-        c = utoupper(c);
+        c = (char)utoupper((uint8_t)c);
     return str;
 }
 
@@ -233,3 +267,7 @@ double rad2deg(double rad);
 double geo_distance(double lat1, double lon1, double lat2, double lon2, int unit = 'M');
 
 std::string remove_bom(std::string str);
+
+int get_next_utf8_code_point_len(const uint8_t* pStr);
+void get_string_words(const std::string& str, string_vec& words, uint_vec* pOffsets_vec);
+void get_utf8_code_point_offsets(const char* pStr, int_vec& offsets);

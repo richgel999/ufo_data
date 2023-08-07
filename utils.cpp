@@ -1145,3 +1145,173 @@ std::string remove_bom(std::string str)
 
     return str;
 }
+
+int get_next_utf8_code_point_len(const uint8_t* pStr) 
+{
+    if (pStr == nullptr || *pStr == 0) 
+    {
+        // Return 0 if the input is null or points to a null terminator
+        return 0; 
+    }
+
+    const uint8_t firstByte = *pStr;
+
+    if ((firstByte & 0x80) == 0) 
+    { 
+        // Starts with 0, ASCII character
+        return 1;
+    }
+    else if ((firstByte & 0xE0) == 0xC0) 
+    { 
+        // Starts with 110
+        return 2;
+    }
+    else if ((firstByte & 0xF0) == 0xE0) 
+    { 
+        // Starts with 1110
+        return 3;
+    }
+    else if ((firstByte & 0xF8) == 0xF0) 
+    { 
+        // Starts with 11110
+        return 4;
+    }
+    else 
+    {
+        // Invalid UTF-8 byte sequence
+        return -1;
+    }
+}
+
+void get_string_words(
+    const std::string& str,
+    string_vec& words,
+    uint_vec* pOffsets_vec)
+{
+    const uint8_t* pStr = (const uint8_t *)str.c_str();
+
+    words.resize(0);
+    if (pOffsets_vec)
+        pOffsets_vec->resize(0);
+
+    std::string cur_token;
+
+    const std::string whitespace(" \t\n\r,;:.!?()[]*/\"");
+    
+    int word_start_ofs = -1;
+    
+    uint32_t cur_ofs = 0;
+    while ((cur_ofs < str.size()) && (pStr[cur_ofs]))
+    {
+        int l = get_next_utf8_code_point_len(pStr + cur_ofs);
+        const uint8_t c = pStr[cur_ofs];
+
+        if (l <= 0)
+        {
+            assert(0);
+            l = 1;
+        }
+
+        bool is_whitespace = (whitespace.find_first_of(c) != std::string::npos);
+
+        if ((l == 2) && (c == 0xc2))
+        {
+            // NO-BREAK SPACE
+            if (pStr[cur_ofs + 1] == 0xa0)
+                is_whitespace = true;
+        }
+
+        if ((l == 2) && (c == 0xCA))
+        {
+            // single left quote
+            if (pStr[cur_ofs + 1] == 0xBB)
+                is_whitespace = true;
+        }
+
+        if ((l == 3) && (c == 0xE2) && (pStr[cur_ofs + 1] == 0x80))
+        {
+            // dash
+            if (pStr[cur_ofs + 2] == 0x93)
+                is_whitespace = true;
+            // dash
+            if (pStr[cur_ofs + 2] == 0x94)
+                is_whitespace = true;
+            // left quote
+            else if (pStr[cur_ofs + 2] == 0x9C)
+                is_whitespace = true;
+            // right quote
+            else if (pStr[cur_ofs + 2] == 0x9D)
+                is_whitespace = true;
+            // ellipsis (three dots)
+            else if (pStr[cur_ofs + 2] == 0xA)
+                is_whitespace = true;
+            // ellipsis (three dots)
+            else if (pStr[cur_ofs + 2] == 0xA6)
+                is_whitespace = true;
+            // long dash
+            else if (pStr[cur_ofs + 2] == 9)
+                is_whitespace = true;
+            // left single quote
+            else if (pStr[cur_ofs + 2] == 0x98)
+                is_whitespace = true;
+            // right single quote
+            else if (pStr[cur_ofs + 2] == 0x99)
+                is_whitespace = true;
+            // right double quote
+            else if (pStr[cur_ofs + 2] == 0x9D)
+                is_whitespace = true;
+        }
+        
+        if (is_whitespace)
+        {
+            if (cur_token.size())
+            {
+                words.push_back(cur_token);
+                if (pOffsets_vec)
+                    pOffsets_vec->push_back(word_start_ofs);
+
+                cur_token.clear();
+                word_start_ofs = -1;
+            }
+        }
+        else
+        {
+            if (word_start_ofs < 0)
+                word_start_ofs = cur_ofs;
+
+            if (l == 1)
+            {
+                cur_token.push_back(utolower(c));
+            }
+            else
+            {
+                for (int i = 0; i < l; i++)
+                    cur_token.push_back(pStr[cur_ofs + i]);
+            }
+        }
+                
+        cur_ofs += l;
+    }
+
+    if (cur_token.size())
+    {
+        words.push_back(cur_token);
+
+        if (pOffsets_vec)
+            pOffsets_vec->push_back(word_start_ofs);
+    }
+}
+
+void get_utf8_code_point_offsets(const char* pStr, int_vec& offsets)
+{
+    uint32_t cur_ofs = 0;
+    
+    offsets.resize(0);
+
+    while (pStr[cur_ofs])
+    {
+        offsets.push_back(cur_ofs);
+
+        cur_ofs += std::max<int>(1, get_next_utf8_code_point_len((const uint8_t*)pStr + cur_ofs));
+    }
+}

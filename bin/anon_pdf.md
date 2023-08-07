@@ -8,7 +8,7 @@ This file is either in the Public Domain, or uses the [Unlicense](https://web.ar
 
 * [https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/NINTCHDBPICT000652591599.jpg?strip=all&w=719](https://www.the-sun.com/wp-content/uploads/sites/6/2021/05/NINTCHDBPICT000652591599.jpg?strip=all&w=719)
 
-**(PUBLIC DOMAIN)** - **8 July 1947** — Another affidavit from Arthur R. McQuiddy, the editor of the Roswell Morning Dispatch, claims Lt. Walter Haut delivered a press release to McQuiddy declaring the recovery of a “flying saucer.” McQuiddy claims Roswell Army Air Field next calls him and asks him to change the story to a “weather balloon” instead of a flying saucer.
+**(PUBLIC DOMAIN)** - **8 July 1947** — Another affidavit from Arthur R. McQuiddy, the editor of the _Roswell Morning Dispatch_, claims Lt. Walter Haut delivered a press release to McQuiddy declaring the recovery of a “flying saucer.” McQuiddy claims Roswell Army Air Field next calls him and asks him to change the story to a “weather balloon” instead of a flying saucer.
 
 *   [https://ufologie.patrickgross.org/rw/w/artmcquiddy.htm](https://ufologie.patrickgross.org/rw/w/artmcquiddy.htm)
 
@@ -24,7 +24,7 @@ DuBose states he requested Roswell Army Air Field to send the material to Fort W
 
 **(PUBLIC DOMAIN)** - **19 August 1947** — USAF Lt. Col. George Garrett tells FBI SAC S.W. Reynolds that he suspects the Navy or Army is testing new technology and some of it is responsible for the flying saucers and other UAP seen.
 
-*   https://mysteriousuniverse.org/2012/04/ufos-and-secret-experiments/
+*   [https://mysteriousuniverse.org/2012/04/ufos-and-secret-experiments/](https://mysteriousuniverse.org/2012/04/ufos-and-secret-experiments/)
 *   [https://web.archive.org/web/20120410222842/https://mysteriousuniverse.org/2012/04/ufos-and-secret-experiments/](https://web.archive.org/web/20120410222842/https://mysteriousuniverse.org/2012/04/ufos-and-secret-experiments/)
 
 **(PUBLIC DOMAIN)** - **19 August 1947** — Gen. Stephen Chamberlin and the War Department, however, claim to have no knowledge of USG or USG contractor programs responsible for the UAP.
@@ -611,7 +611,8 @@ USAF Thomas M. Conrow interviews witnesses and says there is “no logical expla
 
 **(PUBLIC DOMAIN)** - **22 June 1960** — Former CIA director Adm. R. H. Hillenkoetter states in a newspaper that UAP flying saucers are “operating under intelligence control,” and they’re not U.S. or Russian. Hillenkoetter states the Air Force is not telling U.S. citizens the truth about UAP.
 
-*   [https://www.cia.gov/readingroom/docs/CIA-RDP68-00046R000200090025-2.pdf](https://www.google.com/url?q=http://www.cia.gov/readingroom/docs/CIA-RDP68-00046R000200090025-2.pdf&sa=D&source=editors&ust=1690698543849786&usg=AOvVaw3wgKIF0xge7PuUEqERyvZV)
+*   [https://www.cia.gov/readingroom/docs/CIA-RDP68-00046R000200090025-2.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP68-00046R000200090025-2.pdf) (rg - changed to https variant)
+*   [https://web.archive.org/web/20221226173916/http://www.cia.gov/readingroom/docs/CIA-RDP68-00046R000200090025-2.pdf](https://web.archive.org/web/20221226173916/http://www.cia.gov/readingroom/docs/CIA-RDP68-00046R000200090025-2.pdf) (rg - archive.org version)
 *   [https://www.newspapers.com/article/delmarva-news-resort-visitor-interviews/129123907/](https://www.newspapers.com/article/delmarva-news-resort-visitor-interviews/129123907/) (alt newspaper link added by RG)
 
 **(PUBLIC DOMAIN)** - **1960** — USAF Airman 3rd Class Larry W. Rogers, 3926th Air Police Squadron K-9, states he saw a half dozen glowing UAP while stationed at Ben Guerir Air Base, Morocco. Rogers states jet fighters from Zaragoza AFB, Spain were scrambled and began interacting with the lights. “The UFOs suddenly began moving around really quickly and erratically.” After the event, Rogers said he and a few companions who saw the event were told to get into an Air Force sedan, driven to the headquarters building, put into different rooms and debriefed. Rogers said they may have been OSI but he wasn’t sure; they threatened him, told him not to talk, forced him to sign a non-disclosure statement and shown a regulation “AFR 200-2.”
@@ -646,7 +647,7 @@ USAF Thomas M. Conrow interviews witnesses and says there is “no logical expla
 *   [https://majesticdocuments.com/wp-content/uploads/2022/08/kennedy_ciadirector_1.pdf](https://majesticdocuments.com/wp-content/uploads/2022/08/kennedy_ciadirector_1.pdf)
 
 **(PUBLIC DOMAIN)** - **13 November 1961** — USAF document “AFCIN-1E-0 Draft Policy” written by Lt. Col. Norman M. Rosner to Col. Betz writes that intelligence team personnel are needed to support Air Force **Projects Moon Dust**, **Blue Fly and “UFO,”** and other quick reaction projects. The document gives the 1127th Field Activities Group at Ft. Belvoir responsibility for UAP “collection
-responsibilities,” and importantly, divorces these responsibilities from Moon Dust and Blue Fly, described as projects to locate, retrieve and deliver foreign space vehicles.
+responsibilities,” and importantly, divorces these responsibilities from **Moon Dust** and **Blue Fly**, described as projects to locate, retrieve and deliver foreign space vehicles.
 
 The document also distinguishes crashed UAP from Soviet/Bloc vehicles, and describes the need for quick reaction recovery teams. For decades after, the USAF continued to rely on the conclusions of Special Report No. 14 to debunk UAP, which stated no compelling physical evidence had ever been recovered from UAP, despite debris collection teams existing.
 
@@ -1436,7 +1437,7 @@ Green never named the individual but it was revealed he passed away in 1997, and
 
 *   [https://www.scribd.com/document/114322512/UFO-CIA](https://www.scribd.com/document/114322512/UFO-CIA)
 
->**_Note_**: Declassified documents show OES regularly monitored space debris and UAP, and a cable to Rep. Bill Archer from OES discussed “Arrangements to Welcome Extraterrestrial Life Forms to the U.S.” The State Dept. also coordinated crash recovery efforts with USAF Projects Moon Dust and Blue Fly with OES and the Bureau of Intelligence and Research (INR).
+>**_Note_**: Declassified documents show OES regularly monitored space debris and UAP, and a cable to Rep. Bill Archer from OES discussed “Arrangements to Welcome Extraterrestrial Life Forms to the U.S.” The State Dept. also coordinated crash recovery efforts with USAF **Projects Moon Dust** and **Blue Fly** with OES and the Bureau of Intelligence and Research (INR).
 >*   [https://foia.state.gov/Search/Results.aspx?searchText=%22la%20paz%22&beginDate=19780101&endDate=19790101](https://foia.state.gov/Search/Results.aspx?searchText=%22la%20paz%22&beginDate=19780101&endDate=19790101)
 >*   [http://www.noufors.com/Documents/Downloads%20from%20Paul%20Dean,%20UK/DEPT%20OF%20STATE%20BULK.pdf](http://www.noufors.com/Documents/Downloads%20from%20Paul%20Dean,%20UK/DEPT%20OF%20STATE%20BULK.pdf)
 >*   [https://wikileaks.org/plusd/cables/P750054-1939_b.html](https://wikileaks.org/plusd/cables/P750054-1939_b.html)
@@ -1953,7 +1954,7 @@ He states **Talon Gold** and **Teal Ruby** were programs for satellite recon obj
 
 
 
-**(PUBLIC DOMAIN)** - **9 July 1991** — Sappho Henderson, the wife of Oliver W. Henderson, states in an affidavit that her husband in 1980-1981 picked up a newspaper at a grocery store in San Diego and saw an article describing a crash of a UFO outside Roswell with bodies of aliens; she states he told her “I want you to read this article, because it’s a true story. I’m the pilot who flew the wreckage of the UFO to Dayton, Ohio. I guess now that they’re putting it in the paper, I can tell you about this. I wanted to tell you for years.” She states he described the beings as small with large heads for their size; their suits were made of material different than he had ever seen and they looked strange; they were packed in dry ice; he had not been aware of the book the Roswell Incident at that time.
+**(PUBLIC DOMAIN)** - **9 July 1991** — Sappho Henderson, the wife of Oliver W. Henderson, states in an affidavit that her husband in 1980-1981 picked up a newspaper at a grocery store in San Diego and saw an article describing a crash of a UFO outside Roswell with bodies of aliens; she states he told her “I want you to read this article, because it’s a true story. I’m the pilot who flew the wreckage of the UFO to Dayton, Ohio. I guess now that they’re putting it in the paper, I can tell you about this. I wanted to tell you for years.” She states he described the beings as small with large heads for their size; their suits were made of material different than he had ever seen and they looked strange; they were packed in dry ice; he had not been aware of the book _The Roswell Incident_ at that time.
 
 Mary Groode, Henderson’s daughter, signed an affidavit and said a similar story, that he showed her the newspaper article and said the bodies were small, pale, with slanted eyes and large heads, and there were three of them. He also told her on one occasion when they were looking at the stars that he was “looking for flying saucers…they’re real, you know.”
 
@@ -2054,7 +2055,7 @@ Riconosciuto claims this knowledge was gained from working at Lear in Reno, NV a
 >*   [https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html](https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html)
 
 
-**(PUBLIC DOMAIN)** - **24 November 1992** — The book UFO Encounters by JB Michaels states locals believed a UAP crashed in Southaven Park near Brookhaven Lab on this date. John Ford, an investigator of this incident, stated he was worried for his safety; he told Michaels the UAP was shot down by a plasma beam using quark gluon technology via R&D being done at Brookhaven; he also claims DOE had done anti-UAP directed energy weapons testing in the past using technology at Brookhaven and Los Alamos. Of note, Mona Rowe, an employee at Brookhaven at the time, said she saw a UAP near the facility at the time of the alleged crash retrieval.
+**(PUBLIC DOMAIN)** - **24 November 1992** — The book _UFO Encounters_ by JB Michaels states locals believed a UAP crashed in Southaven Park near Brookhaven Lab on this date. John Ford, an investigator of this incident, stated he was worried for his safety; he told Michaels the UAP was shot down by a plasma beam using quark gluon technology via R&D being done at Brookhaven; he also claims DOE had done anti-UAP directed energy weapons testing in the past using technology at Brookhaven and Los Alamos. Of note, Mona Rowe, an employee at Brookhaven at the time, said she saw a UAP near the facility at the time of the alleged crash retrieval.
 
 *   [https://www.amazon.com/UFO-Encounters-J-B-Michaels/dp/1973559773](https://www.amazon.com/UFO-Encounters-J-B-Michaels/dp/1973559773)
 *   [https://bera.bnl.gov/brea/officers](https://bera.bnl.gov/brea/officers)
@@ -4758,7 +4759,6 @@ Mellon states new Congressional language allows individuals in those programs to
 
 
 **(PUBLIC DOMAIN)** - **20 October 2022** — Ufologist Grant Cameron publishes a collection of people who claim to have piloted a UFO, many of whom never before spoke publicly. The trained observers mentioned include United Airlines Capt. Joe Vallejo who claims he had recurring dreams while on layovers where he was controlling a craft with his mind while standing in front of a large screen; ret.
-
 USAF F-16 pilot “Col. David,” who claims he was in a room with a flat console along one wall where someone behind him told him he already knew how to fly the craft, and he began flying it mentally; and alleged Nellis AFB radar operator Niara Isley who claims she experienced a “neural interface” in a chair inside a saucer. In the book, ret. CIA analyst John Ramirez also states Tremelo Melchizedek was hired to attempt to use Merkabah meditation techniques to fly a craft in USG possession. Ramirez himself claims he travels mentally to an “icy planet” where he receives information from a “higher consciousness.”
 
 The book additionally tracks Peter Whitley, an American who moved to Japan and trained in The Monroe Institute who held 40 out of body sessions where he was in a craft interacting with beings telepathically; ret. British Army officer Gerard Pratt who dreamt of going on board a large disc where he was given a briefing and shown how to use a plastic-like panel with symbols; Jean Kimura, who claims

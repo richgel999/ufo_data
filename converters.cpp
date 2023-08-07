@@ -3407,3 +3407,276 @@ bool convert_nuk()
     return timeline.write_file("nuclear_tests.json", true);
 }
 
+bool convert_anon()
+{
+    string_vec lines;
+    bool utf8_flag = false;
+    
+    const char* pFilename = "anon_pdf.md";
+    if (!read_text_file(pFilename, lines, true, &utf8_flag))
+        panic("Failed reading text file %s", pFilename);
+
+    ufo_timeline timeline;
+
+    uint32_t event_id = 1;
+
+    uint32_t line_index = 0;
+    while (line_index < lines.size())
+    {
+        std::string& s = lines[line_index++];
+
+        if (!string_begins_with(s, "**(PUBLIC DOMAIN)** - **"))
+            continue;
+
+        if (s.size() < 27)
+            panic("Invalid string");
+        
+        //[0x00000026] 0xe2 'â'	char
+        //[0x00000027]	0x80 '€'	char
+        //[0x00000028]	0x94 '”'	char
+
+        const int8_t c = -30;// (int8_t)0xE2;
+        size_t dash_pos = s.find_first_of(c);
+        if (dash_pos == std::string::npos)
+            panic("Invalid string");
+
+        if ((dash_pos + 2) >= s.size())
+            panic("Invalid string");
+
+        timeline_event event;
+
+        std::string date_str(s);
+        date_str.erase(0, 24);
+
+        size_t ofs = date_str.find_first_of('*');
+        if (ofs == std::string::npos)
+            panic("Invalid string");
+
+        date_str.erase(date_str.begin() + ofs, date_str.end());
+
+        const std::string orig_date_str(date_str);
+
+        if (string_is_digits(date_str))
+        {
+            // just a year
+            int year = atoi(date_str.c_str());
+            if ((year < 1947) || (year > 2030))
+                panic("Invalid year");
+
+            event.m_begin_date.m_year = year;
+        }
+        // Handle exceptions manually - there are just not enough dates in this file to justify writing custom parsers, and they didn't use a consistent standard anyway.
+        else if (date_str == "1980s Undefined")
+        {
+            event.m_begin_date.m_year = 1980;
+            event.m_begin_date.m_fuzzy = true;
+            event.m_begin_date.m_plural = true;
+        }
+        else if (date_str == "1984/1985")
+        {
+            event.m_begin_date.m_year = 1984;
+            event.m_end_date.m_year = 1985;
+        }
+        else if (date_str == "June/July 1971")
+        {
+            event.m_begin_date.m_month = 6;
+            event.m_begin_date.m_year = 1971;
+
+            event.m_end_date.m_month = 7;
+            event.m_end_date.m_year = 1971;
+        }
+        else if (date_str == "June-July 2011")
+        {
+            event.m_begin_date.m_month = 6;
+            event.m_begin_date.m_year = 2011;
+            event.m_end_date.m_month = 7;
+            event.m_end_date.m_year = 2011;
+        }
+        else if (date_str == "1966-1967")
+        {
+            event.m_begin_date.m_year = 1966;
+            event.m_end_date.m_year = 1967;
+        }
+        else if (date_str == "31 July 1965-2 August 1965")
+        {
+            event.m_begin_date.m_day = 31;
+            event.m_begin_date.m_month = 7;
+            event.m_begin_date.m_year = 1965;
+
+            event.m_end_date.m_day = 2;
+            event.m_end_date.m_month = 8;
+            event.m_end_date.m_year = 1965;
+        }
+        else if (date_str == "Mid-1990s")
+        {
+            event.m_begin_date.m_prefix = cMiddleOf;
+            event.m_begin_date.m_plural = true;
+            event.m_begin_date.m_year = 1990;
+        }
+        else if (date_str == "Late 1990s")
+        {
+            event.m_begin_date.m_prefix = cLate;
+            event.m_begin_date.m_plural = true;
+            event.m_begin_date.m_year = 1990;
+        }
+        else if (date_str == "Mid 1995")
+        {
+            event.m_begin_date.m_prefix = cMiddleOf;
+            event.m_begin_date.m_year = 1995;
+        }
+        else if (date_str == "01 Jan 2007")
+        {
+            event.m_begin_date.m_day = 1;
+            event.m_begin_date.m_month = 1;
+            event.m_begin_date.m_year = 2007;
+        }
+        else if (date_str == "5 Jan 2007")
+        {
+            event.m_begin_date.m_day = 5;
+            event.m_begin_date.m_month = 1;
+            event.m_begin_date.m_year = 2007;
+        }
+        else if (date_str == "Early 1994")
+        {
+            event.m_begin_date.m_prefix = cEarly;
+            event.m_begin_date.m_year = 1994;
+        }
+        else if (date_str == "Early 1995")
+        {
+            event.m_begin_date.m_prefix = cEarly;
+            event.m_begin_date.m_year = 1995;
+        }
+        else if (date_str == "May/June 2022")
+        {
+            event.m_begin_date.m_month = 5;
+            event.m_begin_date.m_year = 2022;
+
+            event.m_end_date.m_month = 6;
+            event.m_end_date.m_year = 2022;
+        }
+        else if (date_str == "Late 1990s")
+        {
+            event.m_begin_date.m_prefix = cLate;
+            event.m_begin_date.m_year = 1990;
+        }
+        else if (date_str == "Late 1956")
+        {
+            event.m_begin_date.m_prefix = cLate;
+            event.m_begin_date.m_year = 1956;
+        }
+        else if (date_str == "Late 1963")
+        {
+            event.m_begin_date.m_prefix = cLate;
+            event.m_begin_date.m_year = 1963;
+        }
+        else if (date_str == "Late 1964")
+        {
+            event.m_begin_date.m_prefix = cLate;
+            event.m_begin_date.m_year = 1964;
+        }
+        else if (date_str == "23-24 October 2010")
+        {
+            event.m_begin_date.m_day = 23;
+            event.m_begin_date.m_month = 10;
+            event.m_begin_date.m_year = 2010;
+
+            event.m_end_date.m_day = 24;
+            event.m_end_date.m_month = 10;
+            event.m_end_date.m_year = 2010;
+        }
+        else if (date_str == "1980s")
+        {
+            event.m_begin_date.m_plural = true;
+            event.m_begin_date.m_year = 1980;
+        }
+        else if (uisdigit(date_str[0]))
+        {
+            // Day Month Year
+            int day = atoi(date_str.c_str());
+            if ((day < 1) || (day > 31))
+                panic("Failed parsing date: %s\n", date_str.c_str());
+
+            size_t n = date_str.find_first_of(' ');
+            if (n == std::string::npos)
+                panic("Failed parsing date: %s\n", date_str.c_str());
+
+            date_str.erase(date_str.begin(), date_str.begin() + n + 1);
+
+            if (!event_date::parse_eberhart_date_range(date_str, event.m_begin_date, event.m_end_date, event.m_alt_date, -1))
+                panic("Failed parsing date: %s\n", date_str.c_str());
+
+            event.m_begin_date.m_day = day;
+        }
+        else
+        {
+            // Month Year
+            if (!event_date::parse_eberhart_date_range(date_str, event.m_begin_date, event.m_end_date, event.m_alt_date, -1))
+                panic("Failed parsing date: %s\n", date_str.c_str());
+        }
+
+        event.m_date_str = event.m_begin_date.get_string();
+
+        if (event.m_end_date.is_valid())
+            event.m_end_date_str = event.m_end_date.get_string();
+
+        if (event.m_alt_date.is_valid())
+            event.m_alt_date_str = event.m_alt_date.get_string();
+
+#if 0
+        uprintf("%s, %s-%s %s\n", orig_date_str.c_str(),
+            event.m_date_str.c_str(),
+            event.m_end_date_str.c_str(),
+            event.m_alt_date_str.c_str());
+#endif
+
+        string_vec event_strs;
+        event_strs.push_back(std::string(s));
+        event_strs[0].erase(event_strs[0].begin(), event_strs[0].begin() + dash_pos + 3);
+
+        string_trim(event_strs[0]);
+
+        while (line_index < lines.size())
+        {
+            std::string& ns = lines[line_index];
+            if (string_begins_with(ns, "**(PUBLIC DOMAIN)** - **"))
+                break;
+
+            string_trim(ns);
+                        
+            line_index++;
+
+            event_strs.push_back(ns);
+        }
+
+        for (uint32_t i = 0; i < event_strs.size(); i++)
+        {
+            if (i != event_strs.size() - 1)
+                event_strs[i] += "\n";
+        }
+
+#if 0
+        uprintf("-----\n");
+        for (uint32_t i = 0; i < event_strs.size(); i++)
+            uprintf("\"%s\"\n", event_strs[i].c_str());
+#endif
+
+        for (uint32_t i = 0; i < event_strs.size(); i++)
+            event.m_desc += event_strs[i];
+
+        event.m_refs.push_back("[Anonymous 2023 PDF](https://archive.org/details/anon_pdf_from_markdown)");
+        //event.m_type.push_back("event");
+        event.m_source = "Anon2023PDF";
+        event.m_source_id = "Anon2023PDF" + string_format("_%u", event_id);
+
+        timeline.get_events().push_back(event);
+
+        event_id++;
+    }
+
+    if (!timeline.get_events().size())
+        panic("Empty timeline)");
+
+    timeline.set_name("Anonymous 2023 PDF");
+
+    return timeline.write_file("anon_pdf.json", true);
+}

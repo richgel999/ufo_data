@@ -158,8 +158,8 @@ static void process_timeline_using_openai(const ufo_timeline &timeline)
     auto& results_array = final_result["results"];
 
     uint32_t total_failures = 0, total_hits = 0, total_new_results = 0;
-    //for (uint32_t i = 0; i < timeline.size(); i++)
-    for (uint32_t i = 8515; i < 8516; i++)
+    for (uint32_t i = 0; i < timeline.size(); i++)
+    //for (uint32_t i = 8515; i < 8516; i++)
     {
         uprintf("****** Record: %u\n", i);
 
@@ -1725,6 +1725,7 @@ public:
         resolve_res.m_best_score = best_score;
 
         const pjson::value_variant* pVariant = pBest_result->m_pVariant;
+        (pVariant);
 
 #if 0                        
         uprintf("Result: score:%f, alt: %u, id: %u, name: \"%s\", lat: %f, long: %f, ccode=%s, a1=%s, a2=%s, a3=%s, a4=%s, fclass: %s, fcode: %s, pop: %i\n",
@@ -2116,7 +2117,7 @@ int wmain(int argc, wchar_t* argv[])
         }
     }
                             
-#if 1
+#if 0
     uprintf("Convert Eberhart:\n");
     if (!convert_eberhart(unique_urls))
         panic("convert_eberthart() failed!");
@@ -2160,6 +2161,11 @@ int wmain(int argc, wchar_t* argv[])
     uprintf("Convert Bluebook Unknowns:\n");
     if (!convert_bluebook_unknowns())
         panic("convert_bluebook_unknowns failed!");
+    uprintf("Success\n");
+
+    uprintf("Convert anon_pdf.md:\n");
+    if (!convert_anon())
+        panic("convert_anon failed!");
     uprintf("Success\n");
 #endif
     
@@ -2217,6 +2223,10 @@ int wmain(int argc, wchar_t* argv[])
     if (!status)
         panic("Failed loading johnson.json");
 #endif
+
+    status = timeline.load_json("anon_pdf.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading johnson.json");
 
     for (uint32_t i = 0; i < timeline.size(); i++)
     {
@@ -2367,17 +2377,281 @@ int wmain(int argc, wchar_t* argv[])
                 panic("Failed comparing majestic.json");
     }
 
+    uprintf("Writing timeline\n");
+
+    ufo_timeline::event_urls_map_t event_urls;
+
     if (single_file_output)
     {
-        timeline.write_markdown("timeline.md", title_str.c_str(), -10000, 10000, true);
+        timeline.write_markdown("timeline.md", title_str.c_str(), -10000, 10000, true, event_urls, false);
     }
     else
     {
-        timeline.write_markdown("timeline.md", "Part 1: Distant Past up to and including 1949", -10000, 1949, false);
-        timeline.write_markdown("timeline_part2.md", "Part 2: 1950 up to and including 1959", 1950, 1959, false);
-        timeline.write_markdown("timeline_part3.md", "Part 3: 1960 up to and including 1969", 1960, 1969, false);
-        timeline.write_markdown("timeline_part4.md", "Part 4: 1970 up to and including 1979", 1970, 1979, false);
-        timeline.write_markdown("timeline_part5.md", "Part 5: 1980 to Present", 1980, 10000, false);
+        timeline.write_markdown("timeline.md", "Part 1: Distant Past up to and including 1949", -10000, 1949, false, event_urls, true);
+        timeline.write_markdown("timeline_part2.md", "Part 2: 1950 up to and including 1959", 1950, 1959, false, event_urls, true);
+        timeline.write_markdown("timeline_part3.md", "Part 3: 1960 up to and including 1969", 1960, 1969, false, event_urls, true);
+        timeline.write_markdown("timeline_part4.md", "Part 4: 1970 up to and including 1979", 1970, 1979, false, event_urls, true);
+        timeline.write_markdown("timeline_part5.md", "Part 5: 1980 to Present", 1980, 10000, false, event_urls, true);
+    }
+
+    // Write KWIC index
+    uprintf("Creating KWIC index\n");
+
+    struct word_usage
+    {
+        uint32_t m_event;
+        uint32_t m_ofs;
+    };
+    typedef std::vector<word_usage> word_usage_vec;
+
+    string_vec event_plain_descs;
+    event_plain_descs.reserve(timeline.size());
+    
+    typedef std::unordered_map<std::string, word_usage_vec> word_map_t;
+    word_map_t word_map;
+    word_map.reserve(timeline.size() * 20);
+
+    static const char* s_stop_words[] = 
+    {
+        "a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "as",
+        "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "can",
+        "could", "did", "do", "does", "doing", "don", "down", "during", "each", "few", "for", "from",
+        "further", "had", "has", "have", "having", "he", "her", "here", "hers", "herself", "him", "himself",
+        "his", "how", "i", "if", "in", "into", "is", "it", "its", "itself", "just", "me", "more", "most",
+        "my", "myself", "no", "nor", "not", "now", "of", "off", "on", "once", "only", "or", "other", "our",
+        "ours", "ourselves", "out", "over", "own", "re", "s", "same", "she", "should", "so", "some", "such",
+        "t", "than", "that", "the", "their", "theirs", "them", "themselves", "then", "there", "these", "they",
+        "this", "those", "through", "to", "too", "under", "until", "up", "very", "was", "we", "were", "what",
+        "when", "where", "which", "while", "who", "whom", "why", "will", "with", "you", "your", "yours",
+        "yourself", "yourselves", "although", "also", "already", "another", "seemed", "seem", "seems"
+    };
+    const uint32_t NUM_STOP_WORDS = (uint32_t)std::size(s_stop_words);
+
+    std::unordered_set<std::string> stop_word_set;
+    for (const auto &str : s_stop_words)
+        stop_word_set.insert(str);
+
+    for (uint32_t i = 0; i < timeline.size(); i++)
+    {
+        const timeline_event& event = timeline[i];
+
+        markdown_text_processor tp;
+        tp.init_from_markdown(event.m_desc.c_str());
+
+        std::string desc;
+        tp.convert_to_plain(desc, true);
+
+        std::string locs;
+        for (uint32_t u = 0; u < event.m_locations.size(); u++)
+            locs += event.m_locations[u] + " ";
+        
+        desc = locs + desc;
+
+        event_plain_descs.push_back(desc);
+
+        //uprintf("%u. \"%s\"\n", i, desc.c_str());
+
+        string_vec words;
+        uint_vec offsets;
+        get_string_words(desc, words, &offsets);
+        for (uint32_t j = 0; j < words.size(); j++)
+        {
+            if (words[j].length() == 1)
+                continue;
+            if (words[j].length() > 30)
+                continue;
+            if (stop_word_set.count(words[j]))
+                continue;
+
+            word_usage wu;
+            wu.m_event = i;
+            wu.m_ofs = offsets[j];
+            
+            auto it = word_map.find(words[j]);
+            if (it != word_map.end())
+                it->second.push_back(wu);
+            else
+            {
+                word_usage_vec v;
+                v.push_back(wu);
+                
+                word_map.insert(std::make_pair(words[j], v));
+            }
+
+            //uprintf("[%s] ", words[j].c_str());
+        }
+        //uprintf("\n");
+
+    }
+
+    std::vector< word_map_t::const_iterator > sorted_words;
+    for (word_map_t::const_iterator it = word_map.begin(); it != word_map.end(); ++it)
+        sorted_words.push_back(it);
+
+    std::sort(sorted_words.begin(), sorted_words.end(), [](word_map_t::const_iterator a, word_map_t::const_iterator b)
+        {
+            return a->first < b->first;
+        }
+    );
+        
+    string_vec kwic_file_strings_header[NUM_KWIC_FILE_STRINGS];
+    string_vec kwic_file_strings_contents[NUM_KWIC_FILE_STRINGS];
+        
+    for (uint32_t i = 0; i < NUM_KWIC_FILE_STRINGS; i++)
+    {
+        std::string name(get_kwic_index_name(i));
+
+        kwic_file_strings_header[i].push_back("<meta charset=\"utf-8\">");
+        kwic_file_strings_header[i].push_back("");
+        kwic_file_strings_header[i].push_back( string_format("# <a name=\"Top\">UFO Event Timeline, KWIC Index Page: %s</a>", name.c_str()) );
+        kwic_file_strings_header[i].push_back("");
+        kwic_file_strings_header[i].push_back("[Back to Main timeline](timeline.html)");
+        kwic_file_strings_header[i].push_back("");
+        kwic_file_strings_header[i].push_back("## Letters Directory:");
+
+        for (uint32_t j = 0; j < NUM_KWIC_FILE_STRINGS; j++)
+        {
+            std::string r(get_kwic_index_name(j));
+
+            std::string url = string_format("[%s](kwic_%s.html)", r.c_str(), r.c_str());
+            kwic_file_strings_header[i].push_back(url);
+        }
+
+        kwic_file_strings_header[i].push_back("");
+        kwic_file_strings_header[i].push_back("## Words Directory:");
+    }
+
+    uint32_t sorted_word_index = 0;
+    uint32_t num_words_printed = 0;
+    for (auto sit : sorted_words)
+    {
+        const auto it = *sit;
+
+        const std::string& word = it.first;
+        const word_usage_vec& usages = it.second;
+
+        uint8_t first_char = word[0];
+        
+        uint32_t file_index = 0;
+        if (uislower(first_char))
+            file_index = first_char - 'a';
+        else if (uisdigit(first_char))
+            file_index = 26;
+        else
+            file_index = 27;
+
+        string_vec& output_strs_header = kwic_file_strings_header[file_index];
+
+        output_strs_header.push_back( 
+            string_format("<a href=\"#word_%u\">\"%s\"</a>", sorted_word_index, word.c_str()) 
+        );
+
+        num_words_printed++;
+        if ((num_words_printed % 8) == 0)
+        {
+            output_strs_header.push_back("  ");
+        }
+
+        string_vec& output_strs = kwic_file_strings_contents[file_index];
+
+        output_strs.push_back( string_format("## <a name=\"word_%u\">Word: \"%s\"</a> <a href=\"#Top\">(Back to Top)</a>", sorted_word_index, word.c_str()) );
+
+        int_vec word_char_offsets;
+        get_utf8_code_point_offsets(word.c_str(), word_char_offsets);
+
+        output_strs.push_back("<pre>");
+                
+        for (uint32_t j = 0; j < usages.size(); j++)
+        {
+            const std::string& str = event_plain_descs[usages[j].m_event];
+            const int str_ofs = usages[j].m_ofs;
+            
+            int_vec event_char_offsets;
+            get_utf8_code_point_offsets(str.c_str(), event_char_offsets);
+
+            int l;
+            for (l = 0; l < (int)event_char_offsets.size(); l++)
+                if (str_ofs == event_char_offsets[l])
+                    break;
+            if (l == event_char_offsets.size())
+                l = 0;
+
+            const int PRE_CONTEXT_CHARS = 35;
+            const int POST_CONTEXT_CHARS = 40;
+            
+            // in chars
+            int s = std::max<int>(0, l - PRE_CONTEXT_CHARS);
+            int e = std::min<int>(l + std::max<int>(POST_CONTEXT_CHARS, (int)word_char_offsets.size()), (int)event_char_offsets.size());
+            int char_len = e - s;
+
+            // in bytes
+            int start_ofs = event_char_offsets[s];
+            int prefix_bytes = event_char_offsets[l] - start_ofs;
+            int end_ofs = (e >= event_char_offsets.size()) ? (int)str.size() : event_char_offsets[e];
+            int len = end_ofs - start_ofs;
+
+            std::string context_str(string_slice(str, start_ofs, len));
+
+            context_str = string_slice(context_str, 0, prefix_bytes) + "<b>" +
+                string_slice(context_str, prefix_bytes, word.size()) + "</b>" +
+                string_slice(context_str, prefix_bytes + word.size());
+
+            if (l < PRE_CONTEXT_CHARS)
+            {
+                for (int q = 0; q < (PRE_CONTEXT_CHARS - l); q++)
+                {
+                    context_str = " " + context_str;
+                    //context_str = string_format("%c%c", 0xC2, 0xA0) + context_str; // non-break space
+                    char_len++;
+                }
+            }
+
+            for (uint32_t i = 0; i < context_str.size(); i++)
+                if ((uint8_t)context_str[i] < 32U)
+                    context_str[i] = ' ';
+
+            int total_chars = PRE_CONTEXT_CHARS + POST_CONTEXT_CHARS;
+            if (char_len < total_chars)
+            {
+                for (int i = char_len; i < total_chars; i++)
+                    context_str += ' ';
+                    //context_str += string_format("%c%c", 0xC2, 0xA0); // non-break space
+            }
+
+            std::string url_str(event_urls.find(usages[j].m_event)->second);
+                        
+            //output_strs.push_back( string_format("`%s` %s  ", context_str.c_str(), url_str.c_str()) );
+            
+            output_strs.push_back( string_format("%s %s  ", context_str.c_str(), url_str.c_str()) );
+        }
+        output_strs.push_back("</pre>");
+        output_strs.push_back("\n");
+
+        sorted_word_index++;
+    }
+
+    for (uint32_t i = 0; i < NUM_KWIC_FILE_STRINGS; i++)
+    {
+        std::string filename;
+
+        filename = "kwic_";
+        if (i < 26)
+            filename += string_format("%c", 'a' + i);
+        else if (i == 26)
+            filename += "numbers";
+        else
+            filename += "misc";
+                    
+        filename += ".md";
+
+        string_vec file_strings(kwic_file_strings_header[i]);
+        file_strings.push_back("");
+
+        for (auto& str : kwic_file_strings_contents[i])
+            file_strings.push_back(str);
+
+        if (!write_text_file(filename.c_str(), file_strings, true))
+            panic("Failed writing output file\n");
     }
 
     uprintf("Processing successful\n");

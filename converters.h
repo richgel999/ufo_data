@@ -12,3 +12,4 @@ bool convert_eberhart(unordered_string_set& unique_urls);
 bool convert_johnson();
 bool convert_nicap(unordered_string_set& unique_urls);
 bool convert_nuk();
+bool convert_anon();

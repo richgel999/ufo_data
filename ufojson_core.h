@@ -156,6 +156,22 @@ struct timeline_event
 
 typedef std::vector<timeline_event> timeline_event_vec;
 
+const uint32_t NUM_KWIC_FILE_STRINGS = 28;
+
+static inline std::string get_kwic_index_name(uint32_t i)
+{
+    assert(i < NUM_KWIC_FILE_STRINGS);
+
+    std::string name;
+    if (i < 26)
+        name += string_format("%c", 'a' + i);
+    else if (i == 26)
+        name += "numbers";
+    else
+        name += "misc";
+    return name;
+}
+
 class ufo_timeline
 {
 public:
@@ -209,7 +225,9 @@ public:
 
     bool load_json(const char* pFilename, bool& utf8_flag, const char* pSource_override, bool fix_20century_dates);
 
-    bool write_markdown(const char* pTimeline_filename, const char* pDate_range_desc, int begin_year, int end_year, bool single_file_output);
+    typedef std::unordered_map<int, std::string> event_urls_map_t;
+
+    bool write_markdown(const char* pTimeline_filename, const char* pDate_range_desc, int begin_year, int end_year, bool single_file_output, event_urls_map_t& event_urls, bool output_kwic_directory);
 
 private:
     timeline_event_vec m_events;

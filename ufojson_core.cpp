@@ -2,8 +2,8 @@
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "ufojson_core.h"
 
-#define TIMELINE_VERSION "1.26"
-#define COMPILATION_DATE "6/19/2023"
+#define TIMELINE_VERSION "1.28"
+#define COMPILATION_DATE "8/6/2023"
 
 // Note that May ends in a period.
 const char* g_months[12] =
@@ -319,14 +319,6 @@ bool event_date::parse(const char* pStr, bool fix_20century_dates)
     if (!temp.size())
         return false;
 
-    if (string_ends_in(temp, "'s"))
-    {
-        m_plural = true;
-        temp.resize(temp.size() - 2);
-
-        string_trim(temp);
-    }
-
     if (string_ends_in(temp, "?"))
     {
         m_fuzzy = true;
@@ -335,6 +327,14 @@ bool event_date::parse(const char* pStr, bool fix_20century_dates)
         string_trim(temp);
     }
 
+    if (string_ends_in(temp, "'s"))
+    {
+        m_plural = true;
+        temp.resize(temp.size() - 2);
+
+        string_trim(temp);
+    }
+        
     if (!temp.size())
         return false;
 
@@ -743,10 +743,13 @@ void event_date::get_sort_date(int& year, int& month, int& day) const
             // 1900's, 1910's, 1800's etc.
             if (m_prefix == cEarly)
             {
+#if 0
                 if (is_century)
                     year += 10;
                 else if (is_decade)
                     year += 1;
+#endif
+                day = -1;
             }
             else if (m_prefix == cMiddleOf)
             {
@@ -1500,7 +1503,7 @@ uint32_t timeline_event::get_crc32() const
     return hash;
 }
 
-bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pDate_range_desc, int begin_year, int end_year, bool single_file_output)
+bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pDate_range_desc, int begin_year, int end_year, bool single_file_output, event_urls_map_t &event_urls, bool output_kwic_directory)
 {
     const std::vector<timeline_event>& timeline_events = m_events;
 
@@ -1519,6 +1522,11 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
     if (first_event_index > last_event_index)
         panic("Can't find events");
 
+    std::string html_filename(pTimeline_filename);
+    size_t dot_ofs = html_filename.find_last_of('.');
+    if (dot_ofs != std::string::npos)
+        html_filename = string_slice(html_filename, 0, dot_ofs) + ".html";
+
     FILE* pTimeline_file = ufopen(pTimeline_filename, "w");
     if (!pTimeline_file)
         panic("Failed creating file %s", pTimeline_file);
@@ -1531,16 +1539,16 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
     std::map<int, int> year_histogram;
 
     if ((pDate_range_desc) && (strlen(pDate_range_desc)))
-        fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, %s, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n", pDate_range_desc);
+        fprintf(pTimeline_file, "\n# <a name=\"Top\">UFO Event Timeline, %s, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n", pDate_range_desc);
     else
-        fprintf(pTimeline_file, "# <a name=\"Top\">UFO Event Timeline, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n");
+        fprintf(pTimeline_file, "\n# <a name=\"Top\">UFO Event Timeline, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n");
 
     fputs(
         u8R"(An automated compilation by <a href="https://twitter.com/richgel999">Richard Geldreich, Jr.</a> using public data from <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e">Dr. Jacques Vallée</a>,
 <a href="https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based">Pea Research</a>, <a href="http://www.cufos.org/UFO_Timeline.html">George M. Eberhart</a>,
 <a href="https://en.wikipedia.org/wiki/Richard_H._Hall">Richard H. Hall</a>, <a href="https://web.archive.org/web/20160821221627/http://www.ufoinfo.com/onthisday/sametimenextyear.html">Dr. Donald A. Johnson</a>,
 <a href="https://medium.com/@richgel99/1958-keziah-poster-recreation-completed-82fdb55750d8">Fred Keziah</a>, <a href="https://github.com/richgel999/uap_resources/blob/main/bluebook_uncensored_unknowns_don_berliner.pdf">Don Berliner</a>,
-<a href="https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142">Larry Hatch</a>, and [NICAP](https://www.nicap.org/).
+<a href="https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142">Larry Hatch</a>, [NICAP](https://www.nicap.org/), and an anonymous individual or group.
 
 ## Copyrights: 
 - Richard Geldreich, Jr. - Copyright (c) 2023 (all parsed dates and events marked \"maj2\" unless otherwise attributed)
@@ -1552,6 +1560,8 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
 - Larry Hatch - Copyright (c) 1992-2002
 
 ## Update History:
+- v1.28: Added KWIC (Key Word in Context) index.
+- v1.27: Adding anonymous PDF's contents originally from [here](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another), with fixed URL's
 - v1.23-1.24: Added a handful of key historical events, such as Edward Tauss the head of CIA UFO disinformation in the 50's
 - v1.22: Fixing the date of Dr. Eric W. Davis's March, 2020 classified briefing to the Senate (I had it listed as March 2019) - info from NY Times. Basic locations added to Eberhart records using OpenAI.
 - v1.20: Split up into 5 parts, to work around iPhone web browser limits. Minor spelling and grammer fixes throughout timeline.
@@ -1568,7 +1578,7 @@ Best viewed on a desktop/laptop, not a mobile device.
 I've split up the timeline into 4 parts, to reduce their sizes: distant past up to 1949, 1950-1959, 1960-1979, and 1980-present.
 
 The majority of the events in this chronology are sighting related, however it's important to be aware that this is a timeline of 
-UFO/UAP related _events_, not necessarily or exclusively UFO _sightings_. 
+UFO/UAP related _events_, not necessarily or exclusively UFO _sightings_. **This is not exclusively a UFO sightings timeline or database.**
 
 Some sighting reports or events appear multiple times in this timeline because they appear in more than one data source. I view this as a useful feature.
 
@@ -1594,6 +1604,20 @@ u8R"(## Year Ranges
 5. [Part 5: 1980 to present](timeline_part5.html))", pTimeline_file);
 
         fputs("\n", pTimeline_file);
+    }
+
+    if (output_kwic_directory)
+    {
+        fputs("\n", pTimeline_file);
+        fprintf(pTimeline_file, "\n## KWIC (Key Word in Context) Index\n\n");
+
+        for (uint32_t j = 0; j < NUM_KWIC_FILE_STRINGS; j++)
+        {
+            std::string r(get_kwic_index_name(j));
+
+            std::string url = string_format("[%s](kwic_%s.html)", r.c_str(), r.c_str());
+            fprintf(pTimeline_file, "%s\n", url.c_str());
+        }
     }
 
     fprintf(pTimeline_file, "\n## Table of Contents\n\n");
@@ -1657,6 +1681,14 @@ u8R"(## Year Ranges
         year_histogram[year] = year_histogram[year] + 1;
 
         fprintf(pTimeline_file, "\n");
+
+        //std::string url( string_format("[%s #%u](%s#%08X)", timeline_events[i].m_date_str.c_str(), i, html_filename.c_str(), hash) );
+        //<a href = "https://www.example.com">link to Example.com< / a> inside the pre section.
+        std::string url( string_format("<a href=\"%s#%08X\">%s #%u</a>", 
+            html_filename.c_str(), hash,
+            timeline_events[i].m_date_str.c_str(), i) );
+
+        event_urls.insert(std::make_pair((int)i, url));
     }
 
     fprintf(pTimeline_file, "\n---\n\n");
