@@ -2117,7 +2117,7 @@ int wmain(int argc, wchar_t* argv[])
         }
     }
                             
-#if 0
+#if 1
     uprintf("Convert Eberhart:\n");
     if (!convert_eberhart(unique_urls))
         panic("convert_eberthart() failed!");
