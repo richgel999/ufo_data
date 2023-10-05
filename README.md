@@ -9,6 +9,8 @@
 
 * [json](https://github.com/nlohmann/json): Copyright (c) 2013-2022 Niels Lohmann (MIT license)
 
+* [utf8.h](https://github.com/sheredom/utf8.h): Not copyrighted (unlicense.org)
+
 * Some portions of the specific file udb_tables.h (such as get_hatch_geo, g_hatch_continents) use strings/tables from the ["uDb" project by Jérôme Beau](https://github.com/RR0/uDb).
 
 ### Data files (in 'bin' directory): 
