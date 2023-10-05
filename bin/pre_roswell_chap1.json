@@ -1,0 +1,779 @@
+﻿{
+"Rife Timeline" : [
+{
+  "date" : "11/18/1896",
+  "desc": "On November 18, a peculiar aerial phenomenon was observed in Sacramento, where an electric arc lamp-like object moved through the sky in an erratic manner, seemingly propelled by an unknown force. Witnesses claimed to hear human voices emanating from the object, giving directions to avoid collisions with structures, and guiding its ascent when it neared the ground. The incident left citizens astonished by the unusual sight and audible interactions in the sky. (Chapter 1, Ref 1)",
+  "location" : "Sacramento CA",
+  "time" : "18:00",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_1",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "11/26/1896",
+  "desc": "An enigmatic craft appeared over San Francisco Bay. Described as a large, black cigar-shaped object with a fish-like tail, the approximately 100-foot-long airship exhibited high-speed movement and maneuverability that far surpassed known technologies of the time, like dirigibles. The witnesses were astonished by the object's unprecedented features, as it defied the technological norms of 1896 and foreshadowed a series of subsequent mysterious airship sightings across California, setting the stage for a broader national phenomenon in the following year. (Chapter 1, Ref 2)",
+  "location" : "San Francisco Bay Area, CA",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_2",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1/30/1897",
+  "desc": "A mysterious airship was repeatedly spotted near Hastings, a farming community in Nebraska, in January 1897. Witnesses observed the object hovering at varying altitudes, displaying powerful artificial lights and performing maneuvers at remarkable speeds before vanishing as mysteriously as it had appeared. (Chapter 1, Ref 3)",
+  "location" : "Hastings, Nebraska",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_3",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1/1897",
+  "desc": "A prayer group south of Hastings reported a sighting of a conical-shaped object with a bright headlight, six smaller lights, and two sets of wings on each side, along with a large fan-shaped rudder. (Chapter 1, Ref 4)",
+  "location" : "40 miles south of Hastings, near Kansas border",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_4",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/1897",
+  "desc": "Residents observed a bright light with changing colors, emitting a beam of light akin to a searchlight, exhibiting controlled movement rather than comet-like motion, and alternating between northwest and opposite directions. (Chapter 1, Ref 5)",
+  "location" : "Kansas City, Kansas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_5",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1/1897",
+  "desc": "The town of Everest had a detailed sighting of an airborne craft that hovered over the area for 80 minutes. The craft was described as having a 25-to-30-foot-long car resembling an Indian canoe with light wings, including two triangular ones. It appeared to be powered by the same source that provided light, with the brightness changing as the craft's altitude varied, and observers noted variations in the color of the light. (Chapter 1, Ref 6)",
+  "location" : "Everest, Kansas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_6",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1/1897",
+  "desc": "A farmer in Iowa had a close encounter with a mystery airship equipped with incandescent lamps on its sides. As the craft maneuvered overhead, a grappling rope from the car hooked onto the farmer's trousers, but he managed to grab a tree and avoid being taken away. Despite skepticism from neighbors, the farmer stood by his account due to his reputation for honesty. (Chapter 1, Ref 7)",
+  "location" : "Iowa",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_7",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1/1897",
+  "desc": "A dairy farmer encountered a dark, lighted aerial object resembling a long car with a cigar-shaped bag floating above it. The sighting was interrupted when the witness' team of horses panicked, causing him to be thrown into a ditch. Upon recovering, he saw the object ascend and vanish into the night. (Chapter 1, Ref 8)",
+  "location" : "Western Iowa",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_8",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/13/1897",
+  "desc": "Michigan became a focal point for mysterious airship sightings in mid-April, with around 50 witnesses in Battle Creek reporting a strange aerial object resembling an airship. The object emitted sparks and buzzed as it descended, then ascended in a perpendicular manner before vanishing, leaving reputable citizens puzzled about its nature and identity. (Chapter 1, Ref 9)",
+  "location" : "Battle Creek, Michigan",
+  "time" : "20:55",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_9",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/16/1897",
+  "desc": "A group of around 25 credible witnesses observed a cigar-shaped airship with yellow lights at the bow and stern. The object exhibited a mechanical arrangement for propulsion, moving from the west in a northerly direction at varying altitudes and becoming a topic of discussion in the city due to the reliability of the observers. (Chapter 1, Ref 10)",
+  "location" : "Hudson, Michigan",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_10",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/14/1897",
+  "desc": "Residents witnessed a sizable, conical-shaped airship with red lights at both ends, gradually descending from the sky around 12:30 AM. The object was described as being around 50 to 75 feet long, one-third as wide, and emitted a dull red glow, although no visible means of propulsion could be identified. (Chapter 1, Ref 11)",
+  "location" : "Bay City, Michigan",
+  "time" : "00:30",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_11",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/14/1897",
+  "desc": "Two policemen in Saginaw, Michigan, encountered a similar cigar-shaped object around 30 feet long with a red and yellow light shining through canvas, moving at approximately 25 miles per hour in a southerly direction. The officers were drawn to the scene by a drum-like noise, and the object had a distinct feature hanging about 10 feet below its main body. (Chapter 1, Ref 12)",
+  "location" : "Saginaw Michigan",
+  "time" : "02:30",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_12",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/14/1897",
+  "desc": "A farmer spotted a bird-shaped object resembling an enormous flying creature, with wings and a substantial tail or rudder, flying at around 150 feet above the ground. The witness heard what seemed like distant music and a human voice from the object before it disappeared into the evening twilight. (Chapter 1, Ref 13)",
+  "location" : "Casstown, Ohio",
+  "time" : "evening",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_13",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/15/1897",
+  "desc": "A flying object with wings, propellers, and lights was observed by two witnesses in a railroad tower, who reported hearing voices from it due to its proximity to the ground. Described as the size of a wagon bed, the object had a red light in the front and a greenish-yellow light at the back. (Chapter 1, Ref 14)",
+  "location" : "Dunkirk Ohio",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_14",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/15/1897",
+  "desc": "On the same night, farmers in Fairfield County, Ohio, witnessed a cigar-shaped object with two pairs of canvas wings attached to it. The object appeared to be at an angle of around 45 degrees, as if it had recently landed and was ascending to avoid lower wind currents. (Chapter 1, Ref 15)",
+  "location" : "Fairfield County, Ohio",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_15",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/16/1897",
+  "desc": "Continuing the pattern of anomalous events, a group in Logan, Ohio, witnessed a sudden flash of light followed by a large, dark, slow-flying shape over the town. The object was close enough to be heard, prompting three members of the group to pursue it in a buggy. They managed to get within 50 feet of the object, which was described as a black, boat-shaped airship about 40 feet long, before it swiftly rose and vanished into the night, with the witnesses reporting hearing voices from inside it. (Chapter 1, Ref 16)",
+  "location" : "Logan, Ohio",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_16",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/16/1897",
+  "desc": "A distinct airship was spotted, described as being \"40 feet in length, shaped like an auger, and having large windmill-like wings.\" The object, equipped with purple, yellow, and green lights, was seen diving towards the ground before ascending again and flying northward. (Chapter 1, Ref 17)",
+  "location" : "Upper Sandusky, Ohio",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_17",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/18/1897",
+  "desc": "A mysterious airship caused excitement in Sistersville, West Virginia, by hovering over the town and casting bright searchlights down. Described as cigar-shaped with large wings, the object featured flashing red, white, and green lights on its sides and ends. Those viewing it from a hill estimated its size to be around 180 feet in length and approximately 50 feet in diameter at the widest point. (Chapter 1, Ref 18)",
+  "location" : "Sistersville, West Virginia",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_18",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "5/1897",
+  "desc": "In northeast Washington, the town of Marble experienced an air of excitement in May 1897 when an airship was spotted over the mountains in the southern part of town. The airship, recognized by its fans and a rotating front apparatus, moved rapidly in a northeasterly direction before disappearing from view, leaving the mill crew and townspeople stirred by the sight. (Chapter 1, Ref 19)",
+  "location" : "Marble, Washington",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_19",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/11/1897",
+  "desc": "During April 1897, amidst the airship sightings, some witnesses reported observing low-flying airships with visible occupants. In Lock Mills, Indiana, a man claimed to have been visited by an airship operator who projected \"magic lantern\" pictures on the side of his barn. (Chapter 1, Ref 20)",
+  "location" : "Lock Mills, Indiana",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_20",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/19/1897",
+  "desc": "The postmaster of Greenfield, Illinois, witnessed an airship flying about 150 feet above him in the woods. He reported seeing a woman on a deck at the front of the craft, using a net to catch pigeons. (Chapter 1, Ref 21)",
+  "location" : "Greenfield, Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_21",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/19/1897",
+  "desc": "A piece of paper with a message was found about nine miles from the April 19, 1897 Greenfield, Illinois sighting. The message was written on a letterhead from \"Airship Co., Oakland, Cal.,\" describing a successful scheme of catching birds with a net and indicating the incredible speed of the airship, which had traveled between St. Louis, Chicago, and Kansas City in remarkably short periods of time. If accurate, this would indicate a speed of over 200 miles per hour, far beyond 19th-century norms. (Chapter 1, Ref 22)",
+  "location" : "9 miles from Greenfield, Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_22",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/24/1897",
+  "desc": "A man observed a buzzing sound and spotted a cigar-shaped airship at an altitude of around 200 feet. The witness noticed a man standing at the stern of the craft, and two other men sitting in the helm, before the airship departed toward the south. (Chapter 1, Ref 23)",
+  "location" : "Louisville, Kentucky",
+  "time" : "evening",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_23",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/25/1897",
+  "desc": "Witnesses returning from church observed a heavy object being dragged along by a rope, which eventually caught on a railroad rail. Upon looking up, they believed they saw an airship with lights in several windows, including a bright front light resembling a locomotive headlight. A man was seen descending the rope and cutting it when he noticed people nearby, before sailing off in a northeast direction, leaving the anchor on display at a local blacksmith shop. (Chapter 1, Ref 24)",
+  "location" : "Merkel, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_24",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/27/1897",
+  "desc": "A family was startled by their barking watchdog and saw a large cigar-shaped object with white wings in the sky. The object had visible guy ropes and rods, and three men were seen aboard, waving their hands as the machine flew a zig-zag course, suggesting it might have been malfunctioning. (Chapter 1, Ref 25)",
+  "location" : "Elkton, Kentucky",
+  "time" : "19:00",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_25",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/27/1897",
+  "desc": "A flying machine resembling a large cigar was observed by reputable witnesses, who noted three visible men aboard the craft. The airship flew at an altitude of approximately 2,000 feet and appeared to be under the complete control of its operators, as reported by a local newspaper. (Chapter 1, Ref 26)",
+  "location" : "Pennsylvania",
+  "time" : "19:00",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_26",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "12/7/1896",
+  "desc": "Residents were alerted by cries when a large airship was flying over their town. The craft appeared to land nearby, and a group of five men investigated, finding a bearded man on board who communicated using an \"alphabet.\" The man indicated he lived in the Montezuma Mountains with his family but declined further questioning. The airship was observed flying off the next day. (Chapter 1, Ref 27)",
+  "location" : "Camptonville, California",
+  "time" : "evening",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_27",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/13/1897",
+  "desc": "A telegraph operator received a message that an airship was approaching. A craft around 100 feet long and 25 feet wide, with a large letter \"M\" on its side, landed nearby. Witnesses observed several occupants in the \"control car\" before the airship rapidly ascended and flew northward. (Chapter 1, Ref 28)",
+  "location" : "Girard, Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_28",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/15/1897",
+  "desc": "Two farm workers claimed to have witnessed an airship landing, with a bearded man emerging from it and inquiring about the place. Another man and a woman were inside the car. The bearded occupant mentioned that the crew rested on the ground during the day and had just flown from Quincy to Springfield in 30 minutes. He pointed to the letter \"M\" on the car and stated his intention to report to the government when Cuba became free. After their conversation, the man reentered the craft, pressed a button, and the airship departed. (Chapter 1, Ref 29)",
+  "location" : "Outside Springfield, Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_29",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/14/1897",
+  "desc": "Two men on a fishing boat encountered a 40-foot-long object with a canopy that initially appeared to be another ship. A young man was seen fishing from the deck, accompanied by a woman and a child. As the fishing boat approached, the other craft released a large colored \"balloon,\" ascended to around 500 feet, circled briefly, and then flew away. (Chapter 1, Ref 30)",
+  "location" : "Lake Erie near Cleveland",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_30",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/15/1897",
+  "desc": "An airship flew over Lynn Grove, Iowa, and seemed to land just outside town on the 15th. Local residents investigated, but the airship took off again, and witnesses reported seeing two men on board, along with four wings on the craft. (Chapter 1, Ref 31)",
+  "location" : "Lynn Grove, Iowa",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_31",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/16/1897",
+  "desc": "A traveling agent claimed to encounter an airship with a beautiful woman and a bearded man. He described their appearance and interactions in great detail, including their gestures and the inside of the airship. His account was supported by his employer and family members who vouched for his reliability. (Chapter 1, Refs 32, 33, 34)",
+  "location" : "Springfield, Missouri",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_32",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/16/1897",
+  "desc": "Farmers encountered a landed airship with two occupants who claimed to be traveling from the Pacific to the Atlantic coast along the Northwestern railway. The machine was described as lightweight and made of aluminum-like material. (Chapter 1, Ref 35)",
+  "location" : "Elburn Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_33",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/17/1897",
+  "desc": "A prison official witnessed a landed airship resembling a large \"whaleback ship\" with wings and fins. The craft displayed colored banners and dazzling lights before rapidly ascending and disappearing. (Chapter 1, Ref 36)",
+  "location" : "Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_34",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/17/1897",
+  "desc": "Three strangers who claimed to have landed their airship in Conroe, Texas, interacted with locals at a restaurant, stating they were flying from San Francisco to Cuba. After their departure, a brightly-lit airship was seen flying over the town. (Chapter 1, Ref 37)",
+  "location" : "Conroe Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_35",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/17/1897",
+  "desc": "A judge in Arkansas encountered a landed airship near Texarkana, manned by three men who spoke a foreign language, possibly Japanese. The judge explored the ship and noted it was made of aluminum, with gas used to control its altitude. (Chapter 1, Ref 38)",
+  "location" : "McKinney Bayou, Arkansas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_36",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/22/1897",
+  "desc": "An airship landed near Stephensville, Texas, with a 60-foot-long cigar-shaped object manned by two men, S.E. Tillman and A.E. Dolbear. Despite curiosity from local residents, the pilots declined to allow anyone to examine the airship, ultimately flying away. (Chapter 1, Ref 39)",
+  "location" : "Stephensville, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_37",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "5/13/1897",
+  "desc": "Captain Jim Hooton, a railroad conductor, reported encountering an airship near Homan, Arkansas. He observed a man aboard the ship wearing smoked glasses, and the ship's design included bulging sides, sharp edges, and rotating wheels that propelled it upward with a hissing sound before disappearing from sight. (Chapter 1, Ref 40)",
+  "location" : "Homan, Arkansas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_38",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "5/6/1897",
+  "desc": "A constable and a deputy sheriff near Hot Springs, Arkansas, encountered a cigar-shaped airship with occupants consisting of a man with a long beard, a young man, and a woman. The bearded man explained that they were traveling in the airship, and they invited the officers to take a ride. The witnesses left and returned later, but the airship had departed. (Chapter 1, Ref 41)",
+  "location" : "Hot Springs, Arkansas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_39",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/19/1897",
+  "desc": "A boy claimed to witness an airship landing on a farm. He reported seeing several occupants leaving the craft to gather water, which they poured into a container that resembled a boiler on the ship. (Chapter 1, Ref 42)",
+  "location" : "near Norway, Wisconsin",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_40",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/17/1897",
+  "desc": "Three men witnessed an airship landing. They saw a man around 40 years old from the craft collecting water from a stream. Despite their attempts to converse, the man remained silent and soon departed in the airship. (Chapter 1, Ref 43)",
+  "location" : "Lexington, Kentucky",
+  "time" : "evening",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_41",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/17/1897",
+  "desc": "An airship landed at a feed mill near Upland, Indiana. A heavyset man with long whiskers emerged, bought cattle feed, and upon returning to the ship, he pressed a button that caused the airship to take off and depart. (Chapter 1, Ref 44)",
+  "location" : "Upland, Indiana",
+  "time" : "evening",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_42",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/17/1897",
+  "desc": "an airship landed near Muncie, and one of the occupants requested milk from a farmer. After receiving the milk, the man pulled on a cord, and the airship took off and flew away. (Chapter 1, Ref 45)",
+  "location" : "Muncie, Indiana",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_43",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/21/1897",
+  "desc": "An ex-senator encountered an airship crew who revealed their craft's anti-gravity operation. The crew consisted of an elderly man with a long beard, two younger men, and a woman. The crew shared their ability to suspend gravity using a wire, and after a polite conversation, they flew off in their airship. (Chapter 1, Ref 46)",
+  "location" : "Harrisburg, Arkansas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_44",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/22/1897",
+  "desc": "A farmer encountered an airship with bright lights and wings that landed on his property. The occupant of the airship requested lubricating oil and tools, offering money in exchange. The occupant declined to allow the farmer to approach the airship but promised to reciprocate the kindness by taking him on a future trip. The farmer managed to gather some items, and upon his return, the aeronaut thanked him, shook his hand, and mentioned flying to Greece in a matter of days before taking off at high speed. (Chapter 1, Ref 47)",
+  "location" : "Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_45",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1896",
+  "desc": "In the 1896 California incidents preceding the 1897 airship wave, a sailor in San Luis Obispo claimed to have been taken on an airship ride by a Spanish-speaking pilot and a female companion. This adventurous exception involved a flight experience in an airship. (Chapter 1, Ref 48)",
+  "location" : "San Luis, California",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_46",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/16/1897",
+  "desc": "A cigar-shaped airship descended in the village with two men and a boy on board. The villagers interacted with them, and some members of the fire department were taken on a short ride. The airship eventually departed with lanterns lit, heading towards Camden. (Chapter 1, Ref 49)",
+  "location" : "Bluffton, Indiana",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_47",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "5/4/1897",
+  "desc": "Three bicyclists encountered a landed airship with two occupants named George Autzerlitz and Joseph Eddleman. They conversed with the pilots, who claimed to have dined on birds caught in flight. One of the bicyclists was offered and accepted a ride in the airship, flying to the nearby town of Huntington. (Chapter 1, Ref 50)",
+  "location" : "Jenny Lind, Arkansas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_48",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/6/1897",
+  "desc": "A man encountered an airship on a small island in the Missouri River. The airship's crew explained that they had landed for repairs on a searchlight. The ship was described as cigar-shaped, about 200 feet long, and operated by large gasoline engines connected to steel snail shell-shaped devices for propulsion. (Chapter 1, Ref 51)",
+  "location" : "Peru, Nebraska",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_49",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/15/1897",
+  "desc": "A man encountered a landed airship approximately 200 feet long with crewmen repairing a searchlight. Similar to a previous incident, the witness was informed that the airship was heading to Cuba with a cargo of dynamite. (Chapter 1, Ref 52)",
+  "location" : "Cisco, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_50",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/15/1897",
+  "desc": "An airship crew stopped at Pine Lake, Michigan, for repairs and provisions. A witness reported being awakened by a tap on his window and a bright light, and the crew requested egg sandwiches and coffee, which they hoisted on board in exchange for payment. The witness observed the ship with a brilliant searchlight and red lights at each end, noting its departure towards the city just before daylight. (Chapter 1, Ref 53)",
+  "location" : "Pine Lake, Michigan",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_51",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/15/1897",
+  "desc": "Local citizens in Chattanooga, Tennessee encountered an airship that had landed on a mountain spur for repairs. The crew explained that their machinery was out of order and one of the men identified himself as Professor Charles Davidson, claiming the ship had been traveling across the country after leaving Sacramento a month earlier. (Chapter 1, Ref 54)",
+  "location" : "Chattanooga, Tennessee",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_52",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/1897",
+  "desc": "An electrician in Chillicothe, Missouri, was summoned to recharge an airship's fuel supply during the night, and a railway worker assisted in repairing a faulty steering mechanism for an airship near Nora, Illinois. (Chapter 1, Ref 55)",
+  "location" : "Chattanooga, Tennessee, and Nora, Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_53",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/12/1897",
+  "desc": "Witnesses claimed to have observed an illuminated airship that suddenly exploded with a loud noise, leaving behind evidence like a coil of heavy wire and partially-fused propeller blades. The witnesses described the object's rapid movement and subsequent explosion. (Chapter 1, Ref 56)",
+  "location" : "Kalamazoo, Michigan",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_54",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/13/1897",
+  "desc": "A bright object seen near Battle Creek, Michigan, was described as a meteor-like airship that dropped a part resembling a large aluminum wheel with a turbine shape. The wheel was discovered by witnesses in a field and kept as a memento on a local farm. (Chapter 1, Ref 57)",
+  "location" : "Battle Creek, Michigan",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_55",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/7/1897",
+  "desc": "In a letter to a Missouri newspaper, a witness reported witnessing an airship crash near Bethany. The two occupants were fatally injured, and the letters found on them indicated a possible origin from San Francisco or Omaha. (Chapter 1, Ref 58)",
+  "location" : "Bethany, Missouri",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_56",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/10/1897",
+  "desc": "A farmer reported an airship crash during a blizzard near Lanark. Two occupants were killed, and a third, dressed in a unique manner, survived and claimed to be from Mars. The farmer charged people to view the \"Martian\" until he recovered and repaired his craft. (Chapter 1, Ref 59)",
+  "location" : "Lanark, Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_57",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "11/17/1897",
+  "desc": "Despite theories of an alien origin, the prevailing belief surrounding the mystery airships of the late 19th century pointed to an earthly source. The prevailing notion was that an unknown inventor or inventors within the United States had achieved breakthroughs in flight technology. Reports of airship inventors date back to the earliest days of the phenomenon, as exemplified by a telegram from a New York entrepreneur in 1896 claiming plans to fly his invention to California. (Chapter 1, Ref 60)",
+  "location" : "Sacramento, California",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_58",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "11/22/1897",
+  "desc": "A San Francisco lawyer initially claimed to know the inventor behind the mystery airship, describing it as a metal machine with wings and a rudder, capable of ascending and descending gracefully. The inventor was identified as E. H. Benjamin, a former dentist from Maine. However, the story took confusing turns as the lawyer's statements were retracted, replaced by another lawyer's claims of multiple airships under development, with details of their potential capabilities. Eventually, all pronouncements ceased, and no airship was publicly presented for inspection. (Chapter 1, Ref 61)",
+  "location" : "San Francisco, California",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_59",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "11/22/1897",
+  "desc": "An individual claimed to have encountered an airship in the Tamalpais range of mountains near San Francisco. The witness described meeting six men working on the ship, which was said to be the source of the mysterious lights seen in the sky. The ship was reported to make trial trips at night and return before daylight as it continued its development. (Chapter 1, Ref 62)",
+  "location" : "San Francisco, California",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_60",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "12/2/1897",
+  "desc": "Two fishermen near San Francisco claimed to have witnessed an airship descending and landing on the ocean surface. They observed the crew guiding the craft to shore, and despite being initially ordered to leave, they were later allowed to observe the crew making repairs and share a meal from the airship's provisions. (Chapter 1, Ref 63)",
+  "location" : "San Francisco, California",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_61",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "12/7/1897",
+  "desc": "A letter in a Fresno newspaper claimed that the airship was present in Fresno County and mentioned details about its construction and functionality. The letter indicated that the airship's inventor had faced involuntary challenges during its flight and was planning to bring the airship to Fresno for public viewing pending favorable news from Washington. (Chapter 1, Ref 64)",
+  "location" : "Fresno, California",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_62",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "12/6/1897",
+  "desc": "Residents of Watertown reported seeing a large airship with a bright light narrowly avoiding collision with the town's post office, providing potential corroboration for a letter writer's account of the airship's presence in the area. (See Dec. 7, 1897.) (Chapter 1, Ref 65)",
+  "location" : "Watertown, CA",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_63",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/19/1897",
+  "desc": "Approximate date. A rabbi in Texas encountered an airship that had landed on a farm near Beaumont. He spoke briefly with one of the occupants who mentioned traveling and testing the machine but couldn't recall specific details about the inventor or the place of origin. (Chapter 1, Ref 66)",
+  "location" : "Beaumont, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_64",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/1897",
+  "desc": "A letter found near Appleton, Wisconsin, claimed to be from the occupants of an airship named \"Pegasus.\" The letter described their successful aerial navigation experiments, achieving speeds of 150 miles per hour and reaching a height of 2,500 feet. They stated the airship was propelled by steam, lit by electricity, and had a carrying capacity of 1,000 pounds. (Chapter 1, Ref 67)",
+  "location" : "Appleton, Wisconsin",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_65",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/1897",
+  "desc": "A message reportedly dropped from an airship named \"Pegasus\" was found by Miss L. Remme in her yard. The note claimed the airship had traveled 200 miles at 40 miles an hour since 4:30 Friday afternoon and intended to reach Nashville by Sunday at 3:30. (Chapter 1, Ref 68)",
+  "location" : "Newport, Kentucky",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_66",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/22/1897",
+  "desc": "A note allegedly dropped from an airship named \"Airoia\" was found by a prominent townsman. The note claimed the airship had traveled across various states, fished in the Great Lakes, and was piloted by William R. Harris, along with his wife and child. The writer mentioned plans to return to New Mexico and construct a larger boat to cross the sea. (Chapter 1, Ref 69)",
+  "location" : "Lorain, Ohio",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_67",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/10/1897",
+  "desc": "In Nebraska, especially near Hastings, rumors of an airship inventor circulated in 1897. The individual was said to be working on an airship and keeping their identity hidden to prevent theft of their invention by unscrupulous individuals. (Chapter 1, Ref 70)",
+  "location" : "Omaha, Nebraska",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_68",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1897",
+  "desc": "In Omaha, John O. Preast was speculated to be the inventor behind the mysterious airship sightings. Known for his experiments with airships over the past decade, Preast was suspected of working on a functioning model. The airship's sightings near his residence further fueled these speculations. (Chapter 1, Ref 71)",
+  "location" : "Omaha, Nebraska",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_69",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1897",
+  "desc": "An individual named Anton Pallardy claimed that the airship sightings in Nebraska were real and not a myth. He suggested that the airship was constructed in the remote Mauvais Terres region and described its appearance as resembling a large umbrella with a transparent covering. (Chapter 1, Ref 72)",
+  "location" : "Nebraska",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_70",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1890",
+  "desc": "Edward J. Pennington, a successful manufacturer, claimed to be an airship inventor and intended to create a large aluminum airship propelled by hydrogen gas and a gasoline engine-powered propeller, capable of speeds up to 250 miles per hour. (Chapter 1, Refs 73, 74)",
+  "location" : "Mt. Carmel, Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_71",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1891",
+  "desc": "Edward J. Pennington demonstrated a 30-foot unmanned model of his airship inside a Chicago exhibition hall, which circled at 25 feet and achieved a speed of six miles per hour. Despite public enthusiasm, his attempt to scale up the model for a full-sized airship faced challenges, leading to the failure of the Mt. Carmel Aeronautic Navigation Company. (Chapter 1, Ref 75, 76, 77)",
+  "location" : "Chicago",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_72",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1850's",
+  "desc": "Charles A. Dellschau and a group known as the Aero Club, comprised of inventive individuals, reportedly secretly built and flew revolutionary aircraft in the 1850s. Dellschau's illustrated notebooks detail their activities, claiming the aircraft used a substance called \"supe\" or \"NB\" with anti-gravity properties for propulsion and lights, but disbanded after the substance's inventor died, with mention of a possible larger secret organization called NYMZA. (Chapter 1, Ref 78)",
+  "location" : "Sonora, California",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_73",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "1897",
+  "desc": "Amidst the airship mystery, an 1897 report suggested a potential connection between the mysterious airship sightings and government experiments. It was speculated that the U.S. government, employing a high-salary aeronaut, might be working on airship-related experiments at Fort Logan near Denver, leading to theories about government involvement in the phenomenon. (Chapter 1, Ref 79)",
+  "location" : "Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_74",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "12/1/1896",
+  "desc": "During the late 19th Century airship mystery, an electrician named John A. Horen claimed to have witnessed a functioning airship in California. He recounted an encounter with an inventor aboard the airship, describing its noiseless and swift flight, and claimed it could travel to places like Honolulu and back within about 48 hours at a speed of around 100 miles per hour. (Chapter 1, Ref 80)",
+  "location" : "Sandy Beach, CA",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_75",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/16/1897",
+  "desc": "A man encountered a landed airship near Greenville Texas, described as a large cigar-shaped vessel with wings, a wheel at the front, and a fish-like tail at the rear. The crew claimed to be experimenting with the vessel and planning to revolutionize travel and transportation using electrical machines for propulsion and lights. (Chapter 1, Ref 81)",
+  "location" : "Greenville, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_76",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/16/1897",
+  "desc": "During the late 19th century, a newspaper reporter from Decatur, Illinois, claimed to have been taken on an airship ride by inventor C. Devonbaugh. The airship featured a cabin suspended beneath gas-filled cylinders, powered by a new electricity-based process. The reporter described a high-speed nighttime trip to Chicago with colorful electric lights and mentioned the inventor's offer to assist Cuban rebels with the airship's capabilities. (Chapter 1, Ref 82)",
+  "location" : "Decatur, Illinois",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_77",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/22/1897",
+  "desc": "A Texas farmer observed a large, brightly lit vessel in his cornfield and spoke with a crew of six or eight individuals. The crew claimed the aerial navigation problem had been solved using a newly discovered self-sustaining material and highly condensed electricity for propulsion. They mentioned building five such ships in Iowa and forming a stock company for the invention's public release. (Chapter 1, Ref 83)",
+  "location" : "Josserand, Trinity County, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_78",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/25/1897",
+  "desc": "A prominent individual claimed to have encountered a massive airship with two occupants. The craft had brilliant lights and unique features, including tubular wires that were both strong and lightweight. The inventor, referring to the craft as an \"aeribarque,\" demonstrated its anti-gravity capabilities, advanced temperature control, and colorful lights before ascending and departing rapidly. (Chapter 1, Ref 84)",
+  "location" : "Lancaster, Ohio",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_79",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "5/13/1897",
+  "desc": "A wealthy recluse residing near Savannah, Ohio, who had recently returned from Nebraska, was suspected by his neighbors of experimenting with an airship, potentially linking him to the local airship sightings. (Chapter 1, Ref 85)",
+  "location" : "Savannah, Ohio",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_80",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "5/1/1897",
+  "desc": "Residents of Shiloh, Ohio, reported witnessing a well-lit, cylindrical airship with sails and propellers, apparently created by an unnamed inventor. The airship was described as rising into the air and moving swiftly against the wind. (Chapter 1, Ref 86)",
+  "location" : "Shiloh, Ohio",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_81",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/19/1897",
+  "desc": "In 1897, a man named Wilson frequently appeared in connection with occupants of landed airships. Near the Texas-Louisiana border, an airship landed, and two occupants introduced themselves as Mr. Wilson and Scott Warren. The witness was invited aboard the airship, where he saw an 8-by-14-foot cabin with reclining chairs, incandescent lamps, and a unique propulsion system powered by a secret gas. Wilson explained navigation techniques involving magnetic wheels and propellers. The airship was around 75 by 25 feet and had a top speed of approximately 160 miles per hour. (Chapter 1, Ref 87)",
+  "location" : "near the Texas-Louisiana border",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_82",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/19/1897",
+  "desc": "In another incident in 1897, a farmer and his son discovered a landed airship near Beaumont, Texas. The airship, measuring around 130 feet long and 20 feet wide, had four men outside, including one named Wilson. Wilson explained that the ship used water ballast for landing and described its propulsion system involving large wings and propellers powered by electricity. He mentioned that the airship was made of steel and contained compartments for compressed air, and it was on its way from a flight over the Gulf of Mexico to Iowa. (Chapter 1, Ref 88)",
+  "location" : "Beaumont, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_83",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/20/1897",
+  "desc": "A Texas sheriff encountered a landed airship on his property near Uvalde. The airship's occupants, including one named Wilson, requested water for their craft. Wilson mentioned being from Goshen, New York, and inquired about an acquaintance named Sheriff Akers. This incident brought to mind previous interactions with a man named Wilson who had been working on aerial navigation and inventions related to airships, leading to suspicions that this might be the same person. After loading water, the airship's wings and fins were set in motion, and it departed northward toward San Angelo. (Chapter 1, Ref 89)",
+  "location" : "Uvalde, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_84",
+  "source" : "Rife",
+  "type" : "mystery airship"
+},
+{
+  "date" : "4/23/1897",
+  "desc": "Two individuals claimed to have found a landed airship near Kountze, Texas. The airship had a cigar-shaped appearance, measuring about 50 feet in length and 20 feet in width. The occupants of the craft, introduced as Jackson and Wilson, were in the process of repairing a punctured \"air compartment.\" Interestingly, there was also a member named Wilson mentioned among the California Aero Club members identified by Charles Dellschau in his notebooks, although this might be a mere coincidence. (Chapter 1, Refs 90, 91)",
+  "location" : "Kountze, Texas",
+  "ref": "[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)",
+  "source_id" : "Rife_85",
+  "source" : "Rife",
+  "type" : "mystery airship"
+}
+] }
