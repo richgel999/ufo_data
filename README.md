@@ -40,7 +40,7 @@ Here's an earlier version of its output [Markdown file converted to PDF](ufo_tim
 
 ## Getting started with the JSON data
 
-Check out Larry Hatch's database of ~18k records converted to [utf-8](https://en.wikipedia.org/wiki/UTF-8) [JSON format](https://www.json.org/json-en.html), [here](https://github.com/richgel999/ufo_data/blob/main/bin/hatch_udb.json). The JSON format should be self-explanatory. 
+Check out Larry Hatch's database of ~18k records converted to [utf-8](https://en.wikipedia.org/wiki/UTF-8) [JSON format](https://www.json.org/json-en.html), [here](https://github.com/richgel999/ufo_data/blob/main/bin/hatch_udb.json). The JSON format should be fairly self-explanatory. Also see his [DOS tool](https://archive.org/details/u_full_version), which is where this data came from.
 
 ## Special Thanks
 
