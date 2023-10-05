@@ -30,7 +30,7 @@ static std::string escape_string_for_json(const std::string& str)
     return new_str;
 }
 
-bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, const char* pSource_override, const char* pRef_override)
+bool convert_magonia(const char* pSrc_filename, const char* pDst_filename, const char* pSource_override, const char* pRef_override, uint32_t TOTAL_COLS, const char* pType_override, bool parens_flag, uint32_t first_rec_index)
 {
     string_vec lines;
 
@@ -41,14 +41,18 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
     if (!pOut_file)
         panic("Can't open file %s", pDst_filename);
 
+    fputc(UTF8_BOM0, pOut_file);
+    fputc(UTF8_BOM1, pOut_file);
+    fputc(UTF8_BOM2, pOut_file);
+    
     fprintf(pOut_file, "{\n");
-    fprintf(pOut_file, "\"%s Timeline\" : [\n", pSource_override ? pSource_override : "Magnonia");
+    fprintf(pOut_file, "\"%s Timeline\" : [\n", pSource_override ? pSource_override : "Magonia");
 
     //const uint32_t TOTAL_RECS = 923;
-    const uint32_t TOTAL_COLS = 15;
-
+    
     uint32_t cur_line = 0;
-    uint32_t rec_index = 1;
+    uint32_t rec_index = first_rec_index;
+    
     while (cur_line < lines.size())
     {
         if (!lines[cur_line].size())
@@ -62,7 +66,7 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
             panic("Out of lines");
 
         std::string first_line(lines[cur_line++]);
-
+                
         std::string date_str(first_line);
         if (date_str.size() > TOTAL_COLS)
             date_str.resize(TOTAL_COLS);
@@ -90,11 +94,33 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
             if (cur_line == lines.size())
                 break;
 
-            if (lines[cur_line].size() < TOTAL_COLS)
-                break;
+            // Absorb empty line which indicates end of record
+            if (desc_lines.size() == 1)
+            {
+                if (!lines[cur_line].size())
+                {
+                    cur_line++;
+                    break;
+                }
+            }
 
             std::string buf(lines[cur_line]);
 
+            if ((desc_lines.size() == 1) && (buf.size() < TOTAL_COLS))
+            {
+                if (string_find_first(buf, ":") >= 0)
+                {
+                    // Must be ONLY time
+                    time_str = buf;
+                    string_trim(time_str);
+                    cur_line++;
+                    break;
+                }
+            }
+
+            if (buf.size() < TOTAL_COLS)
+                break;
+                        
             if (desc_lines.size() == 1)
             {
                 if (buf.size() >= TOTAL_COLS)
@@ -132,7 +158,9 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
 
         std::string location;
 
-        size_t n = desc.find_first_of('.');
+        size_t n = desc.find_first_of('}');
+        if (n == std::string::npos)
+            n = desc.find_first_of('.');
         if (n == std::string::npos)
             panic("Can't find . char");
 
@@ -140,47 +168,60 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
         location.resize(n);
         string_trim(location);
 
-        size_t f = location.find_first_of('(');
-        size_t e = location.find_last_of(')');
-        if ((f != std::string::npos) && (e == location.size() - 1))
+        if (parens_flag)
         {
-            std::string state(location);
-            state.erase(0, f + 1);
-            if (state.size())
-                state.resize(state.size() - 1);
-            string_trim(state);
+            size_t f = location.find_first_of('(');
+            size_t e = location.find_last_of(')');
+            if ((f != std::string::npos) && (e == location.size() - 1))
+            {
+                std::string state(location);
+                state.erase(0, f + 1);
+                if (state.size())
+                    state.resize(state.size() - 1);
+                string_trim(state);
 
-            location.erase(f, location.size() - f);
-            string_trim(location);
+                location.erase(f, location.size() - f);
+                string_trim(location);
 
-            location += ", ";
-            location += state;
+                location += ", ";
+                location += state;
+            }
         }
 
         desc.erase(0, n + 1);
         string_trim(desc);
 
         std::string ref;
-        f = desc.find_last_of('(');
-        e = desc.find_last_of(')');
-        if ((f != std::string::npos) && (e != std::string::npos))
+        if (parens_flag)
         {
-            if ((f < e) && (e == desc.size() - 1))
+            size_t f = desc.find_last_of('(');
+            size_t e = desc.find_last_of(')');
+            if ((f != std::string::npos) && (e != std::string::npos))
             {
-                ref = desc.c_str() + f + 1;
-                if (ref.size())
-                    ref.pop_back();
-                string_trim(ref);
+                if ((f < e) && (e == desc.size() - 1))
+                {
+                    ref = desc.c_str() + f + 1;
+                    if (ref.size())
+                        ref.pop_back();
+                    string_trim(ref);
 
-                desc.resize(f);
-                string_trim(desc);
+                    desc.resize(f);
+                    string_trim(desc);
+                }
             }
         }
 
         int year = -1, month = -1, day = -1;
         date_prefix_t date_prefix = cNoPrefix;
-
+        std::string date_suffix;
+        
         std::string temp_date_str(date_str);
+        
+        if (string_ends_in(temp_date_str, "'s"))
+        {
+            temp_date_str.resize(temp_date_str.size() - 2);
+            date_suffix = "'s";
+        }
 
         if (string_begins_with(temp_date_str, "End "))
         {
@@ -194,8 +235,20 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
             temp_date_str.erase(0, strlen("Early "));
             string_trim(temp_date_str);
         }
+        else if (string_begins_with(temp_date_str, "Late "))
+        {
+            date_prefix = cLate;
+            temp_date_str.erase(0, strlen("Late "));
+            string_trim(temp_date_str);
+        }
+        else if (string_begins_with(temp_date_str, "Mid "))
+        {
+            date_prefix = cMiddleOf;
+            temp_date_str.erase(0, strlen("Mid "));
+            string_trim(temp_date_str);
+        }
 
-        f = date_str.find_first_of(',');
+        size_t f = date_str.find_first_of(',');
         uint32_t m;
         for (m = 0; m < 12; m++)
             if (string_begins_with(temp_date_str, g_months[m]))
@@ -223,7 +276,7 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
                         panic("Failed parsing date");
 
                     year = atoi(temp_date_str.c_str());
-                    if ((year <= 100) || (year > 2050))
+                    if ((year < 34) || (year > 2050))
                         panic("Failed parsing date");
                 }
                 else
@@ -237,7 +290,7 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
                         panic("Failed parsing date");
 
                     year = atoi(temp_date_str.c_str());
-                    if ((year <= 100) || (year > 2050))
+                    if ((year < 34) || (year > 2050))
                         panic("Failed parsing date");
                 }
             }
@@ -247,14 +300,14 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
                     panic("Failed parsing date");
 
                 year = atoi(temp_date_str.c_str());
-                if ((year <= 100) || (year > 2050))
+                if ((year < 34) || (year > 2050))
                     panic("Failed parsing date");
             }
 
         }
         else
         {
-            // The Magnonia data doesn't use the full range of prefixes we support.
+            // The Magonia data doesn't use the full range of prefixes we support.
             if (string_begins_with(temp_date_str, "Summer,"))
             {
                 date_prefix = cSummer;
@@ -265,6 +318,12 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
             {
                 date_prefix = cSpring;
                 temp_date_str.erase(0, strlen("Spring,"));
+                string_trim(temp_date_str);
+            }
+            else if (string_begins_with(temp_date_str, "Winter,"))
+            {
+                date_prefix = cWinter;
+                temp_date_str.erase(0, strlen("Winter,"));
                 string_trim(temp_date_str);
             }
             else if (string_begins_with(temp_date_str, "Fall,"))
@@ -285,12 +344,18 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
                 temp_date_str.erase(0, strlen("Early "));
                 string_trim(temp_date_str);
             }
+            else if (string_begins_with(temp_date_str, "Late "))
+            {
+                date_prefix = cLate;
+                temp_date_str.erase(0, strlen("Late "));
+                string_trim(temp_date_str);
+            }
 
             if (!isdigit(temp_date_str[0]))
                 panic("Failed parsing date");
 
             year = atoi(temp_date_str.c_str());
-            if ((year <= 100) || (year > 2050))
+            if ((year < 34) || (year > 2050))
                 panic("Failed parsing date");
         }
 
@@ -307,7 +372,7 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
         //    i, date_str.c_str(), (date_prefix >= 0) ? g_date_prefix_strings[date_prefix] : "", month, day, year, time_str.c_str(), location.c_str(), ref.c_str());
         //printf("%s\n", desc.c_str());
 
-        if (rec_index > 1)
+        if (rec_index > first_rec_index) //1)
             fprintf(pOut_file, ",\n");
 
         fprintf(pOut_file, "{\n");
@@ -317,11 +382,21 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
             fprintf(pOut_file, "%s ", g_date_prefix_strings[date_prefix]);
 
         if (month == -1)
-            fprintf(pOut_file, "%i", year);
+            fprintf(pOut_file, "%i%s", year, date_suffix.c_str());
         else if (day == -1)
+        {
+            if (date_suffix.size())
+                panic("Invalid date suffix");
+                
             fprintf(pOut_file, "%i/%i", month, year);
+        }
         else
+        {
+            if (date_suffix.size())
+                panic("Invalid date suffix");
+
             fprintf(pOut_file, "%i/%i/%i", month, day, year);
+        }
         fprintf(pOut_file, "\",\n");
 
         fprintf(pOut_file, "  \"desc\": \"%s\",\n", escape_string_for_json(desc).c_str());
@@ -335,11 +410,17 @@ bool convert_magnonia(const char* pSrc_filename, const char* pDst_filename, cons
         if (ref.size())
             fprintf(pOut_file, "  \"ref\": \"%s\",\n", escape_string_for_json(ref).c_str());
 
-        fprintf(pOut_file, "  \"source_id\" : \"Magnonia_%u\",\n", rec_index);
+        if (pSource_override)
+            fprintf(pOut_file, "  \"source_id\" : \"%s_%u\",\n", pSource_override, rec_index);
+        else
+            fprintf(pOut_file, "  \"source_id\" : \"Magonia_%u\",\n", rec_index);
 
-        fprintf(pOut_file, u8"  \"source\" : \"%s\",\n", pSource_override ? pSource_override : u8"ValléeMagnonia");
+        fprintf(pOut_file, u8"  \"source\" : \"%s\",\n", pSource_override ? pSource_override : u8"ValléeMagonia");
 
-        fprintf(pOut_file, "  \"type\" : \"ufo sighting\"\n");
+        if (pType_override)
+            fprintf(pOut_file, "  \"type\" : \"%s\"\n", pType_override);
+        else
+            fprintf(pOut_file, "  \"type\" : \"ufo sighting\"\n");
 
         fprintf(pOut_file, "}");
 
@@ -778,6 +859,77 @@ bool convert_hall()
             if (total_recs == MAX_RECS)
                 break;
         }
+    }
+
+    fprintf(pOut_file, "] }\n");
+    fclose(pOut_file);
+
+    return true;
+}
+
+bool convert_dolan(const char *pSrc_filename, const char *pDst_filename, const char *pSource, const char *pType, const char *pRef)
+{
+    string_vec lines;
+
+    if (!read_text_file(pSrc_filename, lines, true, nullptr))
+        panic("Can't read file %s", pSrc_filename);
+
+    uint32_t cur_line = 0;
+    uint32_t total_recs = 0;
+
+    FILE* pOut_file = ufopen(pDst_filename, "w");
+    if (!pOut_file)
+        panic("Can't open output file %s", pDst_filename);
+
+    fputc(UTF8_BOM0, pOut_file);
+    fputc(UTF8_BOM1, pOut_file);
+    fputc(UTF8_BOM2, pOut_file);
+
+    fprintf(pOut_file, "{\n");
+    fprintf(pOut_file, "\" %s Timeline\" : [\n", pSource);
+
+    while (cur_line < lines.size())
+    {
+        std::string rec(lines[cur_line]);
+        cur_line++;
+
+        string_trim(rec);
+        if (rec.empty())
+            panic("Encountered empty line");
+        if (rec.size() < 54)
+            panic("Line too small");
+        
+        std::string date_str(rec);
+        date_str = string_slice(date_str, 0, 16);
+        string_trim(date_str);
+
+        std::string location_str(string_slice(rec, 16, 36));
+        string_trim(location_str);
+
+        rec = string_slice(rec, 52);
+        string_trim(rec);
+                        
+        fprintf(pOut_file, "{\n");
+        fprintf(pOut_file, "  \"date\" : \"%s\",\n", date_str.c_str());
+        
+        fprintf(pOut_file, "  \"location\" : \"%s\",\n", escape_string_for_json(location_str).c_str());
+        fprintf(pOut_file, "  \"desc\" : \"%s\",\n", escape_string_for_json(rec).c_str());
+        
+        if (pType)
+            fprintf(pOut_file, "  \"type\" : \"%s\",\n", pType);
+
+        if (pRef)
+            fprintf(pOut_file, "  \"ref\" : \"%s\",\n", escape_string_for_json(pRef).c_str());
+
+        fprintf(pOut_file, "  \"source_id\" : \"%s_%u\",\n", pSource, total_recs);
+        fprintf(pOut_file, "  \"source\" : \"%s\"\n", pSource);
+                        
+        fprintf(pOut_file, "}");
+        if (cur_line < lines.size())
+            fprintf(pOut_file, ",");
+        fprintf(pOut_file, "\n");
+
+        total_recs++;
     }
 
     fprintf(pOut_file, "] }\n");
@@ -3388,8 +3540,8 @@ bool convert_nuk()
             event.m_key_value_data.push_back(std::make_pair("LocationLink", string_format("[Google Maps](https://www.google.com/maps/place/%s,%s)", x[cColLat].c_str(), x[cColLong].c_str())));
         }
 
-        event.m_refs.push_back("[\"columbia.edu: Worldwide Nuclear Explositions\", by Yang, North, Romney, and Richards](https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf)");
-        event.m_refs.push_back("[\"archive.org: Worldwide Nuclear Explositions\", by Yang, North, Romney, and Richards](https://web.archive.org/web/20220407121213/https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf)");
+        event.m_refs.push_back("[\"columbia.edu: Worldwide Nuclear Explosions\", by Yang, North, Romney, and Richards](https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf)");
+        event.m_refs.push_back("[\"archive.org: Worldwide Nuclear Explosions\", by Yang, North, Romney, and Richards](https://web.archive.org/web/20220407121213/https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf)");
 
         event.m_source = "NukeExplosions";
         event.m_source_id = event.m_source + string_format("_%u", event_id);
@@ -3679,4 +3831,855 @@ bool convert_anon()
     timeline.set_name("Anonymous 2023 PDF");
 
     return timeline.write_file("anon_pdf.json", true);
+}
+
+static void fix_rr0_urls(std::string& str, int year)
+{
+    if (!str.size())
+        return;
+
+    markdown_text_processor tp;
+    tp.init_from_markdown(str.c_str());
+    if (tp.m_used_unsupported_feature)
+        panic("Used a unsupported Markdown feature\n");
+
+    for (uint32_t i = 0; i < tp.m_links.size(); i++)
+    {
+        std::string& url = tp.m_links[i];
+
+        if (string_begins_with(url, "http"))
+            url = "https://web.archive.org/web/2005/" + url;
+        else if (url.size() && url[0] == '#')
+            url = string_format("https://web.archive.org/web/2005/http://rr0.org/%u.html", year) + url;
+        else
+            url = "https://web.archive.org/web/2005/http://rr0.org/" + url;
+    }
+
+    str.resize(0);
+    tp.convert_to_markdown(str, true);
+}
+
+static int md_convert(const char* pSrc_filename, int year, ufo_timeline& tm)
+{
+    string_vec src_file_lines;
+
+    if (!read_text_file(pSrc_filename, src_file_lines, true, nullptr))
+        return -1;
+
+    if ((year < 0) || (year > 3000))
+        panic("Invalid year\n");
+
+    uprintf("Read file %s\n", pSrc_filename);
+
+    uint32_t cur_line = 0;
+    string_vec cur_rec;
+    std::vector<string_vec> tran_recs;
+    while (cur_line < src_file_lines.size())
+    {
+        std::string l(src_file_lines[cur_line]);
+        string_trim(l);
+        if (l.size() >= 2)
+        {
+            if ((l[0] == '\"') && (l.back() == '\"'))
+            {
+                l.pop_back();
+                l.erase(0, 1);
+            }
+        }
+
+        l = string_replace(l, "\\[", "[");
+        l = string_replace(l, "\\]", "]");
+
+        bool has_dash = ((l.size() > 2) && (l[0] == '-') && (l[1] == ' '));
+
+        if (cur_rec.size() == 0)
+        {
+            if (has_dash)
+            {
+                cur_rec.push_back(l);
+            }
+            else if (l.size())
+            {
+                panic("Unrecognized text: %s at line %u\n", l.c_str(), cur_line + 1);
+            }
+        }
+        else
+        {
+            if (has_dash)
+            {
+                //uprintf("Record:\n");
+                //for (uint32_t i = 0; i < cur_rec.size(); i++)
+                //    uprintf("%s\n", cur_rec[i].c_str());
+
+                tran_recs.push_back(cur_rec);
+
+                cur_rec.resize(0);
+            }
+
+            cur_rec.push_back(l);
+        }
+
+        cur_line++;
+    }
+
+    if (cur_rec.size())
+    {
+        //uprintf("Record:\n");
+        //for (uint32_t i = 0; i < cur_rec.size(); i++)
+        //    uprintf("%s\n", cur_rec[i].c_str());
+
+        tran_recs.push_back(cur_rec);
+    }
+
+    uprintf("Found %zu records\n", tran_recs.size());
+
+    for (uint32_t rec_index = 0; rec_index < tran_recs.size(); rec_index++)
+    {
+        string_vec& rec = tran_recs[rec_index];
+
+        for (auto& str : rec)
+            string_trim(str);
+
+        while (rec.size())
+        {
+            if (rec[0].size())
+                break;
+            rec.erase(rec.begin());
+        }
+
+        while (rec.size())
+        {
+            if (rec.back().size())
+                break;
+            rec.erase(rec.begin() + rec.size() - 1);
+        }
+
+        if (rec.size())
+        {
+            if (rec[0][0] != '-')
+                panic("Invalid record\n");
+
+            rec[0].erase(0, 1);
+            string_trim(rec[0]);
+        }
+    }
+
+    event_date cur_date;
+    cur_date.m_year = year;
+
+    for (uint32_t rec_index = 0; rec_index < tran_recs.size(); rec_index++)
+    {
+        string_vec& rec = tran_recs[rec_index];
+
+        if (!rec.size())
+            continue;
+
+        //uprintf("----------------\n");
+
+        timeline_event timeline_evt;
+
+        std::string& first_line = rec[0];
+
+        if (string_find_first(first_line, "***") >= 0)
+            panic("Invalid Markdown\n");
+
+        if (first_line[0] == '-')
+            panic("Line has multiple dashes\n");
+
+        std::string event_time;
+
+        if (string_begins_with(first_line, "**"))
+        {
+            std::string event_date(first_line);
+            event_date.erase(0, 2);
+
+            int end_ofs = string_find_first(event_date, "**");
+            if (end_ofs < 0)
+                panic("Invalid Markdown\n");
+
+            first_line = event_date;
+            first_line.erase(0, end_ofs + 2);
+            if (first_line.size() && (first_line[0] == ':'))
+                first_line.erase(0, 1);
+            string_trim(first_line);
+
+            event_date.erase(event_date.begin() + end_ofs, event_date.end());
+
+            if (event_date.size() && (event_date.back() == ':'))
+                event_date.pop_back();
+            string_trim(event_date);
+
+            event_time = event_date;
+
+            string_vec tokens;
+            string_tokenize(event_date, " ", ",:()?:-", tokens);
+
+            if (tokens.size() && (tokens.back() == ":"))
+                tokens.pop_back();
+
+            for (auto& str : tokens)
+                str = string_lower(str);
+
+            int month_index = -1, month_tok_index = -1, prefix_index = -1;
+
+            for (uint32_t j = 0; j < tokens.size(); j++)
+            {
+                std::string& str = tokens[j];
+                assert(str.size());
+
+                month_index = determine_month(str, false);
+                if (month_index >= 0)
+                {
+                    month_tok_index = j;
+                    break;
+                }
+                else if (str == "mars")
+                {
+                    month_index = 2;
+                    month_tok_index = j;
+                    break;
+                }
+            }
+
+            if (month_index >= 0)
+            {
+                int day_index = -1;
+
+                if (month_tok_index >= 1)
+                {
+                    std::string& prefix_str = tokens[month_tok_index - 1];
+                    if (isdigit(prefix_str[0]))
+                    {
+                        day_index = atoi(prefix_str.c_str());
+                        if ((day_index < 1) || (day_index > 31))
+                            panic("Invalid day\n");
+                    }
+                }
+
+                if ((day_index < 0) && ((month_tok_index + 1) < tokens.size()))
+                {
+                    std::string& suffix_str = tokens[month_tok_index + 1];
+                    if (isdigit(suffix_str[0]))
+                    {
+                        bool is_time = false;
+                        if ((month_tok_index + 2) < tokens.size())
+                        {
+                            is_time = (tokens[month_tok_index + 2] == ":");
+                        }
+
+                        if (!is_time)
+                        {
+                            day_index = atoi(suffix_str.c_str());
+                            if ((day_index < 1) || (day_index > 31))
+                                panic("Invalid day\n");
+                        }
+                    }
+                }
+
+                if ((day_index < 0) && (month_index >= 1))
+                {
+                    if (month_tok_index > 0)
+                    {
+                        prefix_index = determine_prefix(event_date, true);
+
+                        if (prefix_index < 0)
+                            panic("Invalid date");
+                    }
+                }
+
+                cur_date.m_month = month_index + 1;
+                cur_date.m_prefix = (date_prefix_t)prefix_index;
+
+                if (day_index != -1)
+                    cur_date.m_day = day_index;
+                else
+                    cur_date.m_day = -1;
+            }
+            else
+            {
+                for (uint32_t j = 0; j < tokens.size(); j++)
+                {
+                    std::string& str = tokens[j];
+                    assert(str.size());
+
+                    prefix_index = determine_prefix(str, false);
+                    if (prefix_index >= 0)
+                        break;
+                }
+
+                if (prefix_index == -1)
+                {
+                    if (tokens.size() == 1)
+                    {
+                        if ((string_ends_in(tokens[0], "am")) || (string_ends_in(tokens[0], "pm")) ||
+                            (tokens[0] == "evening") || (tokens[0] == "morning") || (tokens[0] == "night") || (tokens[0] == "afternoon"))
+                        {
+                        }
+                        else
+                        {
+                            panic("Unrecognized date");
+                        }
+                    }
+                }
+                else
+                {
+                    cur_date.m_day = -1;
+                    cur_date.m_month = -1;
+                    cur_date.m_prefix = (date_prefix_t)prefix_index;
+                }
+            }
+
+            //uprintf("%s: %i/%i/%i prefix: %i\n", event_date.c_str(), cur_date.m_month, cur_date.m_day, cur_date.m_year, cur_date.m_prefix);
+        }
+        else
+        {
+            //uprintf("%i/%i/%i prefix: %i\n", cur_date.m_month, cur_date.m_day, cur_date.m_year, cur_date.m_prefix);
+        }
+
+        if (!rec[0].size())
+            rec.erase(rec.begin());
+
+        if (rec.size() && rec[0].size())
+        {
+            if (rec[0][0] == ':')
+            {
+                rec[0].erase(0, 1);
+                string_trim(rec[0]);
+            }
+        }
+
+        if (rec.size())
+        {
+            std::string rec_text("(Translated from French)");
+
+            for (uint32_t i = 0; i < rec.size(); i++)
+            {
+                if (rec_text.size())
+                {
+                    if (rec_text.back() != '-')
+                        rec_text.push_back(' ');
+                }
+
+                rec_text += rec[i];
+            }
+
+            const char* pSource_str = "{.source}";
+            const uint32_t source_len = (uint32_t)strlen(pSource_str);
+
+            for (; ; )
+            {
+                int source_ofs = string_find_first(rec_text.c_str(), pSource_str);
+                if (source_ofs < 0)
+                    break;
+
+                int start_ofs = source_ofs - 1;
+                if (start_ofs < 0)
+                    panic("Invalid .source\n");
+
+                if (rec_text[start_ofs] != ']')
+                    panic("Invalid .source\n");
+
+                start_ofs--;
+                if (start_ofs < 0)
+                    panic("Invalid .source\n");
+
+                int in_bracket_counter = 1;
+                while ((start_ofs >= 0) && (in_bracket_counter > 0))
+                {
+                    if (rec_text[start_ofs] == ']')
+                        in_bracket_counter++;
+                    else if (rec_text[start_ofs] == '[')
+                        in_bracket_counter--;
+
+                    start_ofs--;
+                }
+
+                if (in_bracket_counter != 0)
+                    panic("Invalid .source\n");
+
+                int s = start_ofs + 1;
+                int e = source_ofs + (int)source_len;
+                int l = e - s;
+
+                std::string ref(string_slice(rec_text, s, l));
+
+                if ((e < rec_text.size()) && ((rec_text[e] == '.') || (rec_text[e] == ']')))
+                {
+                    while (s > 0)
+                    {
+                        if ((rec_text[s - 1] != ' ') && (rec_text[s - 1] != '['))
+                            break;
+                        s--;
+                        l++;
+                    }
+                }
+
+                if ((e < rec_text.size()) && (rec_text[e] == ']'))
+                {
+                    e++;
+                    l++;
+                }
+
+                rec_text.erase(s, l);
+
+                ref.erase(ref.size() - source_len, source_len);
+
+                bool removed_back_bracket = false;
+                while (ref.size() && (ref.back() == ']'))
+                {
+                    ref.pop_back();
+                    removed_back_bracket = true;
+                }
+
+                bool removed_front_bracket = false;
+                while (ref.size() && (ref[0] == '['))
+                {
+                    ref.erase(0, 1);
+                    removed_front_bracket = true;
+                }
+
+                if (removed_front_bracket)
+                {
+                    for (uint32_t i = 0; i < ref.size(); i++)
+                    {
+                        if (ref[i] == '[')
+                            break;
+
+                        if (ref[i] == ']')
+                        {
+                            ref = "[" + ref;
+                            break;
+                        }
+                    }
+                }
+
+                if (removed_back_bracket)
+                {
+                    for (int i = (int)ref.size() - 1; i >= 0; --i)
+                    {
+                        if (ref[i] == '[')
+                        {
+                            ref += "]";
+                            break;
+                        }
+
+                        if (ref[i] == ']')
+                            break;
+                    }
+                }
+
+                fix_rr0_urls(ref, year);
+
+                //uprintf("Ref: \"%s\"\n", ref.c_str());
+
+                timeline_evt.m_refs.push_back(ref);
+            }
+
+            //rec_text = string_replace(rec_text, "[]", "");
+            if (string_ends_in(rec_text, "["))
+                rec_text.pop_back();
+
+            string_trim(rec_text);
+
+            fix_rr0_urls(rec_text, year);
+
+            if (event_time.size())
+                rec_text += " (" + event_time + ")";
+
+            //uprintf("%s\n", rec_text.c_str());
+            if (!rec_text.size())
+                panic("No description\n");
+
+            timeline_evt.m_desc = rec_text;
+            timeline_evt.m_begin_date = cur_date;
+            timeline_evt.m_date_str = cur_date.get_string();
+            timeline_evt.m_source = "rr0";
+            timeline_evt.m_source_id = string_format("rr0_%u", (uint32_t)tm.get_events().size());
+            timeline_evt.m_refs.push_back(string_format(u8"[rr0 - Beau](https://web.archive.org/web/20040704025950/http://www.rr0.org/%u.html)", year));
+
+            tm.get_events().push_back(timeline_evt);
+        }
+
+    } // rec_index
+
+    tm.set_name("rr0");
+
+    uprintf("Success\n");
+
+    return 1;
+}
+
+const uint32_t NUM_EXPECTED_RR0_YEARS = 248;
+
+bool convert_rr0()
+{
+    uint32_t total_years = 0;
+    ufo_timeline tm;
+    for (int year = 0; year <= 2002; year++)
+    {
+        std::string filename = string_format("rr0/tran%u.md", year);
+
+        int status = md_convert(filename.c_str(), year, tm);
+        if (status == -1)
+        {
+            //uprintf("Skipping year - not found\n");
+            continue;
+        }
+
+        if (status == 0)
+            panic("md_convert() failed!\n");
+
+        total_years++;
+    }
+
+    tm.write_file("rr0.json");
+
+    uprintf("Processed %u years\n", total_years);
+        
+    return total_years >= NUM_EXPECTED_RR0_YEARS;
+}
+
+static bool overmeire_convert(const std::string& in_filename, ufo_timeline& tm)
+{
+    string_vec src_file_lines;
+
+    if (!read_text_file(in_filename.c_str(), src_file_lines, true, nullptr))
+        panic("Failed reading source file %s\n", in_filename.c_str());
+
+    uprintf("----------------------- Read file %s\n", in_filename.c_str());
+
+    if (src_file_lines.size() < 3)
+        panic("File too small\n");
+
+    if (!src_file_lines[0].size() || src_file_lines[0][0] != '!')
+        panic("Invalid file\n");
+    if (!src_file_lines[1].size() || src_file_lines[1][0] != '!')
+        panic("Invalid file\n");
+
+    const int first_year = atoi(src_file_lines[0].c_str() + 1);
+    const int last_year = atoi(src_file_lines[1].c_str() + 1);
+
+    if (!first_year || !last_year || (first_year > last_year))
+        panic("Invalid header");
+
+    uint32_t cur_line = 2;
+    string_vec cur_rec;
+    std::vector<string_vec> tran_recs;
+    while (cur_line < src_file_lines.size())
+    {
+        std::string l(src_file_lines[cur_line]);
+        string_trim(l);
+
+        const bool has_dash = (l.size() > 2) && (l[0] == '#');
+
+        if (has_dash)
+        {
+            int y = atoi(l.c_str() + 1);
+            if (y)
+            {
+                if ((y < first_year) || (y > last_year))
+                    panic("Invalid year\n");
+            }
+        }
+        else if (l.size() && uisdigit(l[0]))
+        {
+            int y = atoi(l.c_str());
+            if ((y) && (y >= first_year) && (y <= last_year))
+                uprintf("Suspicious year at line %u\n", cur_line + 1);
+        }
+
+        if (cur_rec.size() == 0)
+        {
+            if (has_dash)
+            {
+                cur_rec.push_back(src_file_lines[cur_line]);
+            }
+            else
+            {
+                panic("Unrecognized text: %s at line %u\n", src_file_lines[cur_line].c_str(), cur_line + 1);
+            }
+        }
+        else
+        {
+            if (has_dash)
+            {
+                tran_recs.push_back(cur_rec);
+
+                cur_rec.resize(0);
+            }
+
+            cur_rec.push_back(src_file_lines[cur_line]);
+        }
+
+        cur_line++;
+    }
+
+    if (cur_rec.size())
+        tran_recs.push_back(cur_rec);
+
+    uprintf("Found %zu records\n", tran_recs.size());
+
+    int prev_year = -1;
+    for (uint32_t rec_index = 0; rec_index < tran_recs.size(); rec_index++)
+    {
+        const string_vec& strs = tran_recs[rec_index];
+        if (strs.size() < 3)
+            panic("Invalid record\n");
+
+        string_vec tokens;
+        string_tokenize(strs[0], " ", "#,:()?:-", tokens);
+
+        if (tokens.size() && tokens.front() == "#")
+            tokens.erase(tokens.begin());
+
+        if (tokens.size() && (tokens.back() == ":"))
+            tokens.pop_back();
+
+        for (auto& str : tokens)
+            str = string_lower(str);
+
+        int year = -1, year_tok_index = -1;
+        for (year_tok_index = 0; year_tok_index < tokens.size(); year_tok_index++)
+        {
+            int y = atoi(tokens[year_tok_index].c_str());
+            if ((y > 0) && (y >= first_year) && (y <= last_year))
+            {
+                year = y;
+                break;
+            }
+        }
+        if (year < 0)
+            panic("Can't find year\n");
+
+        if (year < prev_year)
+            panic("Year out of order\n");
+
+        const bool plural = string_ends_in(tokens[year_tok_index].c_str(), "s");
+
+        tokens.erase(tokens.begin() + year_tok_index);
+
+        int month_index = -1, month_tok_index = -1, prefix_index = -1;
+
+        for (uint32_t j = 0; j < tokens.size(); j++)
+        {
+            std::string& str = tokens[j];
+            assert(str.size());
+
+            month_index = determine_month(str, false);
+            if (month_index >= 0)
+            {
+                month_tok_index = j;
+                break;
+            }
+            else if (str == "mars")
+            {
+                month_index = 2;
+                month_tok_index = j;
+                break;
+            }
+        }
+
+        event_date cur_date;
+        cur_date.m_year = year;
+        cur_date.m_plural = plural;
+
+        int day_index = -1;
+
+        if (month_index >= 0)
+        {
+            cur_date.m_month = month_index + 1;
+
+            if (month_tok_index >= 1)
+            {
+                std::string& prefix_str = tokens[month_tok_index - 1];
+                if (isdigit(prefix_str[0]))
+                {
+                    day_index = atoi(prefix_str.c_str());
+                    if ((day_index < 1) || (day_index > 31))
+                        panic("Invalid day\n");
+                }
+            }
+
+            if ((day_index < 0) &&
+                ((month_tok_index + 1) < tokens.size()))
+            {
+                std::string& suffix_str = tokens[month_tok_index + 1];
+                if (isdigit(suffix_str[0]))
+                {
+                    bool is_time = false;
+                    if ((month_tok_index + 2) < tokens.size())
+                    {
+                        is_time = (tokens[month_tok_index + 2] == ":");
+                    }
+
+                    if (!is_time)
+                    {
+                        day_index = atoi(suffix_str.c_str());
+                        if ((day_index < 1) || (day_index > 31))
+                            panic("Invalid day\n");
+                    }
+                }
+            }
+
+            if (day_index != -1)
+                cur_date.m_day = day_index;
+        }
+
+        if (day_index < 0)
+        {
+            uint32_t i;
+            for (i = 0; i < NUM_DATE_PREFIX_STRINGS; i++)
+            {
+                if (string_ifind_first(strs[0], g_date_prefix_strings[i]) >= 0)
+                {
+                    prefix_index = i;
+                    break;
+                }
+            }
+
+            if (prefix_index < 0)
+            {
+                if (string_ifind_first(strs[0], "beginning of") >= 0)
+                    prefix_index = cEarly;
+            }
+        }
+
+        if ((string_ifind_first(strs[0], "approx") >= 0) ||
+            (string_ifind_first(strs[0], "around") >= 0) ||
+            (string_ifind_first(strs[0], "inaccurate") >= 0) ||
+            (string_ifind_first(strs[0], "unknown") >= 0) ||
+            (string_ifind_first(strs[0], "no precise") >= 0) ||
+            (string_ifind_first(strs[0], "unspecified") >= 0) ||
+            (string_ifind_first(strs[0], "supposed") >= 0) ||
+            (strs[0].find_first_of('?') != std::string::npos))
+            cur_date.m_approx = true;
+
+        cur_date.m_prefix = (date_prefix_t)prefix_index;
+
+        //printf("%s = %s\n", strs[0].c_str(), cur_date.get_string().c_str());
+
+        if (strs.size() < 3)
+            panic("Invalid record\n");
+
+        std::string rec_text;
+
+        std::string loc_text(strs[1]);
+        if (loc_text.size() && (loc_text.back() == ';'))
+            loc_text.pop_back();
+
+        for (uint32_t i = 2; i < strs.size(); i++)
+        {
+            if (rec_text.size())
+            {
+                if (rec_text.back() != '-')
+                    rec_text.push_back(' ');
+            }
+
+            rec_text += strs[i];
+        }
+
+        string_trim(rec_text);
+
+        if (string_ends_in(rec_text, ")."))
+        {
+            //uprintf("--- %s\n", rec_text.c_str());
+            rec_text.pop_back();
+        }
+
+        if (!rec_text.size())
+            panic("No description");
+
+        string_vec refs;
+        string_vec notes;
+        while (rec_text.size() && rec_text.back() == ')')
+        {
+            int in_bracket_counter = 1;
+            int start_ofs = (int)rec_text.size() - 2;
+            while ((start_ofs >= 0) && (in_bracket_counter > 0))
+            {
+                if (rec_text[start_ofs] == ')')
+                    in_bracket_counter++;
+                else if (rec_text[start_ofs] == '(')
+                    in_bracket_counter--;
+
+                start_ofs--;
+            }
+
+            if (in_bracket_counter != 0)
+                panic("Invalid ref\n");
+
+            std::string ref_str(string_slice(rec_text, start_ofs + 1));
+            if (ref_str == "(...)")
+                break;
+            ref_str.erase(0, 1);
+            ref_str.pop_back();
+            if ( (string_begins_with(ref_str, "note from vog")) ||
+                 (string_begins_with(ref_str, "note of vog")) ||
+                 (string_begins_with(ref_str, "vog:")) )
+                notes.push_back(ref_str);
+            else
+                refs.push_back(ref_str);
+
+            rec_text = string_slice(rec_text, 0, start_ofs + 1);
+            string_trim(rec_text);
+        }
+
+        for (auto& str : notes)
+            rec_text += " [" + str + "]";
+
+        if (!rec_text.size())
+            panic("No description");
+
+        if (!cur_date.sanity_check())
+            panic("Invalid date");
+
+        timeline_event evt;
+        evt.m_begin_date = cur_date;
+        evt.m_date_str = cur_date.get_string();
+        evt.m_locations.push_back(loc_text);
+        evt.m_desc = "(Translated from French) " + rec_text;
+        evt.m_refs = refs;
+        evt.m_source = "Overmeire";
+        evt.m_source_id = string_format("Overmeire_%zu", tm.get_events().size());
+        evt.m_refs.push_back("[_Mini catalogue chronologique des observations OVNI_, by Godelieve Van Overmeire](https://web.archive.org/web/20060107070423/http://users.skynet.be/sky84985/chrono.html)");
+        
+        std::string trial_date(string_format("#%u", year));
+        if (cur_date.m_month >= 1)
+        {
+            trial_date += string_format(", %s", g_full_months[cur_date.m_month - 1]);
+            if (cur_date.m_day >= 1)
+                trial_date += string_format(" %u", cur_date.m_day);
+        }
+        if (trial_date != strs[0])
+            evt.m_desc += " (" + string_slice(strs[0], 1) + ")";
+        
+        tm.get_events().push_back(evt);
+
+        prev_year = year;
+    }
+
+    tm.set_name("Overmeire");
+
+    return true;
+}
+
+bool convert_overmeire()
+{
+    ufo_timeline tm;
+    for (int index = 1; index <= 28; index++)
+    {
+        std::string in_filename = string_format("overmeiere/tran_chron%i.txt", index);
+
+        if (!does_file_exist(in_filename.c_str()))
+        {
+            uprintf("Skipping file %s - doesn't exists\n", in_filename.c_str());
+            continue;
+        }
+
+        if (!overmeire_convert(in_filename, tm))
+            panic("overmeire_convert() failed!\n");
+
+    }
+    tm.write_file("overmeire.json");
+    return true;
 }

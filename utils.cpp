@@ -1,6 +1,8 @@
-// utils.cpp
+﻿// utils.cpp
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "utils.h"
+#include "utf8.h"
+#include "stem.h"
 
 std::string combine_strings(std::string a, const std::string& b)
 {
@@ -265,7 +267,7 @@ int string_ifind_first(const std::string& str, const char* pPhrase)
     for (size_t ofs = 0; ofs <= end_ofs; ofs++)
     {
         assert(ofs + phrase_size <= str_size);
-        if (_stricmp(str.c_str() + ofs, pPhrase) == 0)
+        if (_strnicmp(str.c_str() + ofs, pPhrase, phrase_size) == 0)
             return (int)ofs;
     }
     
@@ -552,7 +554,7 @@ bool read_text_file(const char* pFilename, std::vector<uint8_t>& buf, bool *pUTF
     return true;
 }
 
-bool write_text_file(const char* pFilename, string_vec& lines, bool utf8_bom)
+bool write_text_file(const char* pFilename, const string_vec& lines, bool utf8_bom)
 {
     FILE* pFile = ufopen(pFilename, "wb");
     if (!pFile)
@@ -984,6 +986,43 @@ bool invoke_openai(const std::string& prompt, std::string& reply)
     return true;
 }
 
+bool invoke_openai(const string_vec &prompt, string_vec &reply)
+{
+    reply.clear();
+
+    if (!write_text_file("i.txt", prompt, true))
+        return false;
+
+    // Invoke openai.exe
+    const uint32_t MAX_TRIES = 3;
+    uint32_t num_tries;
+    
+    for (num_tries = 0; num_tries < MAX_TRIES; ++num_tries)
+    {
+        if (num_tries)
+            uprintf("openai.exe failed - retrying\n");
+
+        int status = system("openai.exe i.txt o.txt");
+        if (status == EXIT_SUCCESS)
+            break;
+        Sleep(2000);
+    }
+
+    if (num_tries == MAX_TRIES)
+        return false;
+
+    // Read output file.
+    if (!read_text_file("o.txt", reply, true, nullptr))
+    {
+        // Wait a bit and try again, rarely needed under Windows.
+        Sleep(50);
+        if (!read_text_file("o.txt", reply, true, nullptr))
+            return false;
+    }
+
+    return true;
+}
+
 std::string get_deg_to_dms(double deg)
 {
     deg = std::round(fabs(deg) * 3600.0f);
@@ -1186,7 +1225,8 @@ int get_next_utf8_code_point_len(const uint8_t* pStr)
 void get_string_words(
     const std::string& str,
     string_vec& words,
-    uint_vec* pOffsets_vec)
+    uint_vec* pOffsets_vec,
+    const char* pAdditional_whitespace)
 {
     const uint8_t* pStr = (const uint8_t *)str.c_str();
 
@@ -1196,7 +1236,9 @@ void get_string_words(
 
     std::string cur_token;
 
-    const std::string whitespace(" \t\n\r,;:.!?()[]*/\"");
+    std::string whitespace(" \t\n\r,;:.!?()[]*/\"");
+    if (pAdditional_whitespace)
+        whitespace += std::string(pAdditional_whitespace);
     
     int word_start_ofs = -1;
     
@@ -1234,7 +1276,7 @@ void get_string_words(
             if (pStr[cur_ofs + 2] == 0x93)
                 is_whitespace = true;
             // dash
-            if (pStr[cur_ofs + 2] == 0x94)
+            else if (pStr[cur_ofs + 2] == 0x94)
                 is_whitespace = true;
             // left quote
             else if (pStr[cur_ofs + 2] == 0x9C)
@@ -1315,3 +1357,369 @@ void get_utf8_code_point_offsets(const char* pStr, int_vec& offsets)
         cur_ofs += std::max<int>(1, get_next_utf8_code_point_len((const uint8_t*)pStr + cur_ofs));
     }
 }
+
+struct char_map
+{
+    const char32_t* m_pFrom;
+    const char m_to;
+};
+
+static const char_map g_char_norm_up[] =
+{
+    { U"ÁĂẮẶẰẲẴǍÂẤẬẦẨẪÄǞȦǠẠȀÀẢȂĀĄÅǺḀÃǼǢȺΆ", 'A' },
+    { U"ḂḄḆƁƂƄ", 'B' },
+    { U"ĆČÇḈĈĊƇȻƆ", 'C' },
+    { U"ĎḐḒḊḌḎĐƉƊƋǱǲǄ", 'D' },
+    { U"ÉĔĚȨḜÊẾỆỀỂỄḘËĖẸȄÈẺȆĒḖḔĘẼḚÈÊËĒĔĖĘĚƐƎƏȄȆȨΈΉΕƐƐ", 'E' },
+    { U"ḞƑ", 'F' },
+    { U"ǴĞǦĢĜĠḠĜĞĠĢƓǤǦǴƔ", 'G' },
+    { U"ḪȞḨĤḦḢḤĤĦǶȞΗǶ", 'H' },
+    { U"ÍĬǏÎÏḮİỊȈÌỈȊĪĮĨḬÌÍÎÏĨĪĬĮİƗǏȈȊ", 'I' },
+    { U"ĴĴ", 'J' },
+    { U"ḰǨĶḲḴĶƘǨΚ", 'K' },
+    { U"ĹĽĻḼḶḸḺĹĻĽĿŁΛ", 'L' },
+    { U"ḾṀṂƜ", 'M' },
+    { U"ŃŇŅṊṄṆǸṈÑÑŃŅŇŊƝǸΝ", 'N' },
+    { U"ÓŎǑÔỐỘỒỔỖÖȪȮȰỌŐȌÒỎƠỚỢỜỞỠȎŌṒṐǪǬÕṌṎȬǾØÒÓÔÕÖØŌŎŐƟƠǑǪǬǾȌȎȪȬȮȰΌΟΩ", 'O' },
+    { U"ṔṖΠΡΦ", 'P' },
+    { U"ŔŘŖṘṚṜȐȒṞŔŖŘƦȐȒ", 'R' },
+    { U"ŚṤŠṦŞŜȘṠṢṨßŚŜŞŠƩȘΣ", 'S' },
+    { U"ŤŢṰȚṪṬṮŢŤŦƬƮȚΤ", 'T' },
+    { U"ÚŬǓÛṶÜǗǙǛǕṲỤŰȔÙỦƯỨỰỪỬỮȖŪṺŲŮŨṸṴÙÚÛÜŨŪŬŮŰŲƯǓǕǗǙǛȔȖ", 'U' },
+    { U"ṾṼƲ", 'V' },
+    { U"ẂŴẄẆẈẀŴ", 'W' },
+    { U"ẌẊΧΞ", 'X' },
+    { U"ÝŶŸẎỴỲỶȲỸÝŶŸƳȲΥΎΫ", 'Y' },
+    { U"ŹŽẐŻẒẔŹŻŽƵƷǮȤΖ", 'Z' },
+};
+
+static const char_map g_char_norm_lower[] =
+{
+    { U"áăắặằẳẵǎâấậầẩẫäǟȧǡạȁàảȃāąåǻḁãǽǣⱥάàáâãäåāăąǎǟǡǻȁȃȧάα", 'a' },
+    { U"ḃḅḇɓƃƅƀƃβƀƃƅ", 'b' },
+    { U"ćčçḉĉċƈȼɔƈçćĉċčƈȼ", 'c' },
+    { U"ďḑḓḋḍḏđɖɗƌǳǳǆƌďđƌǳǆȡďđƌǳǆȡ", 'd' },
+    { U"éĕěȩḝêếệềểễḙëėẹȅèẻȇēḗḕęẽḛèêëēĕėęěɛǝəȅȇȩέήεɛɛèéêëēĕėęěȅȇȩε", 'e' },
+    { U"ḟƒ", 'f' },
+    { U"ǵğǧģĝġḡĝğġģɠǥǧǵɣĝğġģǧǵ", 'g' },
+    { U"ḫȟḩĥḧḣḥẖĥħƕƕȟƕĥħȟ", 'h' },
+    { U"íĭǐîïḯiịȉìỉȋīįĩḭìíîïĩīĭįiɨǐȉȋìíîïĩīĭįǐȉȋι", 'i' },
+    { U"ǰĵĵǰĵǰ", 'j' },
+    { U"ḱǩķḳḵķƙǩκƙķƙǩκ", 'k' },
+    { U"ĺľļḽḷḹḻĺļľŀłƚƛλƚĺļľŀłƚλƚ", 'l' },
+    { U"ḿṁṃɯ", 'm' },
+    { U"ńňņṋṅṇǹṉññńņňŋɲǹνƞñńņňŉŋƞǹη", 'n' },
+    { U"óŏǒôốộồổỗöȫȯȱọőȍòỏơớợờởỡȏōṓṑǫǭõṍṏȭǿøòóôõöøōŏőɵơǒǫǭǿȍȏȫȭȯȱόοòóôõöøōŏőơǒǫǭǿȍȏȫȭȯȱοσ", 'o' },
+    { U"ṕṗπφƥ", 'p' },
+    { U"ŕřŗṙṛṝȑȓṟŕŗřʀȑȓρŕŗřȑȓρ", 'r' },
+    { U"śṥšṧşŝșṡẛṣṩśŝşšʃșƨśŝşšșƨȿ", 's' },
+    { U"ťţṱțẗṫṭṯţťŧƭʈțτƫţťŧƭțτ", 't' },
+    { U"úŭǔûṷüǘǚǜǖṳụűȕùủưứựừửữȗūṻųůũṹṵùúûüũūŭůűųưǔǖǘǚǜȕȗưùúûüũūŭůűųưǔǖǘǚǜȕȗμ", 'u' },
+    { U"ṿṽʋ", 'v' },
+    { U"ẃŵẅẇẉẁẘŵŵω", 'w' },
+    { U"ẍẋχξχξ", 'x' },
+    { U"ýŷÿẏỵỳỷȳẙỹýŷÿƴȳυύϋƴýÿŷƴȳγψ", 'y' },
+    { U"źžẑżẓẕźżžƶʒǯȥζƶźżžƶƹȥζ", 'z' },
+};
+
+std::map<int, int> g_upper_trans;
+std::map<int, int> g_lower_trans;
+
+static const char* g_stop_words[] =
+{
+    "a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "as",
+    "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "can",
+    "could", "did", "do", "does", "doing", "down", "during", "each", "few", "for", "from",
+    "further", "had", "has", "have", "having", "he", "her", "here", "hers", "herself", "him", "himself",
+    "his", "how", "i", "if", "in", "into", "is", "it", "its", "itself", "just", "me", "more", "most",
+    "my", "myself", "no", "nor", "not", "now", "of", "off", "on", "once", "only", "or", "other", "our",
+    "ours", "ourselves", "out", "over", "own", "re", "same", "she", "should", "so", "some", "such",
+    "than", "that", "the", "their", "theirs", "them", "themselves", "then", "there", "these", "they",
+    "this", "those", "through", "to", "too", "under", "until", "up", "very", "was", "we", "were", "what",
+    "when", "where", "which", "while", "who", "whom", "why", "will", "with", "you", "your", "yours",
+    "yourself", "yourselves", "although", "also", "already", "another", "seemed", "seem", "seems"
+};
+static const uint32_t NUM_STOP_WORDS = (uint32_t)std::size(g_stop_words);
+
+std::set<std::string> g_stop_words_set;
+
+void init_norm()
+{
+    g_stop_words_set.clear();
+    for (const auto& str : g_stop_words)
+        g_stop_words_set.insert(str);
+
+    for (uint32_t i = 0; i < std::size(g_char_norm_up); i++)
+    {
+        const char32_t* pFrom = g_char_norm_up[i].m_pFrom;
+        char to_char = g_char_norm_up[i].m_to;
+
+        while (*pFrom)
+        {
+            char32_t fc = *pFrom++;
+
+            auto f = g_upper_trans.find(fc);
+            if (f != g_upper_trans.end())
+            {
+                if (f->second != to_char)
+                {
+                    uprintf("Upper char %u 0x%x is redundant\n", fc, fc);
+                    exit(1);
+                }
+            }
+
+            g_upper_trans[fc] = to_char;
+        }
+    }
+
+    for (uint32_t i = 0; i < std::size(g_char_norm_lower); i++)
+    {
+        const char32_t* pFrom = g_char_norm_lower[i].m_pFrom;
+        char to_char = g_char_norm_lower[i].m_to;
+
+        while (*pFrom)
+        {
+            char32_t fc = *pFrom++;
+
+            auto f = g_upper_trans.find(fc);
+            if (f != g_upper_trans.end())
+            {
+                uprintf("Lower char %u 0x%x is in the upper table\n", fc, fc);
+
+                if (utolower((uint8_t)f->second) != to_char)
+                    uprintf("Conversion mismatch %u 0x%x\n", fc, fc);
+
+                //exit(1);
+            }
+
+            f = g_lower_trans.find(fc);
+            if (f != g_lower_trans.end())
+            {
+                if (f->second != to_char)
+                {
+                    uprintf("Lower char %u 0x%x is redundant\n", fc, fc);
+                    exit(1);
+                }
+            }
+
+            g_lower_trans[fc] = to_char;
+        }
+    }
+}
+
+// Resulting characters are guaranteed to be <128 - useful for searching purposes. 
+// Unrecognized Unicode characters are deleted.
+void normalize_diacritics(const char* pStr, std::string& res)
+{
+    assert(g_stop_words_set.size());
+
+    res.resize(0);
+
+    while (*pStr)
+    {
+        int l = get_next_utf8_code_point_len((const uint8_t*)pStr);
+        const uint8_t c = *pStr;
+
+        utf8_int32_t cp;
+        char* pStr_next = utf8codepoint(pStr, &cp);
+
+        assert((pStr_next - pStr) == l);
+
+        if (cp < 128)
+        {
+            res.push_back((char)cp);
+            pStr = pStr_next;
+            continue;
+        }
+
+        int new_char = -1;
+
+        auto u_it = g_upper_trans.find(cp);
+        auto l_it = g_lower_trans.find(cp);
+
+        if (u_it != g_upper_trans.end())
+            new_char = u_it->second;
+        else if (l_it != g_lower_trans.end())
+            new_char = l_it->second;
+        else
+        {
+            // FIXME: this is lame, it parses the utf8 directly.
+
+            if ((l == 2) && (c == 0xc2))
+            {
+                // NO-BREAK SPACE
+                if ((uint8_t)pStr[1] == 0xa0)
+                    new_char = ' ';
+            }
+
+            if ((l == 2) && (c == 0xCA))
+            {
+                // single left quote
+                if ((uint8_t)pStr[1] == 0xBB)
+                    new_char = '\'';
+            }
+
+            if ((l == 3) && (c == 0xE2) && ((uint8_t)pStr[1] == 0x80))
+            {
+                // dash
+                if ((uint8_t)pStr[2] == 0x93)
+                    new_char = '-';
+                // dash
+                else if ((uint8_t)pStr[2] == 0x94)
+                    new_char = '-';
+                // left quote
+                else if ((uint8_t)pStr[2] == 0x9C)
+                    new_char = '"';
+                // right quote
+                else if ((uint8_t)pStr[2] == 0x9D)
+                    new_char = '"';
+                // ellipsis (three dots)
+                else if ((uint8_t)pStr[2] == 0xA)
+                    new_char = '.';
+                // ellipsis (three dots)
+                else if ((uint8_t)pStr[2] == 0xA6)
+                    new_char = '.';
+                // long dash
+                else if ((uint8_t)pStr[2] == 9)
+                    new_char = '-';
+                // left single quote
+                else if ((uint8_t)pStr[2] == 0x98)
+                    new_char = '\'';
+                // right single quote
+                else if ((uint8_t)pStr[2] == 0x99)
+                    new_char = '\'';
+                // right double quote
+                else if ((uint8_t)pStr[2] == 0x9D)
+                    new_char = '"';
+            }
+        }
+
+        // TODO: Do something smarter?
+        if (new_char != -1)
+            res.push_back((char)new_char);
+
+        pStr = pStr_next;
+    }
+}
+
+std::string normalize_word(const std::string& str)
+{
+    assert(g_stop_words_set.size());
+
+    const uint32_t MAX_STRING_SIZE = 4096;
+
+    if (str.size() > MAX_STRING_SIZE)
+        panic("String too long");
+        
+    char buf[MAX_STRING_SIZE + 1];
+    strcpy_s(buf, sizeof(buf), str.c_str());
+    
+    // Convert utf8 string to lower
+    utf8lwr(buf);
+
+    // Remove diacritics and some specials from utf8, this preserves all 1-127 chars
+    std::string norm;
+    norm.reserve(strlen(buf));
+
+    normalize_diacritics(buf, norm);
+    
+    // Remove any non-letter or non-digit characters (we assume this is a word, so whitespace gets removed too)
+    std::string temp;
+    temp.reserve(norm.size());
+
+    for (uint32_t i = 0; i < norm.size(); i++)
+    {
+        uint8_t c = norm[i];
+
+        c = utolower(c);
+
+        if (uislower(c) || uisdigit(c))
+            temp.push_back(c);
+    }
+
+    // Stem word
+    strcpy_s(buf, sizeof(buf), temp.c_str());
+    if (buf[0])
+    {
+        int32_t new_len = stem(buf, 0, (int)strlen(buf) - 1);
+        buf[new_len + 1] = '\0';
+    }
+
+    return buf;
+}
+
+// Assumes word is plain ASCII lowercase
+bool is_stop_word(const std::string &word)
+{
+    assert(g_stop_words_set.size());
+
+    return g_stop_words_set.count(word) != 0;
+}
+
+std::string ustrlwr(const std::string& s)
+{
+    const size_t l = s.size();
+
+    std::vector<uint8_t> temp;
+    temp.resize(l + 1);
+
+    memcpy(&temp[0], s.c_str(), l);
+    temp[l] = '\0';
+
+    utf8lwr((char *)&temp[0]);
+
+    return (char *)&temp[0];
+}
+
+std::string string_replace(const std::string& str, const std::string& find, const std::string& repl)
+{
+    assert(find.size());
+    if (!find.size() || !str.size())
+        return str;
+    
+    const uint8_t* pStr = (const uint8_t *)str.c_str();
+    const size_t str_size = str.size();
+    
+    const uint8_t* pFind = (const uint8_t*)find.c_str();
+    const size_t find_size = find.size();
+
+    std::string res;
+    res.reserve(str.size());
+
+    size_t str_ofs = 0;
+    while (str_ofs < str.size())
+    {
+        int str_char_size = get_next_utf8_code_point_len(pStr + str_ofs);
+        if (str_char_size < 0)
+        {
+            assert(0);
+            str_char_size = 1;
+        }
+        
+        const size_t str_remaining = str_size - str_ofs;
+        if ((str_remaining >= find_size) && (memcmp(pStr + str_ofs, pFind, find_size) == 0))
+        {
+            res += repl;
+            str_ofs += find_size;
+        }
+        else
+        {
+            for (int i = 0; i < str_char_size; i++)
+                res.push_back((char)pStr[str_ofs + i]);
+            str_ofs += str_char_size;
+        }
+    }
+
+    return res;
+}
+
+bool does_file_exist(const char* pFilename)
+{
+    FILE* pFile = ufopen(pFilename, "rb");
+    if (!pFile)
+        return false;
+    
+    fclose(pFile);
+    return true;
+}
+

@@ -1,9 +1,10 @@
 // ufojson_core.cpp
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "ufojson_core.h"
+#include "markdown_proc.h"
 
-#define TIMELINE_VERSION "1.28"
-#define COMPILATION_DATE "8/6/2023"
+#define TIMELINE_VERSION "1.46"
+#define COMPILATION_DATE "10/3/2023"
 
 // Note that May ends in a period.
 const char* g_months[12] =
@@ -70,6 +71,17 @@ const char* g_date_prefix_strings[NUM_DATE_PREFIX_STRINGS] =
     "End of"
 };
 
+const char* g_day_of_week[7] =
+{
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+};
+
 bool is_season(date_prefix_t prefix)
 {
     switch (prefix)
@@ -105,12 +117,60 @@ bool is_season(date_prefix_t prefix)
     return false;
 }
 
-int determine_month(const std::string& date)
+int determine_month(const std::string& date, bool begins_with)
 {
     uint32_t i;
     for (i = 0; i < 12; i++)
-        if (string_begins_with(date, g_full_months[i]))
-            return i;
+    {
+        if (begins_with)
+        {
+            if (string_begins_with(date, g_full_months[i]))
+                return i;
+        }
+        else
+        {
+            if (string_icompare(date, g_full_months[i]) == 0)
+                return i;
+        }
+    }
+    return -1;
+}
+
+int determine_prefix(const std::string& date, bool begins_with)
+{
+    uint32_t i;
+    for (i = 0; i < NUM_DATE_PREFIX_STRINGS; i++)
+    {
+        if (begins_with)
+        {
+            if (string_begins_with(date, g_date_prefix_strings[i]))
+                return i;
+        }
+        else
+        {
+            if (string_icompare(date, g_date_prefix_strings[i]) == 0)
+                return i;
+        }
+    }
+    return -1;
+}
+
+int determine_day_of_week(const std::string& date, bool begins_with)
+{
+    uint32_t i;
+    for (i = 0; i < 7; i++)
+    {
+        if (begins_with)
+        {
+            if (string_begins_with(date, g_day_of_week[i]))
+                return i;
+        }
+        else
+        {
+            if (string_icompare(date, g_day_of_week[i]) == 0)
+                return i;
+        }
+    }
     return -1;
 }
 
@@ -397,7 +457,7 @@ bool event_date::parse(const char* pStr, bool fix_20century_dates)
 }
 
 // More advanced date range parsing, used for converting the Eberhart timeline.
-// Note this doesn't support "'s", "(approximate)", "(estimated)", or converting 2 digit years to 1900'.
+// Note this doesn't support "(approximate)", "(estimated)", or converting 2 digit years to 1900's.
 bool event_date::parse_eberhart_date_range(std::string date,
     event_date& begin_date,
     event_date& end_date, event_date& alt_date,
@@ -550,6 +610,8 @@ bool event_date::parse_eberhart_date_range(std::string date,
         {
             event_date& d = inside_alt ? alt_date : (inside_end ? end_date : begin_date);
 
+            bool expecting_year = false;
+
             if (string_ends_in(s, "?"))
             {
                 if (d.m_fuzzy)
@@ -558,6 +620,29 @@ bool event_date::parse_eberhart_date_range(std::string date,
                 d.m_fuzzy = true;
 
                 s.pop_back();
+            }
+            else if (string_ends_in(s, "'s"))
+            {
+                if (d.m_plural)
+                    return false;
+
+                d.m_plural = true;
+                
+                s.pop_back();
+                s.pop_back();
+
+                expecting_year = true;
+            }
+            else if (string_ends_in(s, "s"))
+            {
+                if (d.m_plural)
+                    return false;
+
+                d.m_plural = true;
+
+                s.pop_back();
+
+                expecting_year = true;
             }
 
             int val = atoi(s.c_str());
@@ -588,6 +673,9 @@ bool event_date::parse_eberhart_date_range(std::string date,
                 }
                 else
                 {
+                    if (expecting_year)
+                        return false;
+
                     if ((val < 1) || (val > 31))
                         return false;
 
@@ -602,6 +690,8 @@ bool event_date::parse_eberhart_date_range(std::string date,
                 if ((inside_end || inside_alt) && (begin_date.m_month != -1) && (val <= 31))
                 {
                     // Handle cases like "January 20-25" or "January 20 or 25".
+                    if (expecting_year)
+                        return false;
 
                     if (d.m_month != -1)
                         return false;
@@ -1013,6 +1103,717 @@ bool event_date::check_date_prefix(const event_date& date)
     }
     return true;
 }
+
+static void get_date_range(const event_date& evt, event_date& begin, event_date& end)
+{
+    assert(evt.is_valid());
+
+    begin.clear();
+    end.clear();
+
+    begin.m_year = evt.m_year;
+    end.m_year = evt.m_year;
+
+    const bool has_prefix = (evt.m_prefix != cNoPrefix);
+
+    if ((evt.m_month == -1) && (evt.m_day == -1))
+    {
+        // Year only
+
+        if (has_prefix)
+        {
+            switch (evt.m_prefix)
+            {
+            case cEarlySpring:
+                begin.m_month = 3;
+                begin.m_day = 20;
+                end.m_month = 4;
+                end.m_day = 10;
+                break;
+            case cEarlySummer:
+                begin.m_month = 6;
+                begin.m_day = 21;
+                end.m_month = 7;
+                end.m_day = 10;
+                break;
+            case cEarlyAutumn:
+            case cEarlyFall:
+                begin.m_month = 9;
+                begin.m_day = 23;
+                end.m_month = 10;
+                end.m_day = 10;
+                break;
+            case cEarlyWinter:
+                begin.m_month = 12;
+                begin.m_day = 21;
+                end.m_month = 1;
+                end.m_day = 10;
+                break;
+            case cMidSpring:
+                begin.m_month = 4;
+                begin.m_day = 11;
+                end.m_month = 5;
+                end.m_day = 10;
+                break;
+            case cMidSummer:
+                begin.m_month = 7;
+                begin.m_day = 11;
+                end.m_month = 8;
+                end.m_day = 10;
+                break;
+            case cMidAutumn:
+            case cMidFall:
+                begin.m_month = 10;
+                begin.m_day = 11;
+                end.m_month = 11;
+                end.m_day = 10;
+                break;
+            case cMidWinter:
+                begin.m_month = 1;
+                begin.m_day = 11;
+                end.m_month = 2;
+                end.m_day = 10;
+                break;
+            case cLateSpring:
+                begin.m_month = 5;
+                begin.m_day = 11;
+                end.m_month = 6;
+                end.m_day = 20;
+                break;
+            case cLateSummer:
+                begin.m_month = 8;
+                begin.m_day = 11;
+                end.m_month = 9;
+                end.m_day = 20;
+                break;
+            case cLateAutumn:
+            case cLateFall:
+                begin.m_month = 11;
+                begin.m_day = 11;
+                end.m_month = 12;
+                end.m_day = 20;
+                break;
+            case cLateWinter:
+                begin.m_month = 2;
+                begin.m_day = 11;
+                end.m_month = 3;
+                end.m_day = 19;
+                break;
+            case cSpring:
+                begin.m_month = 3;
+                begin.m_day = 20;
+                end.m_month = 6;
+                end.m_day = 20;
+                break;
+            case cSummer:
+                begin.m_month = 6;
+                begin.m_day = 21;
+                end.m_month = 9;
+                end.m_day = 22;
+                break;
+            case cAutumn:
+            case cFall:
+                begin.m_month = 9;
+                begin.m_day = 23;
+                end.m_month = 12;
+                end.m_day = 20;
+                break;
+            case cWinter:
+                begin.m_month = 12;
+                begin.m_day = 21;
+                end.m_month = 3;
+                end.m_day = 19;
+                break;
+            case cEarly:
+                if ((evt.m_plural) && ((evt.m_year % 100) == 0))
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+
+                    end.m_month = 12;
+                    end.m_day = 31;
+                    end.m_year = evt.m_year + 33;
+                }
+                else if ((evt.m_plural) && ((evt.m_year % 10) == 0))
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+
+                    end.m_month = 12;
+                    end.m_day = 31;
+                    end.m_year = evt.m_year + 3;
+                }
+                else
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+                    end.m_month = 4;
+                    end.m_day = 30;
+                }
+
+                break;
+            case cMiddleOf:
+                if ((evt.m_plural) && ((evt.m_year % 100) == 0))
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+
+                    end.m_month = 12;
+                    end.m_day = 31;
+
+                    begin.m_year = evt.m_year + 40;
+                    end.m_year = evt.m_year + 60;
+                }
+                else if ((evt.m_plural) && ((evt.m_year % 10) == 0))
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+
+                    end.m_month = 12;
+                    end.m_day = 31;
+
+                    begin.m_year = evt.m_year + 4;
+                    end.m_year = evt.m_year + 6;
+                }
+                else
+                {
+                    begin.m_month = 5;
+                    begin.m_day = 1;
+                    end.m_month = 8;
+                    end.m_day = 31;
+                }
+                break;
+            case cLate:
+                if ((evt.m_plural) && ((evt.m_year % 100) == 0))
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+
+                    end.m_month = 12;
+                    end.m_day = 31;
+
+                    begin.m_year = evt.m_year + 70;
+                    end.m_year = evt.m_year + 99;
+                }
+                else if ((evt.m_plural) && ((evt.m_year % 10) == 0))
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+
+                    end.m_month = 12;
+                    end.m_day = 31;
+                    begin.m_year = evt.m_year + 7;
+                    end.m_year = evt.m_year + 9;
+                }
+                else
+                {
+                    begin.m_month = 9;
+                    begin.m_day = 1;
+                    end.m_month = 12;
+                    end.m_day = 31;
+                }
+                break;
+            case cEndOf:
+                if ((evt.m_plural) && ((evt.m_year % 100) == 0))
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+
+                    end.m_month = 12;
+                    end.m_day = 31;
+                    begin.m_year = evt.m_year + 80;
+                    end.m_year = evt.m_year + 99;
+                }
+                else if ((evt.m_plural) && ((evt.m_year % 10) == 0))
+                {
+                    begin.m_month = 1;
+                    begin.m_day = 1;
+
+                    end.m_month = 12;
+                    end.m_day = 31;
+                    begin.m_year = evt.m_year + 8;
+                    end.m_year = evt.m_year + 9;
+                }
+                else
+                {
+                    begin.m_month = 11;
+                    begin.m_day = 1;
+                    end.m_month = 12;
+                    end.m_day = 31;
+                }
+                break;
+            }
+        }
+        else
+        {
+            begin.m_month = 1;
+            begin.m_day = 1;
+
+            end.m_month = 12;
+            end.m_day = 31;
+
+            if ((evt.m_plural) && ((evt.m_year % 100) == 0))
+                end.m_year = evt.m_year + 99;
+            else if ((evt.m_plural) && ((evt.m_year % 10) == 0))
+                end.m_year = evt.m_year + 9;
+        }
+    }
+    else if (evt.m_day == -1)
+    {
+        // month must be valid here
+        assert(evt.m_month >= 1);
+
+        // Month/year
+        begin.m_month = evt.m_month;
+        begin.m_day = 1;
+
+        end.m_month = evt.m_month;
+        end.m_day = 31; // doesn't need to be always valid, just has to always encompass the entire month
+
+        if (has_prefix)
+        {
+            switch (evt.m_prefix)
+            {
+            case cEarly:
+                begin.m_day = 1;
+                end.m_day = 9;
+                break;
+            case cMiddleOf:
+                begin.m_day = 10;
+                end.m_day = 19;
+                break;
+            case cLate:
+                begin.m_day = 20;
+                end.m_day = 31;
+                break;
+            case cEndOf:
+                begin.m_day = 25;
+                end.m_day = 31;
+                break;
+            default:
+                printf("Invalid prefix\n");
+                break;
+            }
+        }
+    }
+    else
+    {
+        // Month/day/year
+        begin.m_month = evt.m_month;
+        begin.m_day = evt.m_day;
+
+        end.m_month = evt.m_month;
+        end.m_day = evt.m_day;
+    }
+}
+
+static bool check_event_date_interval(const event_date& evt_begin, const event_date& evt_end)
+{
+    if ((evt_begin.m_year < 0) || (evt_begin.m_month <= 0) || (evt_begin.m_day <= 0))
+        return false;
+
+    if ((evt_end.m_year < 0) || (evt_end.m_month <= 0) || (evt_end.m_day <= 0))
+        return false;
+
+    if (evt_end.m_year < evt_begin.m_year)
+    {
+        return false;
+    }
+    else if (evt_end.m_year == evt_begin.m_year)
+    {
+        if (evt_end.m_month < evt_begin.m_month)
+        {
+            return false;
+        }
+        else if (evt_end.m_month == evt_begin.m_month)
+        {
+            if (evt_end.m_day < evt_begin.m_day)
+            {
+                return false;
+            }
+        }
+    }
+    return true;
+}
+
+static int compute_yearday(int month, int day, int year)
+{
+    assert((month >= 1) && (month <= 12));
+    assert((day >= 1) && (day <= 31));
+    assert(year >= 0);
+
+    return (year * 12 * 32) + (month - 1) * 32 + (day - 1);
+}
+
+// false=reject event
+// true=accept event
+static bool date_filter(
+    int start_month, int start_day, int start_year,
+    const event_date& evt_begin, const event_date& evt_end)
+{
+    // Ensure we've got a valid interval with a single span.
+    if (!check_event_date_interval(evt_begin, evt_end))
+    {
+        panic("Invalid date range");
+        return false;
+    }
+
+    if ((start_month >= 1) && (start_day >= 1) && (start_year >= 0))
+    {
+        // user has provided a valid month/day/year, and the event intervals are guaranteed to be fully valid, so compute the yeardays and compare
+
+        const int evt_begin_yearday = compute_yearday(evt_begin.m_month, evt_begin.m_day, evt_begin.m_year);
+        const int evt_end_yearday = compute_yearday(evt_end.m_month, evt_end.m_day, evt_end.m_year);
+        assert(evt_begin_yearday <= evt_end_yearday);
+
+        const int32_t yearday = compute_yearday(start_month, start_day, start_year);
+        if ((evt_begin_yearday <= yearday) && (yearday <= evt_end_yearday))
+            return true;
+
+        return false;
+    }
+
+    if (start_month >= 1)
+    {
+        // Just a month, but they could have specified a year.
+        if (start_year >= 0)
+        {
+            // month/year
+            // user provided a valid month/year, do an interval check
+            const int evt_begin_yearday = compute_yearday(evt_begin.m_month, 1, evt_begin.m_year);
+            const int evt_end_yearday = compute_yearday(evt_end.m_month, 31, evt_end.m_year);
+            assert(evt_begin_yearday <= evt_end_yearday);
+
+            const int32_t yearday = compute_yearday(start_month, 15, start_year);
+            if ((evt_begin_yearday <= yearday) && (yearday <= evt_end_yearday))
+                return true;
+        }
+        else if (start_day != -1)
+        {
+            // month, day, no year
+            // user has provided only a valid month, no year, try an interval check
+            const int evt_begin_yearday = compute_yearday(evt_begin.m_month, evt_begin.m_day, 0);
+            const int evt_end_yearday = compute_yearday(evt_end.m_month, evt_end.m_day, evt_end.m_year - evt_begin.m_year);
+            assert(evt_begin_yearday <= evt_end_yearday);
+
+            // we have a complete month interval for the event, starting at year 0
+
+            // first try the month in the first year
+            int32_t yearday = compute_yearday(start_month, start_day, 0);
+            if ((evt_begin_yearday <= yearday) && (yearday <= evt_end_yearday))
+                return true;
+
+            // try 1 year later
+            yearday = compute_yearday(start_month, start_day, 1);
+            if ((evt_begin_yearday <= yearday) && (yearday <= evt_end_yearday))
+                return true;
+        }
+        else
+        {
+            // month, no year
+            // user has provided only a valid month, no year, try an interval check
+            const int evt_begin_yearday = compute_yearday(evt_begin.m_month, 1, 0);
+            const int evt_end_yearday = compute_yearday(evt_end.m_month, 31, evt_end.m_year - evt_begin.m_year);
+            assert(evt_begin_yearday <= evt_end_yearday);
+
+            // we have a complete month interval for the event, starting at year 0
+
+            // first try the month in the first year
+            int32_t yearday = compute_yearday(start_month, 15, 0);
+            if ((evt_begin_yearday <= yearday) && (yearday <= evt_end_yearday))
+                return true;
+
+            // try 1 year later
+            yearday = compute_yearday(start_month, 15, 1);
+            if ((evt_begin_yearday <= yearday) && (yearday <= evt_end_yearday))
+                return true;
+        }
+    }
+
+    return false;
+}
+
+static bool date_filter(
+    int start_month, int start_day, int start_year,
+    int end_month, int end_day, int end_year,
+    const event_date& evt_begin, const event_date& evt_end)
+{
+    assert(start_month >= 1 && start_month <= 12);
+    assert(start_day >= 1 && start_day <= 31);
+    assert(start_year >= 0);
+    assert(end_month >= 1 && end_month <= 12);
+    assert(end_day >= 1 && end_day <= 31);
+    assert(end_year >= 0);
+    assert(start_year <= end_year);
+
+    // Ensure we've got a valid interval with a single span.
+    if (!check_event_date_interval(evt_begin, evt_end))
+    {
+        panic("Invalid date range");
+        return false;
+    }
+
+    const int evt_begin_yearday = compute_yearday(evt_begin.m_month, evt_begin.m_day, evt_begin.m_year);
+    const int evt_end_yearday = compute_yearday(evt_end.m_month, evt_end.m_day, evt_end.m_year);
+    assert(evt_begin_yearday <= evt_end_yearday);
+
+    const int32_t start_yearday = compute_yearday(start_month, start_day, start_year);
+    const int32_t end_yearday = compute_yearday(end_month, end_day, end_year);
+    assert(start_yearday <= end_yearday);
+
+    // now see if there's any overlap at all between the 2 spans
+    // separating axis tests
+    if (evt_end_yearday < start_yearday)
+        return false;
+    if (evt_begin_yearday > end_yearday)
+        return false;
+
+    return true;
+}
+
+// start_year must be valid
+// false=reject event
+// true=accept event
+bool date_filter_single(
+    int start_month, int start_day, int start_year,
+    const event_date& evt_b, const event_date& evt_e)
+{
+    event_date evt_begin, evt_end;
+    get_date_range(evt_b, evt_begin, evt_end);
+    bool is_winter = (evt_begin.m_year == evt_end.m_year) && (evt_begin.m_month > evt_end.m_month);
+
+    // evt_begin/evt_end both have valid day/months/years, but may be 1 or 2 spans (for winter)
+
+    if (evt_e.is_valid())
+    {
+        event_date evt_begin2, evt_end2;
+        get_date_range(evt_e, evt_begin2, evt_end2);
+
+        // should be a valid date interval here with 1 span
+        if (!check_event_date_interval(evt_begin, evt_end2))
+        {
+            printf("Invalid event range");
+        }
+        else
+        {
+            evt_end = evt_end2;
+            is_winter = false;
+        }
+    }
+
+    assert(evt_begin.m_year <= evt_end.m_year);
+
+    // Filter by any user provided year
+    if (start_year != -1)
+    {
+        if ((start_year < evt_begin.m_year) || (start_year > evt_end.m_year))
+            return false;
+
+        if ((start_month == -1) && (start_day == -1))
+        {
+            // User only provided a year to check, and it's in range so we're done.
+            return true;
+        }
+    }
+
+    // Special case if they are looking for specific days with no month, possibly a year (this is the Dr. Johnson case - so let's not get too fancy for now).
+    if ((start_month == -1) && (start_day >= 1))
+    {
+        // If there's a prefix, it's not a specific day so don't accept it.
+        if ((evt_b.m_prefix != cNoPrefix) || (evt_e.m_prefix != cNoPrefix))
+            return false;
+        assert(!is_winter);
+
+        // Only check timeline events that have full month/day/year, otherwise we'll pull in too many vague events
+        if ((evt_b.m_month >= 1) && (evt_b.m_day >= 1))
+        {
+            if (evt_b.m_day == start_day)
+                return true;
+
+            if (evt_e.is_valid() && (evt_e.m_month >= 1) && (evt_e.m_day >= 1))
+            {
+                // it's an event span
+                if (evt_e.m_day == start_day)
+                    return true;
+
+                int next_month = evt_b.m_month + 1;
+                if (next_month == 13)
+                    next_month = 1;
+
+                // Span is inside 1 month
+                if (evt_b.m_month == evt_e.m_month)
+                {
+                    if ((evt_b.m_day <= start_day) && (start_day <= evt_e.m_day))
+                        return true;
+                }
+                // Span is 2 months (anything larger would accept all days)
+                else if (evt_e.m_month == next_month)
+                {
+                    if ((evt_b.m_day <= start_day) || (start_day <= evt_e.m_day))
+                        return true;
+                }
+                // Span is 3>= months, so any day would fall within a full center month
+                else
+                {
+                    return true;
+                }
+            }
+        }
+
+        return false;
+    }
+
+    // We've already handled the year, day/year, or day cases.
+    // Now must be month/day/year, month/year.
+
+    if (is_winter)
+    {
+        // Handle 2 spans in one year
+        assert(evt_begin.m_year == evt_end.m_year);
+
+        event_date e1, e2;
+        e1 = evt_begin;
+
+        e2.m_year = evt_begin.m_year;
+        e2.m_month = 12;
+        e2.m_day = 31;
+
+        bool f1 = date_filter(start_month, start_day, start_year, e1, e2);
+        if (f1)
+            return true;
+
+        event_date e3, e4;
+        e3.m_year = evt_end.m_year;
+        e3.m_day = 1;
+        e3.m_month = 1;
+
+        e4.m_year = evt_end.m_year;
+        e4.m_month = evt_end.m_month;
+        e4.m_day = evt_end.m_day;
+        bool f2 = date_filter(start_month, start_day, start_year, e3, e4);
+        if (f2)
+            return true;
+    }
+    else
+    {
+        // Only has a single span, may span years
+        return date_filter(start_month, start_day, start_year, evt_begin, evt_end);
+    }
+
+    return false;
+}
+
+// start_year/end_years must be valid
+bool date_filter_range(
+    int start_month, int start_day, int start_year,
+    int end_month, int end_day, int end_year,
+    const event_date& evt_b, const event_date& evt_e)
+{
+    if ((start_year < 0) || (end_year < 0) || (start_year > end_year))
+        panic("Invalid year range");
+
+    if (start_month < 1)
+        start_month = 1;
+    if (start_day < 1)
+        start_day = 1;
+
+    if (end_day < 1)
+        end_day = 31;
+    if (end_month < 1)
+        end_month = 12;
+
+    event_date evt_begin, evt_end;
+    get_date_range(evt_b, evt_begin, evt_end);
+    bool is_winter = (evt_begin.m_year == evt_end.m_year) && (evt_begin.m_month > evt_end.m_month);
+
+    // evt_begin/evt_end both have valid day/months/years, but may be 1 or 2 spans (for winter)
+
+    if (evt_e.is_valid())
+    {
+        event_date evt_begin2, evt_end2;
+        get_date_range(evt_e, evt_begin2, evt_end2);
+
+        // should be a valid date interval here with 1 span
+        if (!check_event_date_interval(evt_begin, evt_end2))
+        {
+            printf("Invalid event range");
+        }
+        else
+        {
+            evt_end = evt_end2;
+            is_winter = false;
+        }
+    }
+
+    assert(evt_begin.m_year <= evt_end.m_year);
+
+    if (is_winter)
+    {
+        // Handle 2 spans in one year
+        assert(evt_begin.m_year == evt_end.m_year);
+
+        event_date e1, e2;
+        e1 = evt_begin;
+
+        e2.m_year = evt_begin.m_year;
+        e2.m_month = 12;
+        e2.m_day = 31;
+
+        bool f1 = date_filter(start_month, start_day, start_year, end_month, end_day, end_year, e1, e2);
+        if (f1)
+            return true;
+
+        event_date e3, e4;
+        e3.m_year = evt_end.m_year;
+        e3.m_day = 1;
+        e3.m_month = 1;
+
+        e4.m_year = evt_end.m_year;
+        e4.m_month = evt_end.m_month;
+        e4.m_day = evt_end.m_day;
+        bool f2 = date_filter(start_month, start_day, start_year, end_month, end_day, end_year, e3, e4);
+        if (f2)
+            return true;
+    }
+    else
+    {
+        // Only has a single span, may span years
+        return date_filter(start_month, start_day, start_year, end_month, end_day, end_year, evt_begin, evt_end);
+    }
+
+    return false;
+}
+
+#if 0
+void test()
+{
+    event_date b, e;
+
+    b.m_plural = true;
+    b.m_prefix = cEarly;
+
+    b.m_month = -1;
+    b.m_day = -1;
+    b.m_year = 1900;
+
+    //e.m_month = 6;
+    //e.m_day = 3;
+    //e.m_year = 1950;
+
+    for (uint32_t y = 1899; y < 2001; y++)
+    {
+        uint32_t m = 6;
+        //for (uint32_t m = 1; m <= 12; m++)
+        {
+            bool f = date_filter_single(m, -1, y, b, e);
+            //bool f = date_filter_range(m, -1, 1950,   -1, -1, -1,   b, e);
+            printf("%u, %u: %u\n", m, y, f);
+        }
+    }
+
+
+}
+#endif
 
 bool timeline_event::operator==(const timeline_event& rhs) const
 {
@@ -1426,6 +2227,11 @@ void timeline_event::to_json(json& j) const
     if (m_desc.size())
         j["desc"] = m_desc;
 
+#if 0
+    if (m_plain_desc.size())
+        j["plain_desc"] = m_plain_desc;
+#endif
+
     if (m_alt_date_str.size())
         j["alt_date"] = m_alt_date_str;
 
@@ -1444,6 +2250,13 @@ void timeline_event::to_json(json& j) const
         j["ref"] = m_refs;
     else if (m_refs.size())
         j["ref"] = m_refs[0];
+
+#if 0
+    if (m_plain_refs.size() > 1)
+        j["plain_ref"] = m_plain_refs;
+    else if (m_plain_refs.size())
+        j["plain_ref"] = m_plain_refs[0];
+#endif
 
     if (m_locations.size() > 1)
         j["location"] = m_locations;
@@ -1490,6 +2303,11 @@ void timeline_event::to_json(json& j) const
             udb_obj[x.first] = x.second;
         }
     }
+
+    if (m_search_words.size())
+    {
+        j["search"] = m_search_words;
+    }
 }
 
 uint32_t timeline_event::get_crc32() const
@@ -1501,6 +2319,83 @@ uint32_t timeline_event::get_crc32() const
     hash = crc32((const uint8_t*)&m_begin_date.m_day, sizeof(m_begin_date.m_day), hash);
 
     return hash;
+}
+
+void ufo_timeline::create_plaintext()
+{
+    for (uint32_t i = 0; i < m_events.size(); i++)
+    {
+        timeline_event& te = m_events[i];
+
+        if (te.m_desc.size())
+        {
+            markdown_text_processor tp;
+            tp.init_from_markdown(te.m_desc.c_str());
+            tp.convert_to_plain(te.m_plain_desc, true);
+        }
+
+        if (te.m_refs.size())
+        {
+            te.m_plain_refs.resize(te.m_refs.size());
+
+            for (uint32_t j = 0; j < te.m_refs.size(); j++)
+            {
+                markdown_text_processor tp;
+                tp.init_from_markdown(te.m_refs[j].c_str());
+                tp.convert_to_plain(te.m_plain_refs[j], true);
+            }
+        }
+
+        string_vec plain_locations(te.m_locations.size());
+        for (uint32_t j = 0; j < te.m_locations.size(); j++)
+        {
+            markdown_text_processor tp;
+            tp.init_from_markdown(te.m_locations[j].c_str());
+            tp.convert_to_plain(plain_locations[j], true);
+        }
+
+        string_vec words;
+        get_string_words(te.m_plain_desc, words, nullptr, "-");
+        
+        for (uint32_t j = 0; j < te.m_plain_refs.size(); j++)
+        {
+            string_vec temp_words;
+            get_string_words(te.m_plain_refs[j], temp_words, nullptr, "-");
+            
+            words.insert(words.end(), temp_words.begin(), temp_words.end());
+        }
+
+        for (uint32_t j = 0; j < plain_locations.size(); j++)
+        {
+            string_vec temp_words;
+            get_string_words(plain_locations[j], temp_words, nullptr, "-");
+
+            words.insert(words.end(), temp_words.begin(), temp_words.end());
+        }
+
+        string_vec new_words;
+        for (uint32_t j = 0; j < words.size(); j++)
+        {
+            std::string tmp(ustrlwr(words[j]));
+            if (!tmp.size() || is_stop_word(tmp))
+                continue;
+            
+            std::string nrm_tmp(normalize_word(tmp));
+
+            if (!nrm_tmp.size() || is_stop_word(nrm_tmp))
+                continue;
+                           
+            new_words.push_back(nrm_tmp);
+        }
+
+        for (uint32_t j = 0; j < new_words.size(); j++)
+        {
+            if (te.m_search_words.size())
+                te.m_search_words.push_back(' ');
+
+            te.m_search_words += new_words[j];
+        }
+    }
 }
 
 bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pDate_range_desc, int begin_year, int end_year, bool single_file_output, event_urls_map_t &event_urls, bool output_kwic_directory)
@@ -1535,45 +2430,55 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
     fputc(UTF8_BOM1, pTimeline_file);
     fputc(UTF8_BOM2, pTimeline_file);
     fprintf(pTimeline_file, "<meta charset=\"utf-8\">\n");
-
-    std::map<int, int> year_histogram;
-
+        
     if ((pDate_range_desc) && (strlen(pDate_range_desc)))
-        fprintf(pTimeline_file, "\n# <a name=\"Top\">UFO Event Timeline, %s, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n", pDate_range_desc);
+        fprintf(pTimeline_file, "\n# <a name=\"Top\">UFO/UAP Event Chronology, %s, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n", pDate_range_desc);
     else
-        fprintf(pTimeline_file, "\n# <a name=\"Top\">UFO Event Timeline, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n");
+        fprintf(pTimeline_file, "\n# <a name=\"Top\">UFO/UAP Event Chronology, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n");
 
     fputs(
         u8R"(An automated compilation by <a href="https://twitter.com/richgel999">Richard Geldreich, Jr.</a> using public data from <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e">Dr. Jacques Vallée</a>,
 <a href="https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based">Pea Research</a>, <a href="http://www.cufos.org/UFO_Timeline.html">George M. Eberhart</a>,
 <a href="https://en.wikipedia.org/wiki/Richard_H._Hall">Richard H. Hall</a>, <a href="https://web.archive.org/web/20160821221627/http://www.ufoinfo.com/onthisday/sametimenextyear.html">Dr. Donald A. Johnson</a>,
 <a href="https://medium.com/@richgel99/1958-keziah-poster-recreation-completed-82fdb55750d8">Fred Keziah</a>, <a href="https://github.com/richgel999/uap_resources/blob/main/bluebook_uncensored_unknowns_don_berliner.pdf">Don Berliner</a>,
-<a href="https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142">Larry Hatch</a>, [NICAP](https://www.nicap.org/), and an anonymous individual or group.
+<a href="https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142">Larry Hatch</a>, [NICAP](https://www.nicap.org/), [Thomas R. Adams](https://www.lulu.com/shop/ray-boeche/bloodless-cuts/hardcover/product-22167360.html?page=1&pageSize=4), [George D. Fawcett](https://archive.ph/eQwIL), [Chris Aubeck](https://books.google.com/books/about/Return_to_Magonia.html?id=JBGNjgEACAAJ&source=kp_author_description), [Philip L. Rife](https://www.amazon.com/Didnt-Start-Roswell-Encounters-Coverups/dp/059517339X), [Richard Dolan](https://richarddolanmembers.com/), [Jérôme Beau](https://rr0.org/), [Godelieve Van Overmeire](http://cobeps.org/fr/godelieve-van-overmeire), and an anonymous individual or group.
 
-## Copyrights: 
-- Richard Geldreich, Jr. - Copyright (c) 2023 (all parsed dates and events marked \"maj2\" unless otherwise attributed)
+## Some non-summarized events fall under one of these copyrights:
+- Richard Geldreich, Jr. - Copyright (c) 2023 (events marked \"maj2\" unless otherwise attributed)
 - Dr. Jacques F. Vallée - Copyright (c) 1993
 - LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005)
 - George M. Eberhart - Copyright (c) 2022
 - Dr. Donald A. Johnson - Copyright (c) 2012
 - Fred Keziah - Copyright (c) 1958
 - Larry Hatch - Copyright (c) 1992-2002
+- Thomas R. Adams - Copyright (c) 1991
+- Richard Dolan - Copyright (c) 2002
+- Jérôme Beau - Copyright (c) 2000-2023
 
 ## Update History:
+- v1.46: Adding ~3700 events, translated from the French chronology [_Mini catalogue chronologique des observations OVNI_](https://web.archive.org/web/20060107070423/http://users.skynet.be/sky84985/chrono.html) by Belgian ufologist [Godelieve Van Overmeire, 1935-2021](http://cobeps.org/fr/godelieve-van-overmeire). Note these events are from the old HTML version on archive.org, not the larger [(10k event) PDF version](http://www.cobeps.org/pdf/Chronologie-OVNI-VOG.pdf). It is unclear if these events are copyrighted. I didn't see a copyright in either the HTML or PDF versions.
+- v1.43: Added ~3160 events, translated from a French chronology to English using OpenAI, from [rr0.org](https://rr0.org/). I believe this chronology was composed by Jérôme Beau. Its license is [here](https://rr0.org/Copyright.html).
+- v1.40: Added digitized events/newspaper clippings from [Frank Scully's papers at the American Heritage Center in Laramie, WY](https://archiveswest.orbiscascade.org/ark:80444/xv506256), summarized the events from the timeline on the [Disclosure Diaries](https://www.disclosurediaries.com/) website, and added more misc. events. Fixed auto-translation issue in the search page.
+- v1.38: Added a [client-side search engine](search.html). There are a bunch of features I'm going to add to this engine, for now it can only search for keywords in the desc, location and and reference fields.
+- v1.37: Updated intro text, added total number of events to each event year, added a few 1800's events.
+- v1.36: Extracted and summarized the events in the book [_It Didn't Start with Roswell_ by Philip L. Rife](https://www.amazon.com/Didnt-Start-Roswell-Encounters-Coverups/dp/059517339X). Also extracted the military UFO events from Richard Dolan's book [_UFOs and the National Security State: Chronology of a Cover-up, 1941–1973_](https://www.amazon.com/UFOs-National-Security-State-Chronology-ebook/dp/B0C94W38QY).
+- v1.34: Added more modern events, 1917 Mystery Airplane newspaper articles.
+- v1.33: More events: Events from George D. Fawcett, short AI summaries of Stringfield's 1978 MUFON symposium presentation, and short AI summaries of the pre-industrial era sighting events from the book [_Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times_](https://www.amazon.com/Wonders-Sky-Unexplained-Objects-Antiquity/dp/1585428205).
+- v1.30: Added 203 Mystery Helicopter/mutilation related events (1970's-1980's) compiled by author/researcher [Thomas R. Adams](https://www.lulu.com/shop/ray-boeche/bloodless-cuts/hardcover/product-22167360.html?page=1&pageSize=4) (1945-2015) (or see [here](http://copycateffect.blogspot.com/2018/06/Adams-Massey-Obits.html)), from his book [_The Choppers - and the Choppers, Mystery Helicopters and Animal Mutilations_](http://www.ignaciodarnaude.com/avistamientos_ovnis/Adams,Thomas,Choppers%20and%20the%20Choppers-1.pdf), minor fixes 
 - v1.28: Added KWIC (Key Word in Context) index.
-- v1.27: Adding anonymous PDF's contents originally from [here](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another), with fixed URL's
+- v1.27: Imported Anonymous PDF's contents, originally from [here](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another), with fixed URL's
 - v1.23-1.24: Added a handful of key historical events, such as Edward Tauss the head of CIA UFO disinformation in the 50's
 - v1.22: Fixing the date of Dr. Eric W. Davis's March, 2020 classified briefing to the Senate (I had it listed as March 2019) - info from NY Times. Basic locations added to Eberhart records using OpenAI.
 - v1.20: Split up into 5 parts, to work around iPhone web browser limits. Minor spelling and grammer fixes throughout timeline.
 - v1.15: Eberhart records now have basic locations, thanks to OpenAI's Davinci-3 AI model. They aren't perfect, but it's a good start to geocoding them.
-- v1.14: Added nuclear test data, over 2000 records, from the [Worldwide Nuclear Explosions](https://web.archive.org/web/20220407121213/https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf) paper by Yang, North, Romney, and Richards. Note the locations in the paper are approximate, and the yields are not super accurate, which are two problems I'll fix over time. I improved the coordinates of the earliest USA/USSR tests by looking them up from Wikipedia.
+- v1.14: Added nuclear test data, over 2000 records, from the [_Worldwide Nuclear Explosions_](https://web.archive.org/web/20220407121213/https://www.ldeo.columbia.edu/~richards/my_papers/WW_nuclear_tests_IASPEI_HB.pdf) paper by Yang, North, Romney, and Richards. Note the locations in the paper are approximate, and the yields are not super accurate, which are two problems I'll fix over time. I improved the coordinates of the earliest USA/USSR tests by looking them up from Wikipedia.
 - v1.13: Split up the timeline into 4 parts. Still not the best solution, but it avoids croaking browsers.
 - v1.12: Added \*U\* database record data, using a custom event description decoder to handle his 1k+ abbreviations and custom syntax
 - v1.11: Crawled all ~10.5k unique URL's in this timeline using [curl](https://curl.se/) and fixed dead URL's to use archive.org.
-- v1.10: Added NIPCAP DB data.
+- v1.10: Added NICAP DB data.
 
 ## Important Notes:
-Best viewed on a desktop/laptop, not a mobile device.
+Best viewed on a desktop/laptop, not a mobile device. On Windows, Firefox works best, followed by Edge, then Chrome.
 
 I've split up the timeline into 4 parts, to reduce their sizes: distant past up to 1949, 1950-1959, 1960-1979, and 1980-present.
 
@@ -1604,6 +2509,8 @@ u8R"(## Year Ranges
 5. [Part 5: 1980 to present](timeline_part5.html))", pTimeline_file);
 
         fputs("\n", pTimeline_file);
+
+        fprintf(pTimeline_file, "\n## [Timeline Search Engine](search.html)\n\n");
     }
 
     if (output_kwic_directory)
@@ -1657,6 +2564,15 @@ u8R"(## Year Ranges
 
     int cur_year = -9999;
 
+    std::map<int, int> year_histogram;
+
+    for (uint32_t i = first_event_index; i <= last_event_index; i++)
+    {
+        int year = timeline_events[i].m_begin_date.m_year;
+        
+        year_histogram[year] = year_histogram[year] + 1;
+    }
+
     for (uint32_t i = first_event_index; i <= last_event_index; i++)
     {
         uint32_t hash = timeline_events[i].get_crc32();
@@ -1665,7 +2581,7 @@ u8R"(## Year Ranges
         if ((year != cur_year) && (year > cur_year))
         {
             fprintf(pTimeline_file, "\n---\n\n");
-            fprintf(pTimeline_file, "## <a name=\"year%u\">Year: %u</a> <a href=\"#Top\">(Back to Top)</a>\n\n", year, year);
+            fprintf(pTimeline_file, "## <a name=\"year%u\">Year: %u</a>, %i Event(s), <a href=\"#Top\">(Back to Top)</a>\n\n", year, year, year_histogram[year]);
 
             fprintf(pTimeline_file, "### <a name=\"%08X\">Event %i (%08X)</a>\n", hash, i, hash);
 
@@ -1678,7 +2594,7 @@ u8R"(## Year Ranges
 
         timeline_events[i].print(pTimeline_file);
 
-        year_histogram[year] = year_histogram[year] + 1;
+        //year_histogram[year] = year_histogram[year] + 1;
 
         fprintf(pTimeline_file, "\n");
 

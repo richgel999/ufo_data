@@ -78,8 +78,10 @@
     <ClCompile Include="libsoldout\markdown.c" />
     <ClCompile Include="libsoldout\renderers.c" />
     <ClCompile Include="markdown_proc.cpp" />
+    <ClCompile Include="stem.c" />
     <ClCompile Include="udb.cpp" />
     <ClInclude Include="converters.h" />
+    <ClInclude Include="stem.h" />
     <ClInclude Include="udb_tables.h" />
     <ClCompile Include="ufojson.cpp">
       <WarningLevel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Level4</WarningLevel>
@@ -97,6 +99,7 @@
     <ClInclude Include="resource.h" />
     <ClInclude Include="udb.h" />
     <ClInclude Include="ufojson_core.h" />
+    <ClInclude Include="utf8.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -7,8 +7,7 @@
 #include "udb.h"
 #include "converters.h"
 
-//#include "crnlib\crn_core.h"
-//#include "crnlib\crn_hash_map.h"
+#include "utf8.h"
 
 //-------------------------------------------------------------------
 
@@ -74,6 +73,48 @@ static void detect_bad_urls()
 // We want code page 1252
 // http://www.alanwood.net/demos/ansi.html
 
+static bool invoke_openai(const char* pPrompt_text, json& result)
+{
+    uprintf("Prompt: %s\n", pPrompt_text);
+
+    std::string res_str;
+    const uint32_t MAX_TRIES = 3;
+    for (uint32_t try_index = 0; try_index < MAX_TRIES; try_index++)
+    {
+        bool status = invoke_openai(pPrompt_text, res_str);
+        if (status)
+            break;
+
+        if (try_index == MAX_TRIES - 1)
+        {
+            fprintf(stderr, "invoke_openai() failed!\n");
+            return false;
+        }
+    }
+
+    uprintf("Result: %s\n", res_str.c_str());
+
+    bool success = false;
+    try
+    {
+        result = json::parse(res_str.begin(), res_str.end());
+        success = true;
+    }
+    catch (json::exception& e)
+    {
+        fprintf(stderr, "json::parse() failed (id %i): %s", e.id, e.what());
+        return false;
+    }
+
+    if (!result.is_object() || !result.size())
+    {
+        fprintf(stderr, "Invalid JSON!\n");
+        return false;
+    }
+
+    return true;
+}
+
 static bool invoke_openai(const timeline_event &event, const char *pPrompt_text, json& result)
 {
     markdown_text_processor tp;
@@ -102,47 +143,12 @@ static bool invoke_openai(const timeline_event &event, const char *pPrompt_text,
     }
 
     uprintf("Desc: %s\n\n", desc.c_str());
-
+        
     std::string prompt_str(pPrompt_text);
     prompt_str += desc;
     prompt_str += "\"";
 
-    std::string res_str;
-    const uint32_t MAX_TRIES = 3;
-    for (uint32_t try_index = 0; try_index < MAX_TRIES; try_index++)
-    {
-        bool status = invoke_openai(prompt_str, res_str);
-        if (status)
-            break;
-        
-        if (try_index == MAX_TRIES - 1)
-        {
-            fprintf(stderr, "invoke_openai() failed!\n");
-            return false;
-        }
-    }
-
-    uprintf("Result: %s\n", res_str.c_str());
-
-    bool success = false;
-    try
-    {
-        result = json::parse(res_str.begin(), res_str.end());
-        success = true;
-    }
-    catch (json::exception& e)
-    {
-        fprintf(stderr, "json::parse() failed (id %i): %s", e.id, e.what());
-        return false;
-    }
-
-    if (!result.is_object() || !result.size())
-    {
-        fprintf(stderr, "Invalid JSON!\n");
-        return false;
-    }
-    
-    return true;
+    return invoke_openai(prompt_str.c_str(), result);
 }
 
 static void process_timeline_using_openai(const ufo_timeline &timeline)
@@ -2035,6 +2041,798 @@ static bool has_match(const string_vec& str_vec, const std::string& pat, bool ig
     return false;
 }
 
+static const char* s_kwic_stop_words[] =
+{
+    "a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "as",
+    "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "can",
+    "could", "did", "do", "does", "doing", "don", "down", "during", "each", "few", "for", "from",
+    "further", "had", "has", "have", "having", "he", "her", "here", "hers", "herself", "him", "himself",
+    "his", "how", "i", "if", "in", "into", "is", "it", "its", "itself", "just", "me", "more", "most",
+    "my", "myself", "no", "nor", "not", "now", "of", "off", "on", "once", "only", "or", "other", "our",
+    "ours", "ourselves", "out", "over", "own", "re", "s", "same", "she", "should", "so", "some", "such",
+    "t", "than", "that", "the", "their", "theirs", "them", "themselves", "then", "there", "these", "they",
+    "this", "those", "through", "to", "too", "under", "until", "up", "very", "was", "we", "were", "what",
+    "when", "where", "which", "while", "who", "whom", "why", "will", "with", "you", "your", "yours",
+    "yourself", "yourselves", "although", "also", "already", "another", "seemed", "seem", "seems"
+};
+const uint32_t NUM_STOP_WORDS = (uint32_t)std::size(s_kwic_stop_words);
+
+static bool create_kwic_index(const ufo_timeline &timeline, const ufo_timeline::event_urls_map_t &event_urls, bool book_flag = false, const char *pOutput_filename_base = nullptr, const char *pTitle = nullptr, const char *pHeader = nullptr)
+{
+    struct word_usage
+    {
+        uint32_t m_event;
+        uint32_t m_ofs;
+    };
+    typedef std::vector<word_usage> word_usage_vec;
+
+    string_vec event_plain_descs;
+    event_plain_descs.reserve(timeline.size());
+
+    typedef std::unordered_map<std::string, word_usage_vec> word_map_t;
+    word_map_t word_map;
+    word_map.reserve(timeline.size() * 20);
+        
+    std::unordered_set<std::string> stop_word_set;
+    for (const auto& str : s_kwic_stop_words)
+        stop_word_set.insert(str);
+
+    for (uint32_t i = 0; i < timeline.size(); i++)
+    {
+        const timeline_event& event = timeline[i];
+
+        std::string desc;
+        if (book_flag)
+        {
+            desc = event.m_desc;
+        }
+        else
+        {
+            markdown_text_processor tp;
+            tp.init_from_markdown(event.m_desc.c_str());
+
+            tp.convert_to_plain(desc, true);
+        }
+
+        std::string locs;
+        for (uint32_t u = 0; u < event.m_locations.size(); u++)
+            locs += event.m_locations[u] + " ";
+
+        desc = locs + desc;
+
+        event_plain_descs.push_back(desc);
+
+        //uprintf("%u. \"%s\"\n", i, desc.c_str());
+
+        string_vec words;
+        uint_vec offsets;
+        get_string_words(desc, words, &offsets);
+        for (uint32_t j = 0; j < words.size(); j++)
+        {
+            if (words[j].length() == 1)
+                continue;
+            if (words[j].length() > 30)
+                continue;
+            if (stop_word_set.count(words[j]))
+                continue;
+
+            word_usage wu;
+            wu.m_event = i;
+            wu.m_ofs = offsets[j];
+
+            auto it = word_map.find(words[j]);
+            if (it != word_map.end())
+                it->second.push_back(wu);
+            else
+            {
+                word_usage_vec v;
+                v.push_back(wu);
+
+                word_map.insert(std::make_pair(words[j], v));
+            }
+
+            //uprintf("[%s] ", words[j].c_str());
+        }
+        //uprintf("\n");
+
+    }
+
+    std::vector< word_map_t::const_iterator > sorted_words;
+    for (word_map_t::const_iterator it = word_map.begin(); it != word_map.end(); ++it)
+        sorted_words.push_back(it);
+
+    std::sort(sorted_words.begin(), sorted_words.end(), [](word_map_t::const_iterator a, word_map_t::const_iterator b)
+        {
+            //return a->first < b->first;
+            return utf8casecmp(a->first.c_str(), b->first.c_str()) < 0;
+        }
+    );
+
+    string_vec kwic_file_strings_header[NUM_KWIC_FILE_STRINGS];
+    string_vec kwic_file_strings_contents[NUM_KWIC_FILE_STRINGS];
+
+    for (uint32_t i = 0; i < NUM_KWIC_FILE_STRINGS; i++)
+    {
+        std::string name(get_kwic_index_name(i));
+
+        kwic_file_strings_header[i].push_back("<meta charset=\"utf-8\">");
+        kwic_file_strings_header[i].push_back("");
+        if (pTitle)
+            kwic_file_strings_header[i].push_back(string_format("# <a name=\"Top\">%s, KWIC Index Page: %s</a>", pTitle, name.c_str()));
+        else
+            kwic_file_strings_header[i].push_back(string_format("# <a name=\"Top\">UFO Event Timeline, KWIC Index Page: %s</a>", name.c_str()));
+        
+        if (!book_flag)
+        {
+            kwic_file_strings_header[i].push_back("");
+            kwic_file_strings_header[i].push_back("[Back to Main timeline](timeline.html)");
+        }
+
+        if (pHeader)
+        {
+            kwic_file_strings_header[i].push_back(pHeader);
+        }
+
+        kwic_file_strings_header[i].push_back("");
+        kwic_file_strings_header[i].push_back("## Letters Directory:");
+
+        for (uint32_t j = 0; j < NUM_KWIC_FILE_STRINGS; j++)
+        {
+            std::string r(get_kwic_index_name(j));
+
+            std::string url;
+            if (pOutput_filename_base)
+                url = string_format("[%s](%s%s.html)", r.c_str(), pOutput_filename_base, r.c_str());
+            else
+                url = string_format("[%s](kwic_%s.html)", r.c_str(), r.c_str());
+
+            kwic_file_strings_header[i].push_back(url);
+        }
+
+        kwic_file_strings_header[i].push_back("");
+        kwic_file_strings_header[i].push_back("## Words Directory:");
+    }
+
+    uint32_t sorted_word_index = 0;
+    uint32_t num_words_printed = 0;
+    for (auto sit : sorted_words)
+    {
+        const auto it = *sit;
+
+        const std::string& word = it.first;
+        const word_usage_vec& usages = it.second;
+
+        uint8_t first_char = word[0];
+
+        uint32_t file_index = 0;
+        if (uislower(first_char))
+            file_index = first_char - 'a';
+        else if (uisdigit(first_char))
+            file_index = 26;
+        else
+            file_index = 27;
+
+        string_vec& output_strs_header = kwic_file_strings_header[file_index];
+
+        output_strs_header.push_back(
+            string_format("<a href=\"#word_%u\">\"%s\"</a>", sorted_word_index, word.c_str())
+        );
+
+        num_words_printed++;
+        if ((num_words_printed % 8) == 0)
+        {
+            output_strs_header.push_back("  ");
+        }
+
+        string_vec& output_strs = kwic_file_strings_contents[file_index];
+
+        output_strs.push_back(string_format("## <a name=\"word_%u\">Word: \"%s\"</a>, %u instance(s) <a href=\"#Top\">(Back to Top)</a>", sorted_word_index, word.c_str(), (uint32_t)usages.size()));
+
+        int_vec word_char_offsets;
+        get_utf8_code_point_offsets(word.c_str(), word_char_offsets);
+
+        output_strs.push_back("<pre>");
+
+        for (uint32_t j = 0; j < usages.size(); j++)
+        {
+            const std::string& str = event_plain_descs[usages[j].m_event];
+            const int str_ofs = usages[j].m_ofs;
+
+            int_vec event_char_offsets;
+            get_utf8_code_point_offsets(str.c_str(), event_char_offsets);
+
+            int l;
+            for (l = 0; l < (int)event_char_offsets.size(); l++)
+                if (str_ofs == event_char_offsets[l])
+                    break;
+            if (l == event_char_offsets.size())
+                l = 0;
+
+            const int PRE_CONTEXT_CHARS = 35;
+            const int POST_CONTEXT_CHARS = 40;
+
+            // in chars
+            int s = std::max<int>(0, l - PRE_CONTEXT_CHARS);
+            int e = std::min<int>(l + std::max<int>(POST_CONTEXT_CHARS, (int)word_char_offsets.size()), (int)event_char_offsets.size());
+            int char_len = e - s;
+
+            // in bytes
+            int start_ofs = event_char_offsets[s];
+            int prefix_bytes = event_char_offsets[l] - start_ofs;
+            int end_ofs = (e >= event_char_offsets.size()) ? (int)str.size() : event_char_offsets[e];
+            int len = end_ofs - start_ofs;
+
+            std::string context_str(string_slice(str, start_ofs, len));
+
+            context_str = string_slice(context_str, 0, prefix_bytes) + "<b>" +
+                string_slice(context_str, prefix_bytes, word.size()) + "</b>" +
+                string_slice(context_str, prefix_bytes + word.size());
+
+            if (l < PRE_CONTEXT_CHARS)
+            {
+                for (int q = 0; q < (PRE_CONTEXT_CHARS - l); q++)
+                {
+                    context_str = " " + context_str;
+                    //context_str = string_format("%c%c", 0xC2, 0xA0) + context_str; // non-break space
+                    char_len++;
+                }
+            }
+
+            for (uint32_t i = 0; i < context_str.size(); i++)
+                if ((uint8_t)context_str[i] < 32U)
+                    context_str[i] = ' ';
+
+            int total_chars = PRE_CONTEXT_CHARS + POST_CONTEXT_CHARS;
+            if (char_len < total_chars)
+            {
+                for (int i = char_len; i < total_chars; i++)
+                    context_str += ' ';
+                //context_str += string_format("%c%c", 0xC2, 0xA0); // non-break space
+            }
+
+            std::string url_str(event_urls.find(usages[j].m_event)->second);
+
+            //output_strs.push_back( string_format("`%s` %s  ", context_str.c_str(), url_str.c_str()) );
+
+            output_strs.push_back(string_format("%s %s  ", context_str.c_str(), url_str.c_str()));
+        }
+        output_strs.push_back("</pre>");
+        output_strs.push_back("\n");
+
+        sorted_word_index++;
+    }
+
+    for (uint32_t i = 0; i < NUM_KWIC_FILE_STRINGS; i++)
+    {
+        std::string filename;
+
+        filename = pOutput_filename_base ? pOutput_filename_base : "kwic_";
+        if (i < 26)
+            filename += string_format("%c", 'a' + i);
+        else if (i == 26)
+            filename += "numbers";
+        else
+            filename += "misc";
+
+        filename += ".md";
+
+        string_vec file_strings(kwic_file_strings_header[i]);
+        file_strings.push_back("");
+
+        for (auto& str : kwic_file_strings_contents[i])
+            file_strings.push_back(str);
+
+        if (!write_text_file(filename.c_str(), file_strings, true))
+            panic("Failed writing output file\n");
+    }
+
+    return true;
+}
+
+static bool load_book_json(
+    const char *pSource_filename,
+    const char *pURL,
+    const char *pName,
+    ufo_timeline &timeline,
+    ufo_timeline::event_urls_map_t &event_urls)
+{
+    bool utf8_flag;
+    json js;
+    if (!load_json_object(pSource_filename, utf8_flag, js))
+        return false;
+    
+    const uint32_t first_event_index = (uint32_t)timeline.size();
+    timeline.get_events().resize(first_event_index + js.size());
+        
+    for (uint32_t i = 0; i < js.size(); i++)
+    {
+        auto obj = js[i];
+
+        if (!obj.is_object())
+            panic("Invalid JSON");
+
+        timeline_event& event = timeline.get_events()[first_event_index + i];
+
+        const auto& p = obj.find("page");
+        if ((p == obj.end()) || (!p->is_number_unsigned()))
+            panic("Invalid JSON");
+
+        const uint32_t page_index = (uint32_t)(*p);
+
+        const auto& t = obj.find("text");
+        if ((t == obj.end()) || (!t->is_string()))
+            panic("Invalid JSON");
+        const std::string text = *t;
+
+        event.m_date_str = "1/1/1900";
+        event.m_begin_date.parse(event.m_date_str.c_str(), false);
+
+        event.m_source_id = string_format("%u", page_index);
+        //event.m_desc = text;
+
+        bool prev_soft_hypen = false;
+        for (uint32_t j = 0; j < text.size(); j++)
+        {
+            uint8_t c = (uint8_t)text[j];
+
+            uint8_t nc = 0;
+            if (j != (text.size() - 1))
+                nc = (uint8_t)text[j + 1];
+
+            // 0xC2 AD
+            if ((c == 0xC2) && (nc == 0xAD))
+            {
+                if (event.m_desc.back() == ' ')
+                    event.m_desc.pop_back();
+
+                j++;
+                prev_soft_hypen = true;
+            }
+            else if ((c == '<') || (c == '>'))
+            {
+            }
+            else
+            {
+                if ((prev_soft_hypen) && (c == ' '))
+                {
+
+                }
+                else
+                    event.m_desc.push_back((char)c);
+
+                prev_soft_hypen = false;
+            }
+        }
+
+        std::string raw_url(string_format(pURL, page_index - 1));
+
+        std::string url(string_format("<a href=\"%s\">%s Page #%u</a>",
+            raw_url.c_str(),
+            pName,
+            page_index));
+
+        event_urls.insert(std::make_pair((int)(i + first_event_index), url));
+    }
+    
+    return true;
+}
+
+const uint32_t NUM_CRASHCONF_URLS = 7;
+const uint32_t CRASHCONF_FIRST_YEAR = 2003;
+static const char* g_crashconf_urls[NUM_CRASHCONF_URLS] =
+{
+    "https://archive.org/details/crash-retrieval-conference-proceedings-1st-annual-nov-2003/page/n%u/mode/1up",
+    "https://archive.org/details/crash-retrieval-conference-proceedings-2nd-annual-nov-2004-lq.pdf/page/n%u/mode/1up",
+    "https://archive.org/details/crash-retrieval-conference-proceedings-3rd-annual-2005/page/n%u/mode/1up",
+    "https://archive.org/details/crash-retrieval-conference-proceedings-4th-annual-2006/page/n%u/mode/1up",
+    "https://archive.org/details/crash-retrieval-conference-proceedings-5th-annual-2007/page/n%u/mode/1up",
+    "https://archive.org/details/crash-retrieval-conference-proceedings-6th-annual-2008/page/n%u/mode/1up",
+    "https://archive.org/details/crash-retrieval-conference-proceedings-7th-annual-2009/page/n%u/mode/1up"
+};
+
+struct crashconf_chapter
+{
+    const char* m_pName;
+    int m_page;
+};
+
+const uint32_t MAX_CRASHCONF_CHAPTERS = 20;
+static const crashconf_chapter g_crashconf_chapters[NUM_CRASHCONF_URLS][MAX_CRASHCONF_CHAPTERS] =
+{
+    {
+        { u8"_Famous UFO-Related Quotes_, Ryan S. Wood", 5 },
+        { u8"_The First Roswell? Evidence for A Crash Retrieval In Cape Girardeau Missouri_, Ryan S. Wood", 21 },
+        { u8"_Maury Island UFO: The Crisman Conspiracy_, Kenn Thomas", 41 },
+        { u8"_Crash Retrieval on the Plains of St. Augustine, New Mexico_, Art Campbell", 43 },
+        { u8"_The 1963 Crash Retrieval North of Albuquerque, New Mexico_, Budd Hopkins", 51 },
+        { u8"_The Kecksburg Incident: An Updated Review_, Stan Gordon", 53 },
+        { u8"_Cosmic Crashes: UFO Crashes In Britain_, Nick Redfern", 73 },
+        { u8"_Puerto Rico UFO Crashes_, Jonathan Downes", 81 },
+        { u8"_The \"British Area 51\" & Hacker Matthew Bevan_, Matthew Williams", 83 },
+        { u8"_The Strange Death of James Forrestal_, Peter Robbins", 85 },
+        { u8"_Research Update: Anomalous Energy Transformations in Layered Bi/Mg Metal_, Linda Howe", 97 },
+        { u8"_New Attacks on Roswell and MJ-12_, Stanton Friedman", 117 },
+        { u8"_Project Beta: How U.S. Intelligence Created an Alien Invasion_, Greg Bishop", 141 },
+        { u8"_Evidence From The National Archives: Governmental Proof of Keen UFO Interest_, Ryan Wood", 153 },
+        { u8"_Authenticating the Special Operations Manual_, Dr. Robert M. Wood", 169 },
+        { u8"_The President and UFOs - Top Secret_, Grant Cameron", 189 },
+        { u8"_Resolving The “Emulation” In Directives Between Twining & Wedemeyer_, Ryan S. Wood", 203 }
+    },
+    {
+        { u8"_Crashed UFOs: A Worldwide History_, Nick Redfern", 4 },
+        { u8"_The Very First UFO Crash Retrieval?_, Jim Marrs", 26 },
+        { u8"_The Shag Harbor Incident_, Don Ledger", 34 },
+        { u8"_The Bentwaters/Woodbridge UFO Incident: New & Previously Unpublished Pieces of the Puzzle_, Peter Robbins", 46 },
+        { u8"_UFO Crash Retrievals: U.S. Government Policy of Denial in the Interest of National Security_, Linda Moulton Howe", 60 },
+        { u8"_The Presidents and the Hard Evidence (Part 1)_, Grant Cameron", 84 },
+        { u8"_Correlating Leonard Stringfield's Crash-Retrieval Reports_, Robert M. Wood", 106 },
+        { u8"_The Road to Roswell: A Primer of Undisputed Facts and Factual Disputes_, Paul Davids", 132 },
+        { u8"_Inside the USSR Majestic 12 Program_, David Pace", 152 },
+        { u8"_The Presidents and the Hard Evidence (Part 2)_, Grant Cameron", 176 },
+        { u8"_Murder and Majestic 12: An Investigation of UFO-Related Deaths_, Ryan S. Wood", 198 },
+        { u8"_UFO Crash at Aztec_, Paul Kimball", 214 },
+        { u8"_Report on the Ramey Office Photos_, Ron Regehr", 226 },
+        { u8"_Debris from Two Crashed UFOs in New Mexico_, 1947, Chuck Wade", 240 },
+        { u8"_Evidence for the Existence of TOP SECRET/MJ-12: An Examination of Leaked Documents_, Ryan S. Wood", 242 }
+    },
+    {
+        { u8"_Examination of Reverse Engineering Claims_, Robert M. Wood, Ph.D.", 3 },
+        { u8"_Researching the Energy Technology of UFOs_, Tom Valone, Ph.D., PE", 13 },
+        { u8"_Varginha, Brazil Crash Retrieval Case, January 1966_, Roger Leir", 31 },
+        { u8"_The Kingman UFO Crash of 1953_, Nick Redfern", 39 },
+        { u8"_An Alleged 1953 UFO Crash and Burial Near Garrison, Utah_, Linda Moulton Howe", 51 },
+        { u8"_Sociological Implications of Disclosure_, Richard M. Dolan", 73 },
+        { u8"_Orgone Energy, Wilhelm Reich and UFOs_, Peter Robbins", 87 },
+        { u8"_New Archeological Evidence from the Mac Brazel, July, 1947 Debris Site_, Chuck Zukowski and Debbie Ziegelmeyer", 107 },
+        { u8"_Will the Rocket Engine Go the Way of the Dodos?_, Jim Marrs", 115 },
+        { u8"_Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology_, Ryan S. Wood", 117 },
+        { u8"_Alien Autopsy Film: A Decade Later_, Philip Mantle", 145 },
+        { u8"_San Antonio, NM August 1945 Crash Retrieval_, Reme Baca", 153 },
+        { u8"_Analysis of Metal Fragments from a UFO_, Roger Leir", 159 },
+        { u8"_Reverse Engineering and Alien Astronautics_, William F. Hamilton III", 161 },
+        { u8"_Arizona, 1998: Landed UFO, Military, & Murder?_, Ken Storch", 177 }
+    },
+    {
+        { u8"_The UFO \"Why?\" Questions_, Stanton T. Friedman", 4 },
+        { u8"_The Covert World of UOF Crash Retrievals?_, Dr. Michael Saila", 14 },
+        { u8"_UFO Crash Retrievals: The History of Leaks and Structure of Secrecy_, Richard M. Dolan", 25 },
+        { u8"_Defying Gravity: The Parallel Universe of T. Townsend Brown_, Paul Schatzkin", 34 },
+        { u8"_The Devils Hole UFO Crash_, Ryan S. Wood", 44 },
+        { u8"_Scenarios of Contact_, Michael Lindemann", 48 },
+        { u8"_After the Fire: How the Government Responds to Top Secret Crashes_, Peter W. Merlin", 71 },
+        { u8"_The Flatwoods Monster Incident — The Night They Were Here_, Frank Feschino", 89 },
+        { u8"_Alien Viruses & Leaked Documents_, Dr. Robert M. Wood", 101 },
+        { u8"_1974 The Year of Crashed UFOs Alien Viruses and Biological Warfare_, Nick Redfern", 119 },
+        { u8"_Military Voices: Firsthand Testimonies About Non-Human Aerial Craft and Entities_, Linda Moulton Howe", 139 },
+        { u8"_The Mystery of December 6, 1950_, Dr. Bruce Maccabee", 164 },
+        { u8"_Lummi Island Incident: A Watery Roswell_, Mathew E. Thuney", 180 },
+        { u8"_The Bigelow Foundation: Historical Review October 1992 - April 1994_, Dr. Angela Thompson", 196 }
+    },
+    {
+        { u8"_News Management In the Wake of A UFO Crash_, Terry Hansen", 7 },
+        { u8"_An Encyclopaedia of Flying Saucers_, Dr. Robert M. Wood", 42 },
+        { u8"_After the Retrievals: The Covert Program to Replicate Alien Technology_, Richard M. Dolan", 50 },
+        { u8"_UFO and Alien Imagery in Advertising_, Peter Robbins", 59 },
+        { u8"_A Close Encounter With Whistleblower Gary Mckinnon_, Matthew Williams", 78 },
+        { u8"_Flying Saucers: For Real!_, Michael H. Schrott", 93 },
+        { u8"_Elk Mountain Wyoming UFO Crash_, Cameron Debow", 121 },
+        { u8"_Project Moon Dust: How the Government Recovers Crashed Flying Saucers_, Nick Redfern", 132 },
+        { u8"_May 28, 1974: Glowing Disc Encounter with Military in Albuquerque, New Mexico_, Linda Moulton Howe", 145 },
+        { u8"_UFOs and Media Desensitization of Children_, Karyn Dolan", 177 },
+        { u8"_1974 Coyame, Mexico UFO Crash, New Revelations_, Ruben Uriarte & Noe Torres", 184 },
+        { u8"_A Survey of Retrieved Physical Evidence from South American UFO Cases_, J. Antonio Huneeus", 193 }
+    },
+    {
+        { u8"_April 18, 1962: The Las Vegas UFO Crash_, Dr. Kevin Randle", 7 },
+        { u8"_Why UFOs Are A National Security Threat_, Nick Redfern", 23 },
+        { u8"_The Westport UFO Crash Retrieval Event_, James Clarkson", 40 },
+        { u8"_Ministry of Defense X-Files_, Nick Pope", 61 },
+        { u8"_Bentwaters 1980: Telpathic lights?_, Linda Moulton Howe", 71 },
+        { u8"_Tunguska: 100 Years Later_, Nick Redfern", 97 },
+        { u8"_Forensic Linquistics and the Majestic Documents_, Dr. Robert M. Wood", 104 },
+        { u8"_Nazification of America_, Jim Marrs", 123 },
+        { u8"_UFOs: The Good News & Bad News, By Dr. John B. Alexander_, Dr. John B. Alexander", 146 },
+        { u8"_UFOs and the National Security State, Volume II-1973-1991_, Richard Dolan", 157 },
+        { u8"_1974 Coyame, Mexico UFO Crash, New Revelations_, Ruben Uriarte & Noe Torres (no slides)", 1 },
+        { u8"_A Survey of Retrieved Physical Evidence from South American UFO Cases_, J. Antonio Huneeus (no slides)", 1 },
+    },
+    {
+        { u8"_Edward Teller and UFOs: Forensic Analysis of Questioned Documents_, Dr. Robert M. Wood", 7 },
+        { u8"_Maury Island Revisited_, Kenn Thomas", 29 },
+        { u8"_Timeline & Political Analysis of President Kennedy's Efforts to Declassify UFO Files and the Alleged MJ-12 Assassination Directive_, Dr. Michael Solla", 35 },
+        { u8"_The Kingman UFO Crash: Updates and New Revelations_, Nick Redfern", 48 },
+        { u8"_December 1980 RAF Bentwaters Update with John Burroughs_, Linda Moulton Howe", 57 },
+        { u8"_June Crain: Witness to the UFO Crash Cover-up_, James Clarkson", 87 },
+        { u8"_Bombshell UFO Case Files: Excerpts from the CUFOs Archives_, Michael Schrott", 97 },
+        { u8"_VORONEZH: A Personal Reappraisal of Russia's Best Known CE3 Incident_, Peter Robbins", 134 },
+        { u8"_UFOs and the National Security State_, Richard Dolan", 141 },
+        { u8"_Russian Esponiage and UFOs_, James Carrion", 154 },
+        { u8"_The California Drone and CARET Documents_, TK Davis and Frank Dixon", 186 }
+    }
+};
+
+static bool create_crashconf_kwic_index()
+{
+    ufo_timeline timeline;
+    ufo_timeline::event_urls_map_t event_urls;
+    
+    std::string header("This is an automatically generated [KWIC Index](https://en.wikipedia.org/wiki/Key_Word_in_Context) of the 2003-2009 Crash Retrieval Conference proceedings, created by [Richard Geldreich Jr.](https://twitter.com/richgel999).\n\nHere are links to each year's proceedings and each presentation:\n");
+
+    for (uint32_t i = 0; i < NUM_CRASHCONF_URLS; i++)
+    {
+        std::string year_str(string_format("%u", CRASHCONF_FIRST_YEAR + i));
+
+        printf("Processing year: %s\n", year_str.c_str());
+
+        if (!load_book_json(
+            string_format("crash_conf_%s.json", year_str.c_str()).c_str(),
+            g_crashconf_urls[i],
+            year_str.c_str(),
+            timeline,
+            event_urls))
+        {
+            return false;
+        }
+
+        header += string_format("* [%s Crash Retrieval Conference Proceedings (archive.org)](%s)\n", year_str.c_str(), string_format(g_crashconf_urls[i], 0).c_str());
+
+        for (uint32_t j = 0; j < MAX_CRASHCONF_CHAPTERS; j++)
+        {
+            if (!g_crashconf_chapters[i][j].m_pName)
+                break;
+            header += string_format("  * [%s](%s)\n", g_crashconf_chapters[i][j].m_pName, string_format(g_crashconf_urls[i], g_crashconf_chapters[i][j].m_page - 1).c_str());
+        }
+    }
+
+    return create_kwic_index(timeline, event_urls, true, "crashconf_kwic_", "Crash Retrieval Conference Proceedings", header.c_str());
+}
+
+static int md_trim(const string_vec& args)
+{
+    if (args.size() != 3)
+        panic("Expecting 2 filenames\n");
+
+    string_vec src_file_lines;
+    
+    if (!read_text_file(args[1].c_str(), src_file_lines, true, nullptr))
+        panic("Failed reading source file %s\n", args[1].c_str());
+
+    uprintf("Read file %s\n", args[1].c_str());
+
+    bool found_header = false, found_footer = false;
+
+    for (uint32_t i = 0; i < std::min<size_t>(15, src_file_lines.size()); i++)
+    {
+        const std::string& str = src_file_lines[i];
+        if (!str.size())
+            continue;
+        
+        if (string_find_first(str, "---------------") >= 0)
+        {
+            found_header = true;
+            src_file_lines.erase(src_file_lines.begin(), src_file_lines.begin() + i + 1);
+            break;
+        }
+        else if (string_begins_with(str, "- "))
+        {
+            found_header = true;
+            src_file_lines.erase(src_file_lines.begin(), src_file_lines.begin() + i);
+            break;
+        }
+    }
+
+    while (src_file_lines.size())
+    {
+        src_file_lines[0] = string_trim_end(src_file_lines[0]);
+        if (src_file_lines[0].size())
+            break;
+        src_file_lines.erase(src_file_lines.begin());
+    }
+
+    for (int i = std::max<int>(0, (int)src_file_lines.size() - 1); i >= std::max<int>(0, (int)src_file_lines.size() - 5); --i)
+    {
+        const std::string& str = src_file_lines[i];
+        if (!str.size())
+            continue;
+
+        if ( (string_find_first(str, "[Chronologie](annees.html)") >= 0) || 
+             (string_find_first(str, "[Contact](Contact.html)") >= 0) ||
+             (string_find_first(str, "[Home](/)") >= 0))
+        {
+            found_footer = true;
+            src_file_lines.erase(src_file_lines.begin() + i, src_file_lines.end());
+            break;
+        }
+    }
+
+    while (src_file_lines.size())
+    {
+        std::string& str = src_file_lines[src_file_lines.size() - 1];
+        str = string_trim_end(str);
+        if (str.size())
+            break;
+        src_file_lines.erase(src_file_lines.begin() + src_file_lines.size() - 1);
+    }
+
+    uprintf("Found header: %u footer: %u\n", found_header, found_footer);
+
+    if (!write_text_file(args[2].c_str(), src_file_lines, true))
+        panic("Failed writing output file %s\n", args[2].c_str());
+
+    uprintf("Wrote file %s\n", args[2].c_str());
+    
+    return EXIT_SUCCESS;
+}
+
+#define TRANSLATE_RECORDS (1)
+
+static bool translate_record(const string_vec& in, string_vec& out)
+{
+#if !TRANSLATE_RECORDS
+    out = in;
+    return true;
+#else
+    assert(in.size());
+
+    string_vec prompt;
+    prompt.push_back("Precisely translate this UFO/saucer event record from French to English. Preserve all formatting and new lines, especially the first 2 lines, which contain the date and location. If the record is all-caps, correct it so it's not.");
+    
+    prompt.push_back("\"");
+    for (const auto& str : in)
+        prompt.push_back(str);
+    prompt.push_back("\"");
+
+    if (!invoke_openai(prompt, out))
+        return false;
+
+    return true;
+#endif
+}
+
+static int md_translate(const string_vec& args)
+{
+    if (args.size() != 3)
+        panic("Expecting 2 filenames\n");
+
+    string_vec src_file_lines;
+
+    if (!read_text_file(args[1].c_str(), src_file_lines, true, nullptr))
+        panic("Failed reading source file %s\n", args[1].c_str());
+
+    uprintf("Read file %s\n", args[1].c_str());
+
+    if (src_file_lines.size() < 3)
+        panic("File too small\n");
+
+    if (!src_file_lines[0].size() || src_file_lines[0][0] != '!')
+        panic("Invalid file\n");
+    if (!src_file_lines[1].size() || src_file_lines[1][0] != '!')
+        panic("Invalid file\n");
+
+    const int first_year = atoi(src_file_lines[0].c_str() + 1);
+    const int last_year = atoi(src_file_lines[1].c_str() + 1);
+
+    if (!first_year || !last_year || (first_year > last_year))
+        panic("Invalid header");
+
+    string_vec out_lines;
+
+    uint32_t cur_line = 2;
+    string_vec cur_rec;
+    std::vector<string_vec> tran_recs;
+    while (cur_line < src_file_lines.size())
+    {
+        std::string l(src_file_lines[cur_line]);
+        string_trim(l);
+
+        const bool has_dash = (l.size() > 2) && (l[0] == '#');
+
+        if (has_dash)
+        {
+            int y = atoi(l.c_str() + 1);
+            if (y)
+            {
+                if ((y < first_year) || (y > last_year))
+                    panic("Invalid year\n");
+            }
+        }
+        else if (l.size() && uisdigit(l[0]))
+        {
+            int y = atoi(l.c_str());
+            if ((y) && (y >= first_year) && (y <= last_year))
+                uprintf("Suspicious year at line %u\n", cur_line + 1);
+        }
+
+        if (cur_rec.size() == 0)
+        {
+            if (has_dash)
+            {
+                cur_rec.push_back(src_file_lines[cur_line]);
+            }
+            else
+            {
+                panic("Unrecognized text: %s at line %u\n", src_file_lines[cur_line].c_str(), cur_line + 1);
+            }
+        }
+        else
+        {
+            if (has_dash)
+            {
+                uprintf("----------------- Record:\n");
+                for (uint32_t i = 0; i < cur_rec.size(); i++)
+                    uprintf("%s\n", cur_rec[i].c_str());
+
+                tran_recs.push_back(cur_rec);
+                                
+                cur_rec.resize(0);
+            }
+            
+            cur_rec.push_back(src_file_lines[cur_line]);
+        }
+
+        cur_line++;
+    }
+
+    if (cur_rec.size())
+    {
+        uprintf("Record:\n");
+        for (uint32_t i = 0; i < cur_rec.size(); i++)
+            uprintf("%s\n", cur_rec[i].c_str());
+
+        tran_recs.push_back(cur_rec);
+    }
+
+    uprintf("Found %zu records\n", tran_recs.size());
+
+    for (uint32_t rec_index = 0; rec_index < tran_recs.size(); rec_index++)
+    {
+        uprintf("------------------\n");
+
+        string_vec tran_rec;
+        if (!translate_record(tran_recs[rec_index], tran_rec))
+        {
+            uprintf("Failed translating record %u!\n", rec_index);
+                        
+            if (tran_recs[rec_index].size())
+                out_lines.push_back(tran_recs[rec_index][0]);
+            out_lines.push_back("FAILED!\n");
+        }
+        else
+        {
+            if (tran_rec.size())
+            {
+                if (!tran_rec[0].size())
+                    tran_rec.erase(tran_rec.begin());
+            }
+
+            if (tran_rec.size())
+            {
+                std::string& first_line = tran_rec[0];
+                if (first_line.size())
+                {
+                    if (first_line[0] != '#')
+                        first_line = "#" + first_line;
+                }
+            }
+
+            uprintf("Translated record:\n");
+            for (uint32_t i = 0; i < tran_rec.size(); i++)
+            {
+                uprintf("%s\n", tran_rec[i].c_str());
+
+                out_lines.push_back(tran_rec[i]);
+            }
+        }
+    }
+
+    if (!write_text_file(args[2].c_str(), out_lines, true))
+        panic("Failed writing output file %s\n", args[2].c_str());
+
+    uprintf("Wrote file %s\n", args[2].c_str());
+
+    return EXIT_SUCCESS;
+}
+
 // Main code
 int wmain(int argc, wchar_t* argv[])
 {
@@ -2048,9 +2846,39 @@ int wmain(int argc, wchar_t* argv[])
     //SetConsoleOutputCP(CP_UTF8);
         
     converters_init();
-
+    init_norm();
     udb_init();
 
+#if 0
+    // TODO: Move to converters.cpp
+    //return md_trim(args);
+
+    ufo_timeline tm;
+    for (int index = 1; index <= 28; index++)
+    {
+        std::string in_filename = string_format("fc2/chron%i.txt", index);
+        std::string out_filename = string_format("tran_chron%i.txt", index);
+
+        if (!does_file_exist(in_filename.c_str()))
+        {
+            uprintf("Skipping file %s - doesn't exists\n", in_filename.c_str());
+            continue;
+        }
+
+        if (does_file_exist(out_filename.c_str()))
+        {
+            uprintf("Skipping file %s - already exists\n", out_filename.c_str());
+            continue;
+        }
+                
+        string_vec a = { "", in_filename, out_filename };
+        int status = md_translate(a);
+        if (status != EXIT_SUCCESS)
+            panic("md_translate() failed!\n");
+    }
+    exit(0);
+#endif
+        
     bool status = false, utf8_flag = false;
 
     unordered_string_set unique_urls;
@@ -2061,6 +2889,8 @@ int wmain(int argc, wchar_t* argv[])
     bool filter_ignore_case = false;
     bool filter_all_flag = false;
     std::string title_str("All events");
+    bool conversion_flag = false;
+    bool crashconf_flag = false;
     
     int arg_index = 1;
     while (arg_index < argc)
@@ -2073,7 +2903,15 @@ int wmain(int argc, wchar_t* argv[])
         
         if (t == '-')
         {
-            if (arg == "-filter")
+            if (arg == "-convert")
+            {
+                conversion_flag = true;
+            }
+            else if (arg == "-crashconf")
+            {
+                crashconf_flag = true;
+            }
+            else if (arg == "-filter")
             {
                 if (num_args_remaining < 1)
                     panic(string_format("Expected parameter after option: %s", arg.c_str()).c_str());
@@ -2116,58 +2954,148 @@ int wmain(int argc, wchar_t* argv[])
             panic(string_format("Unrecognized option: %s", arg.c_str()).c_str());
         }
     }
-                            
-#if 1
-    uprintf("Convert Eberhart:\n");
-    if (!convert_eberhart(unique_urls))
-        panic("convert_eberthart() failed!");
-    uprintf("Success\n");
 
-    uprintf("Convert Nuclear:\n");
-    if (!convert_nuk())
-        panic("convert_nuk() failed!");
-    uprintf("Success\n");
+    if (crashconf_flag)
+    {
+        uprintf("Crashing crashconf KWIC index\n");
+        if (!create_crashconf_kwic_index())
+            panic("create_crashconf_book_kwic_index() failed");
+        uprintf("Processing successful\n");
+        return EXIT_SUCCESS;
+    }
+                                    
+    if (conversion_flag)
+    {
+        uprintf("Convert Overmeire:\n");
+        if (!convert_overmeire())
+            panic("convert_overmeire() failed!");
+        uprintf("Success\n");
 
-    uprintf("Convert Hatch UDB:\n");
-    if (!udb_convert())
-        panic("udb_convert() failed!");
-    uprintf("Success\n");
+        uprintf("Convert rr0:\n");
+        if (!convert_rr0())
+            panic("convert_rr0() failed!");
+        uprintf("Success\n");
 
-    uprintf("Convert NICAP:\n");
-    if (!convert_nicap(unique_urls))
-        panic("convert_nicap() failed!");
-    uprintf("Success\n");
+        uprintf("Convert scully:\n");
+        if (!convert_magonia("scully.txt", "scully.json", "Scully", u8"[Frank Scully Papers, American Heritage Center, Box 3 FF5](https://archiveswest.orbiscascade.org/ark:80444/xv506256)", 40, "ufo sighting", false))
+            panic("convert scully failed!");
+        uprintf("Success\n");
 
-    uprintf("Convert Johnson:\n");
-    if (!convert_johnson())
-        panic("convert_johnson() failed!");
-    uprintf("Success\n");
-        
-    uprintf("Convert Trace:\n");
-    if (!convert_magnonia("trace.txt", "trace.json", "Trace", " [Trace Cases](https://www.thenightskyii.org/trace.html)"))
-        panic("convert_magnonia() failed!");
-    uprintf("Success\n");
+        uprintf("Convert dolan.txt:\n");
+        if (!convert_dolan("dolan.txt", "dolan.json", "Dolan", "ufo sighting", u8"[_UFOs and the National Security State: Chronology of a Cover-up, 1941–1973_, by Richard Dolan](https://archive.org/details/ufosnationalsecu00dola/mode/2up)"))
+            panic("convert_dolan() failed!\n");
+        uprintf("Success\n");
 
-    uprintf("Convert Magnonia:\n");
-    if (!convert_magnonia("magnonia.txt", "magnonia.json"))
-        panic("convert_magnonia() failed!");
-    uprintf("Success\n");
-    
-    uprintf("Convert Hall:\n");
-    if (!convert_hall())
-        panic("convert_hall() failed!");
-    uprintf("Success\n");
+        uprintf("Convert pre_roswell_chap1:\n");
+        if (!convert_magonia("pre_roswell_chap1.txt", "pre_roswell_chap1.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "mystery airship", false))
+            panic("convert pre_roswell_chap1 failed!");
+        uprintf("Success\n");
 
-    uprintf("Convert Bluebook Unknowns:\n");
-    if (!convert_bluebook_unknowns())
-        panic("convert_bluebook_unknowns failed!");
-    uprintf("Success\n");
+        uprintf("Convert pre_roswell_chap2:\n");
+        if (!convert_magonia("pre_roswell_chap2.txt", "pre_roswell_chap2.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "UFO sighting", false, 86))
+            panic("convert pre_roswell_chap2 failed!");
+        uprintf("Success\n");
 
-    uprintf("Convert anon_pdf.md:\n");
-    if (!convert_anon())
-        panic("convert_anon failed!");
-    uprintf("Success\n");
-#endif
+        uprintf("Convert pre_roswell_chap3:\n");
+        if (!convert_magonia("pre_roswell_chap3.txt", "pre_roswell_chap3.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "UFO sighting", false, 109))
+            panic("convert pre_roswell_chap3 failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert pre_roswell_chap4:\n");
+        if (!convert_magonia("pre_roswell_chap4.txt", "pre_roswell_chap4.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "UFO sighting", false, 145))
+            panic("convert pre_roswell_chap4 failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert pre_roswell_chap5:\n");
+        if (!convert_magonia("pre_roswell_chap5.txt", "pre_roswell_chap5.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "UFO sighting", false, 175))
+            panic("convert pre_roswell_chap5 failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert pre_roswell_chap6:\n");
+        if (!convert_magonia("pre_roswell_chap6.txt", "pre_roswell_chap6.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "UFO sighting", false, 201))
+            panic("convert pre_roswell_chap6 failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert pre_roswell_chap7:\n");
+        if (!convert_magonia("pre_roswell_chap7.txt", "pre_roswell_chap7.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "UFO sighting", false, 225))
+            panic("convert pre_roswell_chap7 failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert pre_roswell_chap8:\n");
+        if (!convert_magonia("pre_roswell_chap8.txt", "pre_roswell_chap8.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "UFO sighting", false, 301))
+            panic("convert pre_roswell_chap8 failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert pre_roswell_chap9:\n");
+        if (!convert_magonia("pre_roswell_chap9.txt", "pre_roswell_chap9.json", "Rife", u8"[_It Didn't Start with Roswell_, by Philip L. Rife, 2001](https://archive.org/details/it-didnt-start-with-roswell-50-years-of-amazing-ufo-crashes-close-encounters-and)", 28, "UFO sighting", false, 348))
+            panic("convert pre_roswell_chap9 failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert ancient:\n");
+        if (!convert_magonia("ancient.txt", "ancient.json", "WondersInTheSky", u8"[_Wonders in the Sky: Unexplained Aerial Objects From Antiquity To Modern Times_, by Jacques Vallée and Chris Aubeck, 2009](https://archive.org/details/JacquesValleeChrisAubeckWondersInTheSkyUnexplainedAerialObjectsFromAntiquityToModernTimes/mode/2up)", 48, "ufo sighting", false, 23))
+            panic("convert ancient failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert hostile:\n");
+        if (!convert_magonia("hostile.txt", "hostile.json", "HostileFawcett", "[_The Flying Saucers are Hostile!_, by George D. Fawcett 1961](https://archive.org/details/the_flying_saucers_are_hostile_george_d_fawcett_1961/mode/2up)", 68, "ufo sighting"))
+            panic("convert hostile failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert mut:\n");
+        if (!convert_magonia("mut.txt", "mut.json", "MysteryHelicoptersAdams", "[The Choppers - and the Choppers, Mystery Helicopters and Animal Mutilations, Thomas R. Adams, 1991](http://www.ignaciodarnaude.com/avistamientos_ovnis/Adams,Thomas,Choppers%20and%20the%20Choppers-1.pdf)", 20, "mystery helicopter/mutilation related"))
+            panic("convert_magonia() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert Eberhart:\n");
+        if (!convert_eberhart(unique_urls))
+            panic("convert_eberthart() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert Nuclear:\n");
+        if (!convert_nuk())
+            panic("convert_nuk() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert Hatch UDB:\n");
+        if (!udb_convert())
+            panic("udb_convert() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert NICAP:\n");
+        if (!convert_nicap(unique_urls))
+            panic("convert_nicap() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert Johnson:\n");
+        if (!convert_johnson())
+            panic("convert_johnson() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert Trace:\n");
+        if (!convert_magonia("trace.txt", "trace.json", "Trace", " [Trace Cases](https://www.thenightskyii.org/trace.html)"))
+            panic("convert_magonia() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert Magonia:\n");
+        if (!convert_magonia("magonia.txt", "magonia.json"))
+            panic("convert_magonia() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert Hall:\n");
+        if (!convert_hall())
+            panic("convert_hall() failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert Bluebook Unknowns:\n");
+        if (!convert_bluebook_unknowns())
+            panic("convert_bluebook_unknowns failed!");
+        uprintf("Success\n");
+
+        uprintf("Convert anon_pdf.md:\n");
+        if (!convert_anon())
+            panic("convert_anon failed!");
+        uprintf("Success\n");
+    } // if (conversion_flag)
     
     uprintf("Total unique URL's: %u\n", (uint32_t)unique_urls.size());
 
@@ -2187,6 +3115,22 @@ int wmain(int argc, wchar_t* argv[])
         timeline[i].m_source_id = string_format("%s_%u", timeline[i].m_source.c_str(), i);
 
 #if 1
+    status = timeline.load_json("overmeire.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading overmeire.json");
+
+    status = timeline.load_json("rr0.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading rr0.json");
+
+    status = timeline.load_json("scully.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading scully.json");
+
+    status = timeline.load_json("dolan.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading dolan.json");
+
     status = timeline.load_json("hatch_udb.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading hatch_udb.json");
@@ -2199,7 +3143,7 @@ int wmain(int argc, wchar_t* argv[])
     if (!status)
         panic("Failed loading trace.json");
 
-    status = timeline.load_json("magnonia.json", utf8_flag, nullptr, false);
+    status = timeline.load_json("magonia.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading magnolia.json");
 
@@ -2222,6 +3166,54 @@ int wmain(int argc, wchar_t* argv[])
     status = timeline.load_json("johnson.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading johnson.json");
+
+    status = timeline.load_json("mut.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading mut.json");
+
+    status = timeline.load_json("hostile.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading hostile.json");
+
+    status = timeline.load_json("ancient.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading hostile.json");
+    
+    status = timeline.load_json("pre_roswell_chap1.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap1.json");
+
+    status = timeline.load_json("pre_roswell_chap2.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap2.json");
+
+    status = timeline.load_json("pre_roswell_chap3.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap3.json");
+
+    status = timeline.load_json("pre_roswell_chap4.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap4.json");
+
+    status = timeline.load_json("pre_roswell_chap5.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap5.json");
+
+    status = timeline.load_json("pre_roswell_chap6.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap6.json");
+
+    status = timeline.load_json("pre_roswell_chap7.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap7.json");
+
+    status = timeline.load_json("pre_roswell_chap8.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap8.json");
+
+    status = timeline.load_json("pre_roswell_chap9.json", utf8_flag, nullptr, false);
+    if (!status)
+        panic("Failed loading pre_roswell_chap9.json");
 #endif
 
     status = timeline.load_json("anon_pdf.json", utf8_flag, nullptr, false);
@@ -2358,26 +3350,8 @@ int wmain(int argc, wchar_t* argv[])
 
         timeline.get_events().swap(new_timeline.get_events());
     }
-
-    // Write majestic.json, then load it and verify that it saved and loaded correctly.
-    {
-        timeline.set_name("Majestic Timeline");
-        timeline.write_file("majestic.json", true);
-
-        ufo_timeline timeline_comp;
-        bool utf8_flag_comp;
-        if (!timeline_comp.load_json("majestic.json", utf8_flag_comp, nullptr, false))
-            panic("Failed loading majestic.json");
-
-        if (timeline.get_events().size() != timeline_comp.get_events().size())
-            panic("Failed loading timeline events JSON");
-
-        for (size_t i = 0; i < timeline.get_events().size(); i++)
-            if (timeline[i] != timeline_comp[i])
-                panic("Failed comparing majestic.json");
-    }
-
-    uprintf("Writing timeline\n");
+       
+    uprintf("Writing timeline markdown\n");
 
     ufo_timeline::event_urls_map_t event_urls;
 
@@ -2394,265 +3368,35 @@ int wmain(int argc, wchar_t* argv[])
         timeline.write_markdown("timeline_part5.md", "Part 5: 1980 to Present", 1980, 10000, false, event_urls, true);
     }
 
-    // Write KWIC index
+    uprintf("Writing majestic.json\n");
+
+    timeline.create_plaintext();
+
+    // Write majestic.json, then load it and verify that it saved and loaded correctly.
+    {
+        for (uint32_t i = 0; i < timeline.size(); i++)
+        {
+            timeline[i].m_key_value_data.push_back(string_pair("url", event_urls.find(i)->second));
+        }
+        timeline.set_name("Majestic Timeline");
+        timeline.write_file("majestic.json", true);
+
+        ufo_timeline timeline_comp;
+        bool utf8_flag_comp;
+        if (!timeline_comp.load_json("majestic.json", utf8_flag_comp, nullptr, false))
+            panic("Failed loading majestic.json");
+
+        if (timeline.get_events().size() != timeline_comp.get_events().size())
+            panic("Failed loading timeline events JSON");
+
+        for (size_t i = 0; i < timeline.get_events().size(); i++)
+            if (timeline[i] != timeline_comp[i])
+                panic("Failed comparing majestic.json");
+    }
+
     uprintf("Creating KWIC index\n");
-
-    struct word_usage
-    {
-        uint32_t m_event;
-        uint32_t m_ofs;
-    };
-    typedef std::vector<word_usage> word_usage_vec;
-
-    string_vec event_plain_descs;
-    event_plain_descs.reserve(timeline.size());
-    
-    typedef std::unordered_map<std::string, word_usage_vec> word_map_t;
-    word_map_t word_map;
-    word_map.reserve(timeline.size() * 20);
-
-    static const char* s_stop_words[] = 
-    {
-        "a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "as",
-        "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "can",
-        "could", "did", "do", "does", "doing", "don", "down", "during", "each", "few", "for", "from",
-        "further", "had", "has", "have", "having", "he", "her", "here", "hers", "herself", "him", "himself",
-        "his", "how", "i", "if", "in", "into", "is", "it", "its", "itself", "just", "me", "more", "most",
-        "my", "myself", "no", "nor", "not", "now", "of", "off", "on", "once", "only", "or", "other", "our",
-        "ours", "ourselves", "out", "over", "own", "re", "s", "same", "she", "should", "so", "some", "such",
-        "t", "than", "that", "the", "their", "theirs", "them", "themselves", "then", "there", "these", "they",
-        "this", "those", "through", "to", "too", "under", "until", "up", "very", "was", "we", "were", "what",
-        "when", "where", "which", "while", "who", "whom", "why", "will", "with", "you", "your", "yours",
-        "yourself", "yourselves", "although", "also", "already", "another", "seemed", "seem", "seems"
-    };
-    const uint32_t NUM_STOP_WORDS = (uint32_t)std::size(s_stop_words);
-
-    std::unordered_set<std::string> stop_word_set;
-    for (const auto &str : s_stop_words)
-        stop_word_set.insert(str);
-
-    for (uint32_t i = 0; i < timeline.size(); i++)
-    {
-        const timeline_event& event = timeline[i];
-
-        markdown_text_processor tp;
-        tp.init_from_markdown(event.m_desc.c_str());
-
-        std::string desc;
-        tp.convert_to_plain(desc, true);
-
-        std::string locs;
-        for (uint32_t u = 0; u < event.m_locations.size(); u++)
-            locs += event.m_locations[u] + " ";
-        
-        desc = locs + desc;
-
-        event_plain_descs.push_back(desc);
-
-        //uprintf("%u. \"%s\"\n", i, desc.c_str());
-
-        string_vec words;
-        uint_vec offsets;
-        get_string_words(desc, words, &offsets);
-        for (uint32_t j = 0; j < words.size(); j++)
-        {
-            if (words[j].length() == 1)
-                continue;
-            if (words[j].length() > 30)
-                continue;
-            if (stop_word_set.count(words[j]))
-                continue;
-
-            word_usage wu;
-            wu.m_event = i;
-            wu.m_ofs = offsets[j];
-            
-            auto it = word_map.find(words[j]);
-            if (it != word_map.end())
-                it->second.push_back(wu);
-            else
-            {
-                word_usage_vec v;
-                v.push_back(wu);
-                
-                word_map.insert(std::make_pair(words[j], v));
-            }
-
-            //uprintf("[%s] ", words[j].c_str());
-        }
-        //uprintf("\n");
-
-    }
-
-    std::vector< word_map_t::const_iterator > sorted_words;
-    for (word_map_t::const_iterator it = word_map.begin(); it != word_map.end(); ++it)
-        sorted_words.push_back(it);
-
-    std::sort(sorted_words.begin(), sorted_words.end(), [](word_map_t::const_iterator a, word_map_t::const_iterator b)
-        {
-            return a->first < b->first;
-        }
-    );
-        
-    string_vec kwic_file_strings_header[NUM_KWIC_FILE_STRINGS];
-    string_vec kwic_file_strings_contents[NUM_KWIC_FILE_STRINGS];
-        
-    for (uint32_t i = 0; i < NUM_KWIC_FILE_STRINGS; i++)
-    {
-        std::string name(get_kwic_index_name(i));
-
-        kwic_file_strings_header[i].push_back("<meta charset=\"utf-8\">");
-        kwic_file_strings_header[i].push_back("");
-        kwic_file_strings_header[i].push_back( string_format("# <a name=\"Top\">UFO Event Timeline, KWIC Index Page: %s</a>", name.c_str()) );
-        kwic_file_strings_header[i].push_back("");
-        kwic_file_strings_header[i].push_back("[Back to Main timeline](timeline.html)");
-        kwic_file_strings_header[i].push_back("");
-        kwic_file_strings_header[i].push_back("## Letters Directory:");
-
-        for (uint32_t j = 0; j < NUM_KWIC_FILE_STRINGS; j++)
-        {
-            std::string r(get_kwic_index_name(j));
-
-            std::string url = string_format("[%s](kwic_%s.html)", r.c_str(), r.c_str());
-            kwic_file_strings_header[i].push_back(url);
-        }
-
-        kwic_file_strings_header[i].push_back("");
-        kwic_file_strings_header[i].push_back("## Words Directory:");
-    }
-
-    uint32_t sorted_word_index = 0;
-    uint32_t num_words_printed = 0;
-    for (auto sit : sorted_words)
-    {
-        const auto it = *sit;
-
-        const std::string& word = it.first;
-        const word_usage_vec& usages = it.second;
-
-        uint8_t first_char = word[0];
-        
-        uint32_t file_index = 0;
-        if (uislower(first_char))
-            file_index = first_char - 'a';
-        else if (uisdigit(first_char))
-            file_index = 26;
-        else
-            file_index = 27;
-
-        string_vec& output_strs_header = kwic_file_strings_header[file_index];
-
-        output_strs_header.push_back( 
-            string_format("<a href=\"#word_%u\">\"%s\"</a>", sorted_word_index, word.c_str()) 
-        );
-
-        num_words_printed++;
-        if ((num_words_printed % 8) == 0)
-        {
-            output_strs_header.push_back("  ");
-        }
-
-        string_vec& output_strs = kwic_file_strings_contents[file_index];
-
-        output_strs.push_back( string_format("## <a name=\"word_%u\">Word: \"%s\"</a> <a href=\"#Top\">(Back to Top)</a>", sorted_word_index, word.c_str()) );
-
-        int_vec word_char_offsets;
-        get_utf8_code_point_offsets(word.c_str(), word_char_offsets);
-
-        output_strs.push_back("<pre>");
-                
-        for (uint32_t j = 0; j < usages.size(); j++)
-        {
-            const std::string& str = event_plain_descs[usages[j].m_event];
-            const int str_ofs = usages[j].m_ofs;
-            
-            int_vec event_char_offsets;
-            get_utf8_code_point_offsets(str.c_str(), event_char_offsets);
-
-            int l;
-            for (l = 0; l < (int)event_char_offsets.size(); l++)
-                if (str_ofs == event_char_offsets[l])
-                    break;
-            if (l == event_char_offsets.size())
-                l = 0;
-
-            const int PRE_CONTEXT_CHARS = 35;
-            const int POST_CONTEXT_CHARS = 40;
-            
-            // in chars
-            int s = std::max<int>(0, l - PRE_CONTEXT_CHARS);
-            int e = std::min<int>(l + std::max<int>(POST_CONTEXT_CHARS, (int)word_char_offsets.size()), (int)event_char_offsets.size());
-            int char_len = e - s;
-
-            // in bytes
-            int start_ofs = event_char_offsets[s];
-            int prefix_bytes = event_char_offsets[l] - start_ofs;
-            int end_ofs = (e >= event_char_offsets.size()) ? (int)str.size() : event_char_offsets[e];
-            int len = end_ofs - start_ofs;
-
-            std::string context_str(string_slice(str, start_ofs, len));
-
-            context_str = string_slice(context_str, 0, prefix_bytes) + "<b>" +
-                string_slice(context_str, prefix_bytes, word.size()) + "</b>" +
-                string_slice(context_str, prefix_bytes + word.size());
-
-            if (l < PRE_CONTEXT_CHARS)
-            {
-                for (int q = 0; q < (PRE_CONTEXT_CHARS - l); q++)
-                {
-                    context_str = " " + context_str;
-                    //context_str = string_format("%c%c", 0xC2, 0xA0) + context_str; // non-break space
-                    char_len++;
-                }
-            }
-
-            for (uint32_t i = 0; i < context_str.size(); i++)
-                if ((uint8_t)context_str[i] < 32U)
-                    context_str[i] = ' ';
-
-            int total_chars = PRE_CONTEXT_CHARS + POST_CONTEXT_CHARS;
-            if (char_len < total_chars)
-            {
-                for (int i = char_len; i < total_chars; i++)
-                    context_str += ' ';
-                    //context_str += string_format("%c%c", 0xC2, 0xA0); // non-break space
-            }
-
-            std::string url_str(event_urls.find(usages[j].m_event)->second);
-                        
-            //output_strs.push_back( string_format("`%s` %s  ", context_str.c_str(), url_str.c_str()) );
-            
-            output_strs.push_back( string_format("%s %s  ", context_str.c_str(), url_str.c_str()) );
-        }
-        output_strs.push_back("</pre>");
-        output_strs.push_back("\n");
-
-        sorted_word_index++;
-    }
-
-    for (uint32_t i = 0; i < NUM_KWIC_FILE_STRINGS; i++)
-    {
-        std::string filename;
-
-        filename = "kwic_";
-        if (i < 26)
-            filename += string_format("%c", 'a' + i);
-        else if (i == 26)
-            filename += "numbers";
-        else
-            filename += "misc";
-                    
-        filename += ".md";
-
-        string_vec file_strings(kwic_file_strings_header[i]);
-        file_strings.push_back("");
-
-        for (auto& str : kwic_file_strings_contents[i])
-            file_strings.push_back(str);
-
-        if (!write_text_file(filename.c_str(), file_strings, true))
-            panic("Failed writing output file\n");
-    }
+    if (!create_kwic_index(timeline, event_urls))
+        panic("Failed creating KWIC index");
 
     uprintf("Processing successful\n");
 

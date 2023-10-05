@@ -48,6 +48,9 @@
     <ClCompile Include="converters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="stem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="libsoldout\array.h">
@@ -81,6 +84,12 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="converters.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utf8.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stem.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

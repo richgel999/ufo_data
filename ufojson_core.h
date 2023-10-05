@@ -6,6 +6,7 @@
 // Note that May ends in a period.
 extern const char* g_months[12];
 extern const char* g_full_months[12];
+extern const char* g_day_of_week[7];
 
 const uint32_t NUM_DATE_PREFIX_STRINGS = 24;
 extern const char* g_date_prefix_strings[NUM_DATE_PREFIX_STRINGS];
@@ -47,7 +48,9 @@ enum date_prefix_t
 };
 
 bool is_season(date_prefix_t prefix);
-int determine_month(const std::string& date);
+int determine_month(const std::string& date, bool begins_with = true);
+int determine_prefix(const std::string& date, bool begins_with = true);
+int determine_day_of_week(const std::string& date, bool begins_with = true);
 
 struct event_date
 {
@@ -108,19 +111,19 @@ private:
 struct timeline_event
 {
     std::string m_date_str;
-    std::string m_time_str; // military 
+    std::string m_time_str; // military, but currently it's in any format (not parsed yet)
         
     std::string m_alt_date_str;
-
     std::string m_end_date_str;
 
     event_date m_begin_date;
     event_date m_end_date;
     event_date m_alt_date;
 
-    std::string m_desc;
+    std::string m_desc;         // Markdown
     string_vec m_type;
-    string_vec m_refs;
+    string_vec m_refs;          // Markdown
+        
     string_vec m_locations;
     string_vec m_attributes;
     string_vec m_see_also;
@@ -138,11 +141,13 @@ struct timeline_event
     std::string m_source;
 
     std::vector<string_pair> m_key_value_data;
+
+    std::string m_plain_desc;   // Computed, ignored for comparison purposes, not deserialized from JSON
+    string_vec m_plain_refs;    // Computed, ignored for comparison purposes, not deserialized from JSON
+    std::string m_search_words;  // Computed, ignored for comparison purposes, not deserialized from JSON
             
     bool operator==(const timeline_event& rhs) const;
-
     bool operator!=(const timeline_event& rhs) const;
-
     bool operator< (const timeline_event& rhs) const;
 
     void print(FILE* pFile) const;
@@ -155,6 +160,15 @@ struct timeline_event
 };
 
 typedef std::vector<timeline_event> timeline_event_vec;
+
+bool date_filter_single(
+    int start_month, int start_day, int start_year,
+    const event_date& evt_b, const event_date& evt_e);
+
+bool date_filter_range(
+    int start_month, int start_day, int start_year,
+    int end_month, int end_day, int end_year,
+    const event_date& evt_b, const event_date& evt_e);
 
 const uint32_t NUM_KWIC_FILE_STRINGS = 28;
 
@@ -214,6 +228,8 @@ public:
             ar.push_back(obj);
         }
     }
+
+    void create_plaintext();
 
     bool write_file(const char* pFilename, bool utf8_bom = true)
     {

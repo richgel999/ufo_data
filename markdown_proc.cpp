@@ -2,6 +2,435 @@
 // markdown_proc.cpp
 #include "markdown_proc.h"
 
+struct markdown
+{
+    enum
+    {
+        cCodeSig = 0xFE,
+
+        cCodeLink = 1,
+        cCodeEmphasis,
+        cCodeText,
+        cCodeParagraph,
+        cCodeLinebreak,
+        cCodeHTML
+    };
+
+    static void bufappend(struct buf* out, struct buf* in)
+    {
+        assert(in != out);
+
+        if (in && in->size)
+            bufput(out, in->data, in->size);
+    }
+
+    static void writelen(struct buf* ob, uint32_t size)
+    {
+        bufputc(ob, (uint8_t)(size & 0xFF));
+        bufputc(ob, (uint8_t)((size >> 8) & 0xFF));
+        bufputc(ob, (uint8_t)((size >> 16) & 0xFF));
+        bufputc(ob, (uint8_t)((size >> 24) & 0xFF));
+    }
+
+    static std::string get_string(const std::string& buf, uint32_t& cur_ofs, uint32_t text_size)
+    {
+        std::string text;
+        if (cur_ofs + text_size > buf.size())
+            panic("Buffer too small");
+
+        text.append(buf.c_str() + cur_ofs, text_size);
+        cur_ofs += text_size;
+
+        return text;
+    }
+
+    static uint32_t get_len32(const std::string& buf, uint32_t& ofs)
+    {
+        if ((ofs + 4) > buf.size())
+            panic("Buffer too small");
+
+        uint32_t l = (uint8_t)buf[ofs] |
+            (((uint8_t)buf[ofs + 1]) << 8) |
+            (((uint8_t)buf[ofs + 2]) << 16) |
+            (((uint8_t)buf[ofs + 3]) << 24);
+
+        ofs += 4;
+
+        return l;
+    }
+
+    static void prolog(struct buf* ob, void* opaque)
+    {
+    }
+
+    static void epilog(struct buf* ob, void* opaque)
+    {
+    }
+
+    /* block level callbacks - NULL skips the block */
+    static void blockcode(struct buf* ob, struct buf* text, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "blockcode: \"%.*s\" ", (int)text->size, text->data);
+#endif
+        panic("unsupported markdown feature");
+    }
+
+    static void blockquote(struct buf* ob, struct buf* text, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "blockquote: \"%.*s\" ", (int)text->size, text->data);
+#endif
+        // TODO: unsupported block quotes (here for when we're converting to plain text)
+        //panic("unsupported markdown feature");
+        if (opaque)
+            *(bool*)opaque = true;
+
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+    }
+
+    static void blockhtml(struct buf* ob, struct buf* text, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "blockhtml: \"%.*s\" ", (int)text->size, text->data);
+#endif
+        // TODO: Not fully supported - just dropping it
+        //panic("unsupported markdown feature");
+
+        if (opaque)
+            *(bool*)opaque = true;
+    }
+
+    static void header(struct buf* ob, struct buf* text, int level, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "header: %i \"%.*s\" ", level, (int)text->size, text->data);
+#endif
+        // TODO: Not fully supported
+        //panic("unsupported markdown feature");
+        if (opaque)
+            *(bool*)opaque = true;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+    }
+
+    static void hrule(struct buf* ob, void* opaque)
+    {
+        // TODO
+        //panic("unsupported markdown feature");
+        
+        if (opaque)
+            *(bool*)opaque = true;
+    }
+
+    static void list(struct buf* ob, struct buf* text, int flags, void* opaque)
+    {
+        // TODO: not fully supporting lists (here for when we're converting to plain text)
+        //panic("unsupported markdown feature");
+        if (opaque)
+            *(bool*)opaque = true;
+
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+    }
+
+    static void listitem(struct buf* ob, struct buf* text, int flags, void* opaque)
+    {
+        // TODO: not fully supporting lists (here for when we're converting to plain text)
+        //panic("unsupported markdown feature");
+        if (opaque)
+            *(bool*)opaque = true;
+
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+    }
+
+    static void paragraph(struct buf* ob, struct buf* text, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "paragraph: \"%.*s\" ", (int)text->size, text->data);
+#endif
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+    }
+
+    static void table(struct buf* ob, struct buf* head_row, struct buf* rows, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "table: \"%.*s\" \"%.*s\" ", (int)head_row->size, head_row->data, (int)rows->size, rows->data);
+#endif
+        //panic("unsupported markdown feature");
+
+        // TODO: not fully supported, just for plaintext conversion
+        if (opaque)
+            *(bool*)opaque = true;
+    }
+
+    static void table_cell(struct buf* ob, struct buf* text, int flags, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "table_cell: \"%.*s\" %i ", (int)text->size, text->data, flags);
+#endif
+        //panic("unsupported markdown feature");
+        if (opaque)
+            *(bool*)opaque = true;
+
+        // TODO: not fully supported, just for plaintext conversion
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeParagraph);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+    }
+
+    static void table_row(struct buf* ob, struct buf* cells, int flags, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "table_row: \"%.*s\" %i ", (int)cells->size, cells->data, flags);
+#endif
+        //panic("unsupported markdown feature");
+        // TODO: not fully supported, just for plaintext conversion
+
+        if (opaque)
+            *(bool*)opaque = true;
+    }
+
+    static int autolink(struct buf* ob, struct buf* link, enum mkd_autolink type, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "autolink: %u \"%.*s\" ", type, (int)link->size, link->data);
+#endif
+        panic("unsupported markdown feature");
+        return 1;
+    }
+
+    static int codespan(struct buf* ob, struct buf* text, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "codespan: \"%.*s\" ", (int)text->size, text->data);
+#endif
+        //panic("unsupported markdown feature");
+        if (opaque)
+            *(bool*)opaque = true;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeText);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+
+        return 1;
+    }
+
+    static int double_emphasis(struct buf* ob, struct buf* text, char c, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "double_emphasis: %u ('%c') [%.*s] ", c, c, (int)text->size, text->data);
+#endif
+        if (!text || !text->size)
+            return 1;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeEmphasis);
+        bufputc(ob, c);
+        bufputc(ob, 2);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+
+        return 1;
+    }
+
+    static int emphasis(struct buf* ob, struct buf* text, char c, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "emphasis: %u ('%c') [%.*s] ", c, c, (int)text->size, text->data);
+#endif
+
+        if (!text || !text->size)
+            return 1;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeEmphasis);
+        bufputc(ob, c);
+        bufputc(ob, 1);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+
+        return 1;
+    }
+
+    static int image(struct buf* ob, struct buf* link, struct buf* title, struct buf* alt, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "image: \"%.*s\" \"%.*s\" \"%.*s\" ",
+            (int)link->size, link->data,
+            (int)title->size, title->data,
+            (int)alt->size, alt->data);
+#endif
+        //panic("unsupported markdown feature");
+        if (opaque)
+            *(bool*)opaque = true;
+
+        if (alt)
+        {
+            bufputc(ob, (uint8_t)cCodeSig);
+            bufputc(ob, (uint8_t)cCodeText);
+            writelen(ob, (uint32_t)alt->size);
+            bufappend(ob, alt);
+        }
+
+        return 1;
+    }
+
+    static int linebreak(struct buf* ob, void* opaque)
+    {
+#if 0
+        bufprintf(ob, "linebreak ");
+#endif
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeLinebreak);
+
+        return 1;
+    }
+
+    static int link(struct buf* ob, struct buf* link, struct buf* title, struct buf* content, void* opaque)
+    {
+#if 0
+        printf("link: {%.*s} {%.*s} {%.*s}\n",
+            link ? (int)link->size : 0,
+            link ? link->data : nullptr,
+            title ? (int)title->size : 0,
+            title ? title->data : nullptr,
+            content ? (int)content->size : 0,
+            content ? content->data : nullptr);
+#endif
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeLink);
+        writelen(ob, (uint32_t)link->size);
+        writelen(ob, (uint32_t)content->size);
+
+        bufappend(ob, link);
+        bufappend(ob, content);
+
+        return 1;
+    }
+
+    static int raw_html_tag(struct buf* ob, struct buf* tag, void* opaque)
+    {
+        //bufprintf(ob, "raw_html_tag: \"%.*s\" ", (int)tag->size, tag->data);
+
+        if (!tag || !tag->size)
+            return 1;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeHTML);
+        writelen(ob, (uint32_t)tag->size);
+        bufappend(ob, tag);
+
+        return 1;
+    }
+
+    static int triple_emphasis(struct buf* ob, struct buf* text, char c, void* opaque)
+    {
+        //bufprintf(ob, "triple_emphasis: %u ('%c') [%.*s] ", c, c, (int)text->size, text->data);
+
+        if (!text || !text->size)
+            return 1;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeEmphasis);
+        bufputc(ob, c);
+        bufputc(ob, 3);
+        writelen(ob, (uint32_t)text->size);
+        bufappend(ob, text);
+
+        return 1;
+    }
+
+    static void normal_text(struct buf* ob, struct buf* text, void* opaque)
+    {
+        if (!text || !text->size)
+            return;
+
+        bufputc(ob, (uint8_t)cCodeSig);
+        bufputc(ob, (uint8_t)cCodeText);
+        writelen(ob, (uint32_t)text->size);
+        for (uint32_t i = 0; i < text->size; i++)
+        {
+            uint8_t c = text->data[i];
+            if (c == '\n')
+                bufputc(ob, ' ');
+            else if (c != 1)
+            {
+                assert(c >= 32 || c == '\t');
+                bufputc(ob, c);
+            }
+        }
+    }
+};
+
+static struct mkd_renderer g_mkd_parse =
+{
+    markdown::prolog,
+    markdown::epilog,
+
+    markdown::blockcode,
+    markdown::blockquote,
+    markdown::blockhtml,
+    markdown::header,
+    markdown::hrule,
+    markdown::list,
+    markdown::listitem,
+    markdown::paragraph,
+    markdown::table,
+    markdown::table_cell,
+    markdown::table_row,
+
+    markdown::autolink,
+    markdown::codespan,
+    markdown::double_emphasis,
+    markdown::emphasis,
+    markdown::image,
+    markdown::linebreak,
+    markdown::link,
+    markdown::raw_html_tag,
+    markdown::triple_emphasis,
+
+    //markdown::entity,
+    nullptr,
+    markdown::normal_text,
+
+    64,
+    "*_",
+    nullptr
+};
+
 static bool markdown_should_escape(int c)
 {
     switch (c)
@@ -48,12 +477,14 @@ static std::string escape_markdown(const std::string& str)
     return out;
 }
 
-markdown_text_processor::markdown_text_processor()
+markdown_text_processor::markdown_text_processor() : 
+    m_used_unsupported_feature(false)
 {
 }
 
 void markdown_text_processor::clear()
 {
+    m_used_unsupported_feature = false;
     m_text.clear();
     m_details.clear();
     m_links.clear();
@@ -126,7 +557,10 @@ void markdown_text_processor::init_from_markdown(const char* pText)
     bufputs(pIn, pText);
 
     struct buf* pOut = bufnew(4096);
-    markdown(pOut, pIn, &mkd_parse);
+    
+    m_used_unsupported_feature = false;
+    g_mkd_parse.opaque = &m_used_unsupported_feature;
+    markdown(pOut, pIn, &g_mkd_parse);
 
     std::string buf;
     buf.append((char*)pOut->data, pOut->size);
@@ -243,6 +677,9 @@ void markdown_text_processor::convert_to_plain(std::string& out, bool trim_end) 
 
 void markdown_text_processor::convert_to_markdown(std::string& out, bool trim_end) const
 {
+    if (m_used_unsupported_feature)
+        printf("markdown_text_processor::convert_to_markdown: Warning, one or more Markdown features were used in this text and won't be losslessly converted.\n");
+
     int emphasis = 0, emphasis_amount = 0;
     int cur_link_index = -1;
 
@@ -606,3 +1043,66 @@ void markdown_text_processor::handle_emphasis(std::string& out, uint32_t text_of
         //    out += m_details[text_ofs].m_html[i];
     }
 }
+
+#if 0
+const char* pText =
+u8R"(
+
+<ul>test</ul>
+
+_text1_  
+**text2**  
+**_text3_**  
+
+![alt text](https://github.com/n48.png "Logo Title")
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+1. XXXXX  
+  1. Item 1
+  2. Item 2
+2. YYYYY
+3. ZZZZZ
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+* [blahblah](www.blah1.com)
+* [blahblah2](www.blah2.com)
+
+`
+this is code 1
+this is code 2
+`
+
+```
+this is code 3
+this is code 4
+```
+
+> blockquote 1  
+> blockquote 2
+
+---
+
+* AAA
+* BBB
+  * ZZZZ1
+  * ZZZZ2
+* CCC)";
+
+markdown_text_processor tp;
+tp.init_from_markdown(pText);
+
+std::string desc;
+tp.convert_to_plain(desc, true);
+
+uprintf("%s\n", desc.c_str());
+
+return 0;
+#endif

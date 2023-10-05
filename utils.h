@@ -240,7 +240,7 @@ bool read_text_file(const char* pFilename, string_vec& lines, bool trim_lines, b
 
 bool read_text_file(const char* pFilename, std::vector<uint8_t>& buf, bool *pUTF8_flag);
 
-bool write_text_file(const char* pFilename, string_vec& lines, bool utf8_bom = true);
+bool write_text_file(const char* pFilename, const string_vec& lines, bool utf8_bom = true);
 
 bool serialize_to_json_file(const char* pFilename, const json& j, bool utf8_bom);
 
@@ -251,6 +251,7 @@ bool invoke_curl(const std::string& args, string_vec& reply);
 void convert_args_to_utf8(string_vec& args, int argc, wchar_t* argv[]);
 
 bool invoke_openai(const std::string& prompt, std::string& reply);
+bool invoke_openai(const string_vec& prompt, string_vec& reply);
 
 std::string get_deg_to_dms(double deg);
 
@@ -269,5 +270,16 @@ double geo_distance(double lat1, double lon1, double lat2, double lon2, int unit
 std::string remove_bom(std::string str);
 
 int get_next_utf8_code_point_len(const uint8_t* pStr);
-void get_string_words(const std::string& str, string_vec& words, uint_vec* pOffsets_vec);
+void get_string_words(const std::string& str, string_vec& words, uint_vec* pOffsets_vec, const char *pAdditional_whitespace = nullptr);
 void get_utf8_code_point_offsets(const char* pStr, int_vec& offsets);
+
+void init_norm();
+void normalize_diacritics(const char* pStr, std::string& res);
+std::string normalize_word(const std::string& str);
+bool is_stop_word(const std::string& word);
+
+std::string ustrlwr(const std::string& s);
+
+std::string string_replace(const std::string& str, const std::string& find, const std::string& repl);
+
+bool does_file_exist(const char* pFilename);
