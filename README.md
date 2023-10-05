@@ -14,14 +14,17 @@
 ### Data files (in 'bin' directory): 
 Although the C++ tool itself is open source with a permissive license (Apache 2.0), **any commercial use of the copyrighted data in this repository (in any format, textual, JSON, Markdown, HTML, raw binary records, etc.) may require permission from one or more copyright holders**:
 
+* Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage permitted (for the recores in maj2.json) as long as attribution is given.
 * George M. Eberhart - Copyright (c) 2022. Efforts to contact have been unsuccessful. This is the original PDF's copyright.
-* LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was given for use as long as he is attributed.
+* LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was explictly given for use by e-mail as long as he is attributed.
 * Dr. Donald A. Johnson - Copyright (c) 2012. Efforts to contact him by email in 2023 have been unsuccessful.
 * Fred Keziah - Copyright (c) 1958. This poster hasn't been updated in 65 years, so it's probably fine for commercial usage.
-* Dr. Jacques F. Vallée - Copyright (c) 1993. (This data was published in one of his books - this is the book's copyright.)
-* Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage permitted as long as attribution is given.
+* Dr. Jacques F. Vallée - Copyright (c) 1993. This data was published in one of his books - this is the book's copyright.
 * NICAP - Unknown copyright status. The organization went defunct in 1980, 43 years ago, so it's very likely this data is in the Public Domain.
 * \*U\* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142). According to David Marler, Executive Director of the [National UFO Historical Records Center](http://www.nufohrc.org/), "The family has verbally given permission for the database to be used. If you need to speak with them, I have their contact info."
+* Jérôme Beau - Copyright © 2000- 2023. French chronology data from [rr0.org](https://rr0.org/). See its license [here](https://rr0.org/Copyright.html).
+* [Godelieve Van Overmeire (1935-2021)](http://cobeps.org/fr/godelieve-van-overmeire) - Her French chronology was explictly was not copyrighted, as far as I can tell.
+* Richard M. Dolan - Copyright 2009. His compilation of UFO events are from the appendix of the book [_UFOs and the National Security State: The Cover-Up Exposed, 1973-1991_](https://www.amazon.com/UFOs-National-Security-State-Chronology-ebook/dp/B0C94W38QY).
 * The [Anonymous PDF](https://github.com/richgel999/ufo_data/blob/main/bin/anon_pdf.md) Markdown file (anon_pdf.md), which originally appeared on the internet [here](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another) in late July 2023 in Adobe PDF format, is not copyrighted and is in the Public Domain (i.e. it is not Intellectual Property). All ~600 events were explictly and individually marked "PUBLIC DOMAIN" in the original PDF format document. In any jurisdictions outside the US that don't recognize the Public Domain, this Markdown file (and ONLY the specific file anon_pdf.md) uses the [Unlicense](https://web.archive.org/web/20230426084039/https://unlicense.org/). Here's an [HTML conversion](http://subquantumtech.com/anon_pdf/anon_pdf.html) of this Markdown file, using the [markdown-styles](https://github.com/mixu/markdown-styles) command line tool (you can also use `pandoc -f gfm`):
    *  generate-md --layout github --input ./anon_pdf.md --output anon_pdf
 
