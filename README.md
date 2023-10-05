@@ -34,7 +34,7 @@ Although the C++ tool itself is open source with a permissive license (Apache 2.
 
 This C++ command line tool reads several source files containing UFO related events, which were compiled from a variety of sources, and converts each of them to JSON. It then sorts all of these events into a single large timeline and outputs them as the Markdown file "timeline.md" and the JSON file "majestic.json". [pandoc](https://pandoc.org/) can then be used to convert this Markdown text file to HTML.
 
-Currently, the tool is Windows only, but it would be trivial to port to Linux/OSX. (I'll do this, eventually.) To run it: compile the .SLN using Visual Studio 2022. There are no external 3rd party dependencies. Run it in the BIN directory. It'll convert all the source files to JSON then output a file named timeline.md. 
+Currently, the tool is Windows only, but it would be trivial to port to Linux/OSX. (I'll do this, eventually.) To run it: compile the .SLN using Visual Studio 2019 or 2022. There are no external 3rd party dependencies. Run it in the BIN directory with the -convert command line option. It'll convert all the source files to JSON then output a file named timeline.md. 
 
 Here's an earlier version of its output [Markdown file converted to PDF](ufo_timeline_v1_04.pdf). The latest HTML timeline is published [here](http://www.subquantumtech.com/timeline/timeline.html).
 
