@@ -1,0 +1,1 @@
+﻿- Charlemagne's court astronomers reported that a small planet, the size of Mercury, interposed itself between the [Sun](Soleil.html) and the [Earth](Terre.html) for 8 days. This planet appeared in the [Sun](Soleil.html)'s disk as a black spot. There were also 4 eclipses: 3 of [Moon](Lune.html), 1 of [Sun](Soleil.html).

@@ -1,0 +1,1 @@
+﻿- The *Annales Laurissenses* testify to an astonishing observation during the Saxon siege of the Frankish fortress of Sigisburg: Saxon warriors who were preparing the siege of a castle where Franks were sheltered, were put to flight at the sight of two "flaming shields" descending from the sky and moving above the chapel. [\[Paul Misraki, *Des Signes dans le Ciel*\]]{.source}

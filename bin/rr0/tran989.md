@@ -1,0 +1,1 @@
+﻿-   **August 3:** In Japan, during a period of great social unrest, 3 round objects of an unusual brilliance were observed. Shortly afterwards, they come together to form only one. [\[Vallee 1969\]]{.source}
