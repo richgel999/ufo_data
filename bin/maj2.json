@@ -1,6 +1,12 @@
 ﻿{
 	"Majestic Timeline" : 
 	[
+        {
+            "date" : "6/6/666",
+            "desc" : "version: Last updated 9/16/2023 (rg)",
+            "type" : "version"
+        },
+        
 		{
 			"date" : "0's",
 			"desc" : "Greek and Roman records of UFO's",
@@ -56,7 +62,7 @@
 		{ 
 			"date" : "7/10/1858",
 			"end_date" : "1/7/1943",
-			"desc" : "Nikola Tesla born (dies 1/7/1943)",
+			"desc" : "Nikola Tesla (1858-1943), born in modern-day Croatia, was an inventor and electrical engineer renowned for his contributions to the development of alternating current (AC) electrical systems. His rivalry with Thomas Edison, who was a proponent of direct current (DC), is legendary in the history of science. Tesla's innovative work spanned a wide range, including radio waves, remote control drones/robotics, the Tesla turbine, wireless transmission, and the Tesla coil. Despite his profound contributions, he spent his later years in relative obscurity and died in New York City in 1943.\n\nThe SI unit named after Nikola Tesla is the [\"tesla,\"](https://en.wikipedia.org/wiki/Tesla_(unit)) symbolized as \"T.\" It is the unit of magnetic flux density (or magnetic induction) in the International System of Units. One tesla represents one weber per square meter and can also be viewed as the magnetic field strength that results in a force of one newton on a charge of one coulomb moving perpendicular to the field at a speed of one meter per second.",
 			"ref" : "[Wikipedia](https://en.wikipedia.org/wiki/Nikola_Tesla)",
 			"type" : "scientist"
 		},		
@@ -86,7 +92,7 @@
 		{ 
 			"date" : "3/14/1879",
 			"end_date" : "4/18/1955",
-			"desc" : "Albert Einstein born",
+			"desc" : "Albert Einstein (1897-1955), born in Ulm, Germany, was a theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics (the other being quantum mechanics). He's best known for his equation, E=mc^2, which describes the relationship between energy and mass. Over his lifetime, Einstein's groundbreaking work earned him the Nobel Prize in Physics in 1921 and solidified his legacy as one of the most influential scientists of all time.",
 			"ref" : "[Wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)",
 			"type" : "scientist",
 			"attributes" : [ "Einstein" ]
@@ -632,7 +638,7 @@
 
 		{
 			"date" : "4/1944",
-			"desc" : "The first operation jet fighter, the Messerschmitt Me 262, is introduced",
+			"desc" : "The first operational jet fighter, the Messerschmitt Me 262, is introduced",
 			"ref" : "[Wikipedia](https://en.wikipedia.org/wiki/Messerschmitt_Me_262)",
 			"type" : "aerospace"
 		},						
@@ -1732,15 +1738,7 @@
 			"type" : "crash retrieval",
 			"location" : "Papago Indian Reservation"
 		},		
-		
-		{
-			"date" : "1/7/1947",
-			"desc" : "SKY OBJECT A MYSTERY ROCKET? - A laboratory analysis of the cylindrical object which fell in Portland yesterday from a clear sky established presence of aluminum, titanium, magnesium, calcium, chrome, and zircon. Dr. John E. Allen, chief geologist of the Oregon department of geology and mineral industries, said it gives reasonable basis for the hypothesis that it could have been used in rocket construction. Largest portion of the object has been taken over by an Army investigator for examination. The object was found when a mysterious ice shower occurred Saturday confined to a fifteen foot square area of Hill Military Academy.",
-			"ref" : "Los Angeles Examiner - Fortean Society Sightings (Scully box 3 ff5)",
-			"type" : "ufo sighting",
-			"location" : "Portland, OR"
-		},											
-
+				
 		{
 			"date" : "1/10/1947",
 			"desc" : "V-2 missile test at White Sands Pad 33, 116.2km altitude (Degraded performance led to roll rate of 60 rpm)",
@@ -6406,8 +6404,12 @@
 		
 		{
 			"date" : "12/13/1987",
-			"desc" : "Ufologist John Lear claims Dr. Edward Teller is MJ-12",
-			"ref" : "Article by John Lear (TODO)",
+			"desc" : "Ufologist and aviator John Lear issues a statement about UFO's. Claims Dr. Edward Teller and others are MJ-12.",
+			"ref" : [
+                "[Revised 1988 statement, with May 14, 1990 update](https://web.archive.org/web/20100228180307/http://www.ufomind.com/area51/people/lear/aliens_at_51.html)",            
+                "[1987 statement](https://www.bibliotecapleyades.net/vida_alien/esp_vida_alien_18o.htm)",
+                "[John Lear's statement at the University of Ottawa, Archives and Special Collections, Reference \"CA ON0034 30-003-S12-F21\"](https://biblio.uottawa.ca/atom/index.php/statement-released-by-john-lear)" 
+            ],
 			"type" : "statement",
 			"location" : "Nevada"
 		},
@@ -6892,7 +6894,7 @@
 			"date" : "6/2017",
 			"desc" : "Majestic document mentions Frank Scully, Aztec crash, EBE-1",
 			"ref" : [ 
-				"[link](https://exopolitics.org/new-investigation-shows-disputed-mj-12-document-exposing-extraterrestrial-contact-is-authentic/)]",
+				"[link](https://exopolitics.org/new-investigation-shows-disputed-mj-12-document-exposing-extraterrestrial-contact-is-authentic/)",
 				"[archive.org](https://web.archive.org/web/20170614101208/http://d3adcc0j1hezoq.cloudfront.net/wp-content/uploads/2017/06/Ultra-Top-Secret-MITD.pdf)" ],
 			"type" : "majestic document",
 			"location" : "US"
@@ -7866,7 +7868,7 @@
         
         {
             "date" : "7/1/1947",
-            "desc" : "Military officials, both officers and the enlisted technicians had been tracking, on their radar, an unidentified object in flight over southern New Mexico since July 1. The object had first appeared over the highly restricted areas near the White Sands Proving Grounds. On July 2, Steve MacKenzie (a pseudonym, actually Frank Kaufmann), stationed at [Roswell Army Air Field](https://en.wikipedia.org/wiki/Walker_Air_Force_Base), had received a call from [Brigadier General Martin F. Scanlon](https://www.af.mil/About-Us/Biographies/Display/Article/105707/brigadier-general-martin-f-scanlon/) of the [Air Defense Command](https://en.wikipedia.org/wiki/Aerospace_Defense_Command), ordering him to report to the radar sites at [White Sands](https://en.wikipedia.org/wiki/White_Sands_Missile_Range). MacKenzie was to monitor the object's movements and report them directly to the general. MacKenzie could not leave the scope unattended for even the shortest of times. In fact, once he had his watch established, he set up a system of mirrors so that he could see the screen even when he needed to use the latrine. MacKenzie stayed at his post for twenty-four hours straight, but nothing changed. The object appeared periodically over southern New Mexico, but usually just \"flitting from one location to another.\" When MacKenzie reported that nothing had changed significantly during his twenty-four-hour watch, Scanlon decided to end MacKenzie's part of the operation. Although MacKenzie was ordered back to Roswell, the operators at White Sands were told to continue to monitor the object, as were the radarmen at Roswell and Albuquerque. (R.G.: Interestingly, this case was deleted and \"declared a hoax\" in NICAP's records and by K. Randle, but after re-reading all the relevant research I don't believe at all that this is a matter of a simple hoax. It fits into the historical timeline well and should be re-examined.)",
+            "desc" : "Contested information: Military officials, both officers and the enlisted technicians had been tracking, on their radar, an unidentified object in flight over southern New Mexico since July 1. The object had first appeared over the highly restricted areas near the White Sands Proving Grounds. On July 2, Steve MacKenzie (a pseudonym, actually Frank Kaufmann), stationed at [Roswell Army Air Field](https://en.wikipedia.org/wiki/Walker_Air_Force_Base), had received a call from [Brigadier General Martin F. Scanlon](https://www.af.mil/About-Us/Biographies/Display/Article/105707/brigadier-general-martin-f-scanlon/) of the [Air Defense Command](https://en.wikipedia.org/wiki/Aerospace_Defense_Command), ordering him to report to the radar sites at [White Sands](https://en.wikipedia.org/wiki/White_Sands_Missile_Range). MacKenzie was to monitor the object's movements and report them directly to the general. MacKenzie could not leave the scope unattended for even the shortest of times. In fact, once he had his watch established, he set up a system of mirrors so that he could see the screen even when he needed to use the latrine. MacKenzie stayed at his post for twenty-four hours straight, but nothing changed. The object appeared periodically over southern New Mexico, but usually just \"flitting from one location to another.\" When MacKenzie reported that nothing had changed significantly during his twenty-four-hour watch, Scanlon decided to end MacKenzie's part of the operation. Although MacKenzie was ordered back to Roswell, the operators at White Sands were told to continue to monitor the object, as were the radarmen at Roswell and Albuquerque. (R.G.: Interestingly, this case was deleted and \"declared a hoax\" in NICAP's records and by K. Randle, but after re-reading all the relevant research I don't believe that this is a matter of a simple hoax. It fits into the historical timeline well and should be re-examined.)",
             "location" : [ "Roswell Army Air Field, Roswell NM", "White Sands, NM" ],
             "type" : "radar sightings",
             "ref" : [ "[Radar Tracks Object - nipcap.org](https://web.archive.org/web/20050227234151/http://www.nicap.org/whitesands470701.htm)",
@@ -7949,10 +7951,1598 @@
             "location" : "Minot, North Dakota",
             "ref" : [ "[Minot Daily News](https://www.minotdailynews.com/news/local-news/2023/06/former-missile-officer-ufo-whistleblower-demonstrates-tremendous-courage/)",
                 "[Archived link](https://archive.ph/2NXea)" ]
-        }
-     
+        },
+        
+        {
+            "date" : "8/8/2023",
+            "desc" : "Researcher Anthony Bragalia releases a new article, [“Scientists Who Studied Roswell UFO Crash Debris and Bodies Named”](https://www.ufoexplorations.com). After a years-long investigation, he names eleven scientists who conducted the early work on the 1947 Roswell Incident crash debris. His investigation includes first-ever interviews, FOIA documents and reviews of military technical documents. The bodies were taken to and researched at Walter Reed Hospital. These scientists and engineers hail from the private sector, the US Navy, and the US Air Force. Their names are revealed here, some for the first time. The names are: **Captain Robert McLaughlin** (US Navy), **Elroy John Center**, degreed in Chemical Engineering, a Senior Research Chemist who worked for Battelle Memorial Institute in Columbus, OH from 1939-1957, **Warren \"Nick\" Nicholson**, a Battelle employee, **Major Ellis Boldra**, a Major at Walker Air Force Base, formerly Roswell Army Air Field, **Dr. Knox Millsaps**, a military scientist who was appointed Commander of the Air Force Office of Scientific Research, located at Roswell-involved Wright-Patterson Air Force Base, **Commander George W. Hoover**, long associated with the U.S. Office of Naval Research (ONR), **Wernher von Braun**,  the most prominent of the Nazi “Paperclip” scientists brought to the US from Germany after WWII, and was one of the first investigators to the incident because of his rocketry knowledge, **Dr. Ernst Steinhoff**, a member of Wernher von Braun's technical inner circle, **General Laurence Craigie**, a West Point engineering graduate, the first person in US history to fly a jet plane, who led R&D for the Army Air Force at the time of the crash, **Dr. Charles Stahl**, the US government's top forensic pathologist, and **USAF Brigadier General Donald D. Flickinger**, a noted military flight surgeon and expert on the physiology of high altitude flight.",
+            "type" : "article",
+            "ref" : [ 
+                "[ufoexplorations.com](https://www.ufoexplorations.com/)",
+                "[archive.ph URL](https://archive.ph/3Stm6)"
+            ]   
+        },
+        
+        {
+            "date" : "8/5/2023",
+            "desc" : "Rising - The Hill: “Pilots Report SWARM-LIKE Objects In Military Zones Amid UAP MOMENT: Report”",
+            "type" : "news video",
+            "ref" : "[YouTube](https://youtu.be/Yemx3PW-pUI)",
+            "location" : "US"
+        },
+        
+        {
+            "date" : "8/1983",
+            "desc" : "FSR published an article by French Astronomer Dr. Pierre Guérin (died 2010): “Are the Reasons for the Cover-Up *Soley* Scientific?”. He argues that cattle mutilations are solid physical evidence of the UFO phenomenon.",
+            "type" : "article",
+            "ref" : [ "[Flying Saucer Review Article](http://www.ignaciodarnaude.com/ufologia/FSR%201983%20V%2028%20N%206.pdf)",
+                "[bio](http://ufoevidence.org/researchers/detail104.htm)" ],
+            "location" : "US"
+        },
+        
+        {
+            "date": "12/6/1962",
+            "desc" : "JFK visits Area 25/Jackass Flats, very close to Area 51, to see the \"Nuclear Rocket Development Station\" (NRDS, or Nerva).",
+            "type" : "newspaper article",
+            "ref" : [ "[newspapers.com](https://www.newspapers.com/article/lansing-state-journal-jackass-flats/129591695/)",
+            "[newspapers.com](https://www.newspapers.com/article/the-delta-democrat-times-nuclear-rocket/129592159/)",
+            "wikipedia.com](https://en.wikipedia.org/wiki/Area_25_(Nevada_National_Security_Site))" ],
+            "location" : [ "Area 25", "Jackass Flats, Nevada" ]
+        },
+        
+        {
+            "date" : "1/6/1973",
+            "desc" : "The Nerva Nuclear Rocket testing program, i.e. the Nuclear Rocket Development Station at Jackass Flats (Area 25) Nevada, very close to Area-51, is shut down.",
+            "type" : "newspaper article",
+            "ref" : [
+            "[newspapers.com](https://www.newspapers.com/article/the-peninsula-times-tribune-nuclear-rock/129592290/)",
+            "wikipedia.com](https://en.wikipedia.org/wiki/Area_25_(Nevada_National_Security_Site))" ],
+            "location" : [ "Area 25", "Jackass Flats, Nevada" ]
+        },
+        
+        {
+            "date" : "10/18/1963",
+            "desc": "One of the first leaks of the phrase \"Area 51\" in a newspaper article, in a Reno Gazette-Journal article titled \"Test Site Strike\": \"Work at the adjacent Nuclear Rocket Development Station (NRDS) was not affected, and men reported to duty at \"Area 51\" of the site, where a super-secret project is under way.\"",
+            "type" : "newspaper article",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/reno-gazette-journal-area-51-leak/129582935/)",
+            "location" : [ "Area 25", "Area 51", "Jackass Flats, Nevada" ]
+        },
+        
+        {
+            "date" : "2021 (approximate)",
+            "desc" : "Interview with ex-USAF Colonel Richard L. Weaver, the debunker who authored the Air Force's flawed 1990's \"Roswell Report: Case Closed\" report.",
+            "ref" : [ "[interview](https://www.spreaker.com/user/xzoneradiotv/adp20201111ep141emcolonelrichardweaverpa)",
+            "[\"Backstory: Roswell: Exclusive Untold Disclosures About the 1994 Air Force Roswell Report Told By The Man Who Led The Inquiry\", by Richard Weaver](https://www.amazon.com/Backstory-Roswell-Exclusive-Disclosures-Inquiry-ebook/dp/B08GY9WXCL)" ],
+            "location" : "US"
+        },
+        
+        {
+            "date" : "1919",
+            "desc" : "Charles Fort writes in his book \"The Book of the Damned\": \"I suspect that, after all, we're useful.. that something has rights to us, by force, or by having paid out analogues of beads for us to former, more primitive, owners of us.. that all this has been known, perhaps for ages, to certain ones.. a cult or order, members of which function like bellwethers to the rest of us, or as superior slaves or overseers, directing us in accorance with instructions received - from Somewhere else\". (See also: abduction phenomenom, Greada Treaty, Eisenhower 1954 Edwards AFB meeting.)",
+            "ref" : [ "[Twitter](https://twitter.com/richgel999/status/1675775173973164032)",
+            "[The Book of the Damned](http://www.resologist.net/damn12.htm)" ],
+            "location" : "US"
+        },
+        
+        {
+            "date" : "1919",
+            "desc" : "Charles Fort writes in his book \"The Book of the Damned\": \"I think we're fished for. It may be that we're highly esteemed Oby super-epicures somewhere.. I think that we may be of some use after all. I think that dragnets have often come down and have been mistaken forwhirlwinds and waterspouts. Some accounts of seeming structure in whirlwinds and waterspouts are astonishing. And I have data that, in this book, I can't take up at all - mysterious disappearances. I think we're fished for.. or our use to some other mode of seeming that has a legal right to us.\" (See also: abduction phenomenom, *Missing 411* series.)",
+            "ref" : [ "[Twitter](https://twitter.com/richgel999/status/1684395669367160832)",
+            "[The Book of the Damned](http://www.resologist.net/damn12.htm)" ],
+            "location" : "US"
+        },
+        
+        {
+            "date" : "8/2/2023",
+            "desc": "Read Admiral Tim Gallaudet writes: \"UFOs are the story of the century — wake up, America!\"",
+            "ref" : [ "[thehill.com](https://thehill.com/opinion/technology/4131211-ufos-are-the-story-of-the-century-wake-up-america/)",
+            "[archive.ph](https://archive.ph/fa8Ur)" ],
+            "location": "US"
+        },
+        
+        
+        {   "date" : "7/1/1947",
+            "desc" : "Troy Pendergrass, who was involved in New Mexico state politics for many years, stated to the press that he and friends saw a very bright flying object, as \"bright as a mirror\", land in Ash Canyon, near Elephant Butte Lake (west of White Sands Proving Grounds). He said he found a 5x8 inch piece of crinkled tin foil, heavier than that used for gum wrappers, burned and partially melted.",
+            "ref" : [ "[https://ufologie.patrickgross.org/rw/p/gallupindependent1jul1947.htm](https://ufologie.patrickgross.org/rw/p/gallupindependent1jul1947.htm)",
+            "[newspapers.com](https://www.newspapers.com/article/austin-american-statesman-troy-pendergra/128767684/)",
+            "[newspapers.com](https://www.newspapers.com/article/albuquerque-journal-troy-pendergrass/128769781/)",
+            "[findagrave.com](https://www.findagrave.com/memorial/113638975/troy-pendergrass)" ],
+            "type" : "ufo sighting, landing, metals",
+            "location" : "Elephant Butte Lake, New Mexico"
+        },
+        
+        {
+            "date" : "1982",
+            "end_date" : "1983",
+            "desc" : "In a 12/14/2022 article titled \"The NSA Cash-Landrum (C-L) UFO Document\", under the section \"The Army Investigation and the Lawsuit\", there is the following text showing a connection or association between US Army Col. John B. Alexander and the Cash-Landrum incident: \"In 1982, Department of the Army Inspector General (DAIG) ordered Lt. Col. George Sarran to determine whether Army helicopters were involved in the C-L incident, but his mission was not to investigate the UFO report. To be thorough, Sarran contacted several ufologists, John Schuessler, the primary investigator; his former VISIT colleague Capt. Richard C. Niemtzow; M.D., USAF; and Dr. Peter Rank, Radiologist. Although not named in the documentation, US ARmy Col. John B. Alexander says that both he and his friend U.S. Navy Captain Paul Tyler (medical consultant for the Remote Viewing program) were also consulted. In his report, Sarran eliminated the Army as a suspect, and he found no evidence of helicopters flying by any other U.S. government entity - or by anyone else. However, Sarran had interviewed both Mrs. Cash and Landrum, and he explicitly described them as “credible.”\"",
+            "type" : "article",
+            "ref" : [
+            "[Blue Burry Lines blog](https://www.blueblurrylines.com/2022/12/the-nsa-cash-landrum-ufo-document.html)",
+            "[archive.ph](https://archive.ph/o5DNu)" ],
+            "location" : "US"
+        },
+        
+        {
+            "date" : "8/3/1962",
+            "desc" : "A CIA document, which was unwittingly authenticated by the CIA itself during a FOIA appeal by Dr. Donald R. Burleson, author of *UFOs and the Murder of Marilyn Monroe*, mentions wiretaps of phone conversations between reporter Dorothy Kilgallen and her close friend, Howard Rothberg, and wiretaps of phone conversations between Marilyn Monroe and Attorney General Robert Kennedy. When the Kennedys started distancing themselves from Marilyn, she grew angry and (mentioning it on the telephone, unfortunately) started planning to hold a news conference and \"tell all.\" According to the hypothesis set forth in Dr. Burleson's book, Attorney General Robert Kennedy then became so fearful that \"tell all\" meant telling the big secret-- the government retrieval and coverup of UFO crash debris and bodies (which reporter Kilgallen wrote about several times in her newspaper column). The document was signed by James Jesus Angleton, who at the time was the Chief of Counterintelligence for the CIA.\n\nThe UFO connection becomes all the more compelling with the discovery, described in *Burleson's UFOs and the Murder of Marilyn Monroe*, of an imprint to the left of the \"TOP SECRET\" stamp near the top of the document; the imprint, when Burleson enhanced it by computer imaging techniques, turns out to contain the name of Brigadier General George Shulgen, who was formerly the chief UFO investigation-coordinator for the U.S. Air Force. (The imprint also refers to General Schulgen's Intelligence Collection Memorandum, a document known to have existed.) This imprint or \"bleed-in,\" however it came to be on a CIA document about Marilyn Monroe, makes a clear connection between her murder and the question of UFO secrecy, as someone, somewhere at some time, evidently thought it logical to archive the documents together. When all the evidence is considered, the case becomes very strong that government people murdered Marilyn because of what she knew about the UFO coverup.",
+            "type" : "leaked document",
+            "ref" : [ "[blackmesapress.com](http://www.blackmesapress.com/page4.htm)",
+            "[archive.ph](https://archive.ph/8iR0i)",
+            "[*UFOs and the Murder of Marilyn Monroe* by Donald R. Burleson](https://www.amazon.com/Murder-Marilyn-Monroe-Donald-Burleson/dp/0964958058)"
+            ],
+            "location" : "US"
+        },
+        
+        {
+            "date" : "12/20/2010",
+            "desc" : "In the book referenced in one of Hal Puthoff's papers titled *The NASA Conspiracies: The Truth Behind the Moon Landings, Censored Photos, and The Face on Mars*, by Nick Redfern, it's mentioned by an informant that James Jesus Angleton's UFO related papers (\"The Angleton Files\") are in a classified library at Area 51. Additionally, both Angleton and Corso were in Italy at the right time (1944) during WW2, when ex-USAF Maj. David Grusch said a craft was retrieved by the OSS. Grusch said this craft originally crashed in 1933.",
+            "ref" : "[amazon.com](https://www.amazon.com/NASA-Conspiracies-Behind-Landings-Censored-ebook/dp/B0C94VMDTD)",
+            "type" : "book reference",
+            "location" : "Area 51, Nevada"
+        },
+        
+        {
+            "date" : "2000",
+            "desc" : "In the Richard F. Haines (research scientist at NASA, who, after retirement began to research UFO interaction with military and civilian aircraf) papers at the American Heritage Center (Laramie, WY), there is a copy of Tim Cooper's article \"The CIA, UFOs, MJ-12, JFK & James Jesus Angleton\". It has hand written notes on the side written by Haines, with key words are circled. Angleton appears to be a key figure in the UFO Coverup.",
+            "ref" : [ "[medium](https://medium.com/@richgel99/interesting-notes-on-james-jesus-angleton-found-in-the-richard-f-haines-papers-47d4a16fdeef)",
+            "[Richard F. Haines papers](https://archiveswest.orbiscascade.org/ark:80444/xv847688)",
+            "[PDF scan of Richard F. Haines papers](http://digitalcollections.uwyo.edu/MediaManager/srvr?mediafile=%2FBOOK%2Fuwydbuwy%7E203%7E203%2F2104%2Fah12722_1_8%2Fah12722_1_8.book&bookFile=ah12722_1_8.pdf)" ],
+            "type" : "article with notes",
+            "location" : "American Heritage Center, Laramie WY"
+        },
+        
+        {
+            "date" : "6/23/1999",
+            "desc" : "A letter and other documents are sent from a former retired CIA counterintelligence officer who worked with James Jesus Angleton to author/researcher/ufologist Tim Cooper. The letter mentions the Majestic and Jehovah Projects. It also stated that President Nixon's SCEO ordered all MJ-12 documentation purged and destroyed, however one document was not, which was included. The author said everything is now on computers and there is no remaining paper trail.",
+            "ref": [ "[Twitter](https://twitter.com/richgel999/status/1685186529507880962)", "[Burned Memo Majestic document](https://majesticdocuments.com/pdf/burnedmemo-s1-pgs3-9.pdf)" ],
+            "location" : "US",
+            "type" : "letter/leaked documents"
+        },
+        
+        {
+            "date" : "1950",
+            "end_date" : "1955",
+            "desc" : "American columinst, journalist, and television game show panelist [Dorothy Kilgallen](https://en.wikipedia.org/wiki/Dorothy_Kilgallen) (1913-1965) writes about UFO's, saucers and crash retrievals in her newspaper column. One of her sources was in the UK: \"The British government, I learned, is withholding an official report on the 'flying saucer' examination at this time, possibly because it does not wish to frighten the public.\" \"Flying Saucer\" Wreckage Assures Britons of Reality.\" She was told by Lord Mountbatten tthat at least one of the crashes took place during WW2. “British scientists and airmen” have examined the wreckage of a crashed flying saucer. Her informant is a “British official of Cabinet rank,”, who said “Saucers were staffed by small men—probably under four feet tall.” \"Flying saucers are now regarded as of such vital importance that they will be the subject of a special hush-hush meeting of world military heads next summer.\" \"The Air Force has been ordered to minimize the importance of the 'flying saucers'. But some of the official reports in locked government files read like a Buck Rogers comic strip...\" The CIA may have made an attempt to gain Kilgallen as an informant. Kilgallen was a friend of Marilyn Monroe and was possibly killed.",
+            "type" : "newspaper articles",
+            "location" : [ "US", "UK" ],
+            "ref" : [
+                "[Twitter](https://twitter.com/richgel999/status/1672148583389229062)",
+                "[Twitter](https://twitter.com/richgel999/status/1672137183476563968)",
+                "[Twitter](https://twitter.com/richgel999/status/1672145348746158082)",
+                "[Twitter](https://twitter.com/richgel999/status/1672142123833892864)",
+                "[Twitter](https://twitter.com/richgel999/status/1672140494443274241)",
+                "[Twitter](https://twitter.com/BoardJfk/status/1687139540211757056)",
+                "[YouTube](https://youtu.be/XxCzioj0lpA)"
+            ]
 
+        },
+        
+        {
+            "date": "Mid 4/1897",
+            "time" : "22:30",
+            "location" : "near Vernon, Kansas",
+            "desc" : "A news story of a UFO sighting, a cattle being taken, and the parts being found the next day, was published in the Woodson County Advocate of April 23, 1897. On a Monday evening around 10:30, a noise from the cattle lot awoke farmer Alexander Hamilton of Vernon. Expecting it might be his bulldog causing mischief, he was stunned to see an airship descending above the cow lot. Joining him with axes, Gib Heslop, his tenant, and his son Wall approached the craft, which hovered about 30 feet above the ground. This airship had a cigar-shaped section estimated to be 300 feet long with a transparent carriage below. Within the brightly lit carriage were six unusual occupants: two men, a woman, and three children speaking an unintelligible language. The vessel itself had parts that weren't transparent tinted in a dark reddish hue. Suddenly, a loud noise drew the beings' attention, and they shined a light on the humans. Reacting swiftly, they activated a large turbine wheel beneath the vessel, making it ascend gracefully. As it hovered about 300 feet overhead, the observers noticed a bawling heifer entangled in a red cable connected to the airship. Despite their efforts to free the animal, the ship and the cow both soared away and vanished into the northwest. The next day, parts of the cow were found by Lank Thomas in Coffey County, puzzling him as there were no tracks on the soft terrain surrounding it. The harrowing experience haunted the narrator, who was tormented by nightmares of the peculiar ship and its occupants, questioning if they were devils, angels, or something else entirely.",
+            "type" : "ufo sighting, cattle abduction, cattle mutilation",
+            "ref" : "[_Mystery Stalks the Prairie_, by Donovan and Wolverton (1976)](https://ia902800.us.archive.org/28/items/mysterystalkstheprairierobertadonovankeithwolverton/MYSTERY%20STALKS%20THE%20PRAIRIE%20Roberta%20Donovan%20Keith%20%20Wolverton.pdf)"
+        },
+        
+        {
+            "date" : "8/21/1975",
+            "location" : "Kimball, Nebraska",
+            "desc" : "Law enforcement in Western Nebraska pursued a low-flying helicopter for around five hours, suspecting its involvement in recent cattle mutilations in Colorado. The helicopter, detected by Air Force radar in Cheyenne, Wyo, was flying between 100 to 150 feet above the ground, possibly trying to evade radar or find a landing spot. It briefly hovered over a Strategic Air Command missile site near Bushnell before fleeing. Though authorities came within half a mile of the helicopter and observed it, they couldn't discern any identifying marks. The chase ended when the helicopter headed towards the Colorado border and vanished. Investigations are ongoing.",
+            "type" : "mystery helicopter",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-alliance-times-herald-mystery-helico/130400298/)"
+        },
+        
+        {
+            "date" : "9/25/1975",
+            "location" : [ "Coloraro", "Texas", "Minnestoa", "Nebraska", "Kanasa", "Arkansas" ],
+            "desc" : "Since mid-1974, ranchers in the Midwest and other regions have been troubled by unexplained cattle mutilations, with no signs of these bizarre killings abating. Recent mutilations have appeared across several Colorado counties, with 58 cattle reported dead and mutilated, often found with vital organs missing and no blood traces. Wild theories have suggested devil worshipers or even extraterrestrials might be involved, though no evidence supports these claims. This phenomenon isn't limited to Colorado; states like Texas, Minnesota, Nebraska, Kansas, and Arkansas have reported similar cases. Concurrently, there have been numerous reports of unidentified and often silent helicopters, leading some to speculate a connection between the two mysteries. Authorities and organizations, including the FBI and the Cattle Raisers Association, have tried to curb the mutilations and investigate the helicopters to no avail. Amidst the rising panic, the Army has even advised helicopter pilots to maintain altitudes above 1,000 feet to avoid being shot at by alarmed ranchers. These events mirror a similar wave of cattle mutilations and mysterious helicopters in 1973.",
+            "type" : "mystery helicopter, cattle mutilations",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-daily-news-mystery-helicopters/130401246/)"
+        },
+        
+        {
+            "date" : "11/16/1975",
+            "location" : ["Limestone, Maine", "Loring AFB, Maine" ],
+            "desc" : "Loring Air Force Base in Limestone, Maine, has been perplexed by a mysterious helicopter that violated its airspace. Despite the base's powerful B-2 bombers, they are unequipped to peacefully intercept the unidentified chopper, which hovered over the base for 35 minutes, disappeared towards Canada, and then returned hours later. Major Richard E. Quimby, the base's public information officer, stated they didn't have the means to force the helicopter down during its appearances. While Loring is designed for nuclear deterrence and lacks its own helicopters or interceptor aircraft, it can seek assistance from other Air Force units or the Royal Canadian Air Force. Shooting the mystery copter wasn't considered as it displayed no hostile intent, had no approved flight plan, and remained unresponsive to communication attempts. An ongoing investigation involving the FBI, the Air Force's security police, state police, and the Royal Canadian Mounted Police has yet to uncover the helicopter's origins.",
+            "type" : "mystery helicopter",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-burlington-free-press-mystery-copter/130402515/)"
+        },
+        
+        {
+            "date" : "10/31/1975",
+            "location" : "Lebanon County, PA",
+            "desc" : "Recent reports from Lebanon County suggest a surge in unidentified aerial activity. Residents have reported sightings of what appeared to be a dirigible-shaped craft, and subsequent inquiries with Goodyear and Ft. Indiantown Gap officials confirmed that neither had airships in the area at that time. John Adams and his two companions reported seeing a UFO with \"rods\" or \"projections\" extending from its underside, which was luminous white in color and appeared to bounce in its flight path. Another resident from North Lebanon Township reported seeing two unmarked helicopters hovering over a cornfield, initially believing they were state police helicopters possibly searching for escaped convicts. Another couple from the same area reported a small glowing object flying in a zig-zag pattern across the field. These sightings raise questions about what might be occurring in Lebanon County.",
+            "type" : "ufo sightings, mystery helicopter",
+            "ref" : [ 
+            "[newspapers.com - part 1](https://www.newspapers.com/article/lebanon-daily-news-further-ufo-sightings/130402916/)",
+            "[newspapers.com - part 2](https://www.newspapers.com/article/lebanon-daily-news-further-sightings-of/130402940/)" ]
+        },
+        
+        {
+            "date" : "11/21/1975",
+            "location" : "Oklahoma City, OK",
+            "desc" : "A middle-aged couple, which later were key figures in the \"Heavens Gate\" cult, known as \"UFO Two\" and alternatively as \"Oregon Two\", offered a lecture on the prospect of immortality and a different, brighter world to 200 attendees in Oklahoma City. Each attendee paid $2 for the lecture. Marshall Herf Applewhite, one of the speakers, spoke about becoming a creature capable of transitioning to another world. Applewhite made references to UFOs and clarified they weren't discussing another religion. He also drew a parallel between the biblical account of Jesus' ascension and UFOs, suggesting that Jesus was a figure from the \"next\" world showing humans how to overcome death. The attendees were diverse, but many left before the lecture's conclusion. The event faced a delay due to a disagreement over photographing the speakers.",
+            "type" : "cult activity",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/tri-city-herald-ufo-two/130387026/)"
+        },
+        
+        {
+            "date" : "2/10/1944",
+            "location" : "12 miles from the Spanish border",
+            "desc" : "During a World War II mission on the night of Feb. 10, 1944, while flying B24s near the Spanish border, a crew observed an unusual phenomenon. After finding the intended drop site covered by clouds, they turned back. On their return, the tail gunner reported seeing multiple colored fireballs, referred to as \"foo-fighters\", following their plane in a perfect arc. Despite the increasing proximity of these mysterious objects, they eventually disappeared. The incident was reported upon returning to base, marking the crew's only encounter with \"foo-fighters\", a term others had also used to describe such sightings.",
+            "type" : "foo fighters",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/tampa-bay-times-foo-fighters/130404053/)"
+        },
+
+        {
+            "date" : "11/14/2003",
+            "end_date" : "11/16/2003",
+            "location" : "Las Vegas, NV",
+            "desc" : "The 1st Annual 2003 Crash Retrieval Conference. Speakers are Ryan S. Wood, Kenn Thomas, Art Campbell, Budd Hopkins, Stan Gordon, Nick Redfern, Jonathan Downes, Matthew Williams, Peter Robbins, Linda Howe, Stanton Friedman, Greg Bishop, Dr. Robert M. Wood, and Grant Cameron.",
+            "type" : "conference",
+            "ref" : "[2003 Proceedings - archive.org](https://archive.org/details/crash-retrieval-conference-proceedings-1st-annual-nov-2003/mode/1up)"
+        },
+        
+        {
+            "date" : "11/12/2004",
+            "end_date" : "11/14/2004",
+            "location" : "Las Vegas, NV",
+            "desc" : "The 2nd Annual 2004 Crash Retrieval Conference. Speakers are Nick Redfern, Jim Marrs, Don Ledger, Peter Robbins, Linda Moulton Howe, Grant Cameron, Robert M. Wood, Paul Davids, David Pace, Ryan S. Wood, Paul Kimball, Ron Regehr, and Chuck Wade.",
+            "type" : "conference",
+            "ref" : "[2004 Proceedings - archive.org](https://archive.org/details/crash-retrieval-conference-proceedings-2nd-annual-nov-2004-lq.pdf/mode/1up)"
+        },
+        
+        {
+            "date" : "11/4/2005",
+            "end_date" : "11/6/2005",
+            "location" : "Las Vegas, NV",
+            "desc" : "The 3rd Annual 2005 Crash Retrieval Conference. Speakers are Robert M. Wood, Ph.D., Tom Valone, Ph.D., PE, Roger Leir, Nick Redfern, Linda Moulton Howe, Richard M. Dolan, Peter Robbins, Chuck Zukowski, Debbie Ziegelmeyer, Jim Marrs, Ryan S. Wood, Philip Mantle, Reme Baca, William F. Hamilton III, and Ken Storch.",
+            "type" : "conference",
+            "ref" : "[2005 Proceedings - archive.org](https://archive.org/details/crash-retrieval-conference-proceedings-3rd-annual-2005/mode/1up)"
+        },
+        
+        {
+            "date" : "11/10/2006",
+            "end_date" : "11/12/2006",
+            "location" : "Las Vegas, NV",
+            "desc" : "The 4th Annual 2006 Crash Retrieval Conference. Speakers are Stanton T. Friedman, Dr. Michael Salla, Richard M. Dolan, Paul Schatzkin, Ryan S. Wood, Michael Lindemann, Peter W. Merlin, Frank Feschino, Dr. Robert M. Wood, Nick Redfern, Linda Moulton Howe, Dr. Bruce Maccabee, Mathew E. Thuney, and Dr. Angela Thompson.",
+            "type" : "conference",
+            "ref" : "[2006 Proceedings - archive.org](https://archive.org/details/crash-retrieval-conference-proceedings-4th-annual-2006/mode/1up)"
+        },
+        
+        {
+            "date" : "11/9/2007",
+            "end_date" : "11/11/2007",
+            "location" : "Las Vegas, NV",
+            "desc" : "The 5th Annual 2007 Crash Retrieval Conference. Speakers are Terry Hansen, Dr. Robert M. Wood, Richard M. Dolan, Peter Robbins, Matthew Williams, Michael H. Schrott, Cameron Debow, Nick Redfern, Lindo Moulton Howe, Karyn Dolan, Ruben Uriarte, Noe Torres, and J. Antonio Huneeus.",
+            "type" : "conference",
+            "ref" : "[2007 Proceedings - archive.org](https://archive.org/details/crash-retrieval-conference-proceedings-5th-annual-2007/mode/1up)"
+        },
+        
+        {
+            "date" : "11/7/2008",
+            "end_date" : "11/9/2008",
+            "location" : "Las Vegas, NV",
+            "desc" : "The 6th Annual 2008 Crash Retrieval Conference. Speakers are Dr. Kevin Randle, Nick Redfern, James Clarkson, Nick Pope, Linda Moulton Howe, Dr. Robert M. Wood, Jim Marrs, Dr. John B. Alexander, Richard Dolan, Ruben Uriarte, Noe Torres, and J. Antonio Huneeus.",
+            "type" : "conference",
+            "ref" : "[2008 Proceedings - archive.org](https://archive.org/details/crash-retrieval-conference-proceedings-6th-annual-2008/mode/1up)"
+        },
+        
+        {
+            "date" : "11/7/2009 (approximate)",
+            "end_date" : "11/9/2009 (approximate)",
+            "location" : "Las Vegas, NV",
+            "desc" : "The 7th (and final) 2009 Crash Retrieval Conference. Speakers are Dr. Robert M. Wood, Kenn Thomas, Dr. Michael Solla, Nick Redfern, Linda Moulton Howe, James Clarkson, Michael Schrott, Peter Robbins, Richard Dolan, James Carrion, TK Davis, and Frank Dixon.",
+            "type" : "conference",
+            "ref" : "[2009 Proceedings - archive.org](https://archive.org/details/crash-retrieval-conference-proceedings-7th-annual-2009/page/n0/mode/1up)"
+        },
+        
+        {
+            "date" : "1948",
+            "location" : "Desert region, US",
+            "desc" : "Military source, Fall 1977: Stringfield heard from other military sources that a metallic disc had crashed in a desert region in 1948 and was retrieved by military units. Craft suffered severe damage.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1948",
+            "location" : "30 miles inside the Mexican border near Laredo, Texas",
+            "desc" : "Todd Zechel and retired Air Force Colonel, 1977: A disc-shaped UFO 90 feet in diameter crashed in 1948 about 30 miles inside the Mexican border near Laredo, Texas. One dead 4 ft 6 inch alien found with no thumbs. Craft and alien body taken to Air Force base.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1952",
+            "location" : "Edwards AFB, CA",
+            "desc" : "Radar specialist at Edwards AFB, CA saw UFO crash on radar. Later learned it was 50+ ft in diameter with a row of windows. Damaged craft and bodies taken to Edwards AFB hangar temporarily before going to Wright-Patterson AFB, OH.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1952 (approximate)",
+            "location" : "Arizona",
+            "desc" : "NICAP - Airline pilot Bill Nash said a woman who worked in Army Intelligence told Stringfield in 1957 of a UFO crash in Arizona around 1952. UFO was sent to Wright-Patterson AFB for analysis. Craft had strange symbols on interior control panel.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1953",
+            "location" : "Ft. Monmouth, NJ",
+            "desc" : "Radar specialist at Ft. Monmouth, NJ: Shown film of crashed 30 ft diameter disc in desert. Saw 10-15 personnel examining it. Film also showed interior panels and 3 dead alien bodies about 4 feet tall on tables inside a tent.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1953",
+            "location" : "Kingman, AZ",
+            "desc" : "Fritz Werner: Helped investigate crashed oval UFO near Kingman, AZ. Saw 4-foot dead alien in silver metallic suit in tent near craft. Taken to Air Force base and sworn to secrecy.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1966",
+            "location" : "Wright-Patterson AFB",
+            "desc" : "James Mitchell: While working at Wright-Patterson AFB, was shown photo of dead 3.5 foot alien after a skirmish with military in Arizona. Later reprimanded for having photo, had to return it.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1970's",
+            "location" : "Wright-Patterson AFB",
+            "desc" : "Air National Guard pilot: At Wright-Patterson AFB saw 5 crates, 3 contained dead 4-foot humanoid aliens from crashed UFO in Arizona. One alien was female.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1953",
+            "location" : [ "AF proving grounds in New Mexico", "Wright-Patterson AFB" ],
+            "desc" : "Air Force general's aide, 1963: In 1953 a flying saucer crashed near Air Force proving grounds in New Mexico. Occupants were dead. Later shown 3 saucers and 4 three-foot aliens from crash at Wright-Patterson AFB.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"    
+        },
+        {
+            "date" : "1953",
+            "location" : "Wright-Patterson AFB",
+            "desc" : "Security guard at Wright-Patterson AFB, 1966: Told man that in 1953 he witnessed retrieval of crashed disc and crates with dead alien bodies at the base. Aliens 4-5 feet tall.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"        
+        },
+        {
+            "date" : "1953",
+            "location" : "near Dutton, Montana",
+            "desc" : "Cecil Tenney, 1978: In 1953 saw cigar-shaped UFO in distress near Dutton, Montana. At Great Falls AFB saw military men unloading body bags which he believed contained dead aliens from UFO crash.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"            
+        },
+
+        {
+            "date" : "1959",
+            "location" : "Wright-Patterson AFB",
+            "desc" : "Mrs. G, Foreign Materials Division at Wright-Patterson AFB: In mid-1950s catalogued 1000+ items from crashed UFO. Saw 2 dead 4-5 foot aliens with big heads and slanted eyes transported through base.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"            
+        },
+
+        {
+            "date" : "1977",
+            "location" : "Wright-Patterson AFB",
+            "desc" : "James Mitchell: Air Force electrician at Wright-Patterson AFB had photo of dead alien from military skirmish with UFO crew in Arizona. Photo confiscated by officials.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"                
+        },
+
+        {
+            "date" : "1977",
+            "location" : "Wright-Patterson AFB",
+            "desc" : "James Mitchell - Air Force electrician at Wright-Patterson AFB had photo of dead alien from military skirmish with UFO crew in Arizona. Photo confiscated by officials.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"
+        },
+        {
+            "date" : "1962",
+            "location" : "New Mexico",
+            "desc" : "Robert Barry, 1978: In 1962 a tracked UFO crashed in New Mexico after flight issues. Two dead 42 inch alien bodies recovered and taken to medical facility for study. UFO taken to SW military base.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"    
+        },
+        {
+            "date" : "1960's (approximate)",
+            "location" : "Wright-Patterson AFB",
+            "desc" : "Air Force Major: At Wright-Patterson AFB saw intact UFO, damaged UFO parts, and dead alien bodies preserved under glass. Stated \"We have the proof UFOs are extraterrestrial.\"",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"    
+        },
+
+        {
+            "date" : "Early 1970's",
+            "location" : "Wright-Patterson AFB",
+            "desc" : "Mrs. SI, 1977: Her husband Carl while in Air Force at Wright-Patterson in early 1970s stood guard duty over 3 three-foot dead aliens delivered to base from crash site. Had fuzzy hair, off-white skin.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"        
+        },
+        {
+            "date" : "1948",
+            "location" : "Aztec, NM",
+            "desc" : "Professor Robert Carr, 1975-1978: Carr learned through 5 military related witnesses details about 1948 UFO crash and retrieval in Aztec, NM. 12 alien bodies 3-4 feet tall recovered with oversized heads and slanted eyes.",
+            "type" : "crash retrieval",
+            "ref" : "[Leonard Stringfield's 1978 MUFON Symposium](https://github.com/richgel999/uap_resources/blob/main/1978_Mufon_Symposium_Stringfield.pdf)"                
+        },
+        
+        
+        {
+            "date" : "10/27/1910",
+            "location" : [ "Swift Current, Saskatchewan, Canada", "Irvine, Alberta", "Medicine Hat, Alberta" ],
+            "desc" : "An unidentified flying machine with red and green lights at the rear and a strong headlight was observed by people in Swift Current and Irvine. The machine flew over Swift Current around 1:10 AM at an altitude of approximately 600 feet. The sighting continued as the object was seen heading west from Irvine, Alberta, at 4:45 AM. Additionally, a sizable balloon was reported traveling in a south-westerly direction along the C.P.R. line east of Medicine Hat, as witnessed from Crane Lake and Maple Creek, shortly before dawn on the same day.",
+            "type" : "ufo sightings",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/calgary-herald/100695931/)"
+        },
+
+        {
+            "date" : "8/24/2023",
+            "location" : "University of New Hampshire Library",
+            "desc" : "Librarian Emeritus Bill Ross shows off images of aliens from Betty and Barney Hill's Collection at the University of New Hampshire Library",
+            "type" : "collection",
+            "ref" : [ "[twitter.com](https://twitter.com/MetaStudioLogic/status/1694802273988452676)", "[WSHU public radio](https://archive.ph/YHEds)" ]
+        },
+        
+        {
+            "date" : "8/29/1995",
+            "location" : "Albuquerque, New Mexico",
+            "desc" : "Congressman Steve Schiff finds that the permanent outgoing message records from Roswell Army Airfield were destroyed \"without proper authorization\". He was so angry that he held a press conference with the details.",
+            "type" : "press conference",
+            "ref" : "[newspapers.com](https://twitter.com/richgel999/status/1694735187806933128)"
+        },
+        
+        {
+            "date" : "10/8/1917",
+            "time" : "19:30",
+            "location" : "western Colorado",
+            "desc" : "After several weeks without any reports, scores of people observed a mysterious airplane over western Colorado. The aircraft hovered, dipped, and repeated these maneuvers near the presumed Colorado-Utah border. From 7:30 to 8:30 in the evening, the airplane remained visible in the western sky, displaying red, white, and yellow lights that were even discernible with magnification. Eventually, it vanished. Although locals were reassured that the plane wasn't an enemy aircraft according to Uncle Sam, the Federal Government withheld details about its true nature from the public.",
+            "type" : "ufo sightings",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-daily-sentinel-mystery-airplane/130545952/)"
+        },
+        
+        {
+            "date" : "8/26/2023",
+            "location" : "Washington, DC",
+            "desc": "\"Witness to a New Era: My Ringside View at the History-Shaping UFO Hearing\", by Chris Lehto: The article covers a Congressional hearing focused on UFOs and whistleblower testimonies. The hearing delves into a government covert UFO initiative, highlighting persuasive visual evidence of unidentified aerial phenomena (UAPs) demonstrating remarkable abilities in Earth's atmosphere. Witnesses include David Grusch, a military whistleblower, Ryan Graves from Americans for Safe Aerospace, and Commander David Fravor recounting his famous encounter with the Tic Tac UAP. Specific details are withheld from the public, and concerns about reprisals against whistleblowers are voiced. The article emphasizes the need for transparency and whistleblower protection, underscoring the potential benefits of disclosing UFO-related information for humanity's understanding and progress.",
+            "type" : "article",
+            "ref" : [ 
+                "[The Portugal News](https://www.theportugalnews.com/news/2023-08-06/witness-to-a-new-era-my-ringside-view-at-the-history-shaping-ufo-hearing/80179)",
+                "[archive.ph](https://archive.ph/VY6Ag)" 
+            ]
+        },
+        
+        {
+             "date" : "10/21/1978",
+             "location" : "flying over the Bass Strait from Melbourne to King Island, roughly 125 miles from the Australian state of Victoria",
+             "desc" : "\"44 Years Ago Today A Cessna 182 Disappeared Inflight Over Australia's Bass Strait\", by Mark Finlay: Frederick Valentich, a 20-year-old pilot, disappeared over the Bass Strait while flying from Melbourne to King Island in a rented Cessna 182 aircraft with the registration VH-DSJ. Valentich had training in aviation and held qualifications for night flying. He reported to air traffic control that he was being followed by an unidentified aircraft with bright lights before losing all radio contact. Investigators speculated that spatial disorientation due to an illusion of the tilted horizon caused his disappearance. His case remains one of the notable unsolved mysteries involving UFOs and aviation.",
+             "type" : [ "ufo sighting", "disappearance" ],
+             "ref" : [
+                "[Simple Flying](https://simpleflying.com/cessna-182-australia-disappearance-44-years/)",
+                "[archive.ph](https://archive.ph/HuyK5)" ]
+        } ,
+        
+        {
+            "date" : "8/23/2023",
+            "location" : "Washington DC",
+            "desc" : "A group of House lawmakers, including Rep. Tim Burchett, has requested information from the intelligence community's inspector general regarding an alleged UFO crash retrieval program. Despite their demands, Burchett doesn't anticipate receiving substantial answers, believing that a cover-up will persist. The Pentagon has been asked to address claims from whistleblower David Grusch, who revealed details about the supposed program in a congressional hearing. Lawmakers are seeking a select committee with subpoena power to investigate UFO matters further, but Burchett is skeptical about the likelihood of its establishment, expecting attempts to shut down the process.",
+            "type" : "article",
+            "ref" : [ "[NewsNation](https://www.newsnationnow.com/space/ufo/burchett-intel-community-ig-request-uap-information/)", "[archive.ph](https://archive.ph/FxIxk)" ]
+        },
+        
+        {
+            "date" : "8/22/2023",
+            "location" : "Ukraine",
+            "desc" : "\"Chechen Fighters Claim Ukrainian Drones With ‘Claws’ Are Abducting Russian Troops\", by Allison Quinn: Chechen fighters loyal to Ramzan Kadyrov, a close associate of Vladimir Putin, have alleged that Ukraine is using large drones with claw-like attachments to abduct injured Russian soldiers from the battlefield. These drones, dubbed \"Baba Yaga\" after a folklore witch, reportedly possess massive claws that can seize and carry off troops. A member of the Akhmat battalion stated that these drones are equipped with special claw-like devices, which are used to capture incapacitated soldiers. The drones operate at night and are said to be vulnerable only to flamethrowers or grenade launchers.",
+            "type" : [ "article", "abductions" ],
+            "ref" : [ "[The Daily Beast](https://www.thedailybeast.com/chechen-fighters-ukrainian-drones-with-claws-abducting-russian-troops)", "[archive.ph](https://archive.ph/o75Xu)" ]
+        },
+        
+        {
+            "date" : "8/23/2023",
+            "location" : "Washington DC",
+            "desc" : "Rep. Burchett leading effort to seek UFO answers in Washington. New interview with Tim Burchett about the letter to the ICIG. Timbo says both sides are \"compromised\" on this issue, that they won't get a response, and the UFO Coverup will continue. He also thinks the Schumer amendment won't do anything.",
+            "type" : "interview",
+            "ref" : "[Twitter.com](https://twitter.com/MikeColangelo/status/1694482740526116917)"
+        },
+        
+        {
+            "date" : "8/25/1950",
+            "location" : "Paris, TX",
+            "desc" : "In _The Paris News_, an oddly incomplete article with the title \"Grounded Saucer Found by Police\" was published. The article's contents were about the Korean War and has no reference to saucers or the police. Researcher/author Leonard Stringfield said that newspapers were heavily censored of UFO crash retrieval reports or information, making this newspaper article very curious.",
+            "type" : [ "newspaper article", "crash retrieval", "landed saucer" ],
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-paris-news-grounded-saucer-found-by/113404952/)"
+        },
+        
+        {
+            "date" : "8/11/1917",
+            "location" : "Mojave desert",
+            "desc" : "The mystery surrounding the appearance of an airplane over the Mojave Desert during the night, which had been reported intermittently for months and doubted by officials, was resolved. Federal officers investigating the matter discovered the airplane in the dry lakebed near Antelope Valley, near the San Bernardino county line. The aircraft was being protected by an armed individual.",
+            "type" : [ "newspaper article", "mystery airplane" ],
+            "ref" : [ "[newspapers.com](https://t.co/83pZvZy4OW)" ]
+        },
+        
+        {
+            "date" : "8/11/1917",
+            "location" : "Mojave desert",
+            "desc" : "The enigma of a nighttime airplane's unusual presence over the Mojave Desert, which had been periodically reported for months but dismissed as a myth by authorities, was unraveled. Federal officers investigating the matter conveyed that the aircraft had been located in the dry lakebed near Antelope Valley, close to the San Bernardino county line. An armed individual was safeguarding the machine, who stated the plane was owned by 3 men.",
+            "type" : "newspaper article",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-pomona-progress-mystery-airplane/130545093/)"
+        },
+        
+        {
+            "date" : "4/31/1917",
+            "location" : "Portsmouth, New Hampshire",
+            "desc" : "An unidentified airplane flying over Portsmouth, New Hampshire, was shot at by National Guardsmen stationed on a bridge. The plane swiftly left the area after the gunfire and could not be located. Naval yard authorities were unable to determine the origin of the airplane.",
+            "type" : "mystery airplane",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/belvidere-daily-republican-mystery-airpl/130544262/)"
+        },
+        
+        {
+            "date" : "4/17/1917",
+            "location" : "Long Beach, CA",
+            "desc" : "In Long Beach, two unidentified airplanes were observed flying at a low altitude after midnight. These mystery aircraft paused during their flight to signal three times over a specific section of the ocean before continuing towards Hollywood. A woman witnessed this event and reported it to the police, who confirmed the sighting through other sources. Flying at night in 1917 was very dangerous, making this report even more curious.",
+            "type" : "mystery airplane",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/santa-ana-register-mystery-airplane/130542717/)"
+        },
+        
+        {
+            "date" : "4/14/1917",
+            "location" : "Beloit, Illinois",
+            "desc" : "Late at night, a mysterious airplane was observed flying over Beloit, emitting lights that provided clear evidence of its presence. The aircraft was flying at such a height that the sound of its engine couldn't be heard. Numerous Beloit residents, including Patrolman William Van Ostrand, witnessed this unusual sighting. Flying at night in 1917 was very dangerous, making this report even more curious.",
+            "type" : "mystery airplane",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/belvidere-daily-republican-mystery-airpl/130543874/)"
+        },
+        
+        {
+            "date" : "12/23/1917",
+            "location" : "Boise, ID",
+            "desc" : "Alfred Rordame attempts to explain the recent flap of mystery airplane sightings as mere misidentifications of Venus. While he attributes the sightings to the planet's motion and brightness, he disregards the detailed descriptions provided by eyewitnesses. Rordame's dismissal lacks substantial evidence and fails to address the complexity of the reported events. His focus on astronomical principles neglects the possibility of alternative explanations, leaving many unanswered questions.",
+            "type" : "mystery airplane",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/evening-capital-news-mystery-airplanes-p/130547548/)"
+        },
+        
+        {
+            "date" : "10/18/1917",
+            "location" : "Helena, MT",
+            "desc" : "The Helena Independent newspaper is offering a $100 reward for any information leading to the identification of the individuals operating an unidentified aeroplane observed around Helena. Reports of an airship flying over the state capital during the early hours have surfaced, and many people in the city, East Helena, and nearby areas have reported similar sightings in the past months. The newspaper staff even heard an airship's sound while hunting, although they couldn't see it. Ranchers in the region have purchased high-power rifles in hopes of targeting the mysterious aircraft they claim to have seen.",
+            "type" : [ "mystery airplane", "newspaper article" ],
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/lewistown-daily-news-mystery-airplane/130546282/)"
+        },
+        
+        {
+            "date" : "4/17/1917",
+            "location" : "Tucson, AZ",
+            "desc" : "In Tucson, on April 16, a mystery airplane was observed hovering near the city line. Sheriff Miles of Pima County issued an order to fire upon airplanes flying over the city if they don't identify themselves. There have been numerous airplane sightings over the city without any government communication. Guards reported that a machine even turned a searchlight onto the armory early on Sunday morning. These airplanes were reported to be moving southwest.",
+            "type" : "mystery airplane",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-hanford-sentinel-mystery-airplane/130543005/)"
+        },
+        
+        {
+            "date" : "8/13/1917",
+            "location" : "Grand Junction, Colorado",
+            "desc" : "An unidentified airplane caused panic in Salt Lake City when it flew over the area in daring maneuvers with an eerie blue light in the morning. Speculation arises whether the government has a secret airplane base in the LaSalle Mountains of Utah. Residents are alarmed, and the police are investigating the mystery. Sergeant W. S. Keating of the central police station suggests that the government might have established a covert airplane base in southern Utah, while admitting that no concrete evidence is available. Despite a desire to cooperate, the identity of the aircraft remains uncertain. Reports of similar incidents have been received throughout the week.",
+            "type" : "mystery airplane",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-daily-sentinel-mystery-airplane/130545167/)"
+        },
+        
+        
+        {
+            "date" : "4/18/1917",
+            "location" : "Portsmouth, NH",
+            "desc" : "Reports confirm the sighting of a mystery airplane over Barnstead. The naval authorities were informed of the flight, and coast guard stations also witnessed the aircraft. This comes after the initial sighting in the city on April 1, prompting government authorities to make multiple attempts to identify and locate the aviator responsible.",
+            "type" : "mystery airplane",
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/the-houston-post-mystery-airplane/130543577/)"
+        },
+        
+        {
+            "date" : "2/7/2022",
+            "location" : "US",
+            "desc" : "In 2022, retired Colonel John Alexander claimed at a UFO conference that the purported Majestic 12 group was real, but did not actually deal with UFOs as the controversial documents from the 1980s suggest. Instead, he speculated MJ-12 likely studied continuity of government planning. However, examination of the member backgrounds casts doubt on that theory, as the group oddly included several scientists like astronomers rather than just government policy experts. The article theorizes MJ-12 may have in reality researched high-altitude aircraft.  \nEither way, the extreme secrecy around real continuity of government planning by the U.S. government, including building underground bunkers and facilities over nuclear concerns since WWII, has fueled speculation among UFO researchers. While MJ-12 may have existed for COG study, likely not under the names in UFO documents, the government's vast hidden COG infrastructure has inspired paranoid myths about alleged underground alien bases. The intense secrecy enables ongoing conjecture about what facilities truly exist and their purpose.",
+            "type" : "article",
+            "ref" : [ "[blog](https://tomwhitmoreblog.wordpress.com/2023/02/07/mj-12-continuity-of-government-02-07-2023/)", "[archive.ph](https://archive.ph/ysazG)" ]
+        },
+        
+        {
+            "date" : "11/23/1957",
+            "location" : "Kansas City, Kansas",
+            "desc" : "\"Mystery Helicopter Baffles Authorities\": 5-6 unidentified objects, appearing like \"glowing balls\" from the ground, were identified as helicopters tonight by authorities, but their home bases remained a \"complete mystery\". The crafts had alternating blinking red, green, and white lights were spotted by two Johnson County, Kansas women who reported the objects to police. The objects were said to be hovering 100-200 feet above the ground. Lt. Larry B. Guisinger, based at the Columbos Ohio Naval Air Station, flew a F-J Fury jet trainer aircraft through the slow-moving craft formation and said they looked like helicopters, but was not sure they were \"American types\". He expressed doubts they would have blinked their \"starboard lights if they hadn't been\". Guisinger then stated that he was told there were objects higher than his altitude of 10k feet, which caused him to express doubts they were actually helicopters. Authorities said they did not have helicopters airborne that night.",
+            "type" : [ "ufo sighting", "mystery helicopter" ],
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/valley-morning-star-mystery-helicopters/130474612/)"
+        },
+        
+        {
+            "date" : "7/22/1952",
+            "location" : "US",
+            "desc" : "The head of Pike's Peak Broadcasting Company, Joseph Rohrer, insisted he was telling the truth when he said several UFO's had crashed. In USMC Naval Aviator Donald Keyhoe's 1953 book, the Air Force discussed threatening Rohrer into silence.",
+            "type" : "intimidation",
+            "ref" : [ "[Twitter.com](https://twitter.com/richgel999/status/1694063643539751352)", "[_Flying Saucers from Outer Space_, by Donald E. Keyhoe](http://www.nicap.org/books/fsos/chVII.htm)" ]
+        },
+        
+        {
+            "date" : "12/14/1944",
+            "location" : "Supreme Headquarters",
+            "desc" : "\"New German Weapon\", Supreme Headquarters: A recent newspaper report from December 13th (NYT) states that a new German weapon has been observed on the western air front by American Air Force pilots. These pilots have encountered silver-colored spheres floating in the air over German territory. These spheres are seen individually or in clusters and sometimes possess a semi-translucent quality. The nature and purpose of these spheres remain unknown.",
+            "type" : [ "newspaper article", "foo fighters" ],
+            "ref" : "[newspapers.com](https://www.newspapers.com/article/fort-worth-star-telegram-silver-colored/130410969/)"
+        },
+
+        {
+            "date" : "1805 (approximate)",
+            "location" : "Koyuk, Alaska",
+            "desc" : "Natives told of seeing a silver disc like object that sailed through the air and then landed. Apparently three human-looking “little men” emerged from the object, learned to communicate with the locals, and reportedly stayed in the village for a long time.",
+            "type" : "landing/interaction",
+            "ref" : [ "[URECAT](https://ufologie.patrickgross.org/ce3/1800-usa-koyuk.htm#ar1)", "Mark Chorvinsky, Fate January 1990" ]
+        },
+                
+        {   "date" : "1804",
+            "location" : "Mays Landing, New Jersey",
+            "desc" : "Summary: The famous American naval hero Stephen Decatur was said to have briefly skirmished with a bizarre creature known as the “Jersey Devil.” He was test firing a new cannon when the weird winged creature suddenly appeared overhead. Decatur reportedly fired a shot at the thing but missed, and it flew off.",
+            "type" : "creature sighting",
+            "ref" : "[_America’s Nightmare Monsters_, Phillip L Rife](https://www.amazon.com/Americas-Nightmare-Monsters-Philip-Rife/dp/0595194133)"
+        },
+                
+        {
+            "date" : "12/22/1807",
+            "time" : "evening",
+            "location" : "Middleton Cheney",
+            "desc" : "An object was sighted that had an appearance and performance beyond the capability of known earthly aircraft. One object was observed.",
+            "type" : "sighting",
+            "ref" : [ "Contact U.K.", "[ThinkAboutIt](https://www.thinkaboutitdocs.com/1800-1824-ufo-alien-sightings/)" ]
+        },
+        
+        {
+            "date" : "1/15/1816",
+            "time" : "twilight",
+            "location" : "Gallardon, Beauce, France",
+            "desc" : "In the fields, 33-year-old ploughman Joseph Martin encountered a mysterious small-caped figure who instructed him to deliver a message to King Louis XVIII. Despite initial disbelief from his wife, Martin was later confronted by the figure again in his cellar, claiming to be \"an Angel of God\". Given Martin's reputable standing, the story reached higher authorities, and he met the King on April 2. The message remains secret, but the day after their meeting, King Louis XVIII abdicated and went into exile in England.",
+            "type" : "creature encounter",
+            "ref" : [ "Louis Pauwels, “Martin of Gallardon”", "[ThinkAboutIt](https://www.thinkaboutitdocs.com/1810-1824-ufo-alien-sightings/)" ]
+        },
+        
+        {
+            "date" : "1815",
+            "time" : "morning",
+            "location" : "Ilkley Moor, England",
+            "desc" : "William Butterfield a bath operator at the local White Wells natural springs was about to open the door to the spa and had inserted the keys in the lock when it spun around on its own accord. He looked inside and saw numerous little creatures dressed in green, no more than 18 inches high, making jabbering noises and dipping in the water, apparently taking a bath. Upon noticing the witness, the creatures began bounding over the walls, running madly, heads over heels. They were quickly lost from sight.",
+            "type" : "creature encounter",
+            "ref" : [ "_The Truth about UFO Abductions_, Peter Hough & Moyshe Kalman", "[ThinkAboutIt](http://www.thinkaboutitdocs.com/1815-little-creatures-spotted-in-ilkley-moor-england/)" ]
+        },
+        
+        {
+            "date" : "1841",
+            "location" : "Pedang, on the coast of Sumatra",
+            "desc" : "Mr. M. N. Ward, a gentleman connected with the mission at Pedang, on the coast of Sumatra, has published a well attested account of a flying serpent seen by the narrator. He saw the animal fly from a tree at the height of some fifty or sixty feet, to another tree some forty fathoms distant. It supports itself in the air by drawing its belly, widening itself and forming an arch as far as the ribs extend, and forces itself ahead with the rapidity of a bird, by sinuous motions, like a serpent swimming. There is nothing in the reptile which bears any resemblance to a wing. Its length is about four feet, and bite is dangerous. Another description of flying or darting serpents, is described by the natives, whose bite is instant death. It leaps or flies only about half the distance of the other, and makes none of the sinuous waving motion in the air. This discovery, of the truth of which there can be no doubt, shows the portion of Scripture which speaks of “burning fiery serpents” had a literal fact for the basis of its figurative language, though the species is now extinct in the region spoken of in the Bible. What a terrible scourge must be such an animal. Give us the sterility of the frozen, rather than the fertility of the torrid zones with such drawbacks. Polar bears are more agreeable than flying serpents.",
+            "type" : "creature encounter",
+            "ref" : [ "_Holly Springs Gazette_ (Holly Springs, Mississippi), August 04, 1841", "[ThinkAboutIt](https://www.thinkaboutitdocs.com/1835-1844-ufo-alien-sightings/)" ]
+        },
+        
+        {
+            "date" : "1840",
+            "location" : "Vienna Observatory",
+            "desc" : "Joseph von Littrow, of the Vienna Observatory, had an idea on how to establish interplanetary communication. He proposed excavating trenches about 20 miles wide to form geometric shapes, filling those trenches with water and kerosene, and lighting them up at night to increase their visibility. Both Gauss and von Littrow reasoned that, if there was intelligent life out there, those beings would recognize mathematical truths as a sign that Earth had its own intelligent beings. Math would be the universal language.",
+            "type" : "contact proposal",
+            "ref" : [ "[slate.com](https://slate.com/human-interest/2016/05/victorians-wanted-to-contact-aliens-using-giant-mirrors.html)",
+            "[US House Of Representatives - 1978 - Hearing - Space Science Subcommittee - Extraterrestrial Intelligence Research, page 41](https://files.afu.se/Downloads/Documents/USA%20-%20Congress/US%20House%20Of%20Representatives%20-%201978%20-%20Hearing%20-%20Space%20Science%20Subcommittee%20-%20Extraterrestrial%20Intelligence%20Research.pdf#page=41)" ]
+        },
+                
+        {
+            "date" : "1851",
+            "time" : "9:30",
+            "location" : "London, England",
+            "desc" : "Unidentified objects were sighted, but with appearance and behavior that most likely would have a conventional explanation. Physiological effects were noted. Many discs were observed by one experienced male witness for 99 minutes.",
+            "type" : "ufo sightings",
+            "ref" : [ "_Flying Saucers Have Landed_, Desmond Leslie, British Book Center, 1953", "[ThinkAboutIt](https://www.thinkaboutitdocs.com/1850-1859-ufo-alien-sightings/)" ]
+        },
+        
+        {
+            "date" : "5/13/2019",
+            "location" : "Toronto, CA",
+            "desc" : "American nuclear physicist and professional ufologist Stanton T. Friedman, of New Brunswick, Canada, dies. His website is now gone as of late 2023, but it's still available on [archive.org](https://web.archive.org/web/20200220064928/http://stantonfriedman.com/). His numerous papers and UFO sightings are being [catalogued and archived](https://www.vice.com/en/article/vb5n4a/the-largest-single-collection-of-ufo-material-is-being-cataloged) (or see [here](https://www.coasttocoastam.com/article/stanton-friedman-s-massive-collection-of-ufo-files-to-be-cataloged-by-archivists/)). His FBI FOIA file is [here](https://vault.fbi.gov/stanton-terrance-friedman/stanton-terrance-friedman-part-01-of-01/view). Here's his [Twitter account](https://twitter.com/stantfriedman).",
+            "type" : "death",
+            "ref" : [ "[wikipedia](https://en.wikipedia.org/wiki/Stanton_T._Friedman)" ]
+        },
+        
+        {
+            "date" : "9/1977",
+            "location" : "Fort Benning, Georgia",
+            "desc": "From the book's Amazon page: \"In September 1977, during the Joint Attack Weapons Systems Test (JAWS) at [Fort Benning Georgia](https://en.wikipedia.org/wiki/Fort_Moore) (now Fort Moore), the entire base witnessed a UFO invasion. As many as 1,300 troops were involved in the event. Most were left with severe psychological trauma and \"missing time\" gaps. John Vasquez was courageous enough to undergo counseling, regression therapy, and hypnosis. After 15 years of personal research, John and co-author, Bruce Stephen Holms present the story along with plenty of government documentation. Readers are asked to enter this experience with an open mind. After reviewing the official documents and scrutinizing the appendix make up your own mind regarding the Incident At Fort Benning.\" [A description of a podcast about the event](https://kevinsmithshow.info/category/fort-benning-ufo-incident/): \"Cmd. Sgt. Maj. James Norton steps forward as a witness to corroborate John Vasquez’s claims of a 1977 UFO incident at Ft. Benning in which the U.S. Army engaged UFOs in a firefight. He says he was there, was injured in the firefight, and says he has a piece of a downed UFO.\"",
+            "type" : "mass abduction",
+            "ref" : [ 
+                "[Amazon](https://www.amazon.com/gp/product/1892264048)",
+                "[Amazon book review](https://www.amazon.com/review/R3FY1IV0SM5N4O/ref=cm_cr_srp_d_rdp_perm?ASIN=1892264048)",
+                "[Fort Benning UFO Incident - Kevin Smith Show](https://kevinsmithshow.info/category/fort-benning-ufo-incident/)",
+                "[AbeBooks](https://www.abebooks.com/9781892264046/Incident-Fort-Benning-Vasquez-John-1892264048/plp)",
+                "[YouTube](https://youtu.be/txgYi5xn0Q8)",
+                "[YouTube](https://youtu.be/YUtEcAPMsT8)"                
+            ]
+        },
+        
+        {
+            "date" : "1/12/2021",
+            "location" : "US",
+            "desc" : "The [US Naval History and Heritage Command](https://www.history.navy.mil/) posts its \"Unidentified Flying Objects Research Guide\". The image at the top of the guide is a 1952 newspaper clipping from the National Archives with the title \"Saucers over Washington DC\". The page states the U.S. government has made numerous UFO-related documents publicly available. The Central Intelligence Agency (CIA), the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI) have all uploaded declassified documents concerning UFOs to their respective online platforms. Additionally, the records of the US Air Force's Project Blue Book, which specifically investigated UFOs, are housed at the National Archives and Records Administration. Project Blue Book, initiated in 1947, gathered extensive data, including textual records, motion pictures, sound recordings, and photographs of UFO sightings. This project was terminated in 1969. Moreover, the Navy Department Library houses a range of publications related to UFOs, detailing various sightings, controversies, and interpretations from the mid-20th century onwards.",
+            "type" : "research guide",
+            "ref" : [ 
+            "[CIA: UFO's Fact or Fiction?](http://www.foia.cia.gov/collection/ufos-fact-or-fiction)",
+            "[Unusual Phenomena section of the FBI's FOIA Electronic Reading Room](https://vault.fbi.gov/UFO)",
+            "[RG 341.15 RECORDS OF PROJECT BLUE BOOK 1947-69](http://www.archives.gov/research/guide-fed-records/groups/341.html#341.15)",
+            "[1952 Newspaper Clipping with UFO's over Washington DC](https://catalog.archives.gov/id/595553?q=ufo)",
+            "[Bearden, Thomas E. A Mind/Brain/Matter Model Consistent with Quantum Physics and UFO phenomena. Ft. Belvoir: Defense Technical Information Center. 1979](https://apps.dtic.mil/dtic/tr/fulltext/u2/a068988.pdf)",
+            "[Bearden, Thomas E. The One Human Problem, Its Solution, and Its Relation to UFO Phenomen. Ft. Belvoir: Defense Technical Information Center, 1977](https://apps.dtic.mil/dtic/tr/fulltext/u2/a034236.pdf)",
+            "[history.navy.mil website](https://www.history.navy.mil/research/library/research-guides/ufo-research-guide.html)",
+            "[archive.ph backup](https://archive.ph/VlxNv)" 
+            ]
+        },
+
+        {
+            "date" : "12/16/2017",
+            "location" : "US",
+            "desc" : "The New York Times releases an article uncovering the **Advanced Aerospace Threat Identification Program** (AATIP), a secret government program to study UFOs. Written by Helene Cooper, Ralph Blumenthal, and Leslie Kean, it introduced figures like Lue Elizondo, Christopher Mellon, and Senator Harry Reid in relation to UAP. The article also showcased two videos, 'FLIR1' and 'GIMBAL', showing potential UFO encounters by military jets.",
+            "type" : "newspaper article",
+            "ref" : [
+            "[NY Times](https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html)",
+            "[DisclosureDiaries.com - Key People in UAP Disclosure](https://www.disclosurediaries.com/key-people-in-disclosure-uap/)",
+            "[FLIR1 Official UAP Footage](https://commons.wikimedia.org/wiki/File:FLIR1_Official_UAP_Footage_from_the_USG_for_Public_Release.webm)",
+            "[Gimbal Official UAP Footage](https://commons.wikimedia.org/wiki/File:Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "3/11/2018",
+            "location" : "US",
+            "desc" : "The _To The Stars Academy of Arts & Science_ (TTSA), co-founded by ex-Blink-182's Tom DeLonge, unveils a video called \"Go Fast\" and other UAP-related materials. The video, one of three including 'FLIR' and 'GIMBAL', is officially acknowledged by the U.S. Department of Defense in 2020.",
+            "type" : "company formation",
+            "ref" : [
+            "[GoFast Official USG UAP Footage](https://commons.wikimedia.org/wiki/File:Go_Fast_Official_USG_Footage_of_UAP_for_Public_Release.webm)",
+            "[Tom Delonge - To the Stars Academy UFO Video](https://www.altpress.com/tom_delonge_to_the_stars_academy_ufo_video/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                       
+        {
+            "date" : "4/23/2019",
+            "location" : "US",
+            "desc" : "The U.S. Navy revises its protocols for reporting unidentified aircraft encounters, highlighting increased incidents of unauthorized aircraft in military zones. The Navy confirms this in a statement.",
+            "type" : "statement",
+            "ref" : [ 
+            "[Politico - US Navy UFO Reporting Guidelines](https://www.politico.com/story/2019/04/23/us-navy-guidelines-reporting-ufos-1375290)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                
+        {
+            "date" : "6/19/2019",
+            "location" : "US",
+            "desc" : "Politico reports that the U.S. Senate has sought a classified briefing on UAP encounters.",
+            "type" : "article",
+            "ref" : [
+            "[Politico - Warner Classified Briefing on UAP's/UFO's](https://www.politico.com/story/2019/06/19/warner-classified-briefing-ufos-1544273)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                                
+        {
+            "date" : "9/18/2019",
+            "location" : "US",
+            "desc" : "The U.S. Navy verifies the genuineness of videos showing Navy aircraft interactions with unidentified aerial objects, previously leaked and shared widely.",
+            "type" : "official confirmation",
+            "ref" : [
+            "[CNN.com - Navy Confirms UFO Videos](https://edition.cnn.com/2019/09/18/politics/navy-confirms-ufo-videos-trnd/index.html)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+               
+        
+        {
+            "date" : "4/27/2020",
+            "location" : "US",
+            "desc" : "The U.S. Department of Defense formally declassifies three Navy-captured videos showing unidentified aerial phenomena. These videos, previously leaked, had been verified by the Navy.",
+            "type" : "official statement",
+            "ref" : [
+            "[DoD Statement](https://www.defense.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                       
+        {
+            "date" : "6/23/2020",
+            "location" : "US",
+            "desc" : "Senator Marco Rubio and the Senate Intelligence Committee request a comprehensive UAP analysis from the Director of National Intelligence (DNI) and related agencies.",
+            "type" : "analysis called",
+            "ref" : [
+            "[Politico](https://www.politico.com/news/2020/06/23/senators-ufo-government-reports-336021)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "6/25/2021",
+            "location" : "US",
+            "desc": "The ODNI released a report on 144 UAP sightings from 2004-2021. Most incidents were unexplained, with no evidence of extraterrestrial activity, but believed to be physical objects.",
+            "type" : "official report released",
+            "ref" : [
+            "[dni.gov - Unclassified 2022 Annual UAP Report](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)",
+            "[cnn.com - UFO ODNI Report](https://edition.cnn.com/2021/06/25/politics/ufo-report-pentagon-odni/index.html)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "6/23/2021",
+            "location" : "US",
+            "desc": "The U.S. Senate approved the Intelligence Authorization Act for 2021, introducing a permanent UAP task force in the Office of Naval Intelligence for a coordinated UAP intelligence approach.",
+            "type" : "legislation passed",
+            "ref" : [
+            "[senate.gov](https://www.intelligence.senate.gov/publications/intelligence-authorization-act-fiscal-year-2021)",
+            "[senate.gov](https://www.warner.senate.gov/public/index.cfm/2020/12/rubio-warner-applaud-passage-of-intelligence-authorization-act-in-covid-19-package)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "7/2021",
+            "location" : "US",
+            "desc": "David Grusch shares classified UAP info with DoD IG Sean O’Donnell, alleging that certain IC elements improperly withheld or concealed material from the US Congress.",
+            "type" : "historical event",
+            "ref" : [
+            "[DisclosureDiaries.com - Key People in Disclosure](https://www.disclosurediaries.com/key-people-in-disclosure-uap/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                                
+        {
+            "date" : "11/23/2021",
+            "location" : "US",
+            "desc": "The Department of Defense creates the AOIMSG to address UAP concerns for aircrew safety and national security. It's renamed to AARO in July 2022.",
+            "type" : "group established",
+            "ref" : [
+            "[defense.gov - AOIMSG Established](https://media.defense.gov/2021/Nov/23/2002898596/-1/-1/0/ESTABLISHMENT-OF-THE-AIRBORNE-OBJECT-IDENTIFICATION-AND-MANAGEMENT-SYNCHRONIZATION-GROUP.PDF)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+               
+        {
+            "date" : "2/22/2022",
+            "location" : "US",
+            "desc": "On February 22, 2022, the Pentagon's UFO task force briefed Canadian military officials. This meeting was only disclosed in November 2022, emphasizing continued partnership on airspace security, including UAPs, as stated by U.S. Department of Defence Spokesperson Susan Gough.",
+            "type" : "official briefing",
+            "ref" : [
+            "[ctvnews.ca](https://www.ctvnews.ca/canada/members-of-pentagon-s-ufo-task-force-briefed-canadian-military-officials-this-year-1.6154618)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+              
+
+        {
+            "date" : "5/17/2022",
+            "location" : "US",
+            "desc": "The House Intelligence Committee's subcommittee holds a UAP hearing, the first in over 50 years since the US Air Force ended its UFO investigation, **Project Blue Book**, in December 1969.",
+            "type" : "hearing",
+            "ref" : [
+            "[af.mil - UFO and Project Blue Book](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "5/2022",
+            "location" : "US",
+            "desc": "Grusch, after sharing UAP info with DoD IG in 2021, alleges he faced retaliation, including denied access to IC elements and personal threats, but still had his NGA security clearances. Former IC IG Charles McCullough III submits a complaint on Grusch's behalf to current IC IG Thomas Monheim, requesting direct communication of Grusch's concerns to intelligence committees and an investigation into the alleged reprisals.",
+            "type" : "reprisals",
+            "ref" : [
+            "[DisclosureDiaries.com - Key People in Disclosure](https://www.disclosurediaries.com/key-people-in-disclosure-uap/)",
+            "[Wikipedia - Thomas Monheim](https://en.wikipedia.org/wiki/Thomas_Monheim)",
+            "[Wikipedia - United_States_House_Permanent_Select_Committee_on_Intelligence](https://en.wikipedia.org/wiki/United_States_House_Permanent_Select_Committee_on_Intelligence)",
+            "[intelligence.senate.gov](https://www.intelligence.senate.gov/)",
+            "[Squarespace.com](https://static1.squarespace.com/static/610434e4588db6073a08618b/t/64882f506fe8bc3e3e2a87fc/1686646615622/David-Grusch-PPD-19-Procedural-Filing.pdf)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "7/2022",
+            "location" : "US",
+            "desc": "IC IG Thomas Monheim deems David Grusch's May 2022 complaint as “credible and urgent”. A summary is promptly sent to Director of National Intelligence, Avril Haines, and to both House and Senate Intelligence Committees.",
+            "type" : "historical event",
+            "ref" : [
+            "[Wikipedia - Thomas Monheim](https://en.wikipedia.org/wiki/Thomas_Monheim)",
+            "[thedebrief.org - Intel Officials Say US Has Retrieved Non-Human Craft](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/)",
+            "[Wikipedia - Avril Haines](https://en.wikipedia.org/wiki/Avril_Haines)",
+            "[Wikipedia - United_States_House_Permanent_Select_Committee_on_Intelligence](https://en.wikipedia.org/wiki/United_States_House_Permanent_Select_Committee_on_Intelligence)",
+            "[intelligence.senate.gov](https://www.intelligence.senate.gov/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "7/15/2022",
+            "location" : "US",
+            "desc": "Deputy Secretary of Defense Kathleen Hicks, with the DNI, revises her directive, renaming the AOIMSG to AARO and broadening its scope. Dr. Sean M. Kirkpatrick, former chief scientist at the Defense Intelligence Agency's center, becomes AARO's director.",
+            "type" : "historical event",
+            "ref" : [
+            "[defense.gov - DoD announces ](https://www.defense.gov/News/Releases/Release/Article/2853121/dod-announces-the-establishment-of-the-airborne-object-identification-and-manag/)",
+            "[DisclosureDiaries.com - Key People in Disclosure](https://www.disclosurediaries.com/key-people-in-disclosure-uap/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        
+        {
+            "date" : "10/2022",
+            "location" : "US",
+            "desc": "NASA's UAP Independent Study Team, led by David Spergel, is formed to suggest a UAP data analysis roadmap for NASA and related entities.",
+            "type" : "historical event",
+            "ref" : [
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "12/23/2022",
+            "location" : "US",
+            "desc": "Biden enacts the FY2023 National Defense Authorization Act. Notably, SEC. 1673 emphasizes UAP reporting protocols and whistleblower safeguards.",
+            "type" : "legislation signed",
+            "ref" : [
+            "[congress.gov](https://www.congress.gov/117/plaws/publ263/PLAW-117publ263.pdf)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "12/2022",
+            "location" : "US",
+            "desc": "David Grusch testifies in a SCIF to the General Counsels of both House and Senate Intelligence Committees, with committee lawyers and an Inspector General representative present but no Senators. Grusch confirms this testimony during the July 26, 2023 UAP Hearing.",
+            "type" : "senate testimony",
+            "ref" : [
+            "[DisclosureDiaries.com - Important Definitions](https://www.disclosurediaries.com/important-definitions/)",
+            "[Wikipedia - US House Permanent Select Committee on Intelligence](https://en.wikipedia.org/wiki/United_States_House_Permanent_Select_Committee_on_Intelligence)",
+            "[intelligence.senate.gov](https://www.intelligence.senate.gov/)",
+            "[YouTube - An Interview with Ross Coulthart: UAP, David Grusch, and Ontological Shock](https://www.youtube.com/watch?v=ZljDzLn1wso&t=2042s&ab_channel=MatthewL.Halstedhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZljDzLn1wso&t=2013s&ab_channel=MatthewL.Halsted)",
+            "[YouTube - UFO Pentagon Whistleblower David Grusch and His Classified Congressional Testimony](https://youtu.be/2FrloSlst1A?t=188)",
+            "[askapol.com - (RE-POST) EXCLUSIVE — Marco Rubio: UFO whistleblower first credibly vetted, referred to Congress](https://www.askapol.com/p/re-post-exclusive-marco-rubio-ufo)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        
+        {
+            "date" : "1/12/2023",
+            "location" : "US",
+            "desc": "The Director of National Intelligence's 2022 Annual Report on UAP reveals over 350 new UFO reports since March 2021, with half remaining unexplained. The report notes that some UAP showed unusual flight traits needing more analysis.",
+            "type" : "",
+            "ref" : [
+            "[dni.gov - Unclassified 2022 Annual Report on UAP](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "2/10/2023",
+            "end_date" : "2/12/2023",
+            "location" : "US",
+            "desc": "Over Feb 10-12, the U.S. military downs three UFOs, following the shooting down of a Chinese spy balloon in American airspace on Feb 4.",
+            "type" : "UFO shotdowns",
+            "ref" : [
+            "[NY Times](https://www.nytimes.com/article/ufo-object-balloon-shot-down.html)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                
+                
+        {
+            "date" : "2/10/2023",
+            "location" : "US",
+            "desc": "On Feb 9, a UFO, the size of a small car, heading towards the North Pole was shot down over Alaskan waters by a US jet. It shattered upon impact, suggesting it wasn't a balloon. As of August 2023, no debris has been officially reported recovered.",
+            "type" : "ufo shootdown",
+            "ref" : [
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "2/11/2023",
+            "location" : "US",
+            "desc": "A UFO, described as 'cylindrical and smaller than the spy balloon', is shot down over the Yukon Territory by a U.S. F-22 after Canadian and U.S. aircraft intercepted it. The RCMP began recovery efforts.",
+            "type" : "ufo shootdown",
+            "ref" : [
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "2/12/2023",
+            "location" : "US",
+            "desc": "A UFO, described as an octagonal structure with strings but no visible payload, appeared over Montana on Feb. 11 and was shot down over Lake Huron, Michigan the next day, flying at about 20,000 feet.",
+            "type" : "ufo shootdown",
+            "ref" : [
+            "[NY Times](https://www.nytimes.com/2023/02/12/us/politics/us-shoots-down-object-michigan.html)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                
+        {
+            "date" : "2/17/2023",
+            "location" : "US",
+            "desc": "US and Canada halted efforts to recover remains of the shot-down objects, with no debris officially reported as recovered by August 2023. Unlike the Chinese spy balloon incident on Feb 4, no media of these three objects has been released.",
+            "type" : "crash recovery failure",
+            "ref" : [
+            "[NY Times](https://www.nytimes.com/2023/02/17/us/politics/search-ended-ufos-balloons.html)",
+            "[ABC News](https://abcnews.go.com/Politics/close-photo-chinese-spy-balloon-flight-released-us/story?id=97397795)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                
+        {
+            "date" : "3/7/2023",
+            "location" : "US",
+            "desc": "On March 7, Dr. Sean Kirkpatrick and Professor Avi Loeb suggest in a draft paper that UAPs, defying known physics, might be 'probes' from an extraterrestrial 'parent craft'. Loeb previously theorized 'Oumuamua' could be such a craft. The paper heavily discusses these UAPs as probes in a mothership context, with sections titled 'The Extraterrestrial Possibility' and 'Propulsion Methods'.",
+            "type" : "draft paper",
+            "ref" : [
+            "[harvard.edu - \"PHYSICAL CONSTRAINTS ON UNIDENTIFIED AERIAL PHENOMENA\", by Abraham (Avi) Loeb1 and Sean M. Kirkpatrick](https://lweb.cfa.harvard.edu/~loeb/LK1.pdf)",
+            "[DisclosureDiaries.com - Key People in Disclosure](https://www.disclosurediaries.com/key-people-in-disclosure-uap/)",
+            "[harvard.edu - Avi Loeb](https://astronomy.fas.harvard.edu/people/avi-loeb)",
+            "[Wikipedia - Oumuamua](https://en.wikipedia.org/wiki/%CA%BBOumuamua)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        
+        {
+            "date" : "4/4/2023",
+            "end_date" : "4/6/2023",
+            "location" : "US",
+            "desc": "David Grusch submits information to the Defense Department’s DOPSR for public disclosure, which is approved for open publication on April 4 and 6, 2023.",
+            "type" : "",
+            "ref" : [
+            "[esd.whs.mil - DOPSR](https://www.esd.whs.mil/DOPSR/)",
+            "[DisclosureDiaries.com - Key People in Disclosure](https://www.disclosurediaries.com/key-people-in-disclosure-uap/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+                
+        
+        {
+            "date" : "4/7/2023",
+            "location" : "US",
+            "desc": "USAF/NGA Maj. David C. Grusch resigns from the US Government.",
+            "type" : "resignation",
+            "ref" : [
+            "[docs.house.gov - David C. Grusch's Resume](https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf)",
+            "[archive.org - David C. Grusch's Resume](https://archive.org/details/hhrg-118-go-06-bio-grusch-d-20230726)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+           
+        {
+            "date" : "4/19/2023",
+            "location" : "US",
+            "desc": "Dr. Kirkpatrick testifies to the Senate Committee on Armed Services, stating that AARO found no evidence of extraterrestrial activity or defiance of physics. Many cases are unresolved due to insufficient data.",
+            "type" : "senate testimony",
+            "ref" : [
+            "[defense.gov - DoD working to better understand and resolve UAP](https://www.defense.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+
+
+        
+        
+        {
+            "date" : "4/21/2023",
+            "location" : "US",
+            "desc": "Top US intelligence leaders attend a security briefing at Wright Patterson Air Force Base. Attendees include DNI Avril Haines, CIA's William Burns, and NSA's Gen. Paul Nakasone. The purpose is to inform intelligence officials about activities at WPAFB, home to NSIC and NASIC.",
+            "type" : "official briefing",
+            "ref" : [
+            "[The Debrief - Leaders Meet at Wright-Patterson AFB](https://thedebrief.org/intelligence-community-leaders-meet-at-wright-patterson-for-historic-national-security-briefing/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+
+        {
+            "date" : "5/19/2023",
+            "location" : "US",
+            "desc": "Attorney Daniel Sheehan mentions David Grusch in an interview with the Debrief. Ross Coulthart suggests this prompted Grusch to hasten his story's release.",
+            "type" : "interview",
+            "ref" : [
+            "[YouTube](https://www.youtube.com/watch?v=wU0W9S5w1L0&t=1298s&ab_channel=TheDebrief)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "5/31/2023",
+            "location" : "US",
+            "desc": "NASA's first public UAP meeting is held a year after their study launch, with a final report due in July. Dr. Sean Kirkpatrick states nearly half of 800+ UAP reports are of 'spherical' and 'metallic' orbs, highlighting a 2022 video of an unidentified round object in the Middle East. Officials find no strong evidence linking UAP to extraterrestrial life.",
+            "type" : "public meeting",
+            "ref" : [
+            "[YouTube](https://youtu.be/4Bt6_Potk5Q)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "5/2023",
+            "location" : "US",
+            "desc": "In May 2023, Dr. Kirkpatrick, the Pentagon's UFO research director, holds a forum for Five Eyes intelligence, confirmed by Canadian Military.",
+            "type" : "forum",
+            "ref" : [
+            "[ctvnews.ca - Canadian Military Joined Recent US Forum on UFO's](https://www.ctvnews.ca/sci-tech/canadian-military-joined-recent-u-s-forum-on-ufos-pentagon-trying-to-identify-metallic-orbs-1.6429992)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+
+
+        {
+            "date" : "6/2023",
+            "location" : "US",
+            "desc": "On June 5, 2023, _The Debrief_ reports on David Grusch, a whistleblower and former intelligence official, who claims to have shared with Congress and the Intelligence Community Inspector General classified data on covert programs with non-human origin craft. He alleges illegal withholding of this data from Congress and personal retaliation. Grusch also interviews with Ross Coulthart for NewsNation, discussing UAP crash retrievals, reverse engineering programs, and a government disinformation campaign. This interview airs on June 11th 2023.",
+            "type" : "article",
+            "ref" : [
+            "[The Debrief - Intelligence Officials Say US Has Retrieved Non-Human Craft](https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft)",
+            "[YouTube - Military whistleblower claims US has UFO retrieval program | Elizabeth Vargas Reports](https://www.youtube.com/watch?v=ZSj7QsHRxHQ&ab_channel=NewsNation)",
+            "[YouTube - We are not alone - David Grusch Interview - NewsNation](https://www.youtube.com/watch?v=JLZzDhDYMcw&ab_channel=Lucid)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+
+
+         {
+            "date" : "7/13/2023",
+            "location" : "US",
+            "desc": "Senators, led by Chuck Schumer, propose the 'UAP Disclosure Act of 2023' via a 64-page amendment to the FY2024 NDAA. The bipartisan group aims to hasten the release of U.S. government records on UAPs and potential non-human intelligence lifeforms. Other supporting senators include Mike Rounds, Kristen Gillibrand, and Marco Rubio.",
+            "type" : "amendment proposal",
+            "ref" : [
+            "[congress.gov - Amendment Text: S.Amdt.797 — 118th Congress (2023-2024)](https://www.congress.gov/amendment/118th-congress/senate-amendment/797/text)",
+            "[disclosurediaries.com - UAP Disclosure Act of 2023](https://www.disclosurediaries.com/uap-disclosure-act-of-2023/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "7/20/2023",
+            "location" : "US",
+            "desc": "Dr. Sean Kirkpatrick, head of AARO, tells ABC News about concerns over potential 'intelligent or extraterrestrial technical surprise'. However, regarding David Grusch's whistleblower claims, Kirkpatrick states no verifiable evidence has been presented to him.",
+            "type" : "interview",
+            "ref" : [
+            "[abcnews.go.com](https://abcnews.go.com/Politics/extraterrestrial-technical-supremacy-top-concern-pentagon-ufo-investigator/story?id=101218299)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "7/26/2023",
+            "location" : "US",
+            "desc": "David Grusch, a whistleblower, and former fighter pilots David Fravor and Ryan Graves testify before the House Oversight Committee's national security subcommittee. Grusch claims the existence of a secret UAP crash retrieval and reverse engineering program without Congressional oversight, based on interviews with informed officials. Fravor and Graves share their UAP encounters. Lawmakers from both parties show interest in further investigation into the UAP allegations.",
+            "type" : "hearing",
+            "ref" : [
+            "[DiosclosureDiaries.com - House Oversight Committee UAP Hearing](https://www.disclosurediaries.com/house-oversight-committee-uap-hearing/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+     
+        {
+            "date" : "7/27/2023",
+            "location" : "US",
+            "desc": "The FY24 NDAA with the UAP amendment is approved by the U.S. Senate with a vote of 86-11. Reps. Gaetz, Luna, Burchett, and Moskowitz urge Speaker McCarthy to establish a dedicated UAP committee with subpoena powers to investigate Grusch's claims.",
+            "type" : "",
+            "ref" : [
+            "[senate.gov - Press Release](https://www.armed-services.senate.gov/press-releases/reed-wicker-applaud-senate-passage-of-the-national-defense-authorization-act-for-fiscal-year-2024)",
+            "[Letter to Speaker McArthy](https://pbs.twimg.com/media/F2IrVeoWgAAYS8w?format=jpg&name=large)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+
+        {
+            "date" : "7/27/2023",
+            "end_date" : "7/28/2023",
+            "location" : "US",
+            "desc": "After the UAP congressional hearing, Dr. Sean Kirkpatrick of AARO posts a personal statement on LinkedIn. He defends AARO against criticisms from the hearing, denies allegations of reverse engineering non-human technology, and mentions no whistleblower, including Grusch, has ties to AARO. The post was later removed.",
+            "type" : "personal statement",
+            "ref" : [
+            "[Reddit](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fkpgsultz8peb1.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dd29ba33af8dd2733636808759cf0cb07d3f7f848)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+           
+        {
+            "date" : "8/8/2023",
+            "location" : "US",
+            "desc": "Ross Coulthart shares a statement from David Grusch on Twitter/X addressing an upcoming article from _The Intercept_ about Grusch's past struggles with PTSD, grief, and depression. Grusch reinforces the credibility of his UAP allegations by referencing the 40+ intelligence and military personnel who provided the information he gave to the ICIG.",
+            "type" : "statement",
+            "ref" : [
+            "[Twitter](https://twitter.com/rosscoulthart/status/1689064573540999249?s=20)",
+            "[DisclosureDiaries - House Oversight Committee UAP Hearing](https://www.disclosurediaries.com/house-oversight-committee-uap-hearing/        )",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+
+        {
+            "date" : "8/9/2023",
+            "location" : "US",
+            "desc": "_The Intercept_ writes about David Grusch's PTSD and alleged substance issues based on public law enforcement records from FOIA. Despite two mental health incidents in 2014 and 2018, Grusch kept his security clearances. After the article, its author, Ken Klippenstein, reveals in a Twitter/X Spaces interview that his sources are similar-level intelligence officials as Grusch. Klippenstein denies illegal information leaks, countering Ross Coulthart's suggestion.",
+            "type" : "article",
+            "ref" : [
+            "[YouTube - Ken Klippenstein commentary on David Grusch Intercept article](https://www.youtube.com/watch?v=47Rk8PsvQDA&ab_channel=Senzubean)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "8/15/2023",
+            "location" : "US",
+            "desc": "The DoD OIG publishes a classified report on its evaluation of the DoD's actions concerning UAP. An unclassified summary will be available later.",
+            "type" : "classified report",
+            "ref" : [
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "8/17/2023",
+            "location" : "US",
+            "desc": "_The Hill_ recently convened experts and lawmakers to discuss potential national security implications of UAP (Unidentified Anomalous Phenomena). During the discussion, Rep. Moskowitz argued that if the U.S. is reverse-engineering extraterrestrial technology, the public has a right to know, and further pressed for Congress to investigate facilities believed to house UAP evidence. He also highlighted the challenges faced by Congress in setting up a secure environment (SCIF) to fully explore whistleblower David Grusch's claims. Concurrently, commercial pilots have reported an uptick in UAP sightings, with reasons ranging from decreased stigma to improved reporting systems or an actual increase in activity.",
+            "type" : "interviews",
+            "ref" : [
+            "[The Hill - We Are Not Alone](https://thehill.com/events/4141299-we-are-not-alone-ufos-national-security/)",
+            "[YouTube - The Truth Is Out There, UFOs & National Security. What Are The RISKS?](https://www.youtube.com/watch?v=LZ81eGuzDwQ&ab_channel=TheHill)",
+            "[DisclosureDiaries.com - Important Definitions](https://www.disclosurediaries.com/important-definitions/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "8/21/2023",
+            "location" : "US",
+            "desc": "Reps. Burchett, Luna, Moskowitz, Burlison, Mace, and Ogles have written to Intelligence Community Inspector General Thomas Monheim following David Grusch's allegations. They're seeking specifics on which members or entities of the intelligence community are involved with UAP crash retrieval and reverse engineering programs. It's mentioned that Grusch had previously shared this information with the IC IG in June 2022.",
+            "type" : "letter",
+            "ref" : [
+            "[DisclosureDiaries.com - House Oversight Committee UAP Hearing](https://www.disclosurediaries.com/house-oversight-committee-uap-hearing/)",
+            "[Letter to Inspector General Monheim](https://pbs.twimg.com/media/F4JOkr4bQAEUWZV?format=jpg&name=medium)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+           
+        {
+            "date" : "8/22/2023",
+            "location" : "US",
+            "desc": "On Fox News, Rep. Mike Turner discussed David Grusch's allegations regarding UAPs and non-human entities. Turner strongly refuted Grusch's claims, suggesting that Grusch was testifying about matters he had no direct knowledge of. When asked directly about the presence of aliens on Earth, Turner didn't deny their existence but highlighted a lack of evidence. The segment did not address the 40 witnesses Grusch claimed to have interviewed that informed his conclusions.",
+            "type" : "interview",
+            "ref" : [
+            "[Fox News video snippet](https://www.disclosurediaries.com/content/files/2023/08/rapidsave.com_mike_turner_i_certainly_cant_tell_you_that_there-69sw7thfkojb1.mp4)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+
+        {
+            "date" : "8/23/2023",
+            "location" : "US",
+            "desc": "During the first Republican Presidential Primary Debate, former New Jersey Governor Chris Christie was asked about the responsibility of the president in disclosing the truth about UFOs. Christie emphasized the president's duty to be transparent and truthful with the American public on all matters.",
+            "type" : "presidential debate",
+            "ref" : [
+            "[space.com - 'I get the UFO question?' New Jersey's Chris Christie promises honesty on aliens in 1st Republican presidential debate](https://www.space.com/chris-christie-ufos-honesty-presidential-debate)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        
+        {
+            "date" : "8/26/2023",
+            "end_date" : "8/27/2023",
+            "location" : "US",
+            "desc": "Reps. Andre Carson and Tim Burchett attended MUFON's 2023 International Symposium to discuss the topic of UAP.",
+            "type" : "MUFON symposium",
+            "ref" : [
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "8/29/2023",
+            "location" : "US",
+            "desc": "NASA's Aviation Safety Reporting System has received recent pilot reports of UFO sightings in US airspace, highlighting safety concerns regarding unidentified aerial phenomena (UAP).",
+            "type" : "reports received",
+            "ref" : 
+            [
+            "[nasa.gov - Aviation Safety Reporting System](https://asrs.arc.nasa.gov/)",
+            "[The Debrief - Pilot UFO Sightings Collected by NASA Reveal Serious Safety Concerns Over Objects in U.S. Airspace](https://thedebrief.org/pilot-ufo-sightings-collected-by-nasa-reveal-serious-safety-concerns-over-objects-in-u-s-airspace/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+               
+        {
+            "date" : "8/30/2023",
+            "location" : "US",
+            "desc": "Deputy Defense Secretary Kathleen Hicks has assumed direct oversight of the Pentagon's UAP investigation team, AARO, and will hold regular meetings with its director, Sean Kirkpatrick. Hicks emphasized the seriousness of the UAP issue, citing national security and safety concerns. The DOD aims to enhance its understanding and capabilities regarding UAP through AARO to prevent strategic surprises and safeguard personnel, equipment, and national security.",
+            "type" : "historical event",
+            "ref" : [
+            "[defensescoop.com - Hicks takes direct oversight of Pentagon’s UAP office; new reporting website to be launched ](https://defensescoop.com/2023/08/30/hicks-takes-direct-oversight-of-pentagons-uap-office-new-reporting-website-to-be-launched/?utm_content=262812058&utm_medium=social&utm_source=twitter&hss_channel=tw-1450183022616121344)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "8/31/2023",
+            "location" : "US",
+            "desc": "The DoD has launched a dedicated website for the All-domain Anomaly Resolution Office (AARO) to provide the public with information about their efforts to understand and address unidentified anomalous phenomena (UAP). The website will feature declassified photos and videos, reporting trends, FAQs, official reports, transcripts, and useful resources. It aims to encourage reporting by service members and government employees and will soon announce a reporting mechanism for the general public.",
+            "type" : "website launch",
+            "ref" : [
+            "[aaro.mil](https://www.aaro.mil/)",
+            "[defense.gov - Press Release - The Department of Defense Launches the All-domain Anomaly Resolution Office Website ](https://www.defense.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },       
+        
+         
+        {
+            "date" : "9/1/2023",
+            "location" : "US",
+            "desc": "According to U.S. intelligence and defense sources, the Pentagon's UAP office is actively collecting and analyzing materials of unknown origin related to an alleged UAP event. The composition of these materials remains unexplained, and their origin is yet to be confirmed. While the Pentagon has not refuted these claims, individuals involved may consider whistleblower complaints to the Intelligence Community's Inspector General. Pentagon spokesperson Susan Gough stated that AARO has not discovered verifiable information to substantiate claims of programs related to extraterrestrial materials.",
+            "type" : "historical event",
+            "ref" : [
+            "[Liberation Times - Multiple Sources Confirm The Pentagon's UFO Office Has Coordinated Collection And Analysis Of Material From Unknown Origin](https://www.liberationtimes.com/home/multiple-sources-confirm-the-pentagons-ufo-office-has-coordinated-collection-and-analysis-of-material-from-unknown-origin)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "9/4/2023",
+            "location" : "US",
+            "desc": "According to Matt Ford, host of _The Good Trouble_ show, multiple individuals have circumvented The Pentagon's UAP program, AARO, and have filed PPD-19s, the official whistleblower reporting mechanism, directly with the Intelligence Community Inspector General. Matt Ford had previously interviewed Senator Gillibrand on the subject of UAP.",
+            "type" : "statement",
+            "ref" : [
+            "[YouTube - Whistleblowers, Congress, and AARO: News on NEW UFO / UAP whistleblowers.](https://www.youtube.com/watch?v=kUlsI9ggKr0&ab_channel=TheGoodTroubleShowwithMattFord)",
+            "[YouTube - UFOs and Congress, our exclusive interview with Senator Kirsten Gillibrand on UAPs / UFOs](https://www.youtube.com/watch?v=BoloRRcbijI&t=10s&ab_channel=TheGoodTroubleShowwithMattFord)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        
+          
+        {
+            "date" : "9/5/2023",
+            "location" : "US",
+            "desc": "A classified UAP memo, previously provided to Canadian PM Justin Trudeau, has been revealed to the public through a freedom of information request. The heavily redacted document sheds light on the Canadian government's response to the unidentified object shot down over northern Canada's Yukon territory on Feb. 11. The memo also mentions that the Yukon incident was the 23rd 'UAP' occurrence tracked over North America in early 2023.",
+            "type" : "classified memo",
+            "ref" : [
+            "[DisclosureDiaries.com - PDF file](https://www.disclosurediaries.com/content/files/2023/09/feb-2023-memorandum-for-pm-on-uap.pdf)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+         
+        {
+            "date" : "9/7/2023",
+            "location" : "US",
+            "desc": "Senator Mike Rounds has confirmed his meeting with Dr. Kirkpatrick, head of the Pentagon's UAP office (AARO), to discuss the need for reforming whistleblower protection. This meeting was prompted by input from representatives of potential UAP whistleblowers who are hesitant to come forward to AARO without enhanced whistleblower protections in place.",
+            "type" : "public statement",
+            "ref" : [
+            "[EXCLUSIVE: Sen. Rounds pushing AARO Director Kirkpatrick for better UAP whistleblower protections](https://www.askapol.com/p/exclusive-sen-rounds-pushing-aaro#details)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        
+        {
+            "date" : "9/8/2023",
+            "location" : "US",
+            "desc": "Rep. Nancy Mace appeared on Outkick's 'Don't @ Me' show, emphasizing the need for more attention and investigation into the UAP topic. She expressed concern that many military personnel are hesitant to come forward with their experiences due to fear of mockery or ridicule. Mace stressed the importance of transparency and accountability in government spending related to UAP programs.",
+            "type" : "interview",
+            "ref" : [
+            "[outkick.com - Congresswoman Nancy Mace Claims More UFO Investigations Are Needed, Floats Money Laundering Theory](https://www.outkick.com/nancy-mace-ufos-money-laundering-dan-dakich-interview/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        
+        {
+            "date" : "9/10/2023",
+            "location" : "US",
+            "desc": "Whistleblower David Grusch has made his first public and recorded appearance since the July 26 UAP hearings. In this interview on YouTube, Grusch reiterates and expands on his explosive claims related to UAPs.",
+            "type" : "public appearance",
+            "ref" : [
+            "[YouTube: Jesse Michels - UFO Whistleblower Dave Grusch Tells Me Everything](https://www.youtube.com/watch?v=kRO5jOa06Qw&ab_channel=JesseMichels)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+       
+            
+        {
+            "date" : "9/12/2023",
+            "location" : "US",
+            "desc": "A hearing on UAP/NHI takes place in the Mexican Congress, where previously unseen footage of UAP is presented. The event also features the unveiling of alleged non-human humanoid bodies. However, these bodies have been surrounded by controversy since their initial discovery in 2017 and are widely considered potential hoaxes. A peer-reviewed study of the body composition is still pending.",
+            "type" : "hearing",
+            "ref" : [
+            "[reuters.com - Mexican Congress holds hearing on UFOs featuring purported 'alien' bodies](https://www.reuters.com/world/americas/mexican-congress-holds-hearing-ufos-featuring-purported-alien-bodies-2023-09-13/)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+  
+        {
+            "date" : "9/14/2023",
+            "location" : "US",
+            "desc": "NASA holds a UAP press conference to discuss the findings of its UAP Independent Study Report. The report recommends that NASA can contribute significantly to the government's efforts to understand UAP by furthering the study and data collection of UAP. NASA Administrator Bill Nelson emphasizes that while the study did not find evidence of extraterrestrial origins for UAP, there is still much to learn about these phenomena.",
+            "type" : "press conference",
+            "ref" : [
+            "[nasa.gov - UAP Independent Study Team - Final Report_0.pdf](https://go.nasa.gov/3PED0qv)",
+            "[nasa.gov - Press release](https://www.nasa.gov/press-release/update-nasa-shares-uap-independent-study-report-names-director)",
+            "[DisclosureDiaries.com - Timeline](https://www.disclosurediaries.com/timeline/)",
+            "[archive.ph: DisclosureDiaries.com - Timeline](https://archive.ph/juEMk)"
+            ]
+        },
+        
+        {
+            "date" : "7/24/2023",
+            "location" : "US",
+            "desc": "Christopher Mellon is interviewed on NewsNation. “I’ve been told that we have recovered technology that did not originate on this earth by officials in the Department of Defense and by former intelligence officials.” He also stated \"There's also a problem with Department of Energy Black Programs - They get no oversight from Congress!\"",
+            "type" : "interview",
+            "ref" : "[Twitter - Chris Mellon interview video](https://twitter.com/UAPJames/status/1683635533640024064)"
+        },
+        
+        {
+            "date" : "9/18/2023",
+            "desc" : "Over 60 further files scanned by Grant Cameron from his UFO archive are now online: Correspondence, notes and other material relating to Bob Pratt / National Enquirer, Frank Scully, Charlie Red Star, Donald Keyhoe, Roswell, Rahma, and more.",
+            "type" : "files scans",
+            "ref" : "[Twitter - Isaac Koi](https://twitter.com/isaackoi/status/1703869765914075480)"
+        },
+                        
+        {
+            "date" : "6/25/1987",
+            "desc" : "The Ice Documents Press Conference, at the National Press Club in Washington, D.C., featuring Mr. Dale Goudie and Mr. Christian Lambright as the presenters. The purpose of this press conference was to address and challenge the widespread denial of the existence of **Project Aquarius** and UFO-related documents by certain government agencies. These agencies had consistently denied the existence of such projects when queried, particularly in response to Freedom of Information Act (FOIA) requests.\n\nThe press conference primarily revolved around the revelation of documents that strongly hinted at the existence of **Project Aquarius**, a secretive project related to unidentified aerial objects (UFOs). It was emphasized that the denial of these projects was misleading, as evidence indicated otherwise. One significant piece of evidence was a telex dated November 17, 1980, which explicitly mentioned the existence of **Project Aquarius** and its involvement with UFO investigations.\n\nFurthermore, the conference highlighted key documents from the National Security Agency (NSA) that acknowledged **Project Aquarius's** existence, further substantiating claims made during the press conference. One document, dated March 3, 1986, explicitly stated that **Project Aquarius** did not deal with unidentified aerial objects.\n\nAdditionally, the speakers detailed incidents at Kirtland Air Force Base in Albuquerque, New Mexico, where unauthorized aerial objects (UAOs) were observed. These UAOs, commonly referred to as UFOs, were witnessed by military personnel and civilian observers landing near strategic military installations. The incidents included visual sightings and radar confirmations of these mysterious objects.\n\nThe press conference called for transparency and urged responsible senators and congressmen to approve congressional hearings to investigate these incidents fully. The presenters argued that the American public had the right to know about these events, especially given the potential national security implications. They emphasized that the truth about these UAOs should be disclosed to ensure informed decision-making in a democratic society.\n\nIn conclusion, this press conference was a pivotal moment in advocating for the disclosure of information related to UFOs and **Project Aquarius**, challenging government agencies' denial of their existence and highlighting the need for greater transparency and accountability in these matters.",
+            "location" : "National Press Club - Washington, D.C.",
+            "type" : "press conference",
+            "ref" : [
+            "[CUFON - The Ice Documents Press Conference](http://www.cufon.org/cufon/presconf.htm)",
+            "[CUFON - presconf.zip](http://www.cufon.org/cufon/presconf.zip)"
+            ]
+        },
+        
+        {
+            "date" : "9/16/2010",
+            "location" : "Vero Beach, Florida",
+            "desc" : "Dr. Berthold Eric Schwarz, a renowned figure in the fields of ufology and parapsychology, passed away at the age of 85 in Vero Beach, Florida, on September 16. He was born on October 20, 1924, in Jersey City, New Jersey, and practiced as a psychiatrist for nearly 45 years, first in Montclair, New Jersey, and later in Vero Beach. Dr. Schwarz leaves behind his wife of 55 years, Ardis, a son, a daughter, and a granddaughter.\n\nDr. Schwarz was highly regarded in the paranormal field, particularly for his contributions to ufology and parapsychology. He was known for conducting on-site investigations into UFO phenomena and authored several articles and books on the subject. Notably, John Keel had praised his two-volume book, _UFO Dynamics_, as one of the best in the field. His dedication to exploring enigmatic phenomena earned him the respect of many in the paranormal community.\n\nHe had an extensive network of friends and colleagues in ufology and parapsychology and was known for connecting researchers with intriguing personalities for interviews and investigations. His passing was mourned by figures like Uri Geller and The Amazing Kreskin, who remembered him as a remarkable researcher with a zest for life. Dr. Schwarz's contributions to the understanding of paranormal phenomena will be remembered and missed by many worldwide.",
+            "type" : "death",
+            "ref" : [
+            "[Wikipedia](https://en.wikipedia.org/wiki/Berthold_E._Schwarz)",
+            "[archive.org](https://web.archive.org/web/20111121042130/http://mysterious-america.net/reality1010.html)"
+            ]
+        },
+       
+        {
+            "date" : "Early 1970's",
+            "location" : "US",
+            "desc" : "\"[Andrija Puharich](https://en.wikipedia.org/wiki/Andrija_Puharich) asserted that [Uri Geller](https://en.wikipedia.org/wiki/Uri_Geller) had received repeated telephone calls from a robotic-sounding voice that called itself “Spectra.” The voice claimed to be an extraterrestrial computer orbiting the Earth, contacting a small group of select individuals to help prepare for future contact. Upon encountering that passage, [Jack Sarfatti’s](https://en.wikipedia.org/wiki/Jack_Sarfatti) mother told Jack that he, too, had received such telephone calls twenty years earlier, at the age of thirteen.\" - David Kaiser, How the Hippies Saved Physics: Science, Counterculture, and the Quantum Revival",
+            "type" : "book reference",
+            "ref" : [
+            "[Twitter](https://twitter.com/OldVetSymposium/status/1704694502651461909)",
+            "[Amazon - _How the Hippies Saved Physics: Science, Counterculture, and the Quantum Revival_, by David Kaiser](https://www.amazon.com/How-Hippies-Saved-Physics-Counterculture/dp/039334231X)"
+            ]
+        },
+        
+        {
+            "date" : "1/7/1948",
+            "time" : "afternoon",
+            "location" : "Godman Field, Fort Knox, Kentucky USA",
+            "desc" : "In a 1996 interview, former Army sergeant Quinton A. Blackwell provided crucial information about the January 7, 1948 Mantell Case at Godman Field, Fort Knox, Kentucky. Blackwell disclosed that during the UFO pursuit, Captain Thomas F. Mantell uttered the significant statement, **\"We're going to need hot guns,\"** implying the need for armed weaponry. This revelation challenges the official record and raises questions about the incident's true nature and objectives. Blackwell's testimony has prompted renewed interest in the case and calls for further disclosure and the declassification of related reports.",
+            "type" : "ufo pursuit, pilot death",
+            "ref" : [ 
+            "[archive.org - UFO Roundup - Volume 1, Number 2. February 26, 1996](https://web.archive.org/web/19980224083716/http://www.digiserve.com/ufoinfo/roundup/v01/rnd01_02.shtml)",
+            "[thinkaboutit.site - UFO Roundup: Volume 1 Number 2: February 26, 1996](https://thinkaboutit.site/ufos/volume-1-number-2/)",
+            "[afu.se - Eye Magazine](https://files.afu.se/Downloads/Magazines/United%20Kingdom/EYE%20Magazine%20(Evers)/EYE%20Magazine%20Vol%201%20No%201.pdf#page=11)",
+            "[afu.se - NJAAP Bulletin](https://files.afu.se/Downloads/Magazines/United%20States/NJAAP%20Bulletin%20(NJAAP)/NJAAP%20Bulletin%20-%201962%2012%20-%20Vol%201%20No%207.pdf#page=11)",
+            "[Sgt. Blackwell's Jan. 1948 statement](http://www.nicap.org/docs/mantell/TSgtBlackwellStatement_9Jan1948.htm)"
+            ]
+        },
+        
+        {
+            "date" : "5/1923",
+            "time" :"evening",
+            "location" : "Benton, Illinois, USA",
+            "desc": "In May 1923, in Benton, Illinois, Esther Fay Hungate, a nine-year-old girl, had a close encounter with a UFO. She and her twin brother, Everett, were playing in front of their house when they noticed a strange object in the sky that resembled a small cloud. As they watched, the object approached from the north, flying at a low altitude. It appeared to slow down, circle around an old fairground, and then pass by Grant School before stopping near some electrical poles. At this point, the object emitted a series of colored lights, including red, blue, green, and ecru.\n\nThe ecru light, in particular, was very bright and forced Esther to cover her closed eyes. After a few minutes, the spotlight turned off, and the object moved closer to the electric poles. It then ascended high into the sky before descending slowly and landing on the other side of the railroad tracks. At this point, the object, which was approximately the height of a telephone pole, emitted four lights and a pillar of light. When Esther looked away briefly and then back, the UFO had disappeared.\n\nDespite her account of the event, no one believed Esther at the time. It wasn't until June 1947 when she saw a picture of a UFO in a Sunday newspaper that she realized the object she had seen in 1923 was indeed a UFO. Esther never had another UFO sighting after this encounter.\n\nThis incident can be categorized as a typical close encounter of the first kind, where a witness observes a UFO at a relatively close distance. Notably, Esther was one of a pair of twins, which has led to speculation that the UFO crew might have been intrigued by the sight of identical human children, one male and one female.",
+            "type" : "sighting",
+            "ref" : "[archive.org - UFO Roundup - Volume 1, Number 2. February 26, 1996](https://web.archive.org/web/19980224083716/http://www.digiserve.com/ufoinfo/roundup/v01/rnd01_02.shtml)"
+        },
+        
+        {
+            "date" : "4/2/1997",
+            "desc" : "In 1997, Air Force Captain and A-10 pilot Craig Button's mysterious crash and disappearance just after the Phoenix Lights UFO incident raised questions, with the Air Force ultimately labeling it a suicide. It took the Air Force three weeks to find the wreckage of Button’s A-10 Thunderbolt II, which had apparently crashed into a Colorado mountain side known as Gold Dust Peak. Investigative journalist William Warwick, inspired by an insider's revelation, delved into the case. The insider claimed to have been the person Button contacted before his disappearance, expressing concern about losing control of his aircraft. This led Warwick to investigate the possibility of Button's plane being remotely controlled by a clandestine group. He identified an uncontrolled airpark named Mogollon outside radar range, suggesting it might have been used for a covert operation. Warwick questioned whether Button had been lured there under false pretenses, thinking he was meeting a reporter, only to meet with foul play. The motive behind Button's and another pilot's deaths could be linked to their knowledge of classified information.\n\nWarwick emphasized the need for a thorough investigation into these incidents and the importance of protecting UAP whistleblowers who might have vital information. The article underscored the call for transparency and accountability in unraveling the mysteries surrounding these events.",
+            "type" : "plane crash",
+            "ref" : [
+            "[medium.com - The Curious Case of Craig Button and the Phoenix Lights](https://medium.com/@GregBlack/the-curious-case-of-craig-button-and-the-phoenix-lights-92c36f4390fa)",
+            "[medium.com - Flashback: Spring ‘97 — The Phoenix Lights, Heaven’s Gate & Captain Craig Button’s Final Flight](https://medium.com/we-are-not-alone-the-disclosure-lobby/greg-black-flashback-spring-97-the-phoenix-lights-heavens-gate-captain-craig-button-s-e5ca565f2cf9)"
+            ]
+        },
+        
+        {
+            "date" : "3/19/2018",
+            "location" : "Sandia National Laboratory",
+            "desc": "A UFO sighting report of what looked like a drone flying West to East over Sandia National Labs. From the Protective Force Division reporting form (180319-2): It was low flying and had no sound, with alternating white and red LED lighting. Sandia SIMs office called at Vasco Post and reported they had spotted a silent low flying jet flying over Sandia at the same time. Central Alarm Station was notified. The National Nuclear Security Administration, part of the US Department of Energy, included this report in their 9/2023 UAP release.",
+            "type" : "ufo sighting",
+            "ref" : [ 
+                "[Twitter - @StandForBetter](https://twitter.com/StandForBetter/status/1707848635986416072)",
+                "[Department of Energy website](https://www.energy.gov/nnsa/20220809)"
+             ]
+        },
+        
+        {
+            "date" : "9/29/2023",
+            "desc" : "The Department of Energy (DOE) now has a website on UAPs/UFOs.",
+            "type" : "official website",
+            "ref" : [
+                "[Twitter](https://twitter.com/Docneuroeo/status/1707718338170995138)",
+                "[energy.gov - UAP/UFO Resources and Documents, National Nuclear Security Administration](https://www.energy.gov/nnsa/uapufo-resources-and-documents)",
+                "[energty.gov - 20220809, National Nuclear Security Administration](https://www.energy.gov/nnsa/20220809)"
+            ]
+            
+        }
 
 	]
 
 }
+
+
