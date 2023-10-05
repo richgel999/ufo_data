@@ -21,7 +21,7 @@ Although the C++ tool itself is open source with a permissive license (Apache 2.
 * LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was explictly given for use by e-mail as long as he is attributed.
 * Dr. Donald A. Johnson - Copyright (c) 2012. Efforts to contact him by email in 2023 have been unsuccessful.
 * Fred Keziah - Copyright (c) 1958. This poster hasn't been updated in 65 years, so it's probably fine for commercial usage.
-* Dr. Jacques F. Vallée - Copyright (c) 1993. This data was published in [_Passport to Magonia: From Folklore to Flying Saucers Paperback_](https://www.amazon.com/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480). This is the book's copyright.
+* Dr. Jacques F. Vallée - Copyright (c) 1993. This data was published in [_Passport to Magonia: From Folklore to Flying Saucers_](https://www.amazon.com/Passport-Magonia-Folklore-Flying-Saucers/dp/0987422480). This is the book's copyright.
 * NICAP - Unknown copyright status. The organization went defunct in 1980, 43 years ago, so it's very likely this data is in the Public Domain.
 * \*U\* binary database file U.RND: Copyright 1994-2002 [Larry Hatch](https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142). According to David Marler, Executive Director of the [National UFO Historical Records Center](http://www.nufohrc.org/), "The family has verbally given permission for the database to be used. If you need to speak with them, I have their contact info."
 * Jérôme Beau - Copyright © 2000- 2023. French chronology data from [rr0.org](https://rr0.org/). See its license [here](https://rr0.org/Copyright.html).
