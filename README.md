@@ -16,7 +16,7 @@
 ### Data files (in 'bin' directory): 
 Although the C++ tool itself is open source with a permissive license (Apache 2.0), **any commercial use of the copyrighted data in this repository (in any format, textual, JSON, Markdown, HTML, raw binary records, etc.) may require permission from one or more copyright holders**:
 
-* Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage permitted (for the recores in maj2.json) as long as attribution is given.
+* Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage permitted (for the specific records in maj2.json) as long as attribution is given.
 * George M. Eberhart - Copyright (c) 2022. Efforts to contact have been unsuccessful. This is the original PDF's copyright.
 * LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was explictly given for use by e-mail as long as he is attributed.
 * Dr. Donald A. Johnson - Copyright (c) 2012. Efforts to contact him by email in 2023 have been unsuccessful.
