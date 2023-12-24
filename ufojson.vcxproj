@@ -5,8 +5,16 @@
       <Configuration>Debug</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
+    <ProjectConfiguration Include="DebugClangCL|x64">
+      <Configuration>DebugClangCL</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
     <ProjectConfiguration Include="Release|x64">
       <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="ReleaseClangCL|x64">
+      <Configuration>ReleaseClangCL</Configuration>
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
@@ -22,9 +30,10 @@
     <ConfigurationType>Application</ConfigurationType>
     <PlatformToolset>v142</PlatformToolset>
     <PlatformToolset Condition="'$(VisualStudioVersion)'=='17.0'">v143</PlatformToolset>
+    <PlatformToolset Condition=" $(Configuration.EndsWith('ClangCL')) ">ClangCL</PlatformToolset>
     <CharacterSet>Unicode</CharacterSet>
-    <UseDebugLibraries Condition="'$(Configuration)'=='Debug'">true</UseDebugLibraries>
-    <WholeProgramOptimization Condition="'$(Configuration)'=='Release'">true</WholeProgramOptimization>
+    <UseDebugLibraries Condition=" $(Configuration.StartsWith('Debug')) ">true</UseDebugLibraries>
+    <WholeProgramOptimization Condition=" $(Configuration.StartsWith('Release')) ">true</WholeProgramOptimization>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
   <ImportGroup Label="ExtensionSettings">
@@ -53,12 +62,12 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)'=='Debug'">
+  <ItemDefinitionGroup Condition=" $(Configuration.StartsWith('Debug')) ">
     <ClCompile>
       <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
   </ItemDefinitionGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)'=='Release'">
+  <ItemDefinitionGroup Condition=" $(Configuration.StartsWith('Release')) ">
     <ClCompile>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
