@@ -8168,6 +8168,7 @@ class lexer : public lexer_base<BasicJsonType>
                     }
                 }
             }
+            JSON_HEDLEY_FALL_THROUGH;
 
             // multi-line comments skip input until */ is read
             case '*':
@@ -8203,6 +8204,7 @@ class lexer : public lexer_base<BasicJsonType>
                     }
                 }
             }
+            JSON_HEDLEY_FALL_THROUGH;
 
             // unexpected character after reading '/'
             default:

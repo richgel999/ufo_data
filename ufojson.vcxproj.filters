@@ -48,5 +48,6 @@
     <ClInclude Include="ufojson_core.h" />
     <ClInclude Include="utf8.h" />
     <ClInclude Include="utils.h" />
+    <ClInclude Include="pjson.h" />
   </ItemGroup>
 </Project>

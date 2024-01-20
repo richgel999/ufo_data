@@ -67,42 +67,42 @@ struct event_date
     bool m_estimated; // (estimated)
 
     event_date();
-    
+
     event_date(const event_date& other);
-    
+
     bool sanity_check() const;
-    
+
     bool operator== (const event_date& rhs) const;
-    
+
     bool operator!= (const event_date& rhs) const;
-    
+
     event_date& operator =(const event_date& rhs);
-    
+
     void clear();
-    
+
     bool is_valid() const;
-    
+
     std::string get_string() const;
-    
-    // Parses basic dates (not ranges). 
+
+    // Parses basic dates (not ranges).
     // Date can end in "(approximate)", "(estimated)", "?", or "'s".
     // 2 digit dates converted to 1900+.
     // Supports year, month/year, or month/day/year.
     bool parse(const char* pStr, bool fix_20century_dates);
-    
+
     // More advanced date range parsing, used for converting the Eberhart timeline.
     // Note this doesn't support "'s", "(approximate)", "(estimated)", or converting 2 digit years to 1900'.
     static bool parse_eberhart_date_range(std::string date,
         event_date& begin_date,
         event_date& end_date, event_date& alt_date,
         int required_year = -1);
-    
+
     // Note the returned date may be invalid. It's only intended for sorting/comparison purposes against other sort dates.
     void get_sort_date(int& year, int& month, int& day) const;
-    
+
     // Compares two timeline dates. true if lhs < rhs
     static bool compare(const event_date& lhs, const event_date& rhs);
-    
+
 private:
 
     static bool check_date_prefix(const event_date& date);
@@ -112,7 +112,7 @@ struct timeline_event
 {
     std::string m_date_str;
     std::string m_time_str; // military, but currently it's in any format (not parsed yet)
-        
+
     std::string m_alt_date_str;
     std::string m_end_date_str;
 
@@ -123,7 +123,7 @@ struct timeline_event
     std::string m_desc;         // Markdown
     string_vec m_type;
     string_vec m_refs;          // Markdown
-        
+
     string_vec m_locations;
     string_vec m_attributes;
     string_vec m_see_also;
@@ -145,15 +145,15 @@ struct timeline_event
     std::string m_plain_desc;   // Computed, ignored for comparison purposes, not deserialized from JSON
     string_vec m_plain_refs;    // Computed, ignored for comparison purposes, not deserialized from JSON
     std::string m_search_words;  // Computed, ignored for comparison purposes, not deserialized from JSON
-            
+
     bool operator==(const timeline_event& rhs) const;
     bool operator!=(const timeline_event& rhs) const;
     bool operator< (const timeline_event& rhs) const;
 
     void print(FILE* pFile) const;
-    
+
     void from_json(const json& obj, const char* pSource_override, bool fix_20century_dates);
-    
+
     void to_json(json& j) const;
 
     uint32_t get_crc32() const;

@@ -33,6 +33,7 @@ private:
     uint8_t m_time;
     uint8_t m_ymdt;                 // 2-bit fields: TDMY accuracy, T lowest, 0=invalid, 1=?, 2=~, 3=accurate
     uint8_t m_duration;
+    [[maybe_unused]] // -Wunused-private-field
     uint8_t m_unknown1;
 
     int16_t m_enc_longtitude;
@@ -41,11 +42,13 @@ private:
     int16_t m_elevation;
     int16_t m_rel_altitude;
 
+    [[maybe_unused]] // -Wunused-private-field
     uint8_t m_unknown2;
     uint8_t m_continent_country;    // nibbles
 
     uint8_t m_state_or_prov[3];
 
+    [[maybe_unused]] // -Wunused-private-field
     uint8_t m_unknown3;
 
 #if 0
@@ -653,8 +656,9 @@ static std::string decode_hatch(const std::string& str, bool first_line)
     string_vec tokens;
     std::string cur_token;
 
-    bool inside_space = false;
-    int prev_c = -1;
+    // written to, but never read from
+    [[maybe_unused]] bool inside_space = false;
+    [[maybe_unused]] int prev_c = -1;
 
     // Phase 1: Tokenize the input string based off examination of (mostly) individual chars, previous chars and upcoming individual chars.
     for (uint32_t i = 0; i < str.size(); i++)
@@ -1562,11 +1566,11 @@ static void init_dict()
         }
     }
 
-    uprintf("Done reading dictionary, %u uppercase words\n", g_dictionary.size());
+    uprintf("Done reading dictionary, %zu uppercase words\n", g_dictionary.size());
 }
 
 void udb_init()
-{    
+{
     assert(sizeof(udb_rec) == UDB_RECORD_SIZE);
 
     check_for_hatch_tab_dups(g_hatch_refs);
@@ -1703,10 +1707,10 @@ static bool convert_rec(uint32_t rec_index, const udb_rec* pRec, timeline_event&
     decode_hatch_desc(pRec, db_str, loc_str, desc_str);
 
     pRec->get_date(event.m_begin_date);
-    
+
     if (event.m_begin_date.m_year <= 0)
         return false;
-    
+
     std::string time;
     if (pRec->get_time(time))
     {
@@ -1719,21 +1723,21 @@ static bool convert_rec(uint32_t rec_index, const udb_rec* pRec, timeline_event&
     event.m_locations.push_back(loc_str);
 
     event.m_desc = desc_str;
-    
+
     // TODO
     event.m_type.push_back("sighting");
 
     event.m_source_id = string_format("Hatch_UDB_%u", rec_index);
     event.m_source = "Hatch";
-                
+
     for (uint32_t f = 0; f < udb_rec::cMaxFlags; f++)
         if ((f != cFlagMAP) && (pRec->get_flag(f)))
             event.m_attributes.push_back(g_pHatch_flag_descs[f]);
 
     event.m_refs.push_back(pRec->get_full_refs());
-    
+
     event.m_key_value_data.push_back(std::make_pair("LocationLink", string_format("[Google Maps](https://www.google.com/maps/place/%f,%f)", pRec->get_latitude(), pRec->get_longitude())));
-    
+
     event.m_key_value_data.push_back(std::make_pair("LatLong", string_format("%f %f", pRec->get_latitude(), pRec->get_longitude())));
     event.m_key_value_data.push_back(std::make_pair("LatLongDMS", string_format("%s %s", pRec->get_latitude_dms().c_str(), pRec->get_longitude_dms().c_str())));
 
@@ -1756,10 +1760,10 @@ static bool convert_rec(uint32_t rec_index, const udb_rec* pRec, timeline_event&
 
     if (pRec->get_elevation() != -99)
         event.m_key_value_data.push_back(std::make_pair("Elev", string_format("%i", pRec->get_elevation())));
-    
+
     if ((pRec->get_rel_altitude() != 0) && (pRec->get_rel_altitude() != 999))
         event.m_key_value_data.push_back(std::make_pair("RelAlt", string_format("%i", pRec->get_rel_altitude())));
-    
+
     return true;
 }
 

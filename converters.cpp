@@ -1,4 +1,4 @@
-// converters.cpp
+Ôªø// converters.cpp
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "ufojson_core.h"
 #include "markdown_proc.h"
@@ -44,15 +44,15 @@ bool convert_magonia(const char* pSrc_filename, const char* pDst_filename, const
     fputc(UTF8_BOM0, pOut_file);
     fputc(UTF8_BOM1, pOut_file);
     fputc(UTF8_BOM2, pOut_file);
-    
+
     fprintf(pOut_file, "{\n");
     fprintf(pOut_file, "\"%s Timeline\" : [\n", pSource_override ? pSource_override : "Magonia");
 
     //const uint32_t TOTAL_RECS = 923;
-    
+
     uint32_t cur_line = 0;
     uint32_t rec_index = first_rec_index;
-    
+
     while (cur_line < lines.size())
     {
         if (!lines[cur_line].size())
@@ -66,7 +66,7 @@ bool convert_magonia(const char* pSrc_filename, const char* pDst_filename, const
             panic("Out of lines");
 
         std::string first_line(lines[cur_line++]);
-                
+
         std::string date_str(first_line);
         if (date_str.size() > TOTAL_COLS)
             date_str.resize(TOTAL_COLS);
@@ -120,7 +120,7 @@ bool convert_magonia(const char* pSrc_filename, const char* pDst_filename, const
 
             if (buf.size() < TOTAL_COLS)
                 break;
-                        
+
             if (desc_lines.size() == 1)
             {
                 if (buf.size() >= TOTAL_COLS)
@@ -214,9 +214,9 @@ bool convert_magonia(const char* pSrc_filename, const char* pDst_filename, const
         int year = -1, month = -1, day = -1;
         date_prefix_t date_prefix = cNoPrefix;
         std::string date_suffix;
-        
+
         std::string temp_date_str(date_str);
-        
+
         if (string_ends_in(temp_date_str, "'s"))
         {
             temp_date_str.resize(temp_date_str.size() - 2);
@@ -387,7 +387,7 @@ bool convert_magonia(const char* pSrc_filename, const char* pDst_filename, const
         {
             if (date_suffix.size())
                 panic("Invalid date suffix");
-                
+
             fprintf(pOut_file, "%i/%i", month, year);
         }
         else
@@ -415,7 +415,7 @@ bool convert_magonia(const char* pSrc_filename, const char* pDst_filename, const
         else
             fprintf(pOut_file, "  \"source_id\" : \"Magonia_%u\",\n", rec_index);
 
-        fprintf(pOut_file, u8"  \"source\" : \"%s\",\n", pSource_override ? pSource_override : u8"VallÈeMagonia");
+        fprintf(pOut_file, u8"  \"source\" : \"%s\",\n", pSource_override ? pSource_override : u8"Vall√©eMagonia");
 
         if (pType_override)
             fprintf(pOut_file, "  \"type\" : \"%s\"\n", pType_override);
@@ -898,7 +898,7 @@ bool convert_dolan(const char *pSrc_filename, const char *pDst_filename, const c
             panic("Encountered empty line");
         if (rec.size() < 54)
             panic("Line too small");
-        
+
         std::string date_str(rec);
         date_str = string_slice(date_str, 0, 16);
         string_trim(date_str);
@@ -908,13 +908,13 @@ bool convert_dolan(const char *pSrc_filename, const char *pDst_filename, const c
 
         rec = string_slice(rec, 52);
         string_trim(rec);
-                        
+
         fprintf(pOut_file, "{\n");
         fprintf(pOut_file, "  \"date\" : \"%s\",\n", date_str.c_str());
-        
+
         fprintf(pOut_file, "  \"location\" : \"%s\",\n", escape_string_for_json(location_str).c_str());
         fprintf(pOut_file, "  \"desc\" : \"%s\",\n", escape_string_for_json(rec).c_str());
-        
+
         if (pType)
             fprintf(pOut_file, "  \"type\" : \"%s\",\n", pType);
 
@@ -923,7 +923,7 @@ bool convert_dolan(const char *pSrc_filename, const char *pDst_filename, const c
 
         fprintf(pOut_file, "  \"source_id\" : \"%s_%u\",\n", pSource, total_recs);
         fprintf(pOut_file, "  \"source\" : \"%s\"\n", pSource);
-                        
+
         fprintf(pOut_file, "}");
         if (cur_line < lines.size())
             fprintf(pOut_file, ",");
@@ -1052,7 +1052,7 @@ bool convert_eberhart(unordered_string_set& unique_urls)
 
         std::vector<uint32_t> list;
         list.push_back(l);
-            
+
         auto res = openai_res_hash.insert(std::make_pair(rec["event_crc32"].get<uint32_t>(), list));
         if (!res.second)
             (res.first)->second.push_back(l);
@@ -1174,7 +1174,7 @@ bool convert_eberhart(unordered_string_set& unique_urls)
             continue;
         }
 
-        size_t dash_pos = line.find(u8"ó");
+        size_t dash_pos = line.find(u8"‚Äî");
         if (dash_pos == std::string::npos)
             panic("Failed finding dash\n");
 
@@ -1206,7 +1206,7 @@ bool convert_eberhart(unordered_string_set& unique_urls)
             if (temp[0] == '#')
                 break;
 
-            size_t d = temp.find(u8"ó");
+            size_t d = temp.find(u8"‚Äî");
 
             const uint32_t DASH_THRESH_POS = 42;
             if ((d != std::string::npos) && (d < DASH_THRESH_POS))
@@ -1306,7 +1306,7 @@ bool convert_eberhart(unordered_string_set& unique_urls)
 
         if (json_alt_date.size())
             fprintf(pOut_file, "  \"alt_date\" : \"%s\",\n", json_alt_date.c_str());
-                
+
         fprintf(pOut_file, "  \"desc\" : \"%s\",\n", escape_string_for_json(desc).c_str());
         fprintf(pOut_file, "  \"source_id\" : \"Eberhart_%u\",\n", event_num);
 
@@ -1359,9 +1359,9 @@ bool convert_eberhart(unordered_string_set& unique_urls)
                             {
                                 if (total_useful_locs_printed)
                                     fprintf(pOut_file, ", ");
-                                                                
+
                                 fprintf(pOut_file, "\"%s\"", escape_string_for_json(loc[k]).c_str());
-                                
+
                                 total_useful_locs_printed++;
                             }
                             else
@@ -1378,7 +1378,7 @@ bool convert_eberhart(unordered_string_set& unique_urls)
                 break;
             }
         }
-        
+
         if (!ref.size())
         {
             fprintf(pOut_file, "  \"ref\" : \"[Eberhart](http://www.cufos.org/pdfs/UFOsandIntelligence.pdf)\"\n");
@@ -1497,7 +1497,7 @@ bool convert_johnson()
                         (string_find_first(l, "Written by Donald Johnson") != -1) ||
                         (string_find_first(l, "Written by Donald A Johnson") != -1) ||
                         (string_find_first(l, "Compiled from the UFOCAT computer database") != -1) ||
-                        (string_find_first(l, u8"© Donald A. Johnson") != -1) ||
+                        (string_find_first(l, u8"¬© Donald A. Johnson") != -1) ||
                         (string_begins_with(l, "Themes: ")))
                     {
                         found_end = true;
@@ -1964,6 +1964,7 @@ static bool test_eberhart_date()
     return true;
 }
 
+[[maybe_unused]] // currently unused...
 static void print_nocr(const std::string& s)
 {
     std::string new_string;
@@ -1993,8 +1994,8 @@ static void converters_test()
     uprintf("%s\n", wchar_to_utf8(utf8_to_wchar(blah, CP_ACP)).c_str());
 #endif
 
-    //fprintf(u8"ìfrightening visionî");
-    //ufprintf(stderr, u8"ìfrightening visionî");
+    //fprintf(u8"‚Äúfrightening vision‚Äù");
+    //ufprintf(stderr, u8"‚Äúfrightening vision‚Äù");
     assert(crc32((const uint8_t*)"TEST", 4) == 0xeeea93b8);
     assert(crc32((const uint8_t*)"408tdsfjdsfjsdh893!;", 20) == 0xa044e016);
     if (!test_eberhart_date()) return panic("test_eberhart_date failed!");
@@ -2007,11 +2008,11 @@ static void converters_test()
 
     //bufprintf(pIn, "A\nB  \nC\n_This is a blah_[XXXX](YYYY(S))");
 
-    //const char* p = u8R"(Chemist [Gustaf Ljunggren](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Gustaf_Ljunggren_(chemist)&sa=D&source=editors&ust=1674889728009134&usg=AOvVaw2v_Cymx15I5Ic1eNEYeeBr)†of the Swedish National Defense Research Institute summarizes for the Swedish Defense staff his analysis of 27 finds of mysterious substances, allegedly from ghost rockets. None are radioactive and all have mundane explanations. (Anders Liljegren and Clas Svahn, ìThe Ghost Rockets,î UFOs 1947ñ1987, Fortean Tomes, 1987, pp. 33ñ34))";
-//    const char* p = u8R"(Blah  
-//English clergyman and philosopher [_John Wilkins_](https://www.google.com/url?q=https://en.wikipedia.org/wiki/John_Wilkins&sa=D&source=editors&ust=1674889727243386&usg=AOvVaw1hw56rPPqRvDJzjdV0g8Zb) writes The Discovery of a World in the Moone, in which he highlights the similarities of the Earth and the Moon (seas, mountains, atmosphere) and concludes that the Moon is likely to be inhabited by living beings, whom the calls ìSelenites.î (Maria Avxentevskaya, ì[How 17th Century](https://www.google.com/url?q=https://www.realclearscience.com/articles/2017/12/02/how_17th_century_dreamers_planned_to_reach_the_moon_110476.html&sa=D&source=editors&ust=1674889727243765&usg=AOvVaw13_nH4qqo0LYqJqnhq4_eI)†[Dreamers Planned to Reach the Moon,](https://www.google.com/url?q=https://www.realclearscience.com/articles/2017/12/02/how_17th_century_dreamers_planned_to_reach_the_moon_110476.html&sa=D&source=editors&ust=1674889727244030&usg=AOvVaw2K5FMN315Pjxq_xO7wp7Ga)î <br/><br/>Real Clear Science, December 2, 2017)  )";
+    //const char* p = u8R"(Chemist [Gustaf Ljunggren](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Gustaf_Ljunggren_(chemist)&sa=D&source=editors&ust=1674889728009134&usg=AOvVaw2v_Cymx15I5Ic1eNEYeeBr)¬†of the Swedish National Defense Research Institute summarizes for the Swedish Defense staff his analysis of 27 finds of mysterious substances, allegedly from ghost rockets. None are radioactive and all have mundane explanations. (Anders Liljegren and Clas Svahn, ‚ÄúThe Ghost Rockets,‚Äù UFOs 1947‚Äì1987, Fortean Tomes, 1987, pp. 33‚Äì34))";
+//    const char* p = u8R"(Blah
+//English clergyman and philosopher [_John Wilkins_](https://www.google.com/url?q=https://en.wikipedia.org/wiki/John_Wilkins&sa=D&source=editors&ust=1674889727243386&usg=AOvVaw1hw56rPPqRvDJzjdV0g8Zb) writes The Discovery of a World in the Moone, in which he highlights the similarities of the Earth and the Moon (seas, mountains, atmosphere) and concludes that the Moon is likely to be inhabited by living beings, whom the calls ‚ÄúSelenites.‚Äù (Maria Avxentevskaya, ‚Äú[How 17th Century](https://www.google.com/url?q=https://www.realclearscience.com/articles/2017/12/02/how_17th_century_dreamers_planned_to_reach_the_moon_110476.html&sa=D&source=editors&ust=1674889727243765&usg=AOvVaw13_nH4qqo0LYqJqnhq4_eI)¬†[Dreamers Planned to Reach the Moon,](https://www.google.com/url?q=https://www.realclearscience.com/articles/2017/12/02/how_17th_century_dreamers_planned_to_reach_the_moon_110476.html&sa=D&source=editors&ust=1674889727244030&usg=AOvVaw2K5FMN315Pjxq_xO7wp7Ga)‚Äù <br/><br/>Real Clear Science, December 2, 2017)  )";
 
-    //const char* p = u8R"(Pierre Lagrange, ì[_Agobard, la Magonie et les ovnis_,](https://www.google.com/url?q=https://pierrelagrangesociologie.files.wordpress.com/2020/08/lagrange-agobard-magonie-ufologie-lhistoire-440-2017-10-p28-29.pdf&sa=D&source=editors&ust=1674889727239396&usg=AOvVaw1U01Ykx3tRTQS4QKENJuGi)î ActualitÈ, no. 440 (October 2017): 28ñ29; Wikipedia, ì[Magonia (mythology)](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Magonia_(mythology)&sa=D&source=editors&ust=1674889727239728&usg=AOvVaw0JOQanVKKoRClyKQPK5SJi)î))";
+    //const char* p = u8R"(Pierre Lagrange, ‚Äú[_Agobard, la Magonie et les ovnis_,](https://www.google.com/url?q=https://pierrelagrangesociologie.files.wordpress.com/2020/08/lagrange-agobard-magonie-ufologie-lhistoire-440-2017-10-p28-29.pdf&sa=D&source=editors&ust=1674889727239396&usg=AOvVaw1U01Ykx3tRTQS4QKENJuGi)‚Äù Actualit√©, no. 440 (October 2017): 28‚Äì29; Wikipedia, ‚Äú[Magonia (mythology)](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Magonia_(mythology)&sa=D&source=editors&ust=1674889727239728&usg=AOvVaw0JOQanVKKoRClyKQPK5SJi)‚Äù))";
     const char* p = "<br/>blah<br/>_[Agobard,](www.blah.com)_<br/> blah<br/>blah <br/>[_Agobard_,](www.blah.com)<br/>";
 
     //const char* p = "***[sssss](www.dddd.com)*** _Blah_ *Cool*_Zeek_";
@@ -2103,12 +2104,12 @@ enum
     cSlashFlag = 256
 };
 
-static const struct
+static constexpr struct
 {
     const char* m_pStr;
     uint32_t m_flag;
-    uint32_t m_month;
-    date_prefix_t m_date_prefix;
+    uint32_t m_month = 0;
+    date_prefix_t m_date_prefix = cNoPrefix;
 } g_special_phrases[] =
 {
     { "january", cMonthFlag, 1 },
@@ -2173,7 +2174,7 @@ static const struct
     { "/", cSlashFlag }
 };
 
-const uint32_t NUM_SPECIAL_PHRASES = sizeof(g_special_phrases) / sizeof(g_special_phrases[0]);
+constexpr int NUM_SPECIAL_PHRASES = static_cast<int>(std::size(g_special_phrases));
 
 enum
 {
@@ -2253,12 +2254,18 @@ static int get_special_from_token(int64_t tok)
     return (int)spec;
 }
 
-static bool convert_nipcap_date(std::string date, event_date& begin_date, event_date& end_date, event_date& alt_date)
+static constexpr bool nipcap_date_is_year_valid(
+    int year)
 {
-    assert(cSpecialTotal == NUM_SPECIAL_PHRASES);
-
     const uint32_t MIN_YEAR = 1860;
     const uint32_t MAX_YEAR = 2012;
+    return static_cast<uint32_t>(year) >= MIN_YEAR
+        && static_cast<uint32_t>(year) <= MAX_YEAR;
+}
+
+static bool convert_nipcap_date(std::string date, event_date& begin_date, event_date& end_date, event_date& alt_date)
+{
+    static_assert(cSpecialTotal == NUM_SPECIAL_PHRASES);
 
     string_trim(date);
 
@@ -2318,7 +2325,7 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
             int month = convert_hex_digit(date[4]) * 10 + convert_hex_digit(date[5]);
             int day = convert_hex_digit(date[6]) * 10 + convert_hex_digit(date[7]);
 
-            if ((year < MIN_YEAR) || (year > MAX_YEAR))
+            if (!nipcap_date_is_year_valid(year))
                 return false;
 
             if (month > 12)
@@ -2351,7 +2358,7 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
             return false;
     }
 
-    // Tokenize the input then only parse those cases we explictly support. Everything else is an error.
+    // Tokenize the input then only parse those cases we explicitly support. Everything else is an error.
 
     std::vector<int64_t> tokens;
     std::vector<int> digits;
@@ -2432,7 +2439,7 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
         else if (digits[0] == 4)
         {
             year = (int)tokens[0];
-            if ((year < MIN_YEAR) || (year > MAX_YEAR))
+            if (!nipcap_date_is_year_valid(year))
                 return false;
         }
         else
@@ -2462,7 +2469,7 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
     {
         if (digits[0] == 4)
         {
-            // YYMMXX 
+            // YYMMXX
             int year = 1900 + (int)(tokens[0] / 100);
             int month = (int)(tokens[0] % 100);
 
@@ -2474,10 +2481,10 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
         }
         else if (digits[0] == 6)
         {
-            // YYYYMMXX 
+            // YYYYMMXX
 
             int year = (int)(tokens[0] / 100);
-            if ((year < MIN_YEAR) || (year > MAX_YEAR))
+            if (!nipcap_date_is_year_valid(year))
                 return false;
 
             int month = (int)(tokens[0] % 100);
@@ -2505,7 +2512,7 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
         {
             // YYYYXXXX
             begin_date.m_year = (int)tokens[0];
-            if ((begin_date.m_year < MIN_YEAR) || (begin_date.m_year > MAX_YEAR))
+            if (!nipcap_date_is_year_valid(begin_date.m_year))
                 return false;
         }
         else
@@ -2555,7 +2562,7 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
     {
         // YYYYMMDD
         begin_date.m_year = (int)(tokens[0] / 10000);
-        if ((begin_date.m_year < MIN_YEAR) || (begin_date.m_year > MAX_YEAR))
+        if (!nipcap_date_is_year_valid(begin_date.m_year))
             return false;
 
         begin_date.m_month = (int)((tokens[0] / 100) % 100);
@@ -2577,7 +2584,7 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
     }
 
     if ((tokens.size() == 2) && (tokens[1] < 0) &&
-        ((get_special_from_token(tokens[1]) >= cSpecialLate) && (get_special_from_token(tokens[1]) <= cSpecialEnd) ||
+        (((get_special_from_token(tokens[1]) >= cSpecialLate) && (get_special_from_token(tokens[1]) <= cSpecialEnd)) ||
             (get_special_from_token(tokens[1]) == cSpecialMid))
         )
     {
@@ -2649,7 +2656,7 @@ static bool convert_nipcap_date(std::string date, event_date& begin_date, event_
         {
             // YYYYMMDD-YYYYMMDD
             end_date.m_year = (int)(tokens[2] / 10000);
-            if ((end_date.m_year < MIN_YEAR) || (end_date.m_year > MAX_YEAR))
+            if (!nipcap_date_is_year_valid(end_date.m_year))
                 return false;
 
             end_date.m_month = (int)((tokens[2] / 100) % 100);
@@ -3317,7 +3324,7 @@ bool convert_nicap(unordered_string_set& unique_urls)
 
         if ((prev_orig_desc.size()) && (orig_desc == prev_orig_desc) && (js["date"] == prev_date))
         {
-            // It's a repeated record, with just a different category. 
+            // It's a repeated record, with just a different category.
             std::string new_desc(js_doc_array.back()["desc"]);
 
             new_desc += string_format(" (NICAP: %s)", g_nicap_categories[cat_index - 1]);
@@ -3391,7 +3398,7 @@ bool convert_nuk()
 {
     std::string title;
     string_vec col_titles;
-    
+
     std::vector<string_vec> rows;
 
     bool success = load_column_text("nuktest_usa.txt", rows, title, col_titles, false, "USA");
@@ -3428,9 +3435,9 @@ bool convert_nuk()
         event.m_locations.push_back(x[cColLat] + " " + x[cColLong]);
 
         std::string attr;
-        
+
         std::string t(string_upper(x[cColType]));
-        
+
         bool salvo = false;
         if (string_ends_in(t, "_SALVO"))
         {
@@ -3491,9 +3498,9 @@ bool convert_nuk()
             panic("Invalid type");
 
         event.m_desc = string_format("Nuclear test: %s. Country: %s", attr.c_str(), x[cColCountry].c_str());
-        
+
         if ((x[cColName].size()) && (x[cColName] != "-"))
-            event.m_desc += string_format(u8" Name: ì%sî", x[cColName].c_str());
+            event.m_desc += string_format(u8" Name: ‚Äú%s‚Äù", x[cColName].c_str());
 
         if (x[cColY].size())
             event.m_desc += string_format(" Yield: %sKT", x[cColY].c_str());
@@ -3510,13 +3517,13 @@ bool convert_nuk()
 
             std::string latitude_dms = get_deg_to_dms(lat) + ((lat <= 0) ? " S" : " N");
             std::string longitude_dms = get_deg_to_dms(lon) + ((lon <= 0) ? " W" : " E");
-                        
+
             event.m_key_value_data.push_back(string_pair("LatLongDMS", latitude_dms + " " + longitude_dms));
         }
 
         if (x[cColDepth].size())
             event.m_key_value_data.push_back(string_pair("NukeDepth", x[cColDepth]));
-        
+
         if (x[cColMb].size())
             event.m_key_value_data.push_back(string_pair("NukeMb", x[cColMb]));
 
@@ -3534,7 +3541,7 @@ bool convert_nuk()
 
         event.m_key_value_data.push_back(string_pair("NukeSource", x[cColSource]));
         event.m_key_value_data.push_back(string_pair("NukeCountry", x[cColCountry]));
-        
+
         if (x[cColLat].size() && x[cColLong].size())
         {
             event.m_key_value_data.push_back(std::make_pair("LocationLink", string_format("[Google Maps](https://www.google.com/maps/place/%s,%s)", x[cColLat].c_str(), x[cColLong].c_str())));
@@ -3545,9 +3552,9 @@ bool convert_nuk()
 
         event.m_source = "NukeExplosions";
         event.m_source_id = event.m_source + string_format("_%u", event_id);
-                
+
         timeline.get_events().push_back(event);
-        
+
         event_id++;
     }
 
@@ -3555,7 +3562,7 @@ bool convert_nuk()
         panic("Empty timeline)");
 
     timeline.set_name("Nuclear Test Timeline");
-        
+
     return timeline.write_file("nuclear_tests.json", true);
 }
 
@@ -3563,7 +3570,7 @@ bool convert_anon()
 {
     string_vec lines;
     bool utf8_flag = false;
-    
+
     const char* pFilename = "anon_pdf.md";
     if (!read_text_file(pFilename, lines, true, &utf8_flag))
         panic("Failed reading text file %s", pFilename);
@@ -3582,10 +3589,10 @@ bool convert_anon()
 
         if (s.size() < 27)
             panic("Invalid string");
-        
-        //[0x00000026] 0xe2 '‚'	char
-        //[0x00000027]	0x80 'Ä'	char
-        //[0x00000028]	0x94 'î'	char
+
+        //[0x00000026] 0xe2 '√¢'	char
+        //[0x00000027]	0x80 '‚Ç¨'	char
+        //[0x00000028]	0x94 '‚Äù'	char
 
         const int8_t c = -30;// (int8_t)0xE2;
         size_t dash_pos = s.find_first_of(c);
@@ -3794,7 +3801,7 @@ bool convert_anon()
                 break;
 
             string_trim(ns);
-                        
+
             line_index++;
 
             event_strs.push_back(ns);
@@ -4056,13 +4063,13 @@ static int md_convert(const char* pSrc_filename, int year, ufo_timeline& tm)
                     }
                 }
 
-                if ((day_index < 0) && ((month_tok_index + 1) < tokens.size()))
+                if ((day_index < 0) && ((month_tok_index + 1) < static_cast<int>(tokens.size())))
                 {
                     std::string& suffix_str = tokens[month_tok_index + 1];
                     if (isdigit(suffix_str[0]))
                     {
                         bool is_time = false;
-                        if ((month_tok_index + 2) < tokens.size())
+                        if ((month_tok_index + 2) < static_cast<int>(tokens.size()))
                         {
                             is_time = (tokens[month_tok_index + 2] == ":");
                         }
@@ -4203,7 +4210,7 @@ static int md_convert(const char* pSrc_filename, int year, ufo_timeline& tm)
 
                 std::string ref(string_slice(rec_text, s, l));
 
-                if ((e < rec_text.size()) && ((rec_text[e] == '.') || (rec_text[e] == ']')))
+                if ((e < static_cast<int>(rec_text.size())) && ((rec_text[e] == '.') || (rec_text[e] == ']')))
                 {
                     while (s > 0)
                     {
@@ -4214,7 +4221,7 @@ static int md_convert(const char* pSrc_filename, int year, ufo_timeline& tm)
                     }
                 }
 
-                if ((e < rec_text.size()) && (rec_text[e] == ']'))
+                if ((e < static_cast<int>(rec_text.size())) && (rec_text[e] == ']'))
                 {
                     e++;
                     l++;
@@ -4335,7 +4342,7 @@ bool convert_rr0()
     tm.write_file("rr0.json");
 
     uprintf("Processed %u years\n", total_years);
-        
+
     return total_years >= NUM_EXPECTED_RR0_YEARS;
 }
 
@@ -4439,7 +4446,7 @@ static bool overmeire_convert(const std::string& in_filename, ufo_timeline& tm)
             str = string_lower(str);
 
         int year = -1, year_tok_index = -1;
-        for (year_tok_index = 0; year_tok_index < tokens.size(); year_tok_index++)
+        for (year_tok_index = 0; year_tok_index < static_cast<int>(tokens.size()); year_tok_index++)
         {
             int y = atoi(tokens[year_tok_index].c_str());
             if ((y > 0) && (y >= first_year) && (y <= last_year))
@@ -4501,13 +4508,13 @@ static bool overmeire_convert(const std::string& in_filename, ufo_timeline& tm)
             }
 
             if ((day_index < 0) &&
-                ((month_tok_index + 1) < tokens.size()))
+                ((month_tok_index + 1) < static_cast<int>(tokens.size())))
             {
                 std::string& suffix_str = tokens[month_tok_index + 1];
                 if (isdigit(suffix_str[0]))
                 {
                     bool is_time = false;
-                    if ((month_tok_index + 2) < tokens.size())
+                    if ((month_tok_index + 2) < static_cast<int>(tokens.size()))
                     {
                         is_time = (tokens[month_tok_index + 2] == ":");
                     }
@@ -4642,7 +4649,7 @@ static bool overmeire_convert(const std::string& in_filename, ufo_timeline& tm)
         evt.m_source = "Overmeire";
         evt.m_source_id = string_format("Overmeire_%zu", tm.get_events().size());
         evt.m_refs.push_back("[_Mini catalogue chronologique des observations OVNI_, by Godelieve Van Overmeire](https://web.archive.org/web/20060107070423/http://users.skynet.be/sky84985/chrono.html)");
-        
+
         std::string trial_date(string_format("#%u", year));
         if (cur_date.m_month >= 1)
         {
@@ -4652,7 +4659,7 @@ static bool overmeire_convert(const std::string& in_filename, ufo_timeline& tm)
         }
         if (trial_date != strs[0])
             evt.m_desc += " (" + string_slice(strs[0], 1) + ")";
-        
+
         tm.get_events().push_back(evt);
 
         prev_year = year;

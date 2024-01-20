@@ -39,7 +39,7 @@ namespace pjson
    class value_variant;
    struct value_variant_data;
    struct key_value_t;
-   
+
    typedef std::vector<char> char_vec_t;
    typedef std::string string_t;
 
@@ -48,7 +48,7 @@ namespace pjson
    inline void* pjson_malloc(size_t size) { return malloc(size); }
    inline void* pjson_realloc(void* p, size_t size) { return realloc(p, size); }
    inline void pjson_free(void* p) { free(p); }
-   
+
    // Misc. Helpers
    template<typename T> inline void swap(T& l, T& r) { T temp(l); l = r; r = temp; }
 
@@ -68,9 +68,9 @@ namespace pjson
       static const uint8 s_parse_flags[256];
    };
    typedef globals_struct<> globals;
-   
+
    template<typename unused>
-   const uint8 globals_struct<unused>::s_str_serialize_flags[256] = 
+   const uint8 globals_struct<unused>::s_str_serialize_flags[256] =
    {
    // 0    1    2    3    4    5    6    7      8    9    A    B    C    D    E    F
       1,   1,   1,   1,   1,   1,   1,   1,     1,   1,   1,   1,   1,   1,   1,   1, // 0
@@ -82,19 +82,19 @@ namespace pjson
       0,   0,   0,   0,   0,   0,   0,   0,     0,   0,   0,   0,   0,   0,   0,   0, // 6
       0,   0,   0,   0,   0,   0,   0,   0,     0,   0,   0,   0,   0,   0,   0,   0, // 7
    // 128-255
-      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 
-      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 
-      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 
+      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0,
+      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0,
+      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0,
       0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0
    };
 
    template<typename unused>
-   const double globals_struct<unused>::s_pow10_table[63] = 
+   const double globals_struct<unused>::s_pow10_table[63] =
    {
       1.e-031,1.e-030,1.e-029,1.e-028,1.e-027,1.e-026,1.e-025,1.e-024,1.e-023,1.e-022,1.e-021,1.e-020,1.e-019,1.e-018,1.e-017,1.e-016,
       1.e-015,1.e-014,1.e-013,1.e-012,1.e-011,1.e-010,1.e-009,1.e-008,1.e-007,1.e-006,1.e-005,1.e-004,1.e-003,1.e-002,1.e-001,1.e+000,
       1.e+001,1.e+002,1.e+003,1.e+004,1.e+005,1.e+006,1.e+007,1.e+008,1.e+009,1.e+010,1.e+011,1.e+012,1.e+013,1.e+014,1.e+015,1.e+016,
-      1.e+017,1.e+018,1.e+019,1.e+020,1.e+021,1.e+022,1.e+023,1.e+024,1.e+025,1.e+026,1.e+027,1.e+028,1.e+029,1.e+030,1.e+031 
+      1.e+017,1.e+018,1.e+019,1.e+020,1.e+021,1.e+022,1.e+023,1.e+024,1.e+025,1.e+026,1.e+027,1.e+028,1.e+029,1.e+030,1.e+031
    };
 
    // bit 0 (1) - set if: \0 cr lf " \
@@ -103,7 +103,7 @@ namespace pjson
    // bit 3 (8) - set if: 0-9
    // bit 4 (0x10) - set if: 0-9 e E .
    template<typename unused>
-   const uint8 globals_struct<unused>::s_parse_flags[256] = 
+   const uint8 globals_struct<unused>::s_parse_flags[256] =
    {
    // 0    1    2    3    4    5    6    7      8    9    A    B    C    D    E    F
       7,   4,   4,   4,   4,   4,   4,   4,     4,   4,   7,   4,   4,   7,   4,   4, // 0
@@ -116,9 +116,9 @@ namespace pjson
       0,   0,   0,   0,   0,   0,   0,   0,     0,   0,   0,   0,   0,   0,   0,   0, // 7
 
    // 128-255
-      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 
-      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 
-      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 
+      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0,
+      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0,
+      0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0,
       0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0,  0,0,0,0,0,0,0,0
    };
 
@@ -126,15 +126,15 @@ namespace pjson
 
    struct pool_allocator
    {
-      inline pool_allocator(uint initial_size = 0, uint min_chunk_size = PJSON_DEFAULT_MIN_CHUNK_SIZE, size_t max_bytes_to_preserve_across_resets = PJSON_DEFAULT_MAX_BYTES_TO_PRESERVE_ACROSS_RESETS) : 
-         m_pActive_chunks(NULL), 
-         m_pFree_chunks(NULL),
+      inline pool_allocator(uint initial_size = 0, uint min_chunk_size = PJSON_DEFAULT_MIN_CHUNK_SIZE, size_t max_bytes_to_preserve_across_resets = PJSON_DEFAULT_MAX_BYTES_TO_PRESERVE_ACROSS_RESETS) :
+         m_pActive_chunks(nullptr),
+         m_pFree_chunks(nullptr),
          m_total_free_bytes(0),
-         m_initial_size(initial_size), 
+         m_initial_size(initial_size),
          m_min_chunk_size(min_chunk_size),
-         m_cur_grow_size(min_chunk_size),
-         m_max_to_preserve_across_resets(max_bytes_to_preserve_across_resets)
-      { 
+         m_max_to_preserve_across_resets(max_bytes_to_preserve_across_resets),
+         m_cur_grow_size(min_chunk_size)
+      {
          if (initial_size)
          {
             m_pActive_chunks = static_cast<chunk*>(pjson_malloc(sizeof(chunk) + initial_size));
@@ -154,17 +154,17 @@ namespace pjson
       {
          free_chunk_chain(m_pActive_chunks);
          m_pActive_chunks = NULL;
-         
+
          free_chunk_chain(m_pFree_chunks);
          m_pFree_chunks = NULL;
 
          m_total_free_bytes = 0;
-         
+
          m_cur_grow_size = m_min_chunk_size;
       }
 
       inline size_t get_total_free_bytes() const { return m_total_free_bytes; }
-      
+
       inline uint get_min_chunk_size() const { return m_min_chunk_size; }
       inline size_t get_max_bytes_to_preserve_across_resets() const { return m_max_to_preserve_across_resets; }
 
@@ -172,7 +172,7 @@ namespace pjson
       inline void set_max_bytes_to_preserve_across_resets(size_t s) { m_max_to_preserve_across_resets = s; }
 
       inline uint get_cur_grow_size() const { return m_cur_grow_size; }
-      
+
       inline void* Alloc(size_t size)
       {
          size = (size + 3) & ~3;
@@ -209,7 +209,7 @@ namespace pjson
       {
          if (!p)
             return Alloc(new_size);
-         
+
          new_size = (new_size + 3) & ~3;
          cur_size = (cur_size + 3) & ~3;
          if (new_size == cur_size)
@@ -228,7 +228,7 @@ namespace pjson
                   return p;
                }
             }
-            else 
+            else
             {
                PJSON_ASSERT(m_pActive_chunks->m_ofs >= (cur_size - new_size));
                m_pActive_chunks->m_ofs -= (cur_size - new_size);
@@ -249,7 +249,7 @@ namespace pjson
       {
          if (!m_pActive_chunks)
             return;
-         
+
          chunk* pCur_active_tail = m_pActive_chunks;
          size_t total_allocated_bytes = 0;
          for ( ; ; )
@@ -261,7 +261,7 @@ namespace pjson
             pCur_active_tail = pCur_active_tail->m_pNext;
          }
          pCur_active_tail->m_pNext = m_pFree_chunks;
-                           
+
          m_pFree_chunks = m_pActive_chunks;
          m_pActive_chunks = NULL;
 
@@ -323,8 +323,8 @@ namespace pjson
       }
 
    private:
-      pool_allocator(const pool_allocator&);
-      pool_allocator& operator= (const pool_allocator&);
+      pool_allocator(const pool_allocator&) = delete;
+      pool_allocator& operator= (const pool_allocator&) = delete;
 
       struct chunk
       {
@@ -337,10 +337,11 @@ namespace pjson
       chunk* m_pFree_chunks;
       size_t m_total_free_bytes;
 
+      [[maybe_unused]] // -Wunused-private-field
       uint m_initial_size;
       uint m_min_chunk_size;
       size_t m_max_to_preserve_across_resets;
-      
+
       uint m_cur_grow_size;
 
       inline void free_chunk_chain(chunk* pChunk)
@@ -359,20 +360,20 @@ namespace pjson
    template<typename T>
    struct simple_vector_default_copy_construction_policy
    {
-      inline static void copy_construct(void *pDst, const T& init, pool_allocator& alloc) { alloc; new (pDst) T(init); }
-      inline static void assign(void *pDst, const T& src, pool_allocator& alloc) { alloc; *static_cast<T*>(pDst) = src; }
+      inline static void copy_construct(void *pDst, const T& init, [[maybe_unused]] pool_allocator& alloc) { new (pDst) T(init); }
+      inline static void assign(void *pDst, const T& src, [[maybe_unused]] pool_allocator& alloc) { *static_cast<T*>(pDst) = src; }
    };
 
    template<typename T>
    struct simple_vector_allocator_copy_construction_policy
    {
-      inline static void copy_construct(void *pDst, const T& init, pool_allocator& alloc) { alloc; new (pDst) T(init, alloc); }
+      inline static void copy_construct(void *pDst, const T& init, [[maybe_unused]] pool_allocator& alloc) { new (pDst) T(init, alloc); }
       inline static void assign(void *pDst, const T& src, pool_allocator& alloc) { static_cast<T*>(pDst)->assign(src, alloc); }
    };
 
    template <typename T> inline T* construct(T* p) { return new (static_cast<void*>(p)) T; }
    template <typename T> inline void construct_array(T* p, uint n) { T* q = p + n; for ( ; p != q; ++p) new (static_cast<void*>(p)) T; }
-   
+
    template<typename T>
    struct elemental_vector
    {
@@ -381,7 +382,7 @@ namespace pjson
       typedef const T&        const_reference;
       typedef T*              pointer;
       typedef const T*        const_pointer;
-   
+
       T*       m_p;
       uint32   m_size;
    };
@@ -393,12 +394,12 @@ namespace pjson
 
       inline simple_vector() { construct(); }
       inline simple_vector(const simple_vector& other, pool_allocator& alloc) { construct(other, alloc); }
-            
+
       // Manual constructor methods
       inline void construct() { base::m_p = NULL; base::m_size = 0; }
       inline void construct(uint size, pool_allocator& alloc) { construct(); enlarge(size, alloc, false); }
       inline void construct(const T* p, uint size, pool_allocator& alloc)
-      { 
+      {
          base::m_size = size;
          base::m_p = NULL;
          if (size)
@@ -417,17 +418,17 @@ namespace pjson
                memcpy(base::m_p, p, num_bytes);
          }
       }
-      inline void construct(const simple_vector& other, pool_allocator& alloc) 
-      { 
-         construct(other.m_p, other.m_size, alloc); 
+      inline void construct(const simple_vector& other, pool_allocator& alloc)
+      {
+         construct(other.m_p, other.m_size, alloc);
       }
-      
+
       inline uint size() const { return base::m_size; }
       inline uint size_in_bytes() const { return base::m_size * sizeof(T); }
-      
+
       inline const T& operator[] (uint i) const  { PJSON_ASSERT(i < base::m_size); return base::m_p[i]; }
       inline       T& operator[] (uint i)        { PJSON_ASSERT(i < base::m_size); return base::m_p[i]; }
-            
+
       inline const T* get_ptr() const   { return base::m_p; }
       inline       T* get_ptr()         { return base::m_p; }
 
@@ -435,17 +436,17 @@ namespace pjson
       inline       T* get_ptr(T* pDef)               { return base::m_p ? base::m_p : pDef; }
 
       inline void clear() { base::m_p = NULL; base::m_size = 0; }
-                  
+
       inline void resize(uint new_size, pool_allocator& alloc)
       {
          if (new_size > base::m_size)
          {
             grow(new_size, alloc);
-            
+
             if (UseConstructor)
                construct_array(base::m_p + base::m_size, new_size - base::m_size);
          }
-         
+
          base::m_size = new_size;
       }
 
@@ -453,9 +454,9 @@ namespace pjson
       {
           base::m_size = new_size;
       }
-         
-      inline T* enlarge_no_construct(uint n, pool_allocator& alloc) 
-      { 
+
+      inline T* enlarge_no_construct(uint n, pool_allocator& alloc)
+      {
          PJSON_ASSERT(n);
          uint cur_size = base::m_size, new_size = base::m_size + n;
          grow(new_size, alloc);
@@ -464,7 +465,7 @@ namespace pjson
       }
 
       inline T* enlarge(uint n, pool_allocator& alloc)
-      { 
+      {
          T* p = enlarge_no_construct(n, alloc);
          if (UseConstructor)
             construct_array(p, n);
@@ -500,7 +501,7 @@ namespace pjson
       inline void assign(const T* p, uint n, pool_allocator& alloc)
       {
          PJSON_ASSERT(!base::m_p || ((p + n) <= base::m_p) || (p >= (base::m_p + base::m_size)));
-         
+
          const uint num_to_assign = PJSON_MIN(base::m_size, n);
          if (num_to_assign)
          {
@@ -520,10 +521,10 @@ namespace pjson
       }
 
       inline void assign(const simple_vector& other, pool_allocator& alloc)
-      { 
+      {
          assign(other.m_p, other.m_size, alloc);
       }
-      
+
       inline void erase(uint start, uint n)
       {
          PJSON_ASSERT((start + n) <= base::m_size);
@@ -539,19 +540,19 @@ namespace pjson
          base::m_size -= n;
       }
 
-      inline void swap(simple_vector& other) 
-      { 
+      inline void swap(simple_vector& other)
+      {
          pjson::swap(base::m_p, other.m_p);
          pjson::swap(base::m_size, other.m_size);
       }
-      
+
       inline void grow(uint new_size, pool_allocator& alloc)
       {
          if (new_size > base::m_size)
              base::m_p = static_cast<T*>(alloc.Realloc(base::m_p, sizeof(T) * new_size, base::m_size * sizeof(T)));
       }
    };
-         
+
    enum json_value_type_t
    {
       cJSONValueTypeNull = 0,
@@ -564,13 +565,13 @@ namespace pjson
       cJSONValueTypeArray,
       cJSONValueTypeObject,
    };
-   
+
    // ---- struct value_variant_data
 
    typedef simple_vector<char, false> string_vec_t;
    typedef simple_vector<key_value_t, true, simple_vector_allocator_copy_construction_policy<key_value_t> > key_value_vec_t;
    typedef simple_vector<value_variant, true, simple_vector_allocator_copy_construction_policy<value_variant> > value_variant_vec_t;
-         
+
    #pragma pack(push, 4)
    struct value_variant_data
    {
@@ -596,16 +597,16 @@ namespace pjson
       inline const key_value_vec_t& get_object() const  { return (const key_value_vec_t&)m_data.m_object; }
       inline       key_value_vec_t& get_object()        { return (key_value_vec_t&)m_data.m_object; }
    };
-         
+
    // ---- struct key_value_t
 
    struct key_value_t
    {
       inline key_value_t() { }
       inline key_value_t(const key_value_t& other, pool_allocator& alloc);
-      
+
       inline void assign(const key_value_t& src, pool_allocator& alloc);
-      
+
       inline const string_vec_t& get_key() const  { return m_key; }
       inline       string_vec_t& get_key()        { return m_key; }
 
@@ -618,7 +619,7 @@ namespace pjson
    #pragma pack(pop)
 
    // ---- class char_vector_print_helper
-   
+
    class char_vector_print_helper
    {
       char_vector_print_helper(const char_vector_print_helper&);
@@ -630,7 +631,7 @@ namespace pjson
       inline void resize(size_t new_size) { m_buf.resize(new_size); }
       inline size_t size() const { return m_buf.size(); }
       inline char* get_ptr() const { return &m_buf[0]; }
-      
+
       inline const char_vec_t& get_buf() const  { return m_buf; }
       inline       char_vec_t& get_buf()        { return m_buf; }
 
@@ -641,14 +642,14 @@ namespace pjson
       void print_escaped(const string_vec_t& str)
       {
          const char* pStr = str.m_p;
-         uint len = str.m_size; len;
-      
+         [[maybe_unused]] uint len = str.m_size;
+
          static const char* s_to_hex = "0123456789abcdef";
          print_char('\"');
          while (*pStr)
          {
             uint8 c = *pStr++;
-            if ((c >= ' ') && (c != '\"') && (c != '\\')) 
+            if ((c >= ' ') && (c != '\"') && (c != '\\'))
                print_char(c);
             else
             {
@@ -668,7 +669,7 @@ namespace pjson
          }
          print_char('\"');
       }
-           
+
    private:
       char_vec_t& m_buf;
    };
@@ -686,7 +687,7 @@ namespace pjson
       inline void resize(size_t new_size) { PJSON_ASSERT(new_size <= (size_t)(m_pEnd - m_pStart)); m_pDst = m_pStart + new_size; }
       inline size_t size() const { return m_pDst - m_pStart; }
       inline char* get_ptr() const { return m_pStart; }
-      
+
       inline void puts(const char* pStr, size_t l) { memcpy(m_pDst, pStr, l = PJSON_MIN(l, (size_t)(m_pEnd - m_pDst))); m_pDst += l; }
       inline void print_tabs(size_t n) { n = PJSON_MIN(n, (size_t)(m_pEnd - m_pDst)); memset(m_pDst, '\t', n); m_pDst += n; }
       inline void print_char(char c) { if (m_pDst < m_pEnd) *m_pDst++ = c; }
@@ -699,10 +700,10 @@ namespace pjson
          char* pDst = m_pDst;
          char* pEnd = m_pEnd;
          uint len = str.m_size;
-         
+
          // If len!=0, it includes the terminating null, so this expression is conservative.
          if (static_cast<size_t>(pEnd - pDst) < (len + 2)) { m_pDst = pEnd; return; }
-                                    
+
          *pDst++ = '\"';
 
          uint8 c = 0; if (pStr) c = pStr[0];
@@ -713,13 +714,13 @@ namespace pjson
             pDst[2] = c; c = pStr[3]; if (globals::s_str_serialize_flags[c]) { pStr += 3, pDst += 3; break; }
             pDst[3] = c; c = pStr[4]; pStr += 4, pDst += 4;
          }
-         
+
          while (c)
          {
             if ((pEnd - pDst) < 7)
-            { 
-               m_pDst = pEnd; 
-               return; 
+            {
+               m_pDst = pEnd;
+               return;
             }
             if (!globals::s_str_serialize_flags[c])
                *pDst++ = c;
@@ -728,7 +729,7 @@ namespace pjson
                pDst[0] = '\\';
                switch (c)
                {
-                  case '\b':	pDst[1] = 'b'; break; 
+                  case '\b':	pDst[1] = 'b'; break;
                   case '\r':	pDst[1] = 'r'; break;
                   case '\t':	pDst[1] = 't'; break;
                   case '\f':	pDst[1] = 'f'; break;
@@ -767,7 +768,7 @@ namespace pjson
    };
 
    // ---- class value_variant
-   
+
    #pragma pack(push, 4)
    class value_variant : public value_variant_data
    {
@@ -784,12 +785,12 @@ namespace pjson
       inline value_variant(uint32 nVal) { m_type = cJSONValueTypeInt; m_data.m_nVal = nVal; }
       inline value_variant(int64 nVal) { m_type = cJSONValueTypeInt; m_data.m_nVal = nVal; }
       inline value_variant(double flVal) { m_type = cJSONValueTypeDouble; m_data.m_flVal = flVal; }
-      
+
       inline value_variant(const char* pStr, pool_allocator& alloc)
-      { 
+      {
          m_type = cJSONValueTypeString;
          if (!pStr) pStr = "";
-         get_string().construct(pStr, static_cast<uint>(strlen(pStr)) + 1, alloc); 
+         get_string().construct(pStr, static_cast<uint>(strlen(pStr)) + 1, alloc);
       }
 
       inline value_variant(json_value_type_t type)
@@ -834,7 +835,7 @@ namespace pjson
       inline bool is_object_or_array() const { return m_type >= cJSONValueTypeArray; }
       inline bool is_object() const { return m_type == cJSONValueTypeObject; }
       inline bool is_array() const { return m_type == cJSONValueTypeArray; }
-            
+
       inline void clear() { set_to_null(); }
 
       inline void assume_ownership(value_variant& src_val) { set_to_null(); swap(src_val); }
@@ -850,9 +851,9 @@ namespace pjson
       inline value_variant& set(int64 nVal) { m_data.m_nVal = nVal; m_type = cJSONValueTypeInt; return *this; }
       inline value_variant& set(uint32 nVal) { set(static_cast<int64>(nVal)); return *this; }
       inline value_variant& set(double flVal) { m_data.m_flVal = flVal; m_type = cJSONValueTypeDouble; return *this; }
-      
-      inline value_variant& set(const char* pStr, pool_allocator& alloc) 
-      { 
+
+      inline value_variant& set(const char* pStr, pool_allocator& alloc)
+      {
          if (!pStr) pStr = "";
          uint l = static_cast<uint>(strlen(pStr)) + 1;
          if (!is_string())
@@ -866,7 +867,7 @@ namespace pjson
       }
 
       inline value_variant& set_assume_ownership(char* pStr, uint len)
-      { 
+      {
          m_type = cJSONValueTypeString;
          string_vec_t& str = get_string();
          str.m_p = pStr;
@@ -874,8 +875,8 @@ namespace pjson
          return *this;
       }
 
-      inline value_variant& set(const value_variant* pVals, uint n, pool_allocator& alloc) 
-      { 
+      inline value_variant& set(const value_variant* pVals, uint n, pool_allocator& alloc)
+      {
          if (!is_array())
          {
             m_type = cJSONValueTypeArray;
@@ -886,8 +887,8 @@ namespace pjson
          return *this;
       }
 
-      inline value_variant& set_assume_ownership(value_variant* pVals, uint n) 
-      { 
+      inline value_variant& set_assume_ownership(value_variant* pVals, uint n)
+      {
          m_type = cJSONValueTypeArray;
          value_variant_vec_t& arr = get_array();
          arr.m_p = pVals;
@@ -895,8 +896,8 @@ namespace pjson
          return *this;
       }
 
-      inline value_variant& set(const key_value_t* pKey_values, uint n, pool_allocator& alloc) 
-      { 
+      inline value_variant& set(const key_value_t* pKey_values, uint n, pool_allocator& alloc)
+      {
          if (!is_object())
          {
             m_type = cJSONValueTypeObject;
@@ -907,8 +908,8 @@ namespace pjson
          return *this;
       }
 
-      inline value_variant& set_assume_ownership(key_value_t* pKey_values, uint n) 
-      { 
+      inline value_variant& set_assume_ownership(key_value_t* pKey_values, uint n)
+      {
          m_type = cJSONValueTypeObject;
          key_value_vec_t& obj = get_object();
          obj.m_p = pKey_values;
@@ -928,14 +929,14 @@ namespace pjson
       inline bool get_numeric_value(float& val, float def = 0.0f) const { if (is_double()) { val = static_cast<float>(m_data.m_flVal); return true; } else return convert_to_float(val, def); }
       inline bool get_numeric_value(double& val, double def = 0.0f) const { if (is_double()) { val = m_data.m_flVal; return true; } else return convert_to_double(val, def); }
       inline bool get_string_value(string_t& val, const char* pDef = "") const { if (is_string()) { val = get_string_ptr(); return true; } else return convert_to_string(val, pDef); }
-      
+
       inline bool as_bool(bool def = false) const { bool result; get_bool_value(result, def); return result; }
       inline int as_int32(int32 def = 0) const { int32 result; get_numeric_value(result, def); return result; }
       inline int64 as_int64(int64 def = 0) const { int64 result; get_numeric_value(result, def); return result; }
       inline float as_float(float def = 0.0f) const { float result; get_numeric_value(result, def); return result; }
       inline double as_double(double def = 0.0f) const { double result; get_numeric_value(result, def); return result; }
 
-      // Returns value as a string, or the default string if the value cannot be converted. 
+      // Returns value as a string, or the default string if the value cannot be converted.
       inline string_t as_string(const char* pDef = "") const { string_t result; get_string_value(result, pDef); return result; }
 
       // Returns pointer to null terminated string or NULL if the value is not a string.
@@ -980,7 +981,7 @@ namespace pjson
             PJSON_ASSERT(0);
             return -1;
          }
-         
+
          //const uint n = get_array().size();
          const uint n = get_object().size();
          const key_value_vec_t &obj = get_object();
@@ -997,47 +998,47 @@ namespace pjson
          return find_key(pName) >= 0;
       }
 
-      inline bool find_bool(const char *pName, bool def = false) const 
-      { 
+      inline bool find_bool(const char *pName, bool def = false) const
+      {
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_bool(def);
       }
-      
-      inline int find_int32(const char *pName, int32 def = 0) const 
-      {  
+
+      inline int find_int32(const char *pName, int32 def = 0) const
+      {
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_int32(def);
       }
-      
-      inline int64 find_int64(const char *pName, int64 def = 0) const 
-      { 
+
+      inline int64 find_int64(const char *pName, int64 def = 0) const
+      {
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_int64(def);
       }
-      
-      inline float find_float(const char *pName, float def = 0.0f) const 
-      { 
+
+      inline float find_float(const char *pName, float def = 0.0f) const
+      {
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_float(def);
       }
 
-      inline double find_double(const char *pName, double def = 0.0f) const 
-      { 
+      inline double find_double(const char *pName, double def = 0.0f) const
+      {
          int index = find_key(pName);
          return (index < 0) ? def : get_object()[index].get_value().as_double(def);
       }
-      
-      inline const char* find_string_ptr(const char *pName, const char *pDef = "") const 
-      { 
+
+      inline const char* find_string_ptr(const char *pName, const char *pDef = "") const
+      {
          int index = find_key(pName);
-         if (index < 0) 
+         if (index < 0)
             return pDef;
          const char *p = get_object()[index].get_value().as_string_ptr();
          return p ? p : pDef;
       }
 
       inline std::string find_string_obj(const char* pName, const char* pDef = "") const { return find_string_ptr(pName, pDef); }
-     
+
       inline       value_variant& get_value_at_index(uint index)        { PJSON_ASSERT(is_object_or_array()); return is_object() ? get_object()[index].get_value() : get_array()[index]; }
       inline const value_variant& get_value_at_index(uint index) const  { PJSON_ASSERT(is_object_or_array()); return is_object() ? get_object()[index].get_value() : get_array()[index]; }
 
@@ -1047,7 +1048,7 @@ namespace pjson
       inline json_value_type_t get_value_type_at_index(uint index) const { return get_value_at_index(index).get_type(); }
 
       inline bool is_child_at_index(uint index) const { return get_value_type_at_index(index) >= cJSONValueTypeArray; }
-      
+
       inline bool has_children() const
       {
          if (is_object())
@@ -1068,7 +1069,7 @@ namespace pjson
          }
          return false;
       }
-      
+
       inline void clear_object_or_array()
       {
          PJSON_ASSERT(is_object_or_array());
@@ -1089,7 +1090,7 @@ namespace pjson
 
       inline void set_key_name_at_index(uint index, const char *pKey, uint key_len, pool_allocator& alloc)
       {
-         PJSON_ASSERT(is_object()); 
+         PJSON_ASSERT(is_object());
          string_vec_t& str = get_object()[index].get_key();
          str.assign(pKey, key_len + 1, alloc);
       }
@@ -1098,7 +1099,7 @@ namespace pjson
       {
          set_key_name_at_index(index, pKey, static_cast<uint>(strlen(pKey)) + 1, alloc);
       }
-      
+
       inline value_variant& add_key_value(const char* pKey, uint key_len, const value_variant& val, pool_allocator& alloc)
       {
          PJSON_ASSERT(is_object());
@@ -1120,7 +1121,7 @@ namespace pjson
          get_array().enlarge_no_construct(1, alloc)->construct(val, alloc);
          return *this;
       }
-      
+
       bool serialize(char* pBuf, size_t buf_size, size_t* pSize = NULL, bool formatted = true, bool null_terminate = true) const
       {
          serialize_helper<char_buf_print_helper> helper(pBuf, buf_size);
@@ -1136,7 +1137,7 @@ namespace pjson
          serialize_internal(helper, formatted, null_terminate, 0);
          return true;
       }
-      
+
    protected:
       // Manual constructor
       inline void construct(json_value_type_t type)
@@ -1191,6 +1192,14 @@ namespace pjson
                val = (atof(get_string_ptr()) != 0.0f);
                return true;
             }
+
+            case cJSONValueTypeNull:
+            case cJSONValueTypeArray:
+            case cJSONValueTypeObject:
+            {
+                // no conversion
+                break;
+            }
          }
          val = def;
          return false;
@@ -1236,12 +1245,23 @@ namespace pjson
                   return true;
                }
                double flVal = floor(atof(get_string_ptr()));
-               if ((flVal >= std::numeric_limits<int64>::min()) && (flVal <= std::numeric_limits<int64>::max()))
+               // Before max was casted to double, this was tripping under clang:
+               // implicit conversion from 'long long' to 'double' changes value from 9223372036854775807 to 9223372036854775808 [-Wimplicit-const-int-float-conversion]
+               if ((flVal >= std::numeric_limits<int64>::min()) &&
+                   (flVal <= static_cast<double>(std::numeric_limits<int64>::max())))
                {
                   val = static_cast<int64>(flVal);
                   return true;
                }
                break;
+            }
+
+            case cJSONValueTypeNull:
+            case cJSONValueTypeArray:
+            case cJSONValueTypeObject:
+            {
+                // no conversion
+                break;
             }
          }
          val = def;
@@ -1278,6 +1298,14 @@ namespace pjson
                val = static_cast<float>(atof(get_string_ptr()));
                return true;
             }
+
+            case cJSONValueTypeNull:
+            case cJSONValueTypeArray:
+            case cJSONValueTypeObject:
+            {
+                // no conversion
+                break;
+            }
          }
          val = def;
          return false;
@@ -1313,11 +1341,19 @@ namespace pjson
                val = atof(get_string_ptr());
                return true;
             }
+
+            case cJSONValueTypeNull:
+            case cJSONValueTypeArray:
+            case cJSONValueTypeObject:
+            {
+                // no conversion
+                break;
+            }
          }
          val = def;
          return false;
       }
-      
+
       inline bool convert_to_string(char* pBuf, size_t buf_size) const
       {
          switch (m_type)
@@ -1339,22 +1375,22 @@ namespace pjson
             {
                char* pDst = pBuf;
                int64 n = m_data.m_nVal;
-               
+
                uint64 s = static_cast<uint64>(n >> 63);
                *pDst = '-';
                pDst -= s;
                n = (n ^ s) - s;
-               
+
                char* pLeft = pDst;
 
-               do 
+               do
                {
                   *pDst++ = '0' + (n % 10);
                   n /= 10;
                } while (n);
-               
+
                *pDst = '\0';
-                              
+
                do
                {
                   char c = *--pDst;
@@ -1366,6 +1402,14 @@ namespace pjson
             case cJSONValueTypeDouble:
             {
                return 0 == _gcvt_s(pBuf, buf_size, m_data.m_flVal, 15);
+            }
+
+            case cJSONValueTypeString:
+            case cJSONValueTypeArray:
+            case cJSONValueTypeObject:
+            {
+                // no conversion
+                break;
             }
          }
          return false;
@@ -1395,7 +1439,7 @@ namespace pjson
       {
          char buf[64];
          const uint size = get_array().size();
-         
+
          if (!size)
          {
             static const char* g_empty_object_strs[4] = { "[]", "[ ]", "{}", "{ }" };
@@ -1409,7 +1453,7 @@ namespace pjson
             out.puts("[ ", 2);
 
             const uint cMaxLineLen = 100;
-            
+
             for (uint i = 0; i < size; i++)
             {
                const value_variant& child_val = get_value_at_index(i);
@@ -1494,7 +1538,7 @@ namespace pjson
             if (formatted)
                out.print_char('\n');
          }
-         else 
+         else
          {
             if (is_string())
                out.print_escaped(get_string());
@@ -1508,7 +1552,7 @@ namespace pjson
          if (null_terminate)
             out.print_char('\0');
       }
-      
+
       template<typename T> value_variant(T*);
       template<typename T> value_variant(const T*);
       template<typename T> value_variant& operator= (T*);
@@ -1516,20 +1560,20 @@ namespace pjson
    };
    #pragma pack(pop)
 
-   inline key_value_t::key_value_t(const key_value_t& other, pool_allocator& alloc) : 
+   inline key_value_t::key_value_t(const key_value_t& other, pool_allocator& alloc) :
       m_key(other.get_key(), alloc)
-   { 
+   {
       get_value().construct(other.get_value(), alloc);
    }
 
-   inline void key_value_t::assign(const key_value_t& src, pool_allocator& alloc) 
-   { 
-      get_key().assign(src.get_key(), alloc); 
-      get_value().assign(src.get_value(), alloc); 
+   inline void key_value_t::assign(const key_value_t& src, pool_allocator& alloc)
+   {
+      get_key().assign(src.get_key(), alloc);
+      get_value().assign(src.get_value(), alloc);
    }
 
    // ---- class error_info
-   
+
    class error_info
    {
    public:
@@ -1541,11 +1585,11 @@ namespace pjson
    };
 
    // ---- class growable_stack
-      
+
    class growable_stack
    {
    public:
-      inline growable_stack(uint initial_size) : 
+      inline growable_stack(uint initial_size) :
          m_pBuf(NULL),
          m_size(initial_size),
          m_ofs(0)
@@ -1581,11 +1625,11 @@ namespace pjson
          const size_t bytes_needed = sizeof(T) * num;
          T* pResult = reinterpret_cast<T*>(m_pBuf + m_ofs);
          m_ofs += bytes_needed;
-         
+
          if (m_ofs > m_size)
          {
             m_ofs -= bytes_needed;
-            
+
             m_size = PJSON_MAX(1, m_size * 2);
             while(m_size <= (m_ofs + bytes_needed))
                m_size *= 2;
@@ -1594,7 +1638,7 @@ namespace pjson
             pResult = reinterpret_cast<T*>(m_pBuf + m_ofs);
             m_ofs += bytes_needed;
          }
-         
+
          PJSON_ASSERT(m_ofs <= m_size);
          return pResult;
       }
@@ -1607,7 +1651,7 @@ namespace pjson
          m_ofs -= bytes_needed;
          return reinterpret_cast<T*>(m_pBuf + m_ofs);
       }
-      
+
    private:
       uint8* m_pBuf;
       size_t m_size;
@@ -1615,7 +1659,7 @@ namespace pjson
    };
 
    // ---- class document
-      
+
    class document : public value_variant
    {
       document(const document&);
@@ -1648,14 +1692,14 @@ namespace pjson
          m_parse_stats.clear();
 #endif
       }
-      
+
       // The buffer must be null terminated, and must stay resident in memory as long as this document lasts. The buffer will be modified.
       bool deserialize_in_place(char* pStr)
       {
          return deserialize_start((uint8*)pStr);
       }
-      
-#if PJSON_PARSE_STATS      
+
+#if PJSON_PARSE_STATS
       struct parse_stats_t
       {
          size_t m_num_string, m_num_string_chars;
@@ -1676,7 +1720,7 @@ namespace pjson
 #endif
 
    const error_info& get_error_info() const { return m_error_info; }
-           
+
    private:
       pool_allocator m_allocator;
       uint m_initial_stack_size;
@@ -1684,15 +1728,15 @@ namespace pjson
       error_info m_error_info;
       const uint8* m_pStart;
       const uint8* m_pStr;
-      
-      inline bool set_error(const uint8* pStr, const char* pMsg) 
-      { 
-         m_pStr = pStr; 
-         m_error_info.set(m_pStr - m_pStart, pMsg); 
-         return false; 
+
+      inline bool set_error(const uint8* pStr, const char* pMsg)
+      {
+         m_pStr = pStr;
+         m_error_info.set(m_pStr - m_pStart, pMsg);
+         return false;
       }
 
-#if PJSON_PARSE_STATS      
+#if PJSON_PARSE_STATS
       parse_stats_t m_parse_stats;
 #endif
 
@@ -1703,7 +1747,7 @@ namespace pjson
    #define PJSON_INCREMENT_STAT(x) do { } while(0)
    #define PJSON_UPDATE_STAT(x, n) do { } while(0)
 #endif
-      
+
 #define PJSON_SKIP_WHITESPACE \
    while (globals::s_parse_flags[*pStr] & 4) \
    { \
@@ -1726,7 +1770,7 @@ namespace pjson
          {
             if ((c == ' ') || (c == '\t'))
             {
-               do 
+               do
                {
                   PJSON_INCREMENT_STAT(m_num_whitespace_chars);
                } while (*++p == c);
@@ -1751,27 +1795,27 @@ namespace pjson
          }
          return p;
       }
-            
+
       bool deserialize_internal()
       {
          static const uint8 g_utf8_first_byte[7] = { 0x00, 0x00, 0xC0, 0xE0, 0xF0, 0xF8, 0xFC };
-         
+
          m_stack.reset();
          memcpy(m_stack.push<value_variant>(1), static_cast<value_variant*>(this), sizeof(value_variant));
 
          const uint8* pStr = ++m_pStr;
          PJSON_UPDATE_STAT(m_num_control, 1);
-                  
+
          bool cur_is_object = is_object();
          uint8 cur_end_char = get_end_char();
          uint cur_num_elements = 0;
-                  
+
          for ( ; ; )
          {
             PJSON_SKIP_WHITESPACE;
 
             uint8 c = *pStr;
-            
+
             if (c == ',')
             {
                if (!cur_num_elements)
@@ -1784,12 +1828,12 @@ namespace pjson
             }
             else if ((cur_num_elements) && (c != cur_end_char))
                return set_error(pStr, "Expected comma or object/array end character");
-            
+
             while (c == cur_end_char)
             {
                PJSON_UPDATE_STAT(m_num_control, 1);
                ++pStr;
-                              
+
                for ( ; ; )
                {
                   uint n = cur_num_elements, num_bytes = cur_num_elements * (cur_is_object ? sizeof(key_value_t) : sizeof(value_variant));
@@ -1797,7 +1841,7 @@ namespace pjson
                   PJSON_INCREMENT_STAT(m_num_value_pop);
                   PJSON_UPDATE_STAT(m_value_pop_bytes, num_bytes);
 
-                  // The top of the stack (after popping the current array/object) could contain either a value_variant (if cur_is_object is set), 
+                  // The top of the stack (after popping the current array/object) could contain either a value_variant (if cur_is_object is set),
                   // or a key_value_t, which ends in a value_variant. So all we need to do is look at the very end, which always has a value_variant.
                   value_variant* pCur_variant = m_stack.get_top_obj<value_variant>();
 
@@ -1805,12 +1849,12 @@ namespace pjson
                   cur_is_object = (arr.m_p != NULL);
                   cur_end_char = cur_is_object ? '}' : ']';
                   cur_num_elements = arr.m_size;
-                  
+
                   arr.m_size = n;
                   arr.m_p = NULL;
                   if (num_bytes)
                      memcpy(arr.m_p = static_cast<value_variant*>(m_allocator.Alloc(num_bytes)), pSrc, num_bytes);
-                  
+
                   if (m_stack.get_ofs() <= sizeof(value_variant))
                   {
                      PJSON_ASSERT(m_stack.get_ofs() == sizeof(value_variant));
@@ -1818,20 +1862,20 @@ namespace pjson
                      m_pStr = pStr;
                      return true;
                   }
-                                    
-                  PJSON_SKIP_WHITESPACE;                  
+
+                  PJSON_SKIP_WHITESPACE;
 
                   if (*pStr == ',')
                   {
                      PJSON_UPDATE_STAT(m_num_control, 1);
                      ++pStr;
-                     
+
                      PJSON_SKIP_WHITESPACE;
 
                      c = *pStr;
                      break;
                   }
-                                    
+
                   if (*pStr++ != cur_end_char)
                      return set_error(pStr, "Unexpected character within object or array");
                   PJSON_UPDATE_STAT(m_num_control, 1);
@@ -1841,14 +1885,14 @@ namespace pjson
             ++cur_num_elements;
 
             value_variant* pChild_variant;
-            
+
             if (!cur_is_object)
                pChild_variant = m_stack.push<value_variant>(1);
             else
             {
                if (c != '\"')
                   return set_error(pStr, "Expected quoted key string");
-               
+
                ++pStr; PJSON_INCREMENT_STAT(m_num_string); PJSON_INCREMENT_STAT(m_num_string_chars);
 
                uint8* pBuf = (uint8*)pStr;
@@ -1868,7 +1912,7 @@ namespace pjson
 
                uint8* pDst = (uint8*)pStr - 1;
 
-               if (c != '\"') PJSON_INCREMENT_STAT(m_num_escape_breaks); 
+               if (c != '\"') PJSON_INCREMENT_STAT(m_num_escape_breaks);
 
                while (c != '\"')
                {
@@ -1878,7 +1922,7 @@ namespace pjson
                   c = *pStr++; PJSON_INCREMENT_STAT(m_num_string_chars);
                   if (c == 'u')
                   {
-                     PJSON_INCREMENT_STAT(m_num_unicode_escapes); 
+                     PJSON_INCREMENT_STAT(m_num_unicode_escapes);
                      uint u = 0;
                      for (uint i = 0; i < 4; i++)
                      {
@@ -1898,10 +1942,10 @@ namespace pjson
 
                      pDst += len;
                      uint8* q = pDst;
-                     switch (len) 
+                     switch (len)
                      {
-                        case 3: *--q = static_cast<uint8>((u | 0x80) & 0xBF); u >>= 6; // falls through
-                        case 2: *--q = static_cast<uint8>((u | 0x80) & 0xBF); u >>= 6; // falls through
+                        case 3: *--q = static_cast<uint8>((u | 0x80) & 0xBF); u >>= 6; [[fallthrough]];
+                        case 2: *--q = static_cast<uint8>((u | 0x80) & 0xBF); u >>= 6; [[fallthrough]];
                         case 1: *--q = static_cast<uint8>(u | g_utf8_first_byte[len]);
                      }
                   }
@@ -1925,26 +1969,26 @@ namespace pjson
                   c = *pStr++; PJSON_INCREMENT_STAT(m_num_string_chars);
                   while (!(globals::s_parse_flags[c] & 1))
                   {
-                     pDst[0] = c; 
+                     pDst[0] = c;
                      c = pStr[0]; if (globals::s_parse_flags[c] & 1) { ++pDst; ++pStr; PJSON_INCREMENT_STAT(m_num_string_chars); break; }
-                     pDst[1] = c; 
+                     pDst[1] = c;
                      c = pStr[1]; if (globals::s_parse_flags[c] & 1) { pDst += 2; pStr += 2; PJSON_UPDATE_STAT(m_num_string_chars, 2); break; }
-                     pDst[2] = c; 
+                     pDst[2] = c;
                      c = pStr[2]; if (globals::s_parse_flags[c] & 1) { pDst += 3; pStr += 3; PJSON_UPDATE_STAT(m_num_string_chars, 3); break; }
-                     pDst[3] = c; 
+                     pDst[3] = c;
                      pDst += 4;
                      c = pStr[3];
                      pStr += 4; PJSON_UPDATE_STAT(m_num_string_chars, 4);
                   }
                }
-               
+
                *pDst++ = '\0';
 
                key_value_t* pKey_value = m_stack.push<key_value_t>(1);
                pChild_variant = &pKey_value->get_value();
                pKey_value->get_key().m_p = (char*)pBuf;
                pKey_value->get_key().m_size = static_cast<uint>(pDst - pBuf);
-               
+
                PJSON_SKIP_WHITESPACE;
 
                if (*pStr != ':')
@@ -1952,10 +1996,10 @@ namespace pjson
 
                ++pStr; PJSON_INCREMENT_STAT(m_num_control);
                PJSON_SKIP_WHITESPACE;
-               
+
                c = *pStr;
             }
-                                                
+
             switch (c)
             {
                case '{':
@@ -1966,7 +2010,7 @@ namespace pjson
                   pChild_variant->m_type = (c == '{') ? cJSONValueTypeObject : cJSONValueTypeArray;
                   pChild_variant->m_data.m_object.m_size = cur_num_elements;
                   pChild_variant->m_data.m_object.m_p = (key_value_t*)cur_is_object;
-                  
+
                   cur_is_object = (c == '{');
                   cur_num_elements = 0;
                   cur_end_char = c + 2;
@@ -1975,9 +2019,9 @@ namespace pjson
                case '\"':
                {
                   ++pStr; PJSON_INCREMENT_STAT(m_num_string); PJSON_INCREMENT_STAT(m_num_string_chars);
-                  
+
                   uint8* pBuf = (uint8*)pStr;
-                  
+
                   c = *pStr++; PJSON_INCREMENT_STAT(m_num_string_chars);
                   if (!(globals::s_parse_flags[c] & 1))
                   {
@@ -1993,17 +2037,17 @@ namespace pjson
 
                   uint8* pDst = (uint8*)pStr - 1;
 
-                  if (c != '\"') PJSON_INCREMENT_STAT(m_num_escape_breaks); 
+                  if (c != '\"') PJSON_INCREMENT_STAT(m_num_escape_breaks);
 
                   while (c != '\"')
                   {
                      if (globals::s_parse_flags[c] & 2)
                         return set_error(pStr, "Missing end quote");
-                     
+
                      c = *pStr++; PJSON_INCREMENT_STAT(m_num_string_chars);
                      if (c == 'u')
                      {
-                        PJSON_INCREMENT_STAT(m_num_unicode_escapes); 
+                        PJSON_INCREMENT_STAT(m_num_unicode_escapes);
                         uint u = 0;
                         for (uint i = 0; i < 4; i++)
                         {
@@ -2023,10 +2067,10 @@ namespace pjson
 
                         pDst += len;
                         uint8* q = pDst;
-                        switch (len) 
+                        switch (len)
                         {
-                           case 3: *--q = static_cast<uint8>((u | 0x80) & 0xBF); u >>= 6; // falls through
-                           case 2: *--q = static_cast<uint8>((u | 0x80) & 0xBF); u >>= 6; // falls through
+                           case 3: *--q = static_cast<uint8>((u | 0x80) & 0xBF); u >>= 6; [[fallthrough]];
+                           case 2: *--q = static_cast<uint8>((u | 0x80) & 0xBF); u >>= 6; [[fallthrough]];
                            case 1: *--q = static_cast<uint8>(u | g_utf8_first_byte[len]);
                         }
                      }
@@ -2050,16 +2094,16 @@ namespace pjson
                      c = *pStr++; PJSON_INCREMENT_STAT(m_num_string_chars);
                      while (!(globals::s_parse_flags[c] & 1))
                      {
-                        pDst[0] = c; 
+                        pDst[0] = c;
                         c = pStr[0]; if (globals::s_parse_flags[c] & 1) { ++pDst; ++pStr; PJSON_INCREMENT_STAT(m_num_string_chars); break; }
-                        pDst[1] = c; 
+                        pDst[1] = c;
                         c = pStr[1]; if (globals::s_parse_flags[c] & 1) { pDst += 2; pStr += 2; PJSON_UPDATE_STAT(m_num_string_chars, 2); break; }
-                        pDst[2] = c; 
+                        pDst[2] = c;
                         c = pStr[2]; if (globals::s_parse_flags[c] & 1) { pDst += 3; pStr += 3; PJSON_UPDATE_STAT(m_num_string_chars, 3); break; }
-                        pDst[3] = c; 
+                        pDst[3] = c;
                         pDst += 4;
                         c = pStr[3];
-                        pStr += 4; PJSON_UPDATE_STAT(m_num_string_chars, 4); 
+                        pStr += 4; PJSON_UPDATE_STAT(m_num_string_chars, 4);
                      }
                   }
 
@@ -2073,11 +2117,11 @@ namespace pjson
 
                   break;
                }
-               case 'n': 
+               case 'n':
                {
                   if ((pStr[1] == 'u') && (pStr[2] == 'l') && (pStr[3] == 'l'))
                   {
-                     pStr += 4; PJSON_UPDATE_STAT(m_num_bool_chars, 4); 
+                     pStr += 4; PJSON_UPDATE_STAT(m_num_bool_chars, 4);
                      pChild_variant->construct(cJSONValueTypeNull);
                   }
                   else
@@ -2088,7 +2132,7 @@ namespace pjson
                {
                   if ((pStr[1] == 'r') && (pStr[2] == 'u') && (pStr[3] == 'e'))
                   {
-                     pStr += 4; PJSON_UPDATE_STAT(m_num_bool_chars, 4); 
+                     pStr += 4; PJSON_UPDATE_STAT(m_num_bool_chars, 4);
                      pChild_variant->construct(cJSONValueTypeBool);
                      pChild_variant->m_data.m_nVal = 1;
                   }
@@ -2100,7 +2144,7 @@ namespace pjson
                {
                   if ((pStr[1] == 'a') && (pStr[2] == 'l') && (pStr[3] == 's') && (pStr[4] == 'e'))
                   {
-                     pStr += 5; PJSON_UPDATE_STAT(m_num_bool_chars, 5); 
+                     pStr += 5; PJSON_UPDATE_STAT(m_num_bool_chars, 5);
                      pChild_variant->construct(cJSONValueTypeBool);
                   }
                   else
@@ -2110,37 +2154,37 @@ namespace pjson
                case '0': case '1': case '2': case '3': case '4': case '5':
                case '6': case '7': case '8': case '9': case '-': case '.':
                {
-                  PJSON_INCREMENT_STAT(m_num_numeric); 
-                  if (c == '-') PJSON_INCREMENT_STAT(m_num_numeric_chars); 
-                  
+                  PJSON_INCREMENT_STAT(m_num_numeric);
+                  if (c == '-') PJSON_INCREMENT_STAT(m_num_numeric_chars);
+
                   uint32 n32 = 0;
                   int is_neg = (c == '-');
                   c = *(pStr += is_neg);
-                  
-                  if (globals::s_parse_flags[c] & 8) 
-                  { 
-                     n32 = c - '0'; c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1); 
-                     if (globals::s_parse_flags[c] & 8) 
-                     { 
-                        n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1); 
-                        if (globals::s_parse_flags[c] & 8) 
-                        { 
-                           n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1); 
-                           if (globals::s_parse_flags[c] & 8) 
-                           { 
-                              n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1); 
-                              if (globals::s_parse_flags[c] & 8) 
-                              { 
-                                 n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1); 
-                                 if (globals::s_parse_flags[c] & 8) 
-                                 { 
-                                    n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1); 
-                                    if (globals::s_parse_flags[c] & 8) 
-                                    { 
-                                       n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1); 
-                                       if (globals::s_parse_flags[c] & 8) 
-                                       { 
-                                          n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1); 
+
+                  if (globals::s_parse_flags[c] & 8)
+                  {
+                     n32 = c - '0'; c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1);
+                     if (globals::s_parse_flags[c] & 8)
+                     {
+                        n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1);
+                        if (globals::s_parse_flags[c] & 8)
+                        {
+                           n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1);
+                           if (globals::s_parse_flags[c] & 8)
+                           {
+                              n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1);
+                              if (globals::s_parse_flags[c] & 8)
+                              {
+                                 n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1);
+                                 if (globals::s_parse_flags[c] & 8)
+                                 {
+                                    n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1);
+                                    if (globals::s_parse_flags[c] & 8)
+                                    {
+                                       n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1);
+                                       if (globals::s_parse_flags[c] & 8)
+                                       {
+                                          n32 = (n32 * 10U) + (c - '0'); c = *++pStr; PJSON_UPDATE_STAT(m_num_numeric_chars, 1);
                                        }
                                     }
                                  }
@@ -2158,16 +2202,16 @@ namespace pjson
                   else
                   {
                      uint64 n64 = n32;
-                     while (globals::s_parse_flags[c] & 8) 
+                     while (globals::s_parse_flags[c] & 8)
                      {
                         n64 = n64 * 10U + (c - '0'); PJSON_INCREMENT_STAT(m_num_numeric_chars); c = *++pStr;
-                        
+
                         if ((!(globals::s_parse_flags[c] & 8)) || (n64 > 0xCCCCCCCCCCCCCCBULL))
                            break;
-                        
+
                         n64 = n64 * 10U + (c - '0'); PJSON_INCREMENT_STAT(m_num_numeric_chars); c = *++pStr;
 
-                        if (n64 > 0xCCCCCCCCCCCCCCBULL) 
+                        if (n64 > 0xCCCCCCCCCCCCCCBULL)
                            break;
                      }
 
@@ -2181,14 +2225,14 @@ namespace pjson
                         double f = static_cast<double>(n64);
                         int scale = 0, escalesign = 1, escale = 0;
 
-                        while (globals::s_parse_flags[c] & 8) 
+                        while (globals::s_parse_flags[c] & 8)
                         {
                            f = f * 10.0f + (c - '0'); PJSON_INCREMENT_STAT(m_num_numeric_chars); c = *++pStr;
-                           if (!(globals::s_parse_flags[c] & 8)) 
+                           if (!(globals::s_parse_flags[c] & 8))
                               break;
-                           
+
                            f = f * 10.0f + (c - '0'); PJSON_INCREMENT_STAT(m_num_numeric_chars); c = *++pStr;
-                        } 
+                        }
 
                         if (c == '.')
                         {
@@ -2197,16 +2241,16 @@ namespace pjson
                            {
                               scale--; f = f * 10.0f + (c - '0'); PJSON_INCREMENT_STAT(m_num_numeric_chars); c = *++pStr;
 
-                              if (!(globals::s_parse_flags[c] & 8)) 
+                              if (!(globals::s_parse_flags[c] & 8))
                                  break;
-                              
+
                               scale--; f = f * 10.0f + (c - '0'); PJSON_INCREMENT_STAT(m_num_numeric_chars); c = *++pStr;
                            }
                         }
 
                         if ((c == 'e') || (c == 'E'))
                         {
-                           PJSON_INCREMENT_STAT(m_num_numeric_chars); 
+                           PJSON_INCREMENT_STAT(m_num_numeric_chars);
                            c = *++pStr;
                            if (c == '-')
                            {
@@ -2242,7 +2286,7 @@ namespace pjson
                         pChild_variant->m_data.m_flVal = v;
                      }
                   }
-                  
+
                   break;
                }
                case '\0':
@@ -2250,7 +2294,7 @@ namespace pjson
                default:
                   return set_error(pStr, "Unrecognized character");
             }
-         } 
+         }
       }
 
       bool deserialize_start(uint8* pStr)
@@ -2264,9 +2308,9 @@ namespace pjson
          m_allocator.reset();
 
          m_pStart = pStr;
-         
+
          m_pStr = skip_whitespace(pStr);
-         
+
          if (!*m_pStr)
             return set_error(m_pStr, "Nothing to deserialize");
 
