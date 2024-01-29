@@ -1,4 +1,6 @@
-# UFO Event Timeline Processing Tool
+# UFO Event Timeline Processing Tool and UAP Event Dataset
+
+To paraphrase [Charles Fort](https://www.forteana.org/fortsbooks.html), this is [*The Dataset of the Damned*](https://archive.org/details/bookdamnedbycha00fortgoog). The included C/C++ command line tool processes it from the original source formats to a common and simple data format (arrays of JSON objects+Markdown for rich text and URL's), making it usable by other applications and tools, or for AI training purposes.
 
 ## Copyrights:
 
