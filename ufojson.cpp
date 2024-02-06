@@ -11,6 +11,7 @@
 
 //-------------------------------------------------------------------
 
+[[maybe_unused]] // currently unused...
 static void detect_bad_urls()
 {
     string_vec unique_urls;
@@ -112,7 +113,7 @@ static bool invoke_openai(const char* pPrompt_text, json& result)
         return false;
     }
 
-    return true;
+    return success;
 }
 
 static bool invoke_openai(const timeline_event &event, const char *pPrompt_text, json& result)
@@ -125,7 +126,7 @@ static bool invoke_openai(const timeline_event &event, const char *pPrompt_text,
 
     if ((desc.size() >= 2) && (desc.back() == '('))
         desc.pop_back();
-    
+
     const uint32_t MAX_SIZE = 4096; // ~1024 tokens
     if (desc.size() > MAX_SIZE)
     {
@@ -143,7 +144,7 @@ static bool invoke_openai(const timeline_event &event, const char *pPrompt_text,
     }
 
     uprintf("Desc: %s\n\n", desc.c_str());
-        
+
     std::string prompt_str(pPrompt_text);
     prompt_str += desc;
     prompt_str += "\"";
@@ -151,12 +152,13 @@ static bool invoke_openai(const timeline_event &event, const char *pPrompt_text,
     return invoke_openai(prompt_str.c_str(), result);
 }
 
+[[maybe_unused]] // currently unused...
 static void process_timeline_using_openai(const ufo_timeline &timeline)
 {
     bool utf8_flag;
     json existing_results;
     load_json_object("openai_results.json", utf8_flag, existing_results);
-        
+
     json final_result = json::object();
 
     final_result["results"] = json::array();
@@ -251,6 +253,7 @@ static void process_timeline_using_openai(const ufo_timeline &timeline)
     uprintf("Success\n");
 }
 
+[[maybe_unused]] // currently unused...
 static void process_timeline_using_python(const ufo_timeline& timeline)
 {
     json final_result = json::object();
@@ -275,7 +278,7 @@ static void process_timeline_using_python(const ufo_timeline& timeline)
         remove("locations.json");
 
         Sleep(50);
-                
+
         int status = system("python.exe pextractlocs.py");
         if (status != EXIT_SUCCESS)
             panic("Failed running python.exe");
@@ -295,7 +298,7 @@ static void process_timeline_using_python(const ufo_timeline& timeline)
             if (it->is_string())
                 uprintf("%s\n", it->get<std::string>().c_str());
         }
-                
+
         json new_obj = json::object();
         new_obj.emplace("index", i);
         new_obj.emplace("date", event.m_date_str);
@@ -348,6 +351,7 @@ static bool is_important_country(const std::string& s)
     return (s == "US") || (s == "GB") || (s == "AU") || (s == "CA") || (s == "NZ") || (s == "FR") || (s == "DE") || (s == "BR") || (s == "IT");
 }
 
+[[maybe_unused]] // currently unused...
 static bool is_favored_country(const std::string& s)
 {
     return (s == "US") || (s == "GB") || (s == "AU") || (s == "CA") || (s == "NZ") || (s == "FR") || (s == "DE");
@@ -375,11 +379,13 @@ static int get_favored_country_rank(const std::string& s)
     return 7;
 }
 
+[[maybe_unused]] // currently unused...
 static bool is_country_fcode(const std::string &fcode)
 {
     return ((fcode == "PCL") || (fcode == "PCLD") || (fcode == "PCLF") || (fcode == "PCLH") || (fcode == "PCLI") || (fcode == "PCLIX") || (fcode == "PCLS") || (fcode == "TERR"));
 }
 
+[[maybe_unused]] // currently unused...
 static void process_geodata()
 {
     string_vec lines;
@@ -395,7 +401,7 @@ static void process_geodata()
     geonames.resize(13000000);
 
     uint32_t total_geonames = 0;
-    
+
     uint32_t max_col_sizes[gn_total];
     clear_obj(max_col_sizes);
 
@@ -405,7 +411,7 @@ static void process_geodata()
     uint32_t total_accepted = 0;
 
     json output_json = json::array();
-        
+
     for (const auto& str : lines)
     {
         tab_locs.resize(0);
@@ -444,7 +450,7 @@ static void process_geodata()
 #endif
 
             max_col_sizes[i] = std::max(max_col_sizes[i], (uint32_t)g.m_fields[i].size());
-            
+
             cur_ofs = tab_locs[i] + 1;
         }
 
@@ -453,7 +459,7 @@ static void process_geodata()
         if (g.m_fields[gn_population].size())
         {
             int pop = atoi(g.m_fields[gn_population].c_str());
-            
+
             const int MIN_POP = 10;
             if (pop >= MIN_POP)
                 has_min_pop = true;
@@ -468,7 +474,7 @@ static void process_geodata()
         switch (feature_class)
         {
         case 'T': // mountain,hill,rock,...
-            if ((code == "MT") || (code == "MTS") || (code == "ATOL") || (code == "CAPE") || (code == "CNYN") || (code == "DSRT") || 
+            if ((code == "MT") || (code == "MTS") || (code == "ATOL") || (code == "CAPE") || (code == "CNYN") || (code == "DSRT") ||
                 (code == "ISL") || (code == "ISLS") || (code == "PEN") || (code == "VALS") || (code == "VALX"))
             {
                 accept_flag = true;
@@ -477,7 +483,7 @@ static void process_geodata()
         case 'S': // spot, building, farm
             if ((code == "AIRB") || (code == "AIRF") || (code == "AIRP") || (code == "AIRQ") || (code == "BRKS") || (code == "CTRA") ||
                 (code == "CTRS") || (code == "INSM") || (code == "ITTR") || (code == "PSN") || (code == "STNE") || (code == "USGE") ||
-                (code == "OBS") || (code == "OBSR") || (code == "MFGM") || (code == "FT") || (code == "ASTR") || (code == "FCL") || 
+                (code == "OBS") || (code == "OBSR") || (code == "MFGM") || (code == "FT") || (code == "ASTR") || (code == "FCL") ||
                 (code == "PS") || (code == "PSH") || (code == "STNB") || (code == "STNS") || (code == "UNIV"))
             {
                 accept_flag = true;
@@ -495,6 +501,7 @@ static void process_geodata()
             break;
         case 'H': // stream, lake, ...
             if ((code == "BAY") || (code == "BAYS") || (code == "CHN") || (code == "CHNL") || (code == "CHNM") || (code == "CHNN") ||
+                // #REVIEW "CNL" is repeated twice, was something else meant here?
                 (code == "CNL") || (code == "CNL") || (code == "LK") || (code == "LKN") || (code == "LKS") || (code == "RSV") || (code == "SD") || (code == "STRT"))
             {
                 accept_flag = true;
@@ -527,7 +534,7 @@ static void process_geodata()
             obj["id"] = g.m_fields[gn_geonameid].size() ? atoi(g.m_fields[gn_geonameid].c_str()) : -1;
             obj["name"] = g.m_fields[gn_name];
             obj["plainname"] = g.m_fields[gn_asciiname];
-            
+
             if (g.m_fields[gn_alternatenames].size())
                 obj["altnames"] = g.m_fields[gn_alternatenames];
 
@@ -539,10 +546,10 @@ static void process_geodata()
 
             if (g.m_fields[gn_country_code].size())
                 obj["ccode"] = g.m_fields[gn_country_code];
-            
+
             if (g.m_fields[gn_cc2].size())
                 obj["cc2"] = g.m_fields[gn_cc2];
-            
+
             if (g.m_fields[gn_admin1_code].size())
                 obj["a1"] = g.m_fields[gn_admin1_code];
 
@@ -572,7 +579,7 @@ static void process_geodata()
         {
             rejected_class_counts[feature_class] = rejected_class_counts[feature_class] + 1;
         }
-        
+
         total_geonames++;
 
         if ((total_geonames % 1000000) == 0)
@@ -596,11 +603,12 @@ static void process_geodata()
         uprintf("%c %u\n", s.first, s.second);
 }
 
+#if 0 // unused code...
 static const struct
 {
     const char* m_pCode;
     int m_level;
-} g_geocode_levels[] = 
+} g_geocode_levels[] =
 {
     { "ADM1", 1 },
     { "ADM1H", 1 },
@@ -643,6 +651,7 @@ static int find_geocode_admin_level(const char* pCode)
 
     return -1;
 }
+#endif // 0 // unused code...
 
 struct country_info
 {
@@ -707,12 +716,12 @@ public:
         load_hierarchy();
 
         uprintf("Reading world_features.json\n");
-                
+
         if (!read_text_file("world_features.json", m_filebuf, nullptr))
             panic("Failed reading file");
 
         uprintf("Deserializing JSON file\n");
-                
+
         bool status = m_doc.deserialize_in_place((char*)&m_filebuf[0]);
         if (!status)
             panic("Failed parsing JSON document!");
@@ -731,16 +740,16 @@ public:
         //tm.start();
 
         uint8_vec name_buf;
-                
+
         m_geoid_to_rec.clear();
         m_geoid_to_rec.reserve(MAX_EXPECTED_RECS);
-        
+
         for (uint32_t rec_index = 0; rec_index < root_arr.size(); rec_index++)
         {
             const auto& arr_entry = root_arr[rec_index];
             if (!arr_entry.is_object())
                 panic("Invalid JSON");
-            
+
             int geoid = arr_entry.find_int32("id");
             assert(geoid > 0);
             auto ins_res = m_geoid_to_rec.insert(std::make_pair(geoid, (int)rec_index));
@@ -770,7 +779,7 @@ public:
             const auto pPlainName = arr_entry.find_value_variant("plainname");
             if ((pPlainName == nullptr) || (!pPlainName->is_string()))
                 panic("Missing/invalid plainname field");
-            
+
             {
                 const char* pName_str = pPlainName->get_string_ptr();
                 size_t name_size = strlen(pName_str);
@@ -823,12 +832,12 @@ public:
             }
 
             std::string fclass = arr_entry.find_string_obj("fclass");
-            
+
             if (fclass == "A")
             {
                 std::string fcode(arr_entry.find_string_obj("fcode"));
-                
-                if ((fcode == "ADM1") || (fcode == "ADM2") || (fcode == "ADM3") || (fcode == "ADM4")) 
+
+                if ((fcode == "ADM1") || (fcode == "ADM2") || (fcode == "ADM3") || (fcode == "ADM4"))
                 {
                     std::string ccode(arr_entry.find_string_obj("ccode"));
 
@@ -846,7 +855,7 @@ public:
                             break;
                         desc += "." + a[i];
                     }
-                                                            
+
                     m_admin_map[desc].push_back(std::pair<int, int>(rec_index, get_admin_level(fcode)));
                 }
             }
@@ -878,7 +887,7 @@ public:
         {
             std::vector< std::pair<int, int> >& recs = it->second;
 
-            std::sort(recs.begin(), recs.end(), 
+            std::sort(recs.begin(), recs.end(),
                 [](const std::pair<int, int>& a, const std::pair<int, int>& b) -> bool
                 {
                     return a.second < b.second;
@@ -890,7 +899,7 @@ public:
             {
                 const int cur_rec_index = recs[i].first;
                 const pjson::value_variant* pCur = &m_doc[cur_rec_index];
-                                
+
                 uprintf("admlevel: %u, rec: %u geoid: %u name: %s fcode: %s\n",
                     recs[i].second,
                     cur_rec_index, pCur->find_int32("id"), pCur->find_string_obj("name").c_str(), pCur->find_string_obj("fcode").c_str());
@@ -922,7 +931,7 @@ public:
             c = utolower(c);
 
         const uint32_t hash_val = (hash_hsieh((const uint8_t *)key.c_str(), key.size()) * HASH_FMAGIC) >> HASH_SHIFT;
-        
+
         results.resize(0);
         alt_results.resize(0);
 
@@ -934,7 +943,7 @@ public:
             const pjson::value_variant* pObj = &m_doc[rec_index];
 
             const char *pName = pObj->find_string_ptr("name");
-            
+
             const char* pPlainName = pObj->find_string_ptr("plainname");
 
             if ((_stricmp(pKey, pName) != 0) && (_stricmp(pKey, pPlainName) != 0))
@@ -1010,7 +1019,7 @@ public:
 
         if (num_parent_admins > num_child_admins)
             return false;
-        
+
         // Example: Anderson, Shasta County, California
         if (num_parent_admins == num_child_admins)
         {
@@ -1022,7 +1031,7 @@ public:
         for (uint32_t admin_index = 0; admin_index < num_parent_admins; admin_index++)
         {
             std::string id(string_format("a%u", admin_index + 1));
-            
+
             std::string admin_parent(pParent->find_string_obj(id.c_str()));
             std::string admin_child(pChild->find_string_obj(id.c_str()));
 
@@ -1066,16 +1075,16 @@ public:
         cRankVillageNoPopAlt,        // alt
 
         cRankAdminNoPop,        // not a numbered admin
-        
+
         cRankPopVillageAlt,     // prim, 1-100
         cRankTownAlt,           // alt, 100+
 
         cRankCityLevel0Alt,      // alt or alt, 1k+
         cRankCityLevel1Alt,      // alt or alt, 10k+
-                                        
+
         cRankAdminCapital4Alt,  // alt cap4
         cRankAdmin4Alt,         // alt admin4
-                
+
         cRankAdminCapital3Alt,  // alt cap3
         cRankAdmin3Alt,         // alt amind3
 
@@ -1085,10 +1094,10 @@ public:
         cRankVillageNoPop,      // prim no pop
 
         cRankAdmin,             // not numbered, has pop
-                
+
         cRankPopVillage,        // prim, 1-100
         cRankTown,              // prim, 100+
-        
+
         cRankAdminCapital2Alt, // alt county seat
         cRankAdmin2Alt,        // alt county
 
@@ -1097,9 +1106,9 @@ public:
 
         cRankPark,              // prim or alt
         cRankReserve,           // prim or alt
-        
+
         cRankAdminCapital1Alt, // alt state cap
-                                
+
         cRankCityLevel0,        // prim or alt, 1k+
         cRankCityLevel1,        // prim or alt, 10k+
 
@@ -1110,19 +1119,19 @@ public:
         cRankCityLevel3,        // prim or alt, 1m+
 
         cRankBaseOrAirport,    // prim or alt
-                                
+
         cRankAdminCapital2, // prim county seat
-        cRankAdmin2,        // prim county 
-                
+        cRankAdmin2,        // prim county
+
         cRankAdminCapital1, // prim state cap
-        
+
         cRankAdmin1Alt,      // alt state
-                
+
         cRankPoliticalCapital,  // prim or alt
         cRankGovernmentCapital, // prim or alt
-                
+
         cRankAdmin1,        // prim state
-        
+
         // all countries prim or alt
         cRankCountryLevel0,
         cRankCountryLevel1,
@@ -1134,10 +1143,10 @@ public:
         cRankCountryLevel7,
         cRankCountryLevel8,
         cRankCountryLevel9,
-        
+
         cRankTotal,
     };
-        
+
     int get_rank(const pjson::value_variant* p, bool alt_match) const
     {
         int country_index = get_country_index(p);
@@ -1265,11 +1274,11 @@ public:
 
     struct resolve_results
     {
-        resolve_results() 
+        resolve_results()
         {
             clear();
         }
-        
+
         void clear()
         {
             m_candidates.resize(0);
@@ -1282,16 +1291,16 @@ public:
         }
 
         geo_result m_best_result;
-        
+
         uint32_t m_num_input_tokens;
         bool m_strong_match;
-        
+
         geo_result_vec m_candidates;
         std::vector< std::pair<uint32_t, float> > m_sorted_results;
         uint32_t m_best_sorted_result_index;
         float m_best_score;
     };
-        
+
     bool resolve(const std::string& str, resolve_results &resolve_res) const
     {
         uprintf("--- Candidates for query: %s\n", str.c_str());
@@ -1359,7 +1368,7 @@ public:
                     p->find_string_ptr("fcode"),
                     p->find_int32("pop"));
 #endif
-                                
+
                 temp_results[toks_index].push_back({ p, false });
             }
 
@@ -1389,7 +1398,7 @@ public:
             uprintf("No results\n");
             return false;
         }
-                
+
         //uprintf("Candidates for query: %s\n", str.c_str());
 
         std::vector<uint32_t> valid_candidates;
@@ -1405,7 +1414,7 @@ public:
 
         std::vector< std::pair<uint32_t, float> > candidate_results[TOTAL_FAVORED_COUNTRY_RANKS];
         uint32_t total_country_rankings = 0;
-        uint32_t total_candidates = 0;
+        [[maybe_unused]] uint32_t total_candidates = 0;
 
         for (uint32_t candidate_index_iter = 0; candidate_index_iter < valid_candidates.size(); candidate_index_iter++)
         {
@@ -1449,11 +1458,11 @@ public:
                     }
                 }
             }
-                        
+
             candidate_score += p->find_float("pop") / 40000000.0f;
 
             const int country_rank = get_favored_country_rank(ccode);
-            assert(country_rank < TOTAL_FAVORED_COUNTRY_RANKS);
+            assert(static_cast<uint32_t>(country_rank) < TOTAL_FAVORED_COUNTRY_RANKS);
 
             if (!candidate_results[country_rank].size())
                 total_country_rankings++;
@@ -1462,7 +1471,7 @@ public:
 
             total_candidates++;
         }
-                        
+
         // 1. If there's just one country rank group, choose the best score in that country rank group.
         // 2. If they matched against a country, choose the highest ranking country, prioritizing the favored countries first.
         // 3. Check for states, state capitals or other significant admin districts in the favored countries, in order
@@ -1512,7 +1521,7 @@ public:
             }
         }
 #endif
-                
+
         if (total_country_rankings == 1)
         {
             // Only one ranked country group in the candidate results, so just choose the one with the highest score.
@@ -1525,9 +1534,9 @@ public:
                     break;
                 }
             }
-            
+
             assert(pBest_ranking_vec);
-            
+
             uint32_t candidate_index = (*pBest_ranking_vec)[0].first;
 
             best_score = (*pBest_ranking_vec)[0].second;
@@ -1539,7 +1548,7 @@ public:
         else
         {
             // Multiple ranked country groups.
-            
+
             // Check for US states (primary or alt)
             {
                 uint32_t r_index = 0;
@@ -1564,7 +1573,7 @@ public:
                     }
                 }
             }
-            
+
             if (!pBest_result)
             {
                 // First check for any country hits from any ranked country group.
@@ -1588,7 +1597,7 @@ public:
                             break;
                         }
                     }
-                    
+
                     if (pBest_result)
                         break;
                 }
@@ -1610,7 +1619,7 @@ public:
                         //const bool was_alt = temp_results[last_tok_index][candidate_index].m_alt;
 
                         const int rank = get_rank(p, temp_results[last_tok_index][candidate_index].m_alt);
-                                                
+
                         if ((rank == cRankAdmin1Alt) || (rank == cRankAdmin1) || (rank == cRankPoliticalCapital) || (rank == cRankGovernmentCapital))
                         {
                             pBest_result = &temp_results[last_tok_index][candidate_index];
@@ -1620,7 +1629,7 @@ public:
                             break;
                         }
                     }
-                    
+
                     if (pBest_result)
                         break;
                 }
@@ -1686,7 +1695,7 @@ public:
                     }
                 }
             }
-                        
+
             if (!pBest_result)
             {
                 // Fall back to choosing the highest score
@@ -1698,13 +1707,13 @@ public:
                     {
                         const uint32_t candidate_index = r[i].first;
                         const float score = r[i].second;
-                                                
+
                         if (score > best_score)
                         {
                             best_score = score;
 
                             pBest_result = &temp_results[last_tok_index][candidate_index];
-                            
+
                             pBest_ranking_vec = &r;
                             best_ranking_index = i;
                         }
@@ -1730,10 +1739,9 @@ public:
         resolve_res.m_best_sorted_result_index = best_ranking_index;
         resolve_res.m_best_score = best_score;
 
-        const pjson::value_variant* pVariant = pBest_result->m_pVariant;
-        (pVariant);
+        [[maybe_unused]] const pjson::value_variant* pVariant = pBest_result->m_pVariant;
 
-#if 0                        
+#if 0
         uprintf("Result: score:%f, alt: %u, id: %u, name: \"%s\", lat: %f, long: %f, ccode=%s, a1=%s, a2=%s, a3=%s, a4=%s, fclass: %s, fcode: %s, pop: %i\n",
             best_score,
             pBest_result->m_alt,
@@ -1759,7 +1767,7 @@ public:
         std::string ccode(p->find_string_obj("ccode"));
         std::string fclass(p->find_string_obj("fclass"));
         std::string fcode(p->find_string_obj("fcode"));
-        
+
         std::string a[4] = { p->find_string_obj("a1"), p->find_string_obj("a2"), p->find_string_obj("a3"), p->find_string_obj("a4") };
 
         uint32_t num_admins = count_admins(p);
@@ -1778,9 +1786,9 @@ public:
             if (find_res != m_admin_map.end())
             {
                 const std::vector< std::pair<int, int> >& recs = find_res->second;
-                
+
                 assert(recs.size());
-                                
+
                 int cur_level = recs[0].second;
                 for (uint32_t j = 0; j < recs.size(); j++)
                 {
@@ -1788,7 +1796,7 @@ public:
                         break;
 
                     int rec_index = recs[j].first;
-                                        
+
                     const pjson::value_variant* q = &m_doc[rec_index];
 
                     if (i == (int)(num_admins - 1))
@@ -1832,7 +1840,7 @@ private:
     std::vector<uint_vec> m_name_hashtab;
 
     std::unordered_map<int, int> m_geoid_to_rec;
-            
+
     country_info_vec m_countries;
     std::unordered_map<int, int> m_rec_index_to_country_index;
     std::unordered_map<int, int> m_geoid_to_country_index;
@@ -1857,7 +1865,7 @@ private:
         return find_res->second;
     }
 
-    static void extract_tab_fields(const std::string& str, string_vec& fields) 
+    static void extract_tab_fields(const std::string& str, string_vec& fields)
     {
         std::vector<int> tab_locs;
         tab_locs.resize(0);
@@ -2055,6 +2063,7 @@ static const char* s_kwic_stop_words[] =
     "when", "where", "which", "while", "who", "whom", "why", "will", "with", "you", "your", "yours",
     "yourself", "yourselves", "although", "also", "already", "another", "seemed", "seem", "seems"
 };
+[[maybe_unused]]
 const uint32_t NUM_STOP_WORDS = (uint32_t)std::size(s_kwic_stop_words);
 
 static bool create_kwic_index(const ufo_timeline &timeline, const ufo_timeline::event_urls_map_t &event_urls, bool book_flag = false, const char *pOutput_filename_base = nullptr, const char *pTitle = nullptr, const char *pHeader = nullptr)
@@ -2072,7 +2081,7 @@ static bool create_kwic_index(const ufo_timeline &timeline, const ufo_timeline::
     typedef std::unordered_map<std::string, word_usage_vec> word_map_t;
     word_map_t word_map;
     word_map.reserve(timeline.size() * 20);
-        
+
     std::unordered_set<std::string> stop_word_set;
     for (const auto& str : s_kwic_stop_words)
         stop_word_set.insert(str);
@@ -2161,7 +2170,7 @@ static bool create_kwic_index(const ufo_timeline &timeline, const ufo_timeline::
             kwic_file_strings_header[i].push_back(string_format("# <a name=\"Top\">%s, KWIC Index Page: %s</a>", pTitle, name.c_str()));
         else
             kwic_file_strings_header[i].push_back(string_format("# <a name=\"Top\">UFO Event Timeline, KWIC Index Page: %s</a>", name.c_str()));
-        
+
         if (!book_flag)
         {
             kwic_file_strings_header[i].push_back("");
@@ -2245,7 +2254,7 @@ static bool create_kwic_index(const ufo_timeline &timeline, const ufo_timeline::
             for (l = 0; l < (int)event_char_offsets.size(); l++)
                 if (str_ofs == event_char_offsets[l])
                     break;
-            if (l == event_char_offsets.size())
+            if (l == static_cast<int>(event_char_offsets.size()))
                 l = 0;
 
             const int PRE_CONTEXT_CHARS = 35;
@@ -2259,7 +2268,7 @@ static bool create_kwic_index(const ufo_timeline &timeline, const ufo_timeline::
             // in bytes
             int start_ofs = event_char_offsets[s];
             int prefix_bytes = event_char_offsets[l] - start_ofs;
-            int end_ofs = (e >= event_char_offsets.size()) ? (int)str.size() : event_char_offsets[e];
+            int end_ofs = (e >= static_cast<int>(event_char_offsets.size())) ? (int)str.size() : event_char_offsets[e];
             int len = end_ofs - start_ofs;
 
             std::string context_str(string_slice(str, start_ofs, len));
@@ -2340,10 +2349,10 @@ static bool load_book_json(
     json js;
     if (!load_json_object(pSource_filename, utf8_flag, js))
         return false;
-    
+
     const uint32_t first_event_index = (uint32_t)timeline.size();
     timeline.get_events().resize(first_event_index + js.size());
-        
+
     for (uint32_t i = 0; i < js.size(); i++)
     {
         auto obj = js[i];
@@ -2413,7 +2422,7 @@ static bool load_book_json(
 
         event_urls.insert(std::make_pair((int)(i + first_event_index), url));
     }
-    
+
     return true;
 }
 
@@ -2555,7 +2564,7 @@ static bool create_crashconf_kwic_index()
 {
     ufo_timeline timeline;
     ufo_timeline::event_urls_map_t event_urls;
-    
+
     std::string header("This is an automatically generated [KWIC Index](https://en.wikipedia.org/wiki/Key_Word_in_Context) of the 2003-2009 Crash Retrieval Conference proceedings, created by [Richard Geldreich Jr.](https://twitter.com/richgel999).\n\nHere are links to each year's proceedings and each presentation:\n");
 
     for (uint32_t i = 0; i < NUM_CRASHCONF_URLS; i++)
@@ -2587,13 +2596,14 @@ static bool create_crashconf_kwic_index()
     return create_kwic_index(timeline, event_urls, true, "crashconf_kwic_", "Crash Retrieval Conference Proceedings", header.c_str());
 }
 
+[[maybe_unused]]
 static int md_trim(const string_vec& args)
 {
     if (args.size() != 3)
         panic("Expecting 2 filenames\n");
 
     string_vec src_file_lines;
-    
+
     if (!read_text_file(args[1].c_str(), src_file_lines, true, nullptr))
         panic("Failed reading source file %s\n", args[1].c_str());
 
@@ -2606,7 +2616,7 @@ static int md_trim(const string_vec& args)
         const std::string& str = src_file_lines[i];
         if (!str.size())
             continue;
-        
+
         if (string_find_first(str, "---------------") >= 0)
         {
             found_header = true;
@@ -2635,7 +2645,7 @@ static int md_trim(const string_vec& args)
         if (!str.size())
             continue;
 
-        if ( (string_find_first(str, "[Chronologie](annees.html)") >= 0) || 
+        if ( (string_find_first(str, "[Chronologie](annees.html)") >= 0) ||
              (string_find_first(str, "[Contact](Contact.html)") >= 0) ||
              (string_find_first(str, "[Home](/)") >= 0))
         {
@@ -2660,7 +2670,7 @@ static int md_trim(const string_vec& args)
         panic("Failed writing output file %s\n", args[2].c_str());
 
     uprintf("Wrote file %s\n", args[2].c_str());
-    
+
     return EXIT_SUCCESS;
 }
 
@@ -2676,7 +2686,7 @@ static bool translate_record(const string_vec& in, string_vec& out)
 
     string_vec prompt;
     prompt.push_back("Precisely translate this UFO/saucer event record from French to English. Preserve all formatting and new lines, especially the first 2 lines, which contain the date and location. If the record is all-caps, correct it so it's not.");
-    
+
     prompt.push_back("\"");
     for (const auto& str : in)
         prompt.push_back(str);
@@ -2689,6 +2699,7 @@ static bool translate_record(const string_vec& in, string_vec& out)
 #endif
 }
 
+[[maybe_unused]]
 static int md_translate(const string_vec& args)
 {
     if (args.size() != 3)
@@ -2763,10 +2774,10 @@ static int md_translate(const string_vec& args)
                     uprintf("%s\n", cur_rec[i].c_str());
 
                 tran_recs.push_back(cur_rec);
-                                
+
                 cur_rec.resize(0);
             }
-            
+
             cur_rec.push_back(src_file_lines[cur_line]);
         }
 
@@ -2792,7 +2803,7 @@ static int md_translate(const string_vec& args)
         if (!translate_record(tran_recs[rec_index], tran_rec))
         {
             uprintf("Failed translating record %u!\n", rec_index);
-                        
+
             if (tran_recs[rec_index].size())
                 out_lines.push_back(tran_recs[rec_index][0]);
             out_lines.push_back("FAILED!\n");
@@ -2837,14 +2848,14 @@ static int md_translate(const string_vec& args)
 int wmain(int argc, wchar_t* argv[])
 {
     assert(cTotalPrefixes == sizeof(g_date_prefix_strings) / sizeof(g_date_prefix_strings[0]));
-        
+
     string_vec args;
     convert_args_to_utf8(args, argc, argv);
 
     // Set ANSI Latin 1; Western European (Windows) code page for output.
     SetConsoleOutputCP(1252);
     //SetConsoleOutputCP(CP_UTF8);
-        
+
     converters_init();
     init_norm();
     udb_init();
@@ -2870,7 +2881,7 @@ int wmain(int argc, wchar_t* argv[])
             uprintf("Skipping file %s - already exists\n", out_filename.c_str());
             continue;
         }
-                
+
         string_vec a = { "", in_filename, out_filename };
         int status = md_translate(a);
         if (status != EXIT_SUCCESS)
@@ -2878,7 +2889,7 @@ int wmain(int argc, wchar_t* argv[])
     }
     exit(0);
 #endif
-        
+
     bool status = false, utf8_flag = false;
 
     unordered_string_set unique_urls;
@@ -2891,7 +2902,7 @@ int wmain(int argc, wchar_t* argv[])
     std::string title_str("All events");
     bool conversion_flag = false;
     bool crashconf_flag = false;
-    
+
     int arg_index = 1;
     while (arg_index < argc)
     {
@@ -2900,7 +2911,7 @@ int wmain(int argc, wchar_t* argv[])
         arg_index++;
 
         const uint32_t num_args_remaining = argc - arg_index;
-        
+
         if (t == '-')
         {
             if (arg == "-convert")
@@ -2963,7 +2974,7 @@ int wmain(int argc, wchar_t* argv[])
         uprintf("Processing successful\n");
         return EXIT_SUCCESS;
     }
-                                    
+
     if (conversion_flag)
     {
         uprintf("Convert Overmeire:\n");
@@ -3096,7 +3107,7 @@ int wmain(int argc, wchar_t* argv[])
             panic("convert_anon failed!");
         uprintf("Success\n");
     } // if (conversion_flag)
-    
+
     uprintf("Total unique URL's: %u\n", (uint32_t)unique_urls.size());
 
     string_vec urls;
@@ -3138,7 +3149,7 @@ int wmain(int argc, wchar_t* argv[])
     status = timeline.load_json("nicap_db.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading nicap_db.json");
-        
+
     status = timeline.load_json("trace.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading trace.json");
@@ -3154,7 +3165,7 @@ int wmain(int argc, wchar_t* argv[])
     status = timeline.load_json("ufo_evidence_hall.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading ufo_evidence_hall.json");
-    
+
     status = timeline.load_json("nuclear_tests.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading nuclear_tests.json");
@@ -3178,7 +3189,7 @@ int wmain(int argc, wchar_t* argv[])
     status = timeline.load_json("ancient.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading hostile.json");
-    
+
     status = timeline.load_json("pre_roswell_chap1.json", utf8_flag, nullptr, false);
     if (!status)
         panic("Failed loading pre_roswell_chap1.json");
@@ -3290,7 +3301,7 @@ int wmain(int argc, wchar_t* argv[])
             panic("Date failed sanity check");
 
     }
-        
+
     uprintf("Load success, %zu total events\n", timeline.get_events().size());
 
     timeline.sort();
@@ -3298,7 +3309,7 @@ int wmain(int argc, wchar_t* argv[])
     if (filter_strings.size())
     {
         ufo_timeline new_timeline;
-                
+
         for (uint32_t i = 0; i < timeline.size(); i++)
         {
             const timeline_event& event = timeline[i];
@@ -3337,7 +3348,7 @@ int wmain(int argc, wchar_t* argv[])
             }
 
             if ( ((filter_all_flag) && (total_matched == filter_strings.size())) ||
-                 ((!filter_all_flag) && (total_matched > 0)) ) 
+                 ((!filter_all_flag) && (total_matched > 0)) )
             {
                 new_timeline.get_events().push_back(event);
             }
@@ -3350,7 +3361,7 @@ int wmain(int argc, wchar_t* argv[])
 
         timeline.get_events().swap(new_timeline.get_events());
     }
-       
+
     uprintf("Writing timeline markdown\n");
 
     ufo_timeline::event_urls_map_t event_urls;

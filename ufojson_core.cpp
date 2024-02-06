@@ -1,4 +1,4 @@
-// ufojson_core.cpp
+Ôªø// ufojson_core.cpp
 // Copyright (C) 2023 Richard Geldreich, Jr.
 #include "ufojson_core.h"
 #include "markdown_proc.h"
@@ -394,7 +394,7 @@ bool event_date::parse(const char* pStr, bool fix_20century_dates)
 
         string_trim(temp);
     }
-        
+
     if (!temp.size())
         return false;
 
@@ -443,7 +443,7 @@ bool event_date::parse(const char* pStr, bool fix_20century_dates)
 
         m_year = atoi(date_strs[2].c_str());
     }
-    
+
     if (fix_20century_dates)
     {
         if ((m_year >= 1) && (m_year <= 99))
@@ -627,7 +627,7 @@ bool event_date::parse_eberhart_date_range(std::string date,
                     return false;
 
                 d.m_plural = true;
-                
+
                 s.pop_back();
                 s.pop_back();
 
@@ -1342,6 +1342,11 @@ static void get_date_range(const event_date& evt, event_date& begin, event_date&
                     end.m_day = 31;
                 }
                 break;
+
+            case cNoPrefix:
+            case cTotalPrefixes:
+                assert(!"unreachable");
+                break;
             }
         }
         else
@@ -1978,7 +1983,7 @@ void timeline_event::from_json(const json& obj, const char* pSource_override, bo
     auto rocket_range = obj.find("rocket_range");
     auto source_id = obj.find("source_id");
     auto source = obj.find("source");
-    
+
     if (desc == obj.end())
         panic("Missing desc");
 
@@ -2003,7 +2008,7 @@ void timeline_event::from_json(const json& obj, const char* pSource_override, bo
     m_date_str = (*date);
     if (!m_begin_date.parse(m_date_str.c_str(), fix_20century_dates))
         panic("Failed parsing date %s\n", m_date_str.c_str());
-        
+
     if (end_date != obj.end())
     {
         m_end_date_str = (*end_date);
@@ -2356,12 +2361,12 @@ void ufo_timeline::create_plaintext()
 
         string_vec words;
         get_string_words(te.m_plain_desc, words, nullptr, "-");
-        
+
         for (uint32_t j = 0; j < te.m_plain_refs.size(); j++)
         {
             string_vec temp_words;
             get_string_words(te.m_plain_refs[j], temp_words, nullptr, "-");
-            
+
             words.insert(words.end(), temp_words.begin(), temp_words.end());
         }
 
@@ -2379,12 +2384,12 @@ void ufo_timeline::create_plaintext()
             std::string tmp(ustrlwr(words[j]));
             if (!tmp.size() || is_stop_word(tmp))
                 continue;
-            
+
             std::string nrm_tmp(normalize_word(tmp));
 
             if (!nrm_tmp.size() || is_stop_word(nrm_tmp))
                 continue;
-                           
+
             new_words.push_back(nrm_tmp);
         }
 
@@ -2413,7 +2418,7 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
             last_event_index = std::max(last_event_index, i);
         }
     }
-    
+
     if (first_event_index > last_event_index)
         panic("Can't find events");
 
@@ -2424,28 +2429,28 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
 
     FILE* pTimeline_file = ufopen(pTimeline_filename, "w");
     if (!pTimeline_file)
-        panic("Failed creating file %s", pTimeline_file);
+        panic("Failed creating file %s", pTimeline_filename);
 
     fputc(UTF8_BOM0, pTimeline_file);
     fputc(UTF8_BOM1, pTimeline_file);
     fputc(UTF8_BOM2, pTimeline_file);
     fprintf(pTimeline_file, "<meta charset=\"utf-8\">\n");
-        
+
     if ((pDate_range_desc) && (strlen(pDate_range_desc)))
         fprintf(pTimeline_file, "\n# <a name=\"Top\">UFO/UAP Event Chronology, %s, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n", pDate_range_desc);
     else
         fprintf(pTimeline_file, "\n# <a name=\"Top\">UFO/UAP Event Chronology, v" TIMELINE_VERSION " - Compiled " COMPILATION_DATE "</a>\n\n");
 
     fputs(
-        u8R"(An automated compilation by <a href="https://twitter.com/richgel999">Richard Geldreich, Jr.</a> using public data from <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e">Dr. Jacques VallÈe</a>,
+        u8R"(An automated compilation by <a href="https://twitter.com/richgel999">Richard Geldreich, Jr.</a> using public data from <a href="https://en.wikipedia.org/wiki/Jacques_Vall%C3%A9e">Dr. Jacques Vall√©e</a>,
 <a href="https://www.academia.edu/9813787/GOVERNMENT_INVOLVEMENT_IN_THE_UFO_COVER_UP_CHRONOLOGY_based">Pea Research</a>, <a href="http://www.cufos.org/UFO_Timeline.html">George M. Eberhart</a>,
 <a href="https://en.wikipedia.org/wiki/Richard_H._Hall">Richard H. Hall</a>, <a href="https://web.archive.org/web/20160821221627/http://www.ufoinfo.com/onthisday/sametimenextyear.html">Dr. Donald A. Johnson</a>,
 <a href="https://medium.com/@richgel99/1958-keziah-poster-recreation-completed-82fdb55750d8">Fred Keziah</a>, <a href="https://github.com/richgel999/uap_resources/blob/main/bluebook_uncensored_unknowns_don_berliner.pdf">Don Berliner</a>,
-<a href="https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142">Larry Hatch</a>, [NICAP](https://www.nicap.org/), [Thomas R. Adams](https://www.lulu.com/shop/ray-boeche/bloodless-cuts/hardcover/product-22167360.html?page=1&pageSize=4), [George D. Fawcett](https://archive.ph/eQwIL), [Chris Aubeck](https://books.google.com/books/about/Return_to_Magonia.html?id=JBGNjgEACAAJ&source=kp_author_description), [Philip L. Rife](https://www.amazon.com/Didnt-Start-Roswell-Encounters-Coverups/dp/059517339X), [Richard Dolan](https://richarddolanmembers.com/), [JÈrÙme Beau](https://rr0.org/), [Godelieve Van Overmeire](http://cobeps.org/fr/godelieve-van-overmeire), and an anonymous individual or group.
+<a href="https://www.openminds.tv/larry-hatch-ufo-database-creator-remembered/42142">Larry Hatch</a>, [NICAP](https://www.nicap.org/), [Thomas R. Adams](https://www.lulu.com/shop/ray-boeche/bloodless-cuts/hardcover/product-22167360.html?page=1&pageSize=4), [George D. Fawcett](https://archive.ph/eQwIL), [Chris Aubeck](https://books.google.com/books/about/Return_to_Magonia.html?id=JBGNjgEACAAJ&source=kp_author_description), [Philip L. Rife](https://www.amazon.com/Didnt-Start-Roswell-Encounters-Coverups/dp/059517339X), [Richard Dolan](https://richarddolanmembers.com/), [J√©r√¥me Beau](https://rr0.org/), [Godelieve Van Overmeire](http://cobeps.org/fr/godelieve-van-overmeire), and an anonymous individual or group.
 
 ## Some non-summarized events fall under one of these copyrights:
 - Richard Geldreich, Jr. - Copyright (c) 2023 (events marked \"maj2\" unless otherwise attributed)
-- Dr. Jacques F. VallÈe - Copyright (c) 1993
+- Dr. Jacques F. Vall√©e - Copyright (c) 1993
 - LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005)
 - George M. Eberhart - Copyright (c) 2022
 - Dr. Donald A. Johnson - Copyright (c) 2012
@@ -2453,18 +2458,18 @@ bool ufo_timeline::write_markdown(const char* pTimeline_filename, const char *pD
 - Larry Hatch - Copyright (c) 1992-2002
 - Thomas R. Adams - Copyright (c) 1991
 - Richard Dolan - Copyright (c) 2002
-- JÈrÙme Beau - Copyright (c) 2000-2023
+- J√©r√¥me Beau - Copyright (c) 2000-2023
 
 ## Update History:
 - v1.46: Adding ~3700 events, translated from the French chronology [_Mini catalogue chronologique des observations OVNI_](https://web.archive.org/web/20060107070423/http://users.skynet.be/sky84985/chrono.html) by Belgian ufologist [Godelieve Van Overmeire, 1935-2021](http://cobeps.org/fr/godelieve-van-overmeire). Note these events are from the old HTML version on archive.org, not the larger [(10k event) PDF version](http://www.cobeps.org/pdf/Chronologie-OVNI-VOG.pdf). It is unclear if these events are copyrighted. I didn't see a copyright in either the HTML or PDF versions.
-- v1.43: Added ~3160 events, translated from a French chronology to English using OpenAI, from [rr0.org](https://rr0.org/). I believe this chronology was composed by JÈrÙme Beau. Its license is [here](https://rr0.org/Copyright.html).
+- v1.43: Added ~3160 events, translated from a French chronology to English using OpenAI, from [rr0.org](https://rr0.org/). I believe this chronology was composed by J√©r√¥me Beau. Its license is [here](https://rr0.org/Copyright.html).
 - v1.40: Added digitized events/newspaper clippings from [Frank Scully's papers at the American Heritage Center in Laramie, WY](https://archiveswest.orbiscascade.org/ark:80444/xv506256), summarized the events from the timeline on the [Disclosure Diaries](https://www.disclosurediaries.com/) website, and added more misc. events. Fixed auto-translation issue in the search page.
 - v1.38: Added a [client-side search engine](search.html). There are a bunch of features I'm going to add to this engine, for now it can only search for keywords in the desc, location and and reference fields.
 - v1.37: Updated intro text, added total number of events to each event year, added a few 1800's events.
-- v1.36: Extracted and summarized the events in the book [_It Didn't Start with Roswell_ by Philip L. Rife](https://www.amazon.com/Didnt-Start-Roswell-Encounters-Coverups/dp/059517339X). Also extracted the military UFO events from Richard Dolan's book [_UFOs and the National Security State: Chronology of a Cover-up, 1941ñ1973_](https://www.amazon.com/UFOs-National-Security-State-Chronology-ebook/dp/B0C94W38QY).
+- v1.36: Extracted and summarized the events in the book [_It Didn't Start with Roswell_ by Philip L. Rife](https://www.amazon.com/Didnt-Start-Roswell-Encounters-Coverups/dp/059517339X). Also extracted the military UFO events from Richard Dolan's book [_UFOs and the National Security State: Chronology of a Cover-up, 1941‚Äì1973_](https://www.amazon.com/UFOs-National-Security-State-Chronology-ebook/dp/B0C94W38QY).
 - v1.34: Added more modern events, 1917 Mystery Airplane newspaper articles.
 - v1.33: More events: Events from George D. Fawcett, short AI summaries of Stringfield's 1978 MUFON symposium presentation, and short AI summaries of the pre-industrial era sighting events from the book [_Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times_](https://www.amazon.com/Wonders-Sky-Unexplained-Objects-Antiquity/dp/1585428205).
-- v1.30: Added 203 Mystery Helicopter/mutilation related events (1970's-1980's) compiled by author/researcher [Thomas R. Adams](https://www.lulu.com/shop/ray-boeche/bloodless-cuts/hardcover/product-22167360.html?page=1&pageSize=4) (1945-2015) (or see [here](http://copycateffect.blogspot.com/2018/06/Adams-Massey-Obits.html)), from his book [_The Choppers - and the Choppers, Mystery Helicopters and Animal Mutilations_](http://www.ignaciodarnaude.com/avistamientos_ovnis/Adams,Thomas,Choppers%20and%20the%20Choppers-1.pdf), minor fixes 
+- v1.30: Added 203 Mystery Helicopter/mutilation related events (1970's-1980's) compiled by author/researcher [Thomas R. Adams](https://www.lulu.com/shop/ray-boeche/bloodless-cuts/hardcover/product-22167360.html?page=1&pageSize=4) (1945-2015) (or see [here](http://copycateffect.blogspot.com/2018/06/Adams-Massey-Obits.html)), from his book [_The Choppers - and the Choppers, Mystery Helicopters and Animal Mutilations_](http://www.ignaciodarnaude.com/avistamientos_ovnis/Adams,Thomas,Choppers%20and%20the%20Choppers-1.pdf), minor fixes
 - v1.28: Added KWIC (Key Word in Context) index.
 - v1.27: Imported Anonymous PDF's contents, originally from [here](https://pdfhost.io/v/gR8lAdgVd_Uap_Timeline_Prepared_By_Another), with fixed URL's
 - v1.23-1.24: Added a handful of key historical events, such as Edward Tauss the head of CIA UFO disinformation in the 50's
@@ -2482,7 +2487,7 @@ Best viewed on a desktop/laptop, not a mobile device. On Windows, Firefox works 
 
 I've split up the timeline into 4 parts, to reduce their sizes: distant past up to 1949, 1950-1959, 1960-1979, and 1980-present.
 
-The majority of the events in this chronology are sighting related, however it's important to be aware that this is a timeline of 
+The majority of the events in this chronology are sighting related, however it's important to be aware that this is a timeline of
 UFO/UAP related _events_, not necessarily or exclusively UFO _sightings_. **This is not exclusively a UFO sightings timeline or database.**
 
 Some sighting reports or events appear multiple times in this timeline because they appear in more than one data source. I view this as a useful feature.
@@ -2492,7 +2497,7 @@ Currently, the events are not sorted by time of day, only by date. Some sources 
 A few events don't have firm dates, for example "Summer of 1947", or "Late July 1952". In these instances the compilation code uses fixed dates I selected for date sorting purposes. (See the code for the specific dates.)
 
 ## Source Code:
-This website is created automatically using a [C++](https://en.wikipedia.org/wiki/C%2B%2B) command line tool called ìufojsonî. It parses the raw text and [Markdown](https://en.wikipedia.org/wiki/Markdown) source data to [JSON format](https://www.json.org/json-en.html), which is then converted to a single large web page using [pandoc](https://pandoc.org/). This tool's source code and all of the raw source and JSON data is located [here on github](https://github.com/richgel999/ufo_data).)", pTimeline_file);
+This website is created automatically using a [C++](https://en.wikipedia.org/wiki/C%2B%2B) command line tool called ‚Äúufojson‚Äù. It parses the raw text and [Markdown](https://en.wikipedia.org/wiki/Markdown) source data to [JSON format](https://www.json.org/json-en.html), which is then converted to a single large web page using [pandoc](https://pandoc.org/). This tool's source code and all of the raw source and JSON data is located [here on github](https://github.com/richgel999/ufo_data).)", pTimeline_file);
 
     fputs("\n", pTimeline_file);
 
@@ -2569,7 +2574,7 @@ u8R"(## Year Ranges
     for (uint32_t i = first_event_index; i <= last_event_index; i++)
     {
         int year = timeline_events[i].m_begin_date.m_year;
-        
+
         year_histogram[year] = year_histogram[year] + 1;
     }
 
@@ -2600,7 +2605,7 @@ u8R"(## Year Ranges
 
         //std::string url( string_format("[%s #%u](%s#%08X)", timeline_events[i].m_date_str.c_str(), i, html_filename.c_str(), hash) );
         //<a href = "https://www.example.com">link to Example.com< / a> inside the pre section.
-        std::string url( string_format("<a href=\"%s#%08X\">%s #%u</a>", 
+        std::string url( string_format("<a href=\"%s#%08X\">%s #%u</a>",
             html_filename.c_str(), hash,
             timeline_events[i].m_date_str.c_str(), i) );
 
@@ -2670,6 +2675,6 @@ bool ufo_timeline::load_json(const char* pFilename, bool& utf8_flag, const char*
         timeline_events[first_event_index + i].from_json(obj, pSource_override, fix_20century_dates);
     }
 
-    return true;
+    return success;
 }
 

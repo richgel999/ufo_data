@@ -15,17 +15,15 @@
 #include <fcntl.h>
 #include <io.h>
 
+#include <stdarg.h>
 #include <stdlib.h>
 #include <stdio.h>
 #include <ctype.h>
 #include <cstdint>
-#include <stdlib.h>
-#include <stdio.h>
 
 #include <algorithm>
 #include <map>
 #include <set>
-#include <varargs.h>
 #include <string>
 
 #include <unordered_set>
@@ -51,8 +49,6 @@ const uint32_t UTF8_BOM0 = 0xEF, UTF8_BOM1 = 0xBB, UTF8_BOM2 = 0xBF;
 const uint32_t ANSI_SOFT_HYPHEN = 0xAD;
 
 template<typename T> inline void clear_obj(T& obj) { memset(&obj, 0, sizeof(T)); }
-
-void panic(const char* pMsg, ...);
 
 //------------------------------------------------------------------
 
@@ -87,18 +83,18 @@ inline std::string ansi_to_utf8(const std::string& str) { return wchar_to_utf8(u
 // Code page 437 to utf8. WideCharToMultiByte etc. doesn't do the expecting thing for chars<32, and we need them.
 std::string dos_to_utf8(const std::string& str);
 
-// utf8 string format 
-bool vformat(std::vector<char>& buf, const char* pFmt, va_list args);
+// utf8 string format
+bool vformat(std::vector<char>& buf, _Printf_format_string_ const char* pFmt, va_list args);
 
 // utf8 printf to FILE*
-void ufprintf(FILE* pFile, const char* pFmt, ...);
+void ufprintf(FILE* pFile, _Printf_format_string_ const char* pFmt, ...);
 
 // utf8 print to stdout
-void uprintf(const char* pFmt, ...);
+void uprintf(_Printf_format_string_ const char* pFmt, ...);
 
-std::string string_format(const char* pMsg, ...);
+std::string string_format(_Printf_format_string_ const char* pMsg, ...);
 
-void panic(const char* pMsg, ...);
+[[noreturn]] void panic(_Printf_format_string_ const char* pMsg, ...);
 
 // Open a file given a utf8 filename
 FILE* ufopen(const char* pFilename, const char* pMode);

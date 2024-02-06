@@ -5,16 +5,29 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ufojson", "ufojson.vcxproj", "{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2495626B-DF4D-491A-84F3-58EB01E0CAAE}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
+		DebugClangCL|x64 = DebugClangCL|x64
 		Release|x64 = Release|x64
+		ReleaseClangCL|x64 = ReleaseClangCL|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}.Debug|x64.ActiveCfg = Debug|x64
 		{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}.Debug|x64.Build.0 = Debug|x64
+		{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}.DebugClangCL|x64.ActiveCfg = DebugClangCL|x64
+		{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}.DebugClangCL|x64.Build.0 = DebugClangCL|x64
 		{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}.Release|x64.ActiveCfg = Release|x64
 		{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}.Release|x64.Build.0 = Release|x64
+		{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}.ReleaseClangCL|x64.ActiveCfg = ReleaseClangCL|x64
+		{E4A0DD72-979A-469B-9B0A-4ABE0B7C93D7}.ReleaseClangCL|x64.Build.0 = ReleaseClangCL|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

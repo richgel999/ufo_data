@@ -1,5 +1,5 @@
 ﻿// udb_tables.h
-// Some portions of this specific file (get_hatch_geo, g_hatch_continents) use strings from 
+// Some portions of this specific file (get_hatch_geo, g_hatch_continents) use strings from
 // the "uDb" project by Jérôme Beau, available on github here: https://github.com/RR0/uDb
 #pragma once
 
@@ -60,7 +60,7 @@ static const char* g_hatch_continents[]
 struct hatch_state
 {
     const char* m_pCode;
-    const char* m_pFull;
+    const char* m_pFull = nullptr;
 };
 
 static void get_hatch_geo(uint32_t cont_code, uint32_t country_code, const std::string& state_or_prov,
@@ -677,7 +677,7 @@ static void get_hatch_geo(uint32_t cont_code, uint32_t country_code, const std::
 
         break;
     }
-    case 6: // Asia Pacific 
+    case 6: // Asia Pacific
     {
         switch (country_code)
         {
@@ -1599,7 +1599,7 @@ struct hatch_abbrev
 {
     const char* pAbbrev;
     const char* pExpansion;
-    bool m_forbid_firstline;
+    bool m_forbid_firstline = false;
 };
 
 static const hatch_abbrev g_hatch_abbreviations[] =
@@ -2956,7 +2956,7 @@ static const hatch_abbrev g_hatch_abbreviations[] =
     { "Var.",                                       "various", true },
     { "Img",                                        "image", true },
     { "FLUCTs",                                     "fluctuates", true },
-    { "rtps",                                       "reports", true }, // "separate rtps" 
+    { "rtps",                                       "reports", true }, // "separate rtps"
     { "Math.",                                      "Mathematics", true },
     { "indp.",                                      "independent", true },
     { "frag",                                       "fragment", true },
@@ -3106,6 +3106,7 @@ static const char* g_cap_exceptions[] =
     "McChord",
     "Hetch Hetchy Aqueduct",
     "LaPaz",
+    // #REVIEW Does this need to be double question mark? clang trips on "trigraph ignored" -Wtrigraphs
     "Sea Island'(??)",
     "Loren Gross",
     "Test Pilot",
@@ -3121,7 +3122,7 @@ static const char* g_cap_exceptions[] =
     "no UFO",
     "Blackcomb Mountain",
     "Harding Mall",
-    "Hawkes Bay"
+    "Hawkes Bay",
     "Hells Canyon",
     "Highway Patrol",
     "Hogg Mountain",

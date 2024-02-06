@@ -329,7 +329,7 @@ static void step5()
     if (b[k] == 'e')
     {
         int a = m();
-        if (a > 1 || a == 1 && !cvc(k - 1)) k--;
+        if (a > 1 || (a == 1 && !cvc(k - 1))) k--;
     }
     if (b[k] == 'l' && doublec(k) && m() > 1) k--;
 }

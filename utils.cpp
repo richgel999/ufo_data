@@ -114,6 +114,7 @@ std::string dos_to_utf8(const std::string& str)
     return wchar_to_utf8(wstr);
 }
 
+_Use_decl_annotations_
 bool vformat(std::vector<char>& buf, const char* pFmt, va_list args)
 {
     uint32_t buf_size = 8192;
@@ -129,7 +130,7 @@ bool vformat(std::vector<char>& buf, const char* pFmt, va_list args)
             return false;
         }
 
-        if (res <= buf.size() - 1)
+        if (res <= static_cast<int>(buf.size() - 1))
             break;
 
         buf_size *= 2;
@@ -142,6 +143,7 @@ bool vformat(std::vector<char>& buf, const char* pFmt, va_list args)
     return true;
 }
 
+_Use_decl_annotations_
 void ufprintf(FILE* pFile, const char* pFmt, ...)
 {
     std::vector<char> buf;
@@ -155,11 +157,12 @@ void ufprintf(FILE* pFile, const char* pFmt, ...)
     std::wstring wbuf(utf8_to_wchar(std::string(&buf[0])));
 
     // Not thread safe, but we don't care
-    _setmode(_fileno(pFile), _O_U16TEXT);
+    (void)_setmode(_fileno(pFile), _O_U16TEXT);
     fputws(&wbuf[0], pFile);
-    _setmode(_fileno(pFile), _O_TEXT);
+    (void)_setmode(_fileno(pFile), _O_TEXT);
 }
 
+_Use_decl_annotations_
 void uprintf(const char* pFmt, ...)
 {
     std::vector<char> buf;
@@ -173,11 +176,12 @@ void uprintf(const char* pFmt, ...)
     std::wstring wbuf(utf8_to_wchar(std::string(&buf[0])));
 
     // Not thread safe, but we don't care
-    _setmode(_fileno(stdout), _O_U16TEXT);
+    (void)_setmode(_fileno(stdout), _O_U16TEXT);
     fputws(&wbuf[0], stdout);
-    _setmode(_fileno(stdout), _O_TEXT);
+    (void)_setmode(_fileno(stdout), _O_TEXT);
 }
 
+_Use_decl_annotations_
 std::string string_format(const char* pMsg, ...)
 {
     std::vector<char> buf;
@@ -195,6 +199,7 @@ std::string string_format(const char* pMsg, ...)
     return res;
 }
 
+_Use_decl_annotations_
 void panic(const char* pMsg, ...)
 {
     char buf[4096];
@@ -256,8 +261,8 @@ int string_ifind_first(const std::string& str, const char* pPhrase)
     const size_t str_size = str.size();
     const size_t phrase_size = strlen(pPhrase);
 
-    assert((int)str_size == str_size);
-    assert((int)phrase_size == phrase_size);
+    assert(str_size == str_size);
+    assert(phrase_size == phrase_size);
     assert(phrase_size);
 
     if ((!str_size) || (!phrase_size) || (phrase_size > str_size))
@@ -270,7 +275,7 @@ int string_ifind_first(const std::string& str, const char* pPhrase)
         if (_strnicmp(str.c_str() + ofs, pPhrase, phrase_size) == 0)
             return (int)ofs;
     }
-    
+
     return -1;
 }
 
@@ -342,7 +347,7 @@ std::string encode_url(const std::string& url)
         //const bool is_upper = (c >= 'A') && (c <= 'Z');
         //const bool is_lower = (c >= 'a') && (c <= 'z');
 
-        // Escape some problematic charactes that confuse some Markdown parsers (even after using Markdown '\' escapes)
+        // Escape some problematic characters that confuse some Markdown parsers (even after using Markdown '\' escapes)
         if ((c == ')') || (c == '(') || (c == '_') || (c == '*'))
         {
             res.push_back('%');
@@ -451,7 +456,7 @@ bool read_binary_file(const char* pFilename, uint8_vec& buf)
     }
     _fseeki64(pFile, 0, SEEK_SET);
 
-    if (len > MAX_BINARY_FILE_LEN)
+    if (static_cast<uint64_t>(len) > MAX_BINARY_FILE_LEN)
         return false;
     buf.resize(len);
 
@@ -475,7 +480,7 @@ bool read_text_file(const char* pFilename, string_vec& lines, bool trim_lines, b
 
     if (pUTF8_flag)
         *pUTF8_flag = false;
-        
+
     while (!feof(pFile))
     {
         char buf[16384];
@@ -677,7 +682,7 @@ bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std:
 
     std::string col_seps = lines[3];
     if ((!col_seps.size()) || (col_seps[0] != '-') || (col_seps.back() != '-'))
-        panic("Invalid column seperator line");
+        panic("Invalid column separator line");
 
     for (uint32_t i = 0; i < col_seps.size(); i++)
     {
@@ -720,13 +725,13 @@ bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std:
     for (uint32_t i = 0; i < column_info.size(); i++)
     {
         col_titles[i] = col_line;
-                
+
         if (column_info[i].first)
             col_titles[i].erase(0, column_info[i].first);
 
         if (column_info[i].second > col_titles[i].size())
             panic("invalid columns");
-                
+
         col_titles[i].erase(column_info[i].second, col_titles[i].size() - column_info[i].second);
         string_trim(col_titles[i]);
     }
@@ -737,7 +742,7 @@ bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std:
 
     uint32_t cur_line = 4;
 
-    uint32_t cur_record_index = 0;
+    [[maybe_unused]] uint32_t cur_record_index = 0;
 
     while (cur_line < lines.size())
     {
@@ -804,7 +809,7 @@ bool load_column_text(const char* pFilename, std::vector<string_vec>& rows, std:
             l = ansi_to_utf8(l);
 
         rows.push_back(col_lines);
-        
+
         cur_record_index++;
     }
 
@@ -850,11 +855,11 @@ bool invoke_curl(const std::string& args, string_vec& reply)
         uprintf("PDF file detected\n");
 
         std::string filename(args);
-        for (size_t i = filename.size() - 1; i >= 0; i--)
+        for (int i = static_cast<int>(filename.size() - 1); i >= 0; i--)
         {
             if (filename[i] == '/')
             {
-                filename.erase(0, i + 1);
+                filename.erase(0, static_cast<size_t>(i + 1));
                 break;
             }
         }
@@ -879,8 +884,14 @@ bool invoke_curl(const std::string& args, string_vec& reply)
                 new_link_deescaped.push_back(c);
         }
 
-        rename("__temp.html", new_link_deescaped.c_str());
-        uprintf("Renamed __temp.html to %s\n", new_link_deescaped.c_str());
+        if (rename("__temp.html", new_link_deescaped.c_str()) == 0)
+        {
+            uprintf("Renamed __temp.html to %s\n", new_link_deescaped.c_str());
+        }
+        else
+        {
+            uprintf("FAILED to rename __temp.html to %s\n", new_link_deescaped.c_str());
+        }
 
         return true;
     }
@@ -939,10 +950,10 @@ std::string string_slice(const std::string& str, size_t ofs, size_t len)
     std::string res(str);
     if (ofs)
         res.erase(0, ofs);
-    
+
     if (len)
         res.resize(len);
-    
+
     return res;
 }
 
@@ -996,7 +1007,7 @@ bool invoke_openai(const string_vec &prompt, string_vec &reply)
     // Invoke openai.exe
     const uint32_t MAX_TRIES = 3;
     uint32_t num_tries;
-    
+
     for (num_tries = 0; num_tries < MAX_TRIES; ++num_tries)
     {
         if (num_tries)
@@ -1062,11 +1073,11 @@ bool load_json_object(const char* pFilename, bool& utf8_flag, json &result_obj)
     if (!result_obj.is_object() && !result_obj.is_array())
         return false;
 
-    return true;
+    return success;
 }
 
 void string_tokenize(
-    const std::string &str, 
+    const std::string &str,
     const std::string &whitespace,
     const std::string &break_chars,
     string_vec &tokens,
@@ -1078,7 +1089,7 @@ void string_tokenize(
 
     std::string cur_token;
     uint32_t cur_ofs = 0;
-        
+
     for (uint32_t i = 0; i < str.size(); i++)
     {
         uint8_t c = str[i];
@@ -1129,6 +1140,7 @@ void string_tokenize(
     }
 }
 
+// #NOTE In C++20, there's a PI constant in <numbers> https://en.cppreference.com/w/cpp/numeric/constants
 const double PI = 3.141592653589793238463;
 
 double deg2rad(double deg)
@@ -1144,7 +1156,7 @@ double rad2deg(double rad)
 // input in degrees
 double geo_distance(double lat1, double lon1, double lat2, double lon2, int unit)
 {
-    if ((lat1 == lat2) && (lon1 == lon2)) 
+    if ((lat1 == lat2) && (lon1 == lon2))
         return 0;
 
     double theta = lon1 - lon2;
@@ -1154,7 +1166,7 @@ double geo_distance(double lat1, double lon1, double lat2, double lon2, int unit
 
     dist = dist * 60 * 1.1515;
 
-    switch (unit) 
+    switch (unit)
     {
     case 'M':
         break;
@@ -1185,37 +1197,37 @@ std::string remove_bom(std::string str)
     return str;
 }
 
-int get_next_utf8_code_point_len(const uint8_t* pStr) 
+int get_next_utf8_code_point_len(const uint8_t* pStr)
 {
-    if (pStr == nullptr || *pStr == 0) 
+    if (pStr == nullptr || *pStr == 0)
     {
         // Return 0 if the input is null or points to a null terminator
-        return 0; 
+        return 0;
     }
 
     const uint8_t firstByte = *pStr;
 
-    if ((firstByte & 0x80) == 0) 
-    { 
+    if ((firstByte & 0x80) == 0)
+    {
         // Starts with 0, ASCII character
         return 1;
     }
-    else if ((firstByte & 0xE0) == 0xC0) 
-    { 
+    else if ((firstByte & 0xE0) == 0xC0)
+    {
         // Starts with 110
         return 2;
     }
-    else if ((firstByte & 0xF0) == 0xE0) 
-    { 
+    else if ((firstByte & 0xF0) == 0xE0)
+    {
         // Starts with 1110
         return 3;
     }
-    else if ((firstByte & 0xF8) == 0xF0) 
-    { 
+    else if ((firstByte & 0xF8) == 0xF0)
+    {
         // Starts with 11110
         return 4;
     }
-    else 
+    else
     {
         // Invalid UTF-8 byte sequence
         return -1;
@@ -1239,9 +1251,9 @@ void get_string_words(
     std::string whitespace(" \t\n\r,;:.!?()[]*/\"");
     if (pAdditional_whitespace)
         whitespace += std::string(pAdditional_whitespace);
-    
+
     int word_start_ofs = -1;
-    
+
     uint32_t cur_ofs = 0;
     while ((cur_ofs < str.size()) && (pStr[cur_ofs]))
     {
@@ -1303,7 +1315,7 @@ void get_string_words(
             else if (pStr[cur_ofs + 2] == 0x9D)
                 is_whitespace = true;
         }
-        
+
         if (is_whitespace)
         {
             if (cur_token.size())
@@ -1331,7 +1343,7 @@ void get_string_words(
                     cur_token.push_back(pStr[cur_ofs + i]);
             }
         }
-                
+
         cur_ofs += l;
     }
 
@@ -1347,7 +1359,7 @@ void get_string_words(
 void get_utf8_code_point_offsets(const char* pStr, int_vec& offsets)
 {
     uint32_t cur_ofs = 0;
-    
+
     offsets.resize(0);
 
     while (pStr[cur_ofs])
@@ -1439,14 +1451,14 @@ static const char* g_stop_words[] =
     "when", "where", "which", "while", "who", "whom", "why", "will", "with", "you", "your", "yours",
     "yourself", "yourselves", "although", "also", "already", "another", "seemed", "seem", "seems"
 };
-static const uint32_t NUM_STOP_WORDS = (uint32_t)std::size(g_stop_words);
+[[maybe_unused]] static const uint32_t NUM_STOP_WORDS = (uint32_t)std::size(g_stop_words);
 
 std::set<std::string> g_stop_words_set;
 
 void init_norm()
 {
     g_stop_words_set.clear();
-    for (const auto& str : g_stop_words)
+    for (const char* str : g_stop_words)
         g_stop_words_set.insert(str);
 
     for (uint32_t i = 0; i < std::size(g_char_norm_up); i++)
@@ -1507,7 +1519,7 @@ void init_norm()
     }
 }
 
-// Resulting characters are guaranteed to be <128 - useful for searching purposes. 
+// Resulting characters are guaranteed to be <128 - useful for searching purposes.
 // Unrecognized Unicode characters are deleted.
 void normalize_diacritics(const char* pStr, std::string& res)
 {
@@ -1610,10 +1622,10 @@ std::string normalize_word(const std::string& str)
 
     if (str.size() > MAX_STRING_SIZE)
         panic("String too long");
-        
+
     char buf[MAX_STRING_SIZE + 1];
     strcpy_s(buf, sizeof(buf), str.c_str());
-    
+
     // Convert utf8 string to lower
     utf8lwr(buf);
 
@@ -1622,7 +1634,7 @@ std::string normalize_word(const std::string& str)
     norm.reserve(strlen(buf));
 
     normalize_diacritics(buf, norm);
-    
+
     // Remove any non-letter or non-digit characters (we assume this is a word, so whitespace gets removed too)
     std::string temp;
     temp.reserve(norm.size());
@@ -1676,10 +1688,10 @@ std::string string_replace(const std::string& str, const std::string& find, cons
     assert(find.size());
     if (!find.size() || !str.size())
         return str;
-    
+
     const uint8_t* pStr = (const uint8_t *)str.c_str();
     const size_t str_size = str.size();
-    
+
     const uint8_t* pFind = (const uint8_t*)find.c_str();
     const size_t find_size = find.size();
 
@@ -1695,7 +1707,7 @@ std::string string_replace(const std::string& str, const std::string& find, cons
             assert(0);
             str_char_size = 1;
         }
-        
+
         const size_t str_remaining = str_size - str_ofs;
         if ((str_remaining >= find_size) && (memcmp(pStr + str_ofs, pFind, find_size) == 0))
         {
@@ -1718,7 +1730,7 @@ bool does_file_exist(const char* pFilename)
     FILE* pFile = ufopen(pFilename, "rb");
     if (!pFile)
         return false;
-    
+
     fclose(pFile);
     return true;
 }
