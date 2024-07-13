@@ -2221,8 +2221,24 @@ void timeline_event::from_json(const json& obj, const char* pSource_override, bo
 void timeline_event::to_json(json& j) const
 {
     j = json::object();
-
+        
     j["date"] = m_date_str;
+
+    if (m_begin_date.is_valid())
+    {
+        std::string basic_date;
+        if ((m_begin_date.m_day >= 1) && (m_begin_date.m_month >= 1))
+            basic_date = string_format("%i/%i/%i", m_begin_date.m_month, m_begin_date.m_day, m_begin_date.m_year);
+        else if (m_begin_date.m_month >= 1)
+            basic_date = string_format("%i/%i", m_begin_date.m_month, m_begin_date.m_year);
+        else 
+            basic_date = string_format("%i", m_begin_date.m_year);
+
+        j["basic_date"] = basic_date;
+
+        std::string alt_basic_date(string_format("%i/%i/%i", m_begin_date.m_month, m_begin_date.m_day, m_begin_date.m_year));
+        j["alt_basic_date"] = alt_basic_date;
+    }
 
     if (m_desc.size())
         j["desc"] = m_desc;

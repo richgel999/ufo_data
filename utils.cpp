@@ -1723,3 +1723,28 @@ bool does_file_exist(const char* pFilename)
     return true;
 }
 
+#if 0
+int calculateJDN(int day, int month, int year) {
+    int a = (14 - month) / 12;
+    int y = year + 4800 - a;
+    int m = month + 12 * a - 3;
+
+    return day + (153 * m + 2) / 5 + 365 * y + y / 4 - y / 100 + y / 400 - 32045;
+}
+#endif
+
+int get_julian_date(int M, int D, int Y)
+{
+    assert((M >= 1) && (M <= 12));
+    assert((D >= 1) && (D <= 31));
+
+    int JDN = (1461 * (Y + 4800 + (M - 14) / 12)) / 4 + (367 * (M - 2 - 12 * ((M - 14) / 12))) / 12 - (3 * ((Y + 4900 + (M - 14) / 12) / 100)) / 4 + D - 32075;
+
+    return JDN;
+}
+
+int get_day_of_week(int julian)
+{
+    assert(julian >= 0);
+    return (julian + 1) % 7;
+}

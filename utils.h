@@ -283,3 +283,16 @@ std::string ustrlwr(const std::string& s);
 std::string string_replace(const std::string& str, const std::string& find, const std::string& repl);
 
 bool does_file_exist(const char* pFilename);
+
+int get_julian_date(int M, int D, int Y);
+
+// Returns 0-6:
+// Sun 0
+// Mon 1
+// Tue 2
+// Wed 3
+// Thu 4
+// Fri 5
+// Sat 6
+int get_day_of_week(int julian);
+

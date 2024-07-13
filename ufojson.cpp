@@ -2833,9 +2833,42 @@ static int md_translate(const string_vec& args)
     return EXIT_SUCCESS;
 }
 
+static void test_julian()
+{
+    {
+        int j = get_julian_date(7, 8, 1947);
+        int d = get_day_of_week(j);
+        if (!((j == 2432375) && (d == 2)))
+            panic("test_julian failed");
+    }
+
+    {
+        int j = get_julian_date(7, 12, 2024);
+        int d = get_day_of_week(j);
+        if (!((j == 2460504) && (d == 5)))
+            panic("test_julian failed");
+    }
+
+    {
+        int j = get_julian_date(6, 6, 2102);
+        int d = get_day_of_week(j);
+        if (!((j == 2488956) && (d == 2)))
+            panic("test_julian failed");
+    }
+
+    {
+        int j = get_julian_date(12, 15, 1799);
+        int d = get_day_of_week(j);
+        if (!((j == 2378480) && (d == 0)))
+            panic("test_julian failed");
+    }
+}
+
 // Main code
 int wmain(int argc, wchar_t* argv[])
 {
+    test_julian();
+        
     assert(cTotalPrefixes == sizeof(g_date_prefix_strings) / sizeof(g_date_prefix_strings[0]));
         
     string_vec args;
@@ -3220,10 +3253,32 @@ int wmain(int argc, wchar_t* argv[])
     if (!status)
         panic("Failed loading johnson.json");
 
+    uint32_t day_of_week_hist[7] = { 0 };
+    uint32_t total_fully_valid_dates = 0;
+
     for (uint32_t i = 0; i < timeline.size(); i++)
     {
         if (!timeline[i].m_begin_date.sanity_check())
             panic("Date failed sanity check");
+
+        {
+            int year = timeline[i].m_begin_date.m_year;
+            int month = timeline[i].m_begin_date.m_month;
+            int day = timeline[i].m_begin_date.m_day;
+            
+            // TODO
+            if ((year >= 1947) && (year <= 1990))
+            {
+                if ((month >= 1) && (day >= 1))
+                {
+                    int julian_day = get_julian_date(month, day, year);
+                    int day_of_week = get_day_of_week(julian_day);
+                    assert(day_of_week >= 0 && day_of_week < 7);
+                    day_of_week_hist[day_of_week]++;
+                    total_fully_valid_dates++;
+                }
+            }
+        }
 
         if (timeline[i].m_end_date.is_valid())
         {
@@ -3290,6 +3345,13 @@ int wmain(int argc, wchar_t* argv[])
             panic("Date failed sanity check");
 
     }
+
+    uprintf("Total full event dates (dates with month/day/year): %u, Day of week histogram:\n", total_fully_valid_dates);
+    for (uint32_t i = 0; i < 7; i++)
+    {
+        printf("%u\n", day_of_week_hist[i]);
+    }
+    uprintf("\n");
         
     uprintf("Load success, %zu total events\n", timeline.get_events().size());
 
