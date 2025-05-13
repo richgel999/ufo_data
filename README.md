@@ -21,7 +21,7 @@ A simple search engine (using WASM+Emscripten) based off this data is live [here
 Although the C++ tool itself is open source with a permissive license (Apache 2.0), **any commercial use of the copyrighted data in this repository (in any format, textual, JSON, Markdown, HTML, raw binary records, etc.) may require permission from one or more copyright holders**:
 
 * Richard Geldreich, Jr. - Copyright (c) 2023. Commercial usage permitted (for the specific records in maj2.json) as long as attribution is given.
-* George M. Eberhart - Copyright (c) 2022. See [_UFOs and Intelligence: A Timeline_](https://cufos.org/resources/ufo-timeline/). Efforts to contact have been unsuccessful. This is the [original PDF's](https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf) copyright.
+* George M. Eberhart - Copyright (c) 2022. See [_UFOs and Intelligence: A Timeline_](https://cufos.org/resources/ufo-timeline/). This is the [original PDF's](https://cufos.org/PDFs/pdfs/UFOsandIntelligence.pdf) copyright. Official permission to include his chronology event data was given my email on 5/12/2025.
 * LeRoy Pea - Copyright (c) 9/8/1988 (updated 3/17/2005). Permission was explictly given for use by e-mail as long as he is attributed.
 * Dr. Donald A. Johnson - Copyright (c) 2012. Efforts to contact him by email in 2023 have been unsuccessful.
 * Fred Keziah - Copyright (c) 1958. This poster hasn't been updated in 65 years, so it's probably fine for commercial usage.
